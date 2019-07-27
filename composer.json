@@ -1,0 +1,43 @@
+{
+  "name": "anglemx/airports",
+  "description": "Auto-generated PHP abstract class that contains the global IATA Aiport database in pure PHP code.",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "angle",
+    "airports",
+    "iata"
+  ],
+  "homepage": "https://github.com/Angle/airports",
+  "authors": [
+    {
+      "name": "Edmundo Fuentes",
+      "email": "me@edmundofuentes.com",
+      "homepage": "http://www.edmundofuentes.com",
+      "role": "creator,manager,architect,developer"
+    },
+    {
+      "name": "Alejandro Hernández Guerrero",
+      "email": "me@alexhdz.com",
+      "homepage": "http://www.alexhdz.com",
+      "role": "creator,manager,architect,developer"
+    },
+    {
+      "name": "Angle Consulting",
+      "email": "email@angle.mx",
+      "homepage": "https://www.angle.mx",
+      "role": "owner"
+    }
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^4",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "classmap": ["src/"]
+  }
+}
