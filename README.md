@@ -21,6 +21,7 @@ use Angle\Airports\AirportLibrary;
 ### Find a single airport from a known IATA code
 
 ```php
+/** @var \Angle\Airports\Airport $airport */
 $airport = AirportLibrary::find('LMM');
 ```
 
@@ -29,7 +30,7 @@ An airport entry contains:
 var_dump($airport);
 
 /**
-array(10) {
+object(Angle\Airports\Airport)(10) {
   ["icao"]=>
   string(4) "MMLM"
   ["iata"]=>
@@ -52,7 +53,37 @@ array(10) {
   string(16) "America/Mazatlan"
 }
 */
+
+// If needed, the `Airport` object can also be casted as an array:
+
+var_dump($airport->toArray());
+
+/**
+array(10) {
+  ["iata"]=>
+  string(3) "LMM"
+  ["icao"]=>
+  string(4) "MMLM"
+  ["name"]=>
+  string(38) "Valle del Fuerte International Airport"
+  ["city"]=>
+  string(10) "Los Mochis"
+  ["state"]=>
+  string(7) "Sinaloa"
+  ["country"]=>
+  string(2) "MX"
+  ["elevation"]=>
+  int(16)
+  ["lat"]=>
+  float(25.6851997375)
+  ["lon"]=>
+  float(-109.081001282)
+  ["tz"]=>
+  string(16) "America/Mazatlan"
+}
+*/
 ```
+
 
 ### Find all the airports in a country
 
@@ -68,7 +99,7 @@ Returns an array of airports for the specified country, with the IATA code as th
 $airport = AirportLibrary::getFullList();
 ```
 
-Returns an array  of all the airports in the list, with the IATA code as the key of each entry.
+Returns an array of all the airports (as arrays, not objects) in the list, with the IATA code as the key of each entry.
 
 
 ## Build / Update

@@ -5,7 +5,15 @@ namespace Angle\Airports;
 use InvalidArgumentException;
 
 /**
- * Class AirportLibrary
+ * Auto-generated PHP abstract class that contains the global IATA Aiport database in pure PHP code.
+ *
+ * The database is pulled from the ICAO Airport database published by [mwgg](https://github.com/mwgg) at [github.com/mwgg/Airports](https://github.com/mwgg/Airports)
+ *
+ * @author Edmundo Fuentes <me@edmundofuentes.com>
+ * @author Angle Consulting <email@angle.mx>
+ * @copyright 2019 Angle Consulting
+ * @license https://opensource.org/licenses/MIT MIT License
+ * @link https://github.com/Angle/airports
  * @package Angle\Airports
  */
 abstract class AirportLibrary
@@ -16,7 +24,7 @@ abstract class AirportLibrary
      *
      * @param string $iata Airport IATA code (3-letter code)
      * @throws InvalidArgumentException if the IATA code is not in the proper 3-letter format
-     * @return array|false
+     * @return Airport|false
      */
     public static function find($iata)
     {
@@ -28,14 +36,15 @@ abstract class AirportLibrary
 
         if (!self::exists($iata)) return false;
 
-        return self::$library[$iata];
+        return Airport::createFromArray(self::$library[$iata]);
     }
 
     /**
      * Lookup all the available aiports for the given country
+     *
      * @param string $country Country 2-letter code (ISO 3166 ALPHA-2)
      * @throws InvalidArgumentException if the country code is not in the proper 2-letter ISO format
-     * @return array
+     * @return Airport[] with the IATA code as the key of each entry
      */
     public static function findByCountry($country)
     {
@@ -49,7 +58,7 @@ abstract class AirportLibrary
 
         foreach (self::$library as $iata => $a) {
             if ($a['country'] == $country) {
-                $r[$iata] = $a;
+                $r[$iata] = Airport::createFromArray($a);
             }
         }
 

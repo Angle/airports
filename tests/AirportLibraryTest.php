@@ -3,6 +3,7 @@
 use PHPUnit\Framework\TestCase;
 
 use Angle\Airports\AirportLibrary;
+use Angle\Airports\Airport;
 
 class AirportLibraryTest extends TestCase
 {
@@ -12,7 +13,8 @@ class AirportLibraryTest extends TestCase
         $a = AirportLibrary::find('LMM');
 
         $this->assertNotFalse($a);
-        $this->assertArrayHasKey('iata', $a);
+        $this->assertInstanceOf('\Angle\Airports\Airport', $a);
+        $this->assertArrayHasKey('iata', $a->toArray());
     }
 
     /** @test */
