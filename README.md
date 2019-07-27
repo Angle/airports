@@ -88,7 +88,8 @@ array(10) {
 ### Find all the airports in a country
 
 ```php
-$airport = AirportLibrary::findByCountry('MX');
+/** @var \Angle\Airports\Airport[] $airports */
+$airports = AirportLibrary::findByCountry('MX');
 ```
 
 Returns an array of airports for the specified country, with the IATA code as the key of each entry.
@@ -96,7 +97,7 @@ Returns an array of airports for the specified country, with the IATA code as th
 
 ### Get the full airport list
 ```php
-$airport = AirportLibrary::getFullList();
+$airports = AirportLibrary::getFullList();
 ```
 
 Returns an array of all the airports (as arrays, not objects) in the list, with the IATA code as the key of each entry.
