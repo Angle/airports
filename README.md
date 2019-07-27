@@ -25,7 +25,7 @@ $airport = AirportLibrary::find('LMM');
 ```
 
 An airport entry contains:
-```php
+```
 var_dump($airport);
 
 /**
