@@ -93,7 +93,7 @@ if (!$airportsJson) {
 
 echo "OK" . PHP_EOL;
 
-echo sprintf("Parsed %d entries from the source repository." . PHP_EOL, count($airportsJson));
+echo sprintf("· Parsed %d entries from the source repository." . PHP_EOL, count($airportsJson));
 
 # 1.4 Strip out the entries that do not have a IATA code
 echo "· Filtering entries, will only keep those with a valid IATA code.. ";
