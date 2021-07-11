@@ -2813,19 +2813,6 @@ abstract class AirportLibrary
     'lon' => -85.9017028809,
     'tz' => 'America/Toronto',
   ),
-  ' QC' => 
-  array (
-    'icao' => 'CNV9',
-    'iata' => ' QC',
-    'name' => 'Quebec / Neuville Airport',
-    'city' => 'Neuville',
-    'state' => 'Quebec',
-    'country' => 'CA',
-    'elevation' => 314,
-    'lat' => 46.7214759694,
-    'lon' => -71.5854978561,
-    'tz' => 'America/Toronto',
-  ),
   'YEB' => 
   array (
     'icao' => 'CPF2',
@@ -9274,6 +9261,19 @@ abstract class AirportLibrary
     'lon' => 12.7522220612,
     'tz' => 'Europe/Berlin',
   ),
+  'SXF' => 
+  array (
+    'icao' => 'EDDB',
+    'iata' => 'SXF',
+    'name' => 'Berlin-Schonefeld International Airport',
+    'city' => 'Berlin',
+    'state' => 'Brandenburg',
+    'country' => 'DE',
+    'elevation' => 157,
+    'lat' => 52.3800010681,
+    'lon' => 13.5225000381,
+    'tz' => 'Europe/Berlin',
+  ),
   'CSO' => 
   array (
     'icao' => 'EDBC',
@@ -9350,19 +9350,6 @@ abstract class AirportLibrary
     'elevation' => 7,
     'lat' => 54.1577796936,
     'lon' => 13.7744436264,
-    'tz' => 'Europe/Berlin',
-  ),
-  'SXF' => 
-  array (
-    'icao' => 'EDDB',
-    'iata' => 'SXF',
-    'name' => 'Berlin-Schonefeld International Airport',
-    'city' => 'Berlin',
-    'state' => 'Brandenburg',
-    'country' => 'DE',
-    'elevation' => 157,
-    'lat' => 52.3800010681,
-    'lon' => 13.5225000381,
     'tz' => 'Europe/Berlin',
   ),
   'DRS' => 
@@ -10782,19 +10769,6 @@ abstract class AirportLibrary
     'lon' => 24.7159996033,
     'tz' => 'Europe/Helsinki',
   ),
-  ' Ru' => 
-  array (
-    'icao' => 'EG64',
-    'iata' => ' Ru',
-    'name' => 'RAF Rufforth',
-    'city' => 'York',
-    'state' => 'England',
-    'country' => 'GB',
-    'elevation' => 65,
-    'lat' => 53.94829,
-    'lon' => -1.185575,
-    'tz' => 'Europe/London',
-  ),
   'BFS' => 
   array (
     'icao' => 'EGAA',
@@ -11510,10 +11484,10 @@ abstract class AirportLibrary
     'lon' => 0.695555985,
     'tz' => 'Europe/London',
   ),
-  ' As' => 
+  'LYX' => 
   array (
     'icao' => 'EGMD',
-    'iata' => ' As',
+    'iata' => 'LYX',
     'name' => 'Lydd Airport',
     'city' => 'Lydd',
     'state' => 'England',
@@ -11547,19 +11521,6 @@ abstract class AirportLibrary
     'elevation' => 190,
     'lat' => 54.9375,
     'lon' => -2.8091700077,
-    'tz' => 'Europe/London',
-  ),
-  ' We' => 
-  array (
-    'icao' => 'EGND',
-    'iata' => ' We',
-    'name' => 'HUDDERSFIELD (Crosland Moor)',
-    'city' => 'Huddersfield',
-    'state' => 'England',
-    'country' => 'GB',
-    'elevation' => 825,
-    'lat' => 53.6216666667,
-    'lon' => -1.8302777778,
     'tz' => 'Europe/London',
   ),
   'BLK' => 
@@ -21234,10 +21195,10 @@ abstract class AirportLibrary
     'lon' => -13.8638000488,
     'tz' => 'Atlantic/Canary',
   ),
-  ' La' => 
+  'GMZ' => 
   array (
     'icao' => 'GCGM',
-    'iata' => ' La',
+    'iata' => 'GMZ',
     'name' => 'La Gomera Airport',
     'city' => 'Alajero',
     'state' => 'Canary-Islands',
@@ -23637,6 +23598,19 @@ abstract class AirportLibrary
     'elevation' => 662,
     'lat' => 23.9643993378,
     'lon' => 32.8199996948,
+    'tz' => 'Africa/Cairo',
+  ),
+  'SPX' => 
+  array (
+    'icao' => 'HESX',
+    'iata' => 'SPX',
+    'name' => 'Sphinx International Airport',
+    'city' => 'Giza',
+    'state' => 'Giza ',
+    'country' => 'EG',
+    'elevation' => 553,
+    'lat' => 30.1147222,
+    'lon' => 30.8933333,
     'tz' => 'Africa/Cairo',
   ),
   'TCP' => 
@@ -27838,6 +27812,19 @@ abstract class AirportLibrary
     'lon' => -112.685997,
     'tz' => 'America/Phoenix',
   ),
+  'NHZ' => 
+  array (
+    'icao' => 'KBXM',
+    'iata' => 'NHZ',
+    'name' => 'Brunswick Executive Airport',
+    'city' => 'Brunswick',
+    'state' => 'Maine',
+    'country' => 'US',
+    'elevation' => 75,
+    'lat' => 43.8923551,
+    'lon' => -69.9388297,
+    'tz' => 'America/New_York',
+  ),
   'BYS' => 
   array (
     'icao' => 'KBYS',
@@ -29359,6 +29346,19 @@ abstract class AirportLibrary
     'lon' => -97.9164962769,
     'tz' => 'America/Chicago',
   ),
+  'ENV' => 
+  array (
+    'icao' => 'KENV',
+    'iata' => 'ENV',
+    'name' => 'Wendover Airport',
+    'city' => 'Wendover',
+    'state' => 'Utah',
+    'country' => 'US',
+    'elevation' => 4237,
+    'lat' => 40.7187004089,
+    'lon' => -114.03099823,
+    'tz' => 'America/Denver',
+  ),
   'ERI' => 
   array (
     'icao' => 'KERI',
@@ -30282,6 +30282,19 @@ abstract class AirportLibrary
     'lon' => -92.83899689,
     'tz' => 'America/Chicago',
   ),
+  'HIO' => 
+  array (
+    'icao' => 'KHIO',
+    'iata' => 'HIO',
+    'name' => 'Portland Hillsboro Airport',
+    'city' => 'Portland',
+    'state' => 'Oregon',
+    'country' => 'US',
+    'elevation' => 208,
+    'lat' => 45.54040146,
+    'lon' => -122.9499969,
+    'tz' => 'America/Los_Angeles',
+  ),
   'HKY' => 
   array (
     'icao' => 'KHKY',
@@ -30892,6 +30905,19 @@ abstract class AirportLibrary
     'lat' => 46.92969894,
     'lon' => -98.67819977,
     'tz' => 'America/Chicago',
+  ),
+  'USA' => 
+  array (
+    'icao' => 'KJQF',
+    'iata' => 'USA',
+    'name' => 'Concord Regional Airport',
+    'city' => 'Concord',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 705,
+    'lat' => 35.3877983093,
+    'lon' => -80.7090988159,
+    'tz' => 'America/New_York',
   ),
   'JST' => 
   array (
@@ -33701,6 +33727,19 @@ abstract class AirportLibrary
     'lon' => -84.3503036499,
     'tz' => 'America/New_York',
   ),
+  'TMB' => 
+  array (
+    'icao' => 'KTMB',
+    'iata' => 'TMB',
+    'name' => 'Miami Executive Airport',
+    'city' => 'Miami',
+    'state' => 'Miami',
+    'country' => 'US',
+    'elevation' => 10,
+    'lat' => 25.6475637,
+    'lon' => -80.4332246,
+    'tz' => 'America/New_York',
+  ),
   'OTK' => 
   array (
     'icao' => 'KTMK',
@@ -33856,19 +33895,6 @@ abstract class AirportLibrary
     'lat' => 38.893901825,
     'lon' => -119.9950027466,
     'tz' => 'America/Los_Angeles',
-  ),
-  ' Ms' => 
-  array (
-    'icao' => 'KTVR',
-    'iata' => ' Ms',
-    'name' => 'Vicksburg Tallulah Regional Airport',
-    'city' => 'Tallulah/Vicksburg',
-    'state' => 'Louisiana',
-    'country' => 'US',
-    'elevation' => 86,
-    'lat' => 32.351600647,
-    'lon' => -91.0277023315,
-    'tz' => 'America/Chicago',
   ),
   'TWF' => 
   array (
@@ -34858,6 +34884,19 @@ abstract class AirportLibrary
     'lon' => 4.2186498642,
     'tz' => 'Europe/Madrid',
   ),
+  'RMU' => 
+  array (
+    'icao' => 'LEMI',
+    'iata' => 'RMU',
+    'name' => 'Región de Murcia International Airport',
+    'city' => 'Corvera',
+    'state' => 'Corvera',
+    'country' => 'ES',
+    'elevation' => 633,
+    'lat' => 37.803,
+    'lon' => -1.125,
+    'tz' => 'Europe/Madrid',
+  ),
   'OZP' => 
   array (
     'icao' => 'LEMO',
@@ -35097,7 +35136,7 @@ abstract class AirportLibrary
     'icao' => 'LFAC',
     'iata' => 'CQF',
     'name' => 'Calais-Dunkerque Airport',
-    'city' => 'Calais/Dunkerque',
+    'city' => 'Marck',
     'state' => 'Hauts-de-France',
     'country' => 'FR',
     'elevation' => 12,
@@ -35110,7 +35149,7 @@ abstract class AirportLibrary
     'icao' => 'LFAD',
     'iata' => 'XCP',
     'name' => 'Compiegne Margny Airport',
-    'city' => 'Calais-Dunkerque',
+    'city' => 'Compiegne',
     'state' => 'Hauts-de-France',
     'country' => 'FR',
     'elevation' => 315,
@@ -35123,7 +35162,7 @@ abstract class AirportLibrary
     'icao' => 'LFAF',
     'iata' => 'XLN',
     'name' => 'Laon - Chambry Airport',
-    'city' => 'Calais-Dunkerque',
+    'city' => 'Laon-Chambry',
     'state' => 'Hauts-de-France',
     'country' => 'FR',
     'elevation' => 256,
@@ -35148,8 +35187,8 @@ abstract class AirportLibrary
   array (
     'icao' => 'LFAK',
     'iata' => 'XDK',
-    'name' => 'Dunkerque les Moeres Airport',
-    'city' => 'Calais-Dunkerque',
+    'name' => 'Dunkerque Les Moeres Airport',
+    'city' => 'Les Moeres',
     'state' => 'Hauts-de-France',
     'country' => 'FR',
     'elevation' => -3,
@@ -40149,10 +40188,10 @@ abstract class AirportLibrary
     'lon' => 34.5345001221,
     'tz' => 'Europe/Istanbul',
   ),
-  'IST' => 
+  'ISL' => 
   array (
     'icao' => 'LTBA',
-    'iata' => 'IST',
+    'iata' => 'ISL',
     'name' => 'Ataturk International Airport',
     'city' => 'Istanbul',
     'state' => 'Istanbul',
@@ -40160,6 +40199,19 @@ abstract class AirportLibrary
     'elevation' => 163,
     'lat' => 40.9768981934,
     'lon' => 28.8145999908,
+    'tz' => 'Europe/Istanbul',
+  ),
+  'IST' => 
+  array (
+    'icao' => 'LTFM',
+    'iata' => 'IST',
+    'name' => 'Istanbul Airport',
+    'city' => 'Istanbul',
+    'state' => 'Istanbul',
+    'country' => 'TR',
+    'elevation' => 325,
+    'lat' => 41.275333,
+    'lon' => 28.752,
     'tz' => 'Europe/Istanbul',
   ),
   'CII' => 
@@ -49093,6 +49145,19 @@ abstract class AirportLibrary
     'lon' => 55.783000946,
     'tz' => 'Asia/Muscat',
   ),
+  'DQM' => 
+  array (
+    'icao' => 'OODQ',
+    'iata' => 'DQM',
+    'name' => 'Duqm International Airport',
+    'city' => 'Duqm',
+    'state' => 'Duqm',
+    'country' => 'OM',
+    'elevation' => 383,
+    'lat' => 19.5019,
+    'lon' => 57.6342,
+    'tz' => 'Asia/Muscat',
+  ),
   'FAU' => 
   array (
     'icao' => 'OOFD',
@@ -49195,6 +49260,19 @@ abstract class AirportLibrary
     'elevation' => 73,
     'lat' => 17.0387001038,
     'lon' => 54.0913009644,
+    'tz' => 'Asia/Muscat',
+  ),
+  'OHS' => 
+  array (
+    'icao' => 'OOSH',
+    'iata' => 'OHS',
+    'name' => 'Sohar Airport',
+    'city' => 'Sohar',
+    'state' => 'Al-Batinah-North',
+    'country' => 'OM',
+    'elevation' => 105,
+    'lat' => 24.4641666667,
+    'lon' => 56.6283333333,
     'tz' => 'Asia/Muscat',
   ),
   'SUH' => 
@@ -50145,6 +50223,19 @@ abstract class AirportLibrary
     'lat' => 34.5573997498,
     'lon' => 38.3168983459,
     'tz' => 'Asia/Damascus',
+  ),
+  'DIA' => 
+  array (
+    'icao' => 'OTBD',
+    'iata' => 'DIA',
+    'name' => 'Doha International Airport',
+    'city' => 'Doha',
+    'state' => 'Baladiyat-ad-Dawḩah',
+    'country' => 'QA',
+    'elevation' => 35,
+    'lat' => 25.261100769,
+    'lon' => 51.5651016235,
+    'tz' => 'Asia/Qatar',
   ),
   'IUD' => 
   array (
@@ -54943,10 +55034,10 @@ abstract class AirportLibrary
     'lon' => 126.013999939,
     'tz' => 'Asia/Manila',
   ),
-  ' Sa' => 
+  'RZP' => 
   array (
     'icao' => 'RPSD',
-    'iata' => ' Sa',
+    'iata' => 'RZP',
     'name' => 'Cesar Lim Rodriguez Airport',
     'city' => 'Taytay Airport',
     'state' => 'Mimaropa',
@@ -69531,15 +69622,15 @@ abstract class AirportLibrary
   ),
   'GOI' => 
   array (
-    'icao' => 'VAGO',
+    'icao' => 'VOGO',
     'iata' => 'GOI',
     'name' => 'Dabolim Airport',
-    'city' => 'Vasco da Gama',
-    'state' => 'Goa',
+    'city' => 'Dabolim',
+    'state' => 'Dabolim',
     'country' => 'IN',
-    'elevation' => 184,
-    'lat' => 15.3808002472,
-    'lon' => 73.8313980103,
+    'elevation' => 186,
+    'lat' => 15.380833,
+    'lon' => 73.827,
     'tz' => 'Asia/Kolkata',
   ),
   'HBX' => 
@@ -70125,6 +70216,19 @@ abstract class AirportLibrary
     'elevation' => 2910,
     'lat' => 25.7035999298,
     'lon' => 91.9786987305,
+    'tz' => 'Asia/Kolkata',
+  ),
+  'VNS' => 
+  array (
+    'icao' => 'VIBN',
+    'iata' => 'VNS',
+    'name' => 'Lal Bahadur Shastri Airport',
+    'city' => 'Varanasi',
+    'state' => 'Uttar-Pradesh',
+    'country' => 'IN',
+    'elevation' => 266,
+    'lat' => 25.4524002075,
+    'lon' => 82.8592987061,
     'tz' => 'Asia/Kolkata',
   ),
   'BBI' => 
@@ -70764,19 +70868,6 @@ abstract class AirportLibrary
     'lon' => 73.2071990967,
     'tz' => 'Asia/Kolkata',
   ),
-  'VNS' => 
-  array (
-    'icao' => 'VIBN',
-    'iata' => 'VNS',
-    'name' => 'Lal Bahadur Shastri Airport',
-    'city' => 'Varanasi',
-    'state' => 'Uttar-Pradesh',
-    'country' => 'IN',
-    'elevation' => 266,
-    'lat' => 25.4524002075,
-    'lon' => 82.8592987061,
-    'tz' => 'Asia/Kolkata',
-  ),
   'KUU' => 
   array (
     'icao' => 'VIBR',
@@ -70944,6 +71035,19 @@ abstract class AirportLibrary
     'elevation' => 411,
     'lat' => 26.441400528,
     'lon' => 80.3648986816,
+    'tz' => 'Asia/Kolkata',
+  ),
+  'KQH' => 
+  array (
+    'icao' => 'VIKG',
+    'iata' => 'KQH',
+    'name' => 'Kishangarh Airport, Ajmer',
+    'city' => 'Kishangarh',
+    'state' => 'Rajasthan',
+    'country' => 'IN',
+    'elevation' => 1477,
+    'lat' => 26.591167,
+    'lon' => 74.816167,
     'tz' => 'Asia/Kolkata',
   ),
   'KTU' => 
@@ -72103,6 +72207,19 @@ abstract class AirportLibrary
     'lon' => 89.4245986938,
     'tz' => 'Asia/Thimphu',
   ),
+  'IFU' => 
+  array (
+    'icao' => 'VREI',
+    'iata' => 'IFU',
+    'name' => 'Ifuru Airport',
+    'city' => 'Ifuru',
+    'state' => 'Ifuru',
+    'country' => 'MV',
+    'elevation' => 6,
+    'lat' => 5.7083,
+    'lon' => 73.025,
+    'tz' => 'Maldives',
+  ),
   'FVM' => 
   array (
     'icao' => 'VRMF',
@@ -73050,6 +73167,19 @@ abstract class AirportLibrary
     'elevation' => 33,
     'lat' => 10.8187999725,
     'lon' => 106.652000427,
+    'tz' => 'Asia/Ho_Chi_Minh',
+  ),
+  'THD' => 
+  array (
+    'icao' => 'VVTX',
+    'iata' => 'THD',
+    'name' => 'Thọ Xuân Airport',
+    'city' => 'Thanh Hóa',
+    'state' => '',
+    'country' => 'VN',
+    'elevation' => 59,
+    'lat' => 19.901667,
+    'lon' => 105.467778,
     'tz' => 'Asia/Ho_Chi_Minh',
   ),
   'VII' => 
@@ -75665,6 +75795,19 @@ abstract class AirportLibrary
     'lon' => 104.5790023804,
     'tz' => 'Asia/Jakarta',
   ),
+  'PDG' => 
+  array (
+    'icao' => 'WIPT',
+    'iata' => 'PDG',
+    'name' => 'Minangkabau Airport',
+    'city' => 'Ketaping/Padang-Sumatra Island',
+    'state' => 'West-Sumatra',
+    'country' => 'ID',
+    'elevation' => 18,
+    'lat' => -0.7869169712,
+    'lon' => 100.28099823,
+    'tz' => 'Asia/Jakarta',
+  ),
   'HLP' => 
   array (
     'icao' => 'WIHH',
@@ -75754,6 +75897,19 @@ abstract class AirportLibrary
     'elevation' => 922,
     'lat' => 1.4000999928,
     'lon' => 99.4304962158,
+    'tz' => 'Asia/Jakarta',
+  ),
+  'MES' => 
+  array (
+    'icao' => 'WIMK',
+    'iata' => 'MES',
+    'name' => 'Soewondo Air Force Base',
+    'city' => 'Medan',
+    'state' => '',
+    'country' => 'ID',
+    'elevation' => 114,
+    'lat' => 3.559167,
+    'lon' => 98.671111,
     'tz' => 'Asia/Jakarta',
   ),
   'KNO' => 
@@ -75962,19 +76118,6 @@ abstract class AirportLibrary
     'elevation' => 62,
     'lat' => -0.3528079987,
     'lon' => 102.3349990845,
-    'tz' => 'Asia/Jakarta',
-  ),
-  'PDG' => 
-  array (
-    'icao' => 'WIPT',
-    'iata' => 'PDG',
-    'name' => 'Minangkabau Airport',
-    'city' => 'Ketaping/Padang-Sumatra Island',
-    'state' => 'West-Sumatra',
-    'country' => 'ID',
-    'elevation' => 18,
-    'lat' => -0.7869169712,
-    'lon' => 100.28099823,
     'tz' => 'Asia/Jakarta',
   ),
   'MPC' => 
