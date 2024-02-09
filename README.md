@@ -4,6 +4,8 @@ This library is an auto-generated PHP abstract class that contains the global IA
   
 The database is pulled from the ICAO Airport database published by [mwgg](https://github.com/mwgg) at [github.com/mwgg/Airports](https://github.com/mwgg/Airports).
 
+Last update: 2024-02-09
+
 **Note:** we haven't tested if this is faster than loading from a raw .json file or a SQLite database. However, it definitely simplifies our deployment processes. Please feel free to run benchmarks and submit pull requests!
 
 ## Installation

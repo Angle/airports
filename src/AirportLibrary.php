@@ -163,15 +163,15 @@ abstract class AirportLibrary
   ),
   'BWL' => 
   array (
-    'icao' => '6OK6',
+    'icao' => 'KBKN',
     'iata' => 'BWL',
-    'name' => 'Earl Henry Airport',
+    'name' => 'Blackwell Tonkawa Municipal Airport',
     'city' => 'Blackwell',
     'state' => 'Oklahoma',
     'country' => 'US',
-    'elevation' => 1054,
-    'lat' => 36.7958984375,
-    'lon' => -97.3170013428,
+    'elevation' => 1030,
+    'lat' => 36.74509811,
+    'lon' => -97.34960175,
     'tz' => 'America/Chicago',
   ),
   'DUF' => 
@@ -848,7 +848,7 @@ abstract class AirportLibrary
     'elevation' => 11,
     'lat' => -5.4223198891,
     'lon' => 154.6730041504,
-    'tz' => 'Pacific/Port_Moresby',
+    'tz' => 'Pacific/Bougainville',
   ),
   'OPU' => 
   array (
@@ -1836,7 +1836,7 @@ abstract class AirportLibrary
     'elevation' => 74,
     'lat' => 68.7218017578,
     'lon' => -52.7846984863,
-    'tz' => 'America/Godthab',
+    'tz' => 'America/Nuuk',
   ),
   'UAK' => 
   array (
@@ -1849,7 +1849,7 @@ abstract class AirportLibrary
     'elevation' => 112,
     'lat' => 61.1604995728,
     'lon' => -45.4259986877,
-    'tz' => 'America/Godthab',
+    'tz' => 'America/Nuuk',
   ),
   'CNP' => 
   array (
@@ -1875,7 +1875,7 @@ abstract class AirportLibrary
     'elevation' => 283,
     'lat' => 64.19090271,
     'lon' => -51.6781005859,
-    'tz' => 'America/Godthab',
+    'tz' => 'America/Nuuk',
   ),
   'JAV' => 
   array (
@@ -1888,7 +1888,7 @@ abstract class AirportLibrary
     'elevation' => 95,
     'lat' => 69.2432022095,
     'lon' => -51.0570983887,
-    'tz' => 'America/Godthab',
+    'tz' => 'America/Nuuk',
   ),
   'KUS' => 
   array (
@@ -1901,7 +1901,7 @@ abstract class AirportLibrary
     'elevation' => 117,
     'lat' => 65.573600769,
     'lon' => -37.1236000061,
-    'tz' => 'America/Godthab',
+    'tz' => 'America/Nuuk',
   ),
   'JSU' => 
   array (
@@ -1914,7 +1914,7 @@ abstract class AirportLibrary
     'elevation' => 91,
     'lat' => 65.4124984741,
     'lon' => -52.9393997192,
-    'tz' => 'America/Godthab',
+    'tz' => 'America/Nuuk',
   ),
   'JFR' => 
   array (
@@ -1927,7 +1927,7 @@ abstract class AirportLibrary
     'elevation' => 120,
     'lat' => 62.0147361755,
     'lon' => -49.6709365845,
-    'tz' => 'America/Godthab',
+    'tz' => 'America/Nuuk',
   ),
   'NAQ' => 
   array (
@@ -1953,7 +1953,7 @@ abstract class AirportLibrary
     'elevation' => 165,
     'lat' => 67.0122218992,
     'lon' => -50.7116031647,
-    'tz' => 'America/Godthab',
+    'tz' => 'America/Nuuk',
   ),
   'JHS' => 
   array (
@@ -1966,7 +1966,7 @@ abstract class AirportLibrary
     'elevation' => 33,
     'lat' => 66.9513015747,
     'lon' => -53.7293014526,
-    'tz' => 'America/Godthab',
+    'tz' => 'America/Nuuk',
   ),
   'THU' => 
   array (
@@ -1992,7 +1992,7 @@ abstract class AirportLibrary
     'elevation' => 414,
     'lat' => 72.7901992798,
     'lon' => -56.1305999756,
-    'tz' => 'America/Godthab',
+    'tz' => 'America/Nuuk',
   ),
   'JQA' => 
   array (
@@ -2005,7 +2005,7 @@ abstract class AirportLibrary
     'elevation' => 289,
     'lat' => 70.7341995239,
     'lon' => -52.6962013245,
-    'tz' => 'America/Godthab',
+    'tz' => 'America/Nuuk',
   ),
   'AEY' => 
   array (
@@ -2579,6 +2579,19 @@ abstract class AirportLibrary
     'lon' => -123.709702492,
     'tz' => 'America/Vancouver',
   ),
+  'ZEL' => 
+  array (
+    'icao' => 'CBBC',
+    'iata' => 'ZEL',
+    'name' => 'Bella Bella (Campbell Island) Airport',
+    'city' => 'Bella Bella',
+    'state' => 'British Columbia',
+    'country' => 'CA',
+    'elevation' => 141,
+    'lat' => 52.1850013733,
+    'lon' => -128.1569976807,
+    'tz' => 'America/Vancouver',
+  ),
   'YWM' => 
   array (
     'icao' => 'CCA6',
@@ -2629,7 +2642,7 @@ abstract class AirportLibrary
     'elevation' => 180,
     'lat' => 54.1796989441,
     'lon' => -58.4575004578,
-    'tz' => 'America/Halifax',
+    'tz' => 'America/Goose_Bay',
   ),
   'DVK' => 
   array (
@@ -2655,7 +2668,7 @@ abstract class AirportLibrary
     'elevation' => 850,
     'lat' => 67.0333023071,
     'lon' => -126.0830001831,
-    'tz' => 'America/Yellowknife',
+    'tz' => 'America/Inuvik',
   ),
   'YLE' => 
   array (
@@ -2668,7 +2681,7 @@ abstract class AirportLibrary
     'elevation' => 882,
     'lat' => 63.1316986084,
     'lon' => -117.2460021973,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Yellowknife',
   ),
   'NML' => 
   array (
@@ -2733,7 +2746,7 @@ abstract class AirportLibrary
     'elevation' => 832,
     'lat' => 52.7085990906,
     'lon' => -88.5419006348,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YAX' => 
   array (
@@ -2746,7 +2759,7 @@ abstract class AirportLibrary
     'elevation' => 712,
     'lat' => 53.8492012024,
     'lon' => -89.5793991089,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'WNN' => 
   array (
@@ -2759,7 +2772,7 @@ abstract class AirportLibrary
     'elevation' => 819,
     'lat' => 52.893901825,
     'lon' => -89.2891998291,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'YNO' => 
   array (
@@ -2772,7 +2785,7 @@ abstract class AirportLibrary
     'elevation' => 1082,
     'lat' => 52.4900016785,
     'lon' => -92.9710998535,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'XBE' => 
   array (
@@ -2785,7 +2798,7 @@ abstract class AirportLibrary
     'elevation' => 800,
     'lat' => 53.9655990601,
     'lon' => -91.0271987915,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'KIF' => 
   array (
@@ -2798,7 +2811,7 @@ abstract class AirportLibrary
     'elevation' => 866,
     'lat' => 53.0125007629,
     'lon' => -89.8553009033,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Rainy_River',
   ),
   'YOG' => 
   array (
@@ -2811,7 +2824,7 @@ abstract class AirportLibrary
     'elevation' => 594,
     'lat' => 51.6585998535,
     'lon' => -85.9017028809,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YEB' => 
   array (
@@ -2824,7 +2837,7 @@ abstract class AirportLibrary
     'elevation' => 591,
     'lat' => 46.42029953,
     'lon' => -84.0922012329,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YHP' => 
   array (
@@ -2837,7 +2850,7 @@ abstract class AirportLibrary
     'elevation' => 1095,
     'lat' => 52.1133003235,
     'lon' => -94.2555999756,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'YNX' => 
   array (
@@ -2904,6 +2917,19 @@ abstract class AirportLibrary
     'lon' => -58.9756011963,
     'tz' => 'America/Blanc-Sablon',
   ),
+  'YAB' => 
+  array (
+    'icao' => 'CYAB',
+    'iata' => 'YAB',
+    'name' => 'Arctic Bay Airport',
+    'city' => '',
+    'state' => 'Nunavut',
+    'country' => 'CA',
+    'elevation' => 72,
+    'lat' => 73.0057668174,
+    'lon' => -85.0425052643,
+    'tz' => 'America/Rankin_Inlet',
+  ),
   'YAC' => 
   array (
     'icao' => 'CYAC',
@@ -2915,7 +2941,7 @@ abstract class AirportLibrary
     'elevation' => 1344,
     'lat' => 51.7271995544,
     'lon' => -91.8244018555,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'YAR' => 
   array (
@@ -2941,7 +2967,7 @@ abstract class AirportLibrary
     'elevation' => 1125,
     'lat' => 48.6542015076,
     'lon' => -93.4396972656,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'YAH' => 
   array (
@@ -2980,7 +3006,7 @@ abstract class AirportLibrary
     'elevation' => 630,
     'lat' => 46.4850006104,
     'lon' => -84.5093994141,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Detroit',
   ),
   'XKS' => 
   array (
@@ -2993,7 +3019,7 @@ abstract class AirportLibrary
     'elevation' => 672,
     'lat' => 53.5247001648,
     'lon' => -88.6427993774,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Rainy_River',
   ),
   'YKG' => 
   array (
@@ -3019,7 +3045,7 @@ abstract class AirportLibrary
     'elevation' => 31,
     'lat' => 52.9275016785,
     'lon' => -82.4319000244,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YAW' => 
   array (
@@ -3084,7 +3110,7 @@ abstract class AirportLibrary
     'elevation' => 56,
     'lat' => 68.5344009399,
     'lon' => -89.8080978394,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Cambridge_Bay',
   ),
   'YBC' => 
   array (
@@ -3162,7 +3188,7 @@ abstract class AirportLibrary
     'elevation' => 59,
     'lat' => 64.2988967896,
     'lon' => -96.077796936,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rankin_Inlet',
   ),
   'YBL' => 
   array (
@@ -3253,7 +3279,7 @@ abstract class AirportLibrary
     'elevation' => 40,
     'lat' => 53.682800293,
     'lon' => -57.0419006348,
-    'tz' => 'America/Halifax',
+    'tz' => 'America/Goose_Bay',
   ),
   'YCB' => 
   array (
@@ -3266,7 +3292,7 @@ abstract class AirportLibrary
     'elevation' => 90,
     'lat' => 69.1081008911,
     'lon' => -105.138000488,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Cambridge_Bay',
   ),
   'YCC' => 
   array (
@@ -3331,7 +3357,7 @@ abstract class AirportLibrary
     'elevation' => 108,
     'lat' => 47.0078010559,
     'lon' => -65.4492034912,
-    'tz' => 'America/Halifax',
+    'tz' => 'America/Moncton',
   ),
   'XCM' => 
   array (
@@ -3357,7 +3383,7 @@ abstract class AirportLibrary
     'elevation' => 132,
     'lat' => 47.9907989502,
     'lon' => -66.3302993774,
-    'tz' => 'America/Halifax',
+    'tz' => 'America/Moncton',
   ),
   'YCN' => 
   array (
@@ -3370,7 +3396,7 @@ abstract class AirportLibrary
     'elevation' => 861,
     'lat' => 49.1055984497,
     'lon' => -81.0136032104,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YCO' => 
   array (
@@ -3383,7 +3409,7 @@ abstract class AirportLibrary
     'elevation' => 74,
     'lat' => 67.8167037964,
     'lon' => -115.143997192,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Cambridge_Bay',
   ),
   'YCQ' => 
   array (
@@ -3422,7 +3448,33 @@ abstract class AirportLibrary
     'elevation' => 32,
     'lat' => 63.3469009399,
     'lon' => -90.7311019897,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rankin_Inlet',
+  ),
+  'YCT' => 
+  array (
+    'icao' => 'CYCT',
+    'iata' => 'YCT',
+    'name' => 'Coronation Airport',
+    'city' => 'Coronation',
+    'state' => 'Alberta',
+    'country' => 'CA',
+    'elevation' => 2595,
+    'lat' => 52.0750007629,
+    'lon' => -111.4449996948,
+    'tz' => 'America/Edmonton',
+  ),
+  'YCW' => 
+  array (
+    'icao' => 'CYCW',
+    'iata' => 'YCW',
+    'name' => 'Chilliwack Airport',
+    'city' => 'Chilliwack',
+    'state' => 'British Columbia',
+    'country' => 'CA',
+    'elevation' => 32,
+    'lat' => 49.1528015137,
+    'lon' => -121.9390029907,
+    'tz' => 'America/Vancouver',
   ),
   'YCY' => 
   array (
@@ -3435,7 +3487,7 @@ abstract class AirportLibrary
     'elevation' => 87,
     'lat' => 70.4860992432,
     'lon' => -68.5167007446,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Iqaluit',
   ),
   'YCZ' => 
   array (
@@ -3461,7 +3513,7 @@ abstract class AirportLibrary
     'elevation' => 1215,
     'lat' => 64.0430984497,
     'lon' => -139.1280059814,
-    'tz' => 'America/Vancouver',
+    'tz' => 'America/Dawson',
   ),
   'YDB' => 
   array (
@@ -3474,7 +3526,7 @@ abstract class AirportLibrary
     'elevation' => 2647,
     'lat' => 61.3711013794,
     'lon' => -139.0410003662,
-    'tz' => 'America/Vancouver',
+    'tz' => 'America/Dawson',
   ),
   'YDF' => 
   array (
@@ -3488,6 +3540,19 @@ abstract class AirportLibrary
     'lat' => 49.2108001709,
     'lon' => -57.3913993835,
     'tz' => 'America/St_Johns',
+  ),
+  'YDL' => 
+  array (
+    'icao' => 'CYDL',
+    'iata' => 'YDL',
+    'name' => 'Dease Lake Airport',
+    'city' => 'Dease Lake',
+    'state' => 'British Columbia',
+    'country' => 'CA',
+    'elevation' => 2600,
+    'lat' => 58.4221992493,
+    'lon' => -130.0319976807,
+    'tz' => 'America/Vancouver',
   ),
   'YDM' => 
   array (
@@ -3539,7 +3604,7 @@ abstract class AirportLibrary
     'elevation' => 22,
     'lat' => 56.5491981506,
     'lon' => -61.6803016663,
-    'tz' => 'America/Halifax',
+    'tz' => 'America/Goose_Bay',
   ),
   'YDQ' => 
   array (
@@ -3578,7 +3643,7 @@ abstract class AirportLibrary
     'elevation' => 32,
     'lat' => 61.0942001343,
     'lon' => -94.0708007812,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rankin_Inlet',
   ),
   'YEL' => 
   array (
@@ -3591,7 +3656,7 @@ abstract class AirportLibrary
     'elevation' => 1087,
     'lat' => 46.351398468,
     'lon' => -82.5614013672,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YEM' => 
   array (
@@ -3604,7 +3669,7 @@ abstract class AirportLibrary
     'elevation' => 869,
     'lat' => 45.8428001404,
     'lon' => -81.8581008911,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YEN' => 
   array (
@@ -3630,7 +3695,7 @@ abstract class AirportLibrary
     'elevation' => 48,
     'lat' => 56.018901825,
     'lon' => -87.6761016846,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YET' => 
   array (
@@ -3695,7 +3760,7 @@ abstract class AirportLibrary
     'elevation' => 48,
     'lat' => 52.2014007568,
     'lon' => -81.6968994141,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YFB' => 
   array (
@@ -3708,7 +3773,7 @@ abstract class AirportLibrary
     'elevation' => 110,
     'lat' => 63.756401062,
     'lon' => -68.5558013916,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Iqaluit',
   ),
   'YFC' => 
   array (
@@ -3747,7 +3812,7 @@ abstract class AirportLibrary
     'elevation' => 899,
     'lat' => 51.5619010925,
     'lon' => -87.9077987671,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YTM' => 
   array (
@@ -3786,7 +3851,7 @@ abstract class AirportLibrary
     'elevation' => 526,
     'lat' => 61.1808013916,
     'lon' => -113.690002441,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Yellowknife',
   ),
   'YFS' => 
   array (
@@ -3799,7 +3864,7 @@ abstract class AirportLibrary
     'elevation' => 555,
     'lat' => 61.7602005005,
     'lon' => -121.2369995117,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Inuvik',
   ),
   'YMN' => 
   array (
@@ -3812,7 +3877,7 @@ abstract class AirportLibrary
     'elevation' => 234,
     'lat' => 55.0769004822,
     'lon' => -59.1864013672,
-    'tz' => 'America/Halifax',
+    'tz' => 'America/Goose_Bay',
   ),
   'YGB' => 
   array (
@@ -3851,7 +3916,7 @@ abstract class AirportLibrary
     'elevation' => 268,
     'lat' => 66.2407989502,
     'lon' => -128.6510009766,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Inuvik',
   ),
   'YGK' => 
   array (
@@ -3929,7 +3994,7 @@ abstract class AirportLibrary
     'elevation' => 1144,
     'lat' => 49.778301239,
     'lon' => -86.9393997192,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YGR' => 
   array (
@@ -3942,7 +4007,7 @@ abstract class AirportLibrary
     'elevation' => 35,
     'lat' => 47.4247016907,
     'lon' => -61.7780990601,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Halifax',
   ),
   'YGT' => 
   array (
@@ -3955,7 +4020,7 @@ abstract class AirportLibrary
     'elevation' => 174,
     'lat' => 69.3647003174,
     'lon' => -81.8161010742,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Iqaluit',
   ),
   'YGV' => 
   array (
@@ -3981,7 +4046,7 @@ abstract class AirportLibrary
     'elevation' => 34,
     'lat' => 55.2818984985,
     'lon' => -77.765296936,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Iqaluit',
   ),
   'YGX' => 
   array (
@@ -4007,7 +4072,7 @@ abstract class AirportLibrary
     'elevation' => 146,
     'lat' => 76.4261016846,
     'lon' => -82.9092025757,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Iqaluit',
   ),
   'YQC' => 
   array (
@@ -4020,7 +4085,20 @@ abstract class AirportLibrary
     'elevation' => 103,
     'lat' => 61.0463981628,
     'lon' => -69.6177978516,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Iqaluit',
+  ),
+  'YHB' => 
+  array (
+    'icao' => 'CYHB',
+    'iata' => 'YHB',
+    'name' => 'Hudson Bay Airport',
+    'city' => 'Hudson Bay',
+    'state' => 'Saskatchewan',
+    'country' => 'CA',
+    'elevation' => 1175,
+    'lat' => 52.8166999817,
+    'lon' => -102.3109970093,
+    'tz' => 'America/Regina',
   ),
   'YHD' => 
   array (
@@ -4033,7 +4111,7 @@ abstract class AirportLibrary
     'elevation' => 1354,
     'lat' => 49.8316993713,
     'lon' => -92.7442016602,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'YHE' => 
   array (
@@ -4059,7 +4137,7 @@ abstract class AirportLibrary
     'elevation' => 827,
     'lat' => 49.7141990662,
     'lon' => -83.6860961914,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YNS' => 
   array (
@@ -4098,7 +4176,7 @@ abstract class AirportLibrary
     'elevation' => 152,
     'lat' => 68.635597229,
     'lon' => -95.8497009277,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Cambridge_Bay',
   ),
   'YHM' => 
   array (
@@ -4124,7 +4202,7 @@ abstract class AirportLibrary
     'elevation' => 1099,
     'lat' => 49.1930999756,
     'lon' => -84.7589035034,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YHO' => 
   array (
@@ -4137,7 +4215,7 @@ abstract class AirportLibrary
     'elevation' => 39,
     'lat' => 55.448299408,
     'lon' => -60.2285995483,
-    'tz' => 'America/Halifax',
+    'tz' => 'America/Goose_Bay',
   ),
   'YHR' => 
   array (
@@ -4215,7 +4293,7 @@ abstract class AirportLibrary
     'elevation' => 1408,
     'lat' => 48.7738990784,
     'lon' => -91.6386032104,
-    'tz' => 'America/Panama',
+    'tz' => 'America/Atikokan',
   ),
   'YDG' => 
   array (
@@ -4254,7 +4332,7 @@ abstract class AirportLibrary
     'elevation' => 126,
     'lat' => 62.417301178,
     'lon' => -77.9253005981,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Iqaluit',
   ),
   'YIO' => 
   array (
@@ -4267,7 +4345,7 @@ abstract class AirportLibrary
     'elevation' => 181,
     'lat' => 72.6832962036,
     'lon' => -77.9666976929,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Iqaluit',
   ),
   'YIV' => 
   array (
@@ -4282,6 +4360,19 @@ abstract class AirportLibrary
     'lon' => -94.6536026001,
     'tz' => 'America/Winnipeg',
   ),
+  'YJA' => 
+  array (
+    'icao' => 'CYJA',
+    'iata' => 'YJA',
+    'name' => 'Jasper Airport',
+    'city' => 'Jasper',
+    'state' => 'Alberta',
+    'country' => 'CA',
+    'elevation' => 3350,
+    'lat' => 52.9967002869,
+    'lon' => -118.0589981079,
+    'tz' => 'America/Edmonton',
+  ),
   'YJF' => 
   array (
     'icao' => 'CYJF',
@@ -4293,7 +4384,7 @@ abstract class AirportLibrary
     'elevation' => 708,
     'lat' => 60.2358016968,
     'lon' => -123.46900177,
-    'tz' => 'America/Yellowknife',
+    'tz' => 'America/Inuvik',
   ),
   'YJN' => 
   array (
@@ -4334,6 +4425,19 @@ abstract class AirportLibrary
     'lon' => -120.4440002441,
     'tz' => 'America/Vancouver',
   ),
+  'YKC' => 
+  array (
+    'icao' => 'CYKC',
+    'iata' => 'YKC',
+    'name' => 'Collins Bay Airport',
+    'city' => 'Collins Bay',
+    'state' => 'Saskatchewan',
+    'country' => 'CA',
+    'elevation' => 1341,
+    'lat' => 58.2360992432,
+    'lon' => -103.6780014038,
+    'tz' => 'America/Regina',
+  ),
   'LAK' => 
   array (
     'icao' => 'CYKD',
@@ -4345,7 +4449,7 @@ abstract class AirportLibrary
     'elevation' => 23,
     'lat' => 68.2232971191,
     'lon' => -135.0059967041,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Inuvik',
   ),
   'YKF' => 
   array (
@@ -4358,6 +4462,19 @@ abstract class AirportLibrary
     'elevation' => 1055,
     'lat' => 43.4608001709,
     'lon' => -80.3786010742,
+    'tz' => 'America/Toronto',
+  ),
+  'YWB' => 
+  array (
+    'icao' => 'CYKG',
+    'iata' => 'YWB',
+    'name' => 'Kangiqsujuaq (Wakeham Bay) Airport',
+    'city' => 'Kangiqsujuaq',
+    'state' => 'Quebec',
+    'country' => 'CA',
+    'elevation' => 501,
+    'lat' => 61.5886001587,
+    'lon' => -71.929397583,
     'tz' => 'America/Toronto',
   ),
   'YKJ' => 
@@ -4397,7 +4514,7 @@ abstract class AirportLibrary
     'elevation' => 75,
     'lat' => 60.8185997009,
     'lon' => -78.1485977173,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Iqaluit',
   ),
   'YKQ' => 
   array (
@@ -4436,7 +4553,7 @@ abstract class AirportLibrary
     'elevation' => 2277,
     'lat' => 51.5175018311,
     'lon' => -109.180999756,
-    'tz' => 'America/Regina',
+    'tz' => 'America/Swift_Current',
   ),
   'YKZ' => 
   array (
@@ -4464,6 +4581,19 @@ abstract class AirportLibrary
     'lon' => -69.5997009277,
     'tz' => 'America/Toronto',
   ),
+  'YLB' => 
+  array (
+    'icao' => 'CYLB',
+    'iata' => 'YLB',
+    'name' => 'Lac La Biche Airport',
+    'city' => 'Lac La Biche',
+    'state' => 'Alberta',
+    'country' => 'CA',
+    'elevation' => 1884,
+    'lat' => 54.7703018188,
+    'lon' => -112.0319976807,
+    'tz' => 'America/Edmonton',
+  ),
   'YLC' => 
   array (
     'icao' => 'CYLC',
@@ -4475,7 +4605,7 @@ abstract class AirportLibrary
     'elevation' => 175,
     'lat' => 62.8499984741,
     'lon' => -69.8833007812,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Iqaluit',
   ),
   'YLD' => 
   array (
@@ -4501,7 +4631,7 @@ abstract class AirportLibrary
     'elevation' => 834,
     'lat' => 52.1955986023,
     'lon' => -87.9341964722,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YLJ' => 
   array (
@@ -4514,7 +4644,7 @@ abstract class AirportLibrary
     'elevation' => 1576,
     'lat' => 54.1253013611,
     'lon' => -108.5230026245,
-    'tz' => 'America/Regina',
+    'tz' => 'America/Swift_Current',
   ),
   'YSG' => 
   array (
@@ -4541,6 +4671,19 @@ abstract class AirportLibrary
     'lat' => 53.3092002869,
     'lon' => -110.0729980469,
     'tz' => 'America/Edmonton',
+  ),
+  'YLQ' => 
+  array (
+    'icao' => 'CYLQ',
+    'iata' => 'YLQ',
+    'name' => 'La Tuque Airport',
+    'city' => 'La Tuque',
+    'state' => 'Quebec',
+    'country' => 'CA',
+    'elevation' => 548,
+    'lat' => 47.4096984863,
+    'lon' => -72.7889022827,
+    'tz' => 'America/Toronto',
   ),
   'YLR' => 
   array (
@@ -4579,7 +4722,7 @@ abstract class AirportLibrary
     'elevation' => 100,
     'lat' => 82.5177993774,
     'lon' => -62.2806015015,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Pangnirtung',
   ),
   'XGR' => 
   array (
@@ -4592,7 +4735,7 @@ abstract class AirportLibrary
     'elevation' => 215,
     'lat' => 58.7113990784,
     'lon' => -65.9927978516,
-    'tz' => 'America/Iqaluit',
+    'tz' => 'America/Toronto',
   ),
   'YLW' => 
   array (
@@ -4618,7 +4761,7 @@ abstract class AirportLibrary
     'elevation' => 1653,
     'lat' => 63.6164016724,
     'lon' => -135.8679962158,
-    'tz' => 'America/Vancouver',
+    'tz' => 'America/Whitehorse',
   ),
   'YME' => 
   array (
@@ -4644,7 +4787,7 @@ abstract class AirportLibrary
     'elevation' => 1198,
     'lat' => 49.0839004517,
     'lon' => -85.8606033325,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YMH' => 
   array (
@@ -4709,7 +4852,7 @@ abstract class AirportLibrary
     'elevation' => 30,
     'lat' => 51.2910995483,
     'lon' => -80.6078033447,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YMT' => 
   array (
@@ -4735,6 +4878,19 @@ abstract class AirportLibrary
     'elevation' => 250,
     'lat' => 56.5360984802,
     'lon' => -76.5183029175,
+    'tz' => 'America/Iqaluit',
+  ),
+  'YMW' => 
+  array (
+    'icao' => 'CYMW',
+    'iata' => 'YMW',
+    'name' => 'Maniwaki Airport',
+    'city' => 'Maniwaki',
+    'state' => 'Quebec',
+    'country' => 'CA',
+    'elevation' => 656,
+    'lat' => 46.2728004456,
+    'lon' => -75.9906005859,
     'tz' => 'America/Toronto',
   ),
   'YMX' => 
@@ -4802,6 +4958,32 @@ abstract class AirportLibrary
     'lon' => -97.8442001343,
     'tz' => 'America/Winnipeg',
   ),
+  'YNH' => 
+  array (
+    'icao' => 'CYNH',
+    'iata' => 'YNH',
+    'name' => 'Hudsons Hope Airport',
+    'city' => 'Hudson\'s Hope',
+    'state' => 'British Columbia',
+    'country' => 'CA',
+    'elevation' => 2220,
+    'lat' => 56.0355987549,
+    'lon' => -121.9759979248,
+    'tz' => 'America/Dawson_Creek',
+  ),
+  'YLY' => 
+  array (
+    'icao' => 'CYNJ',
+    'iata' => 'YLY',
+    'name' => 'Langley Airport',
+    'city' => 'Langley',
+    'state' => 'British Columbia',
+    'country' => 'CA',
+    'elevation' => 34,
+    'lat' => 49.1007995605,
+    'lon' => -122.6309967041,
+    'tz' => 'America/Vancouver',
+  ),
   'YNL' => 
   array (
     'icao' => 'CYNL',
@@ -4865,7 +5047,7 @@ abstract class AirportLibrary
     'elevation' => 1536,
     'lat' => 64.6988983154,
     'lon' => -110.614997864,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Yellowknife',
   ),
   'YOC' => 
   array (
@@ -4878,7 +5060,7 @@ abstract class AirportLibrary
     'elevation' => 824,
     'lat' => 67.570602417,
     'lon' => -139.8390045166,
-    'tz' => 'America/Vancouver',
+    'tz' => 'America/Dawson',
   ),
   'YOD' => 
   array (
@@ -4995,7 +5177,7 @@ abstract class AirportLibrary
     'elevation' => 15,
     'lat' => 69.3608381154,
     'lon' => -124.075469971,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Inuvik',
   ),
   'YPS' => 
   array (
@@ -5060,7 +5242,7 @@ abstract class AirportLibrary
     'elevation' => 1267,
     'lat' => 51.4463996887,
     'lon' => -90.2142028809,
-    'tz' => 'America/Panama',
+    'tz' => 'America/Atikokan',
   ),
   'YPM' => 
   array (
@@ -5073,7 +5255,7 @@ abstract class AirportLibrary
     'elevation' => 1114,
     'lat' => 51.8196983337,
     'lon' => -93.9732971191,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'YPN' => 
   array (
@@ -5099,7 +5281,7 @@ abstract class AirportLibrary
     'elevation' => 173,
     'lat' => 54.9880981445,
     'lon' => -85.4432983398,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YPQ' => 
   array (
@@ -5165,6 +5347,19 @@ abstract class AirportLibrary
     'lat' => 58.76720047,
     'lon' => -111.1169967651,
     'tz' => 'America/Edmonton',
+  ),
+  'YPZ' => 
+  array (
+    'icao' => 'CYPZ',
+    'iata' => 'YPZ',
+    'name' => 'Burns Lake Airport',
+    'city' => 'Burns Lake',
+    'state' => 'British Columbia',
+    'country' => 'CA',
+    'elevation' => 2343,
+    'lat' => 54.3763999939,
+    'lon' => -125.9509963989,
+    'tz' => 'America/Vancouver',
   ),
   'YQA' => 
   array (
@@ -5242,7 +5437,7 @@ abstract class AirportLibrary
     'elevation' => 2255,
     'lat' => 60.1164016724,
     'lon' => -128.8220062256,
-    'tz' => 'America/Vancouver',
+    'tz' => 'America/Whitehorse',
   ),
   'YQI' => 
   array (
@@ -5268,7 +5463,7 @@ abstract class AirportLibrary
     'elevation' => 1332,
     'lat' => 49.7882995605,
     'lon' => -94.3630981445,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'YQL' => 
   array (
@@ -5294,7 +5489,7 @@ abstract class AirportLibrary
     'elevation' => 232,
     'lat' => 46.1122016907,
     'lon' => -64.6785964966,
-    'tz' => 'America/Halifax',
+    'tz' => 'America/Moncton',
   ),
   'YQN' => 
   array (
@@ -5307,7 +5502,7 @@ abstract class AirportLibrary
     'elevation' => 1057,
     'lat' => 50.182800293,
     'lon' => -86.6964035034,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YQQ' => 
   array (
@@ -5398,7 +5593,7 @@ abstract class AirportLibrary
     'elevation' => 1799,
     'lat' => 52.7691993713,
     'lon' => -108.2440032959,
-    'tz' => 'America/Regina',
+    'tz' => 'America/Swift_Current',
   ),
   'YQX' => 
   array (
@@ -5463,7 +5658,7 @@ abstract class AirportLibrary
     'elevation' => 215,
     'lat' => 74.7169036865,
     'lon' => -94.9693984985,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Resolute',
   ),
   'YRI' => 
   array (
@@ -5502,7 +5697,20 @@ abstract class AirportLibrary
     'elevation' => 1265,
     'lat' => 51.0668983459,
     'lon' => -93.7930984497,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
+  ),
+  'YRM' => 
+  array (
+    'icao' => 'CYRM',
+    'iata' => 'YRM',
+    'name' => 'Rocky Mountain House Airport',
+    'city' => 'Rocky Mountain House',
+    'state' => 'Alberta',
+    'country' => 'CA',
+    'elevation' => 3244,
+    'lat' => 52.4296989441,
+    'lon' => -114.9039993286,
+    'tz' => 'America/Edmonton',
   ),
   'YRO' => 
   array (
@@ -5567,7 +5775,7 @@ abstract class AirportLibrary
     'elevation' => 94,
     'lat' => 62.8114013672,
     'lon' => -92.1157989502,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rankin_Inlet',
   ),
   'YRV' => 
   array (
@@ -5608,6 +5816,19 @@ abstract class AirportLibrary
     'lon' => -71.6913986206,
     'tz' => 'America/Toronto',
   ),
+  'YSE' => 
+  array (
+    'icao' => 'CYSE',
+    'iata' => 'YSE',
+    'name' => 'Squamish Airport',
+    'city' => 'Squamish',
+    'state' => 'British Columbia',
+    'country' => 'CA',
+    'elevation' => 171,
+    'lat' => 49.7817001343,
+    'lon' => -123.1620025635,
+    'tz' => 'America/Vancouver',
+  ),
   'YSF' => 
   array (
     'icao' => 'CYSF',
@@ -5645,7 +5866,7 @@ abstract class AirportLibrary
     'elevation' => 357,
     'lat' => 45.3161010742,
     'lon' => -65.890296936,
-    'tz' => 'America/Halifax',
+    'tz' => 'America/Moncton',
   ),
   'YSK' => 
   array (
@@ -5710,7 +5931,7 @@ abstract class AirportLibrary
     'elevation' => 1035,
     'lat' => 48.7552986145,
     'lon' => -86.3443984985,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YST' => 
   array (
@@ -5749,7 +5970,7 @@ abstract class AirportLibrary
     'elevation' => 282,
     'lat' => 71.9938964844,
     'lon' => -125.242996216,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Inuvik',
   ),
   'YTA' => 
   array (
@@ -5775,7 +5996,7 @@ abstract class AirportLibrary
     'elevation' => 164,
     'lat' => 64.2300033569,
     'lon' => -76.5267028809,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Iqaluit',
   ),
   'YTF' => 
   array (
@@ -5814,7 +6035,7 @@ abstract class AirportLibrary
     'elevation' => 729,
     'lat' => 53.8177986145,
     'lon' => -89.8968963623,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'YTQ' => 
   array (
@@ -5879,7 +6100,7 @@ abstract class AirportLibrary
     'elevation' => 15,
     'lat' => 69.4332962036,
     'lon' => -133.0260009766,
-    'tz' => 'America/Yellowknife',
+    'tz' => 'America/Inuvik',
   ),
   'YUL' => 
   array (
@@ -5905,7 +6126,7 @@ abstract class AirportLibrary
     'elevation' => 80,
     'lat' => 66.5214004517,
     'lon' => -86.2247009277,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rankin_Inlet',
   ),
   'YUX' => 
   array (
@@ -5918,7 +6139,7 @@ abstract class AirportLibrary
     'elevation' => 27,
     'lat' => 68.7761001587,
     'lon' => -81.243598938,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Iqaluit',
   ),
   'YUY' => 
   array (
@@ -5959,6 +6180,19 @@ abstract class AirportLibrary
     'lon' => -105.2620010376,
     'tz' => 'America/Regina',
   ),
+  'YVG' => 
+  array (
+    'icao' => 'CYVG',
+    'iata' => 'YVG',
+    'name' => 'Vermilion Airport',
+    'city' => 'Vermilion',
+    'state' => 'Alberta',
+    'country' => 'CA',
+    'elevation' => 2025,
+    'lat' => 53.3558006287,
+    'lon' => -110.8239974976,
+    'tz' => 'America/Edmonton',
+  ),
   'YVE' => 
   array (
     'icao' => 'CYVK',
@@ -5983,7 +6217,7 @@ abstract class AirportLibrary
     'elevation' => 21,
     'lat' => 67.5457992554,
     'lon' => -64.0314025879,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Pangnirtung',
   ),
   'YVO' => 
   array (
@@ -6022,7 +6256,7 @@ abstract class AirportLibrary
     'elevation' => 238,
     'lat' => 65.2816009521,
     'lon' => -126.797996521,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Inuvik',
   ),
   'YVR' => 
   array (
@@ -6074,7 +6308,7 @@ abstract class AirportLibrary
     'elevation' => 1092,
     'lat' => 52.6557998657,
     'lon' => -94.0614013672,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'YWA' => 
   array (
@@ -6088,6 +6322,19 @@ abstract class AirportLibrary
     'lat' => 45.9522018433,
     'lon' => -77.3191986084,
     'tz' => 'America/Toronto',
+  ),
+  'YFJ' => 
+  array (
+    'icao' => 'CYWE',
+    'iata' => 'YFJ',
+    'name' => 'Wekweeti Airport',
+    'city' => 'Wekweeti',
+    'state' => 'Northwest-Territories',
+    'country' => 'CA',
+    'elevation' => 1208,
+    'lat' => 64.1908035278,
+    'lon' => -114.077003479,
+    'tz' => 'America/Yellowknife',
   ),
   'YWG' => 
   array (
@@ -6113,7 +6360,7 @@ abstract class AirportLibrary
     'elevation' => 703,
     'lat' => 65.2110977173,
     'lon' => -123.4359970093,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Inuvik',
   ),
   'YWK' => 
   array (
@@ -6126,7 +6373,7 @@ abstract class AirportLibrary
     'elevation' => 1808,
     'lat' => 52.9219017029,
     'lon' => -66.864402771,
-    'tz' => 'America/Halifax',
+    'tz' => 'America/Goose_Bay',
   ),
   'YWL' => 
   array (
@@ -6152,7 +6399,7 @@ abstract class AirportLibrary
     'elevation' => 685,
     'lat' => 52.9593933975,
     'lon' => -87.3748683929,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YWY' => 
   array (
@@ -6165,7 +6412,7 @@ abstract class AirportLibrary
     'elevation' => 489,
     'lat' => 63.209400177,
     'lon' => -123.43699646,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Inuvik',
   ),
   'YXC' => 
   array (
@@ -6256,7 +6503,7 @@ abstract class AirportLibrary
     'elevation' => 1258,
     'lat' => 50.113899231,
     'lon' => -91.9052963257,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'YXN' => 
   array (
@@ -6269,7 +6516,7 @@ abstract class AirportLibrary
     'elevation' => 40,
     'lat' => 62.2400016785,
     'lon' => -92.5980987549,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rankin_Inlet',
   ),
   'YXP' => 
   array (
@@ -6282,7 +6529,7 @@ abstract class AirportLibrary
     'elevation' => 75,
     'lat' => 66.1449966431,
     'lon' => -65.7136001587,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Pangnirtung',
   ),
   'YXQ' => 
   array (
@@ -6295,7 +6542,7 @@ abstract class AirportLibrary
     'elevation' => 2131,
     'lat' => 62.4103012085,
     'lon' => -140.8670043945,
-    'tz' => 'America/Whitehorse',
+    'tz' => 'America/Dawson',
   ),
   'YXR' => 
   array (
@@ -6308,7 +6555,7 @@ abstract class AirportLibrary
     'elevation' => 800,
     'lat' => 47.6974006546,
     'lon' => -79.8473453522,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YXS' => 
   array (
@@ -6360,7 +6607,7 @@ abstract class AirportLibrary
     'elevation' => 195,
     'lat' => 49.0252990723,
     'lon' => -122.361000061,
-    'tz' => 'America/Vancouver',
+    'tz' => 'America/Los_Angeles',
   ),
   'YXY' => 
   array (
@@ -6386,7 +6633,7 @@ abstract class AirportLibrary
     'elevation' => 942,
     'lat' => 47.9667015076,
     'lon' => -84.7866973877,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YYB' => 
   array (
@@ -6477,7 +6724,7 @@ abstract class AirportLibrary
     'elevation' => 92,
     'lat' => 69.5466995239,
     'lon' => -93.5766983032,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Cambridge_Bay',
   ),
   'YYJ' => 
   array (
@@ -6505,6 +6752,19 @@ abstract class AirportLibrary
     'lon' => -101.0759963989,
     'tz' => 'America/Winnipeg',
   ),
+  'YYM' => 
+  array (
+    'icao' => 'CYYM',
+    'iata' => 'YYM',
+    'name' => 'Cowley Airport',
+    'city' => 'Cowley',
+    'state' => 'Alberta',
+    'country' => 'CA',
+    'elevation' => 3876,
+    'lat' => 49.6363983154,
+    'lon' => -114.09400177,
+    'tz' => 'America/Edmonton',
+  ),
   'YYN' => 
   array (
     'icao' => 'CYYN',
@@ -6516,7 +6776,7 @@ abstract class AirportLibrary
     'elevation' => 2680,
     'lat' => 50.2919006348,
     'lon' => -107.691001892,
-    'tz' => 'America/Regina',
+    'tz' => 'America/Swift_Current',
   ),
   'YYQ' => 
   array (
@@ -6568,7 +6828,7 @@ abstract class AirportLibrary
     'elevation' => 743,
     'lat' => 49.413898468,
     'lon' => -82.4674987793,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YYW' => 
   array (
@@ -6581,7 +6841,7 @@ abstract class AirportLibrary
     'elevation' => 1058,
     'lat' => 50.2902984619,
     'lon' => -88.9096984863,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YYY' => 
   array (
@@ -6633,7 +6893,7 @@ abstract class AirportLibrary
     'elevation' => 635,
     'lat' => 45.8852996826,
     'lon' => -82.5678024292,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YZF' => 
   array (
@@ -6646,7 +6906,7 @@ abstract class AirportLibrary
     'elevation' => 675,
     'lat' => 62.4627990723,
     'lon' => -114.4400024414,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Yellowknife',
   ),
   'YZG' => 
   array (
@@ -6711,7 +6971,7 @@ abstract class AirportLibrary
     'elevation' => 210,
     'lat' => 64.1932983398,
     'lon' => -83.3593978882,
-    'tz' => 'America/Panama',
+    'tz' => 'America/Atikokan',
   ),
   'YZT' => 
   array (
@@ -6763,7 +7023,7 @@ abstract class AirportLibrary
     'elevation' => 2313,
     'lat' => 60.1727981567,
     'lon' => -132.7429962158,
-    'tz' => 'America/Vancouver',
+    'tz' => 'America/Whitehorse',
   ),
   'YZX' => 
   array (
@@ -6867,7 +7127,7 @@ abstract class AirportLibrary
     'elevation' => 193,
     'lat' => 47.629699707,
     'lon' => -65.738899231,
-    'tz' => 'America/Halifax',
+    'tz' => 'America/Moncton',
   ),
   'ZBM' => 
   array (
@@ -6919,7 +7179,7 @@ abstract class AirportLibrary
     'elevation' => 2351,
     'lat' => 62.2075004578,
     'lon' => -133.3760070801,
-    'tz' => 'America/Vancouver',
+    'tz' => 'America/Whitehorse',
   ),
   'ZFD' => 
   array (
@@ -6958,7 +7218,7 @@ abstract class AirportLibrary
     'elevation' => 116,
     'lat' => 67.4075012207,
     'lon' => -134.8609924316,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Inuvik',
   ),
   'ZFN' => 
   array (
@@ -6971,7 +7231,7 @@ abstract class AirportLibrary
     'elevation' => 332,
     'lat' => 64.9096984863,
     'lon' => -125.5729980469,
-    'tz' => 'America/Edmonton',
+    'tz' => 'America/Inuvik',
   ),
   'ZGF' => 
   array (
@@ -6984,7 +7244,7 @@ abstract class AirportLibrary
     'elevation' => 1720,
     'lat' => 49.0155982971,
     'lon' => -118.4309997559,
-    'tz' => 'America/Vancouver',
+    'tz' => 'America/Los_Angeles',
   ),
   'ZGI' => 
   array (
@@ -7011,6 +7271,19 @@ abstract class AirportLibrary
     'lat' => 52.0456008911,
     'lon' => -95.4657974243,
     'tz' => 'America/Winnipeg',
+  ),
+  'ZHP' => 
+  array (
+    'icao' => 'CZHP',
+    'iata' => 'ZHP',
+    'name' => 'High Prairie Airport',
+    'city' => 'High Prairie',
+    'state' => 'Alberta',
+    'country' => 'CA',
+    'elevation' => 1974,
+    'lat' => 55.3936004639,
+    'lon' => -116.4749984741,
+    'tz' => 'America/Edmonton',
   ),
   'ZJG' => 
   array (
@@ -7049,7 +7322,7 @@ abstract class AirportLibrary
     'elevation' => 35,
     'lat' => 52.2825012207,
     'lon' => -81.6778030396,
-    'tz' => 'America/Toronto',
+    'tz' => 'America/Nipigon',
   ),
   'YTD' => 
   array (
@@ -7075,7 +7348,7 @@ abstract class AirportLibrary
     'elevation' => 911,
     'lat' => 53.4413986206,
     'lon' => -91.762802124,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'ZMH' => 
   array (
@@ -7140,7 +7413,20 @@ abstract class AirportLibrary
     'elevation' => 876,
     'lat' => 53.8911018372,
     'lon' => -92.1964035034,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
+  ),
+  'WPC' => 
+  array (
+    'icao' => 'CZPC',
+    'iata' => 'WPC',
+    'name' => 'Pincher Creek Airport',
+    'city' => 'Pincher Creek',
+    'state' => 'Alberta',
+    'country' => 'CA',
+    'elevation' => 3903,
+    'lat' => 49.5205993652,
+    'lon' => -113.9970016479,
+    'tz' => 'America/Edmonton',
   ),
   'ZPO' => 
   array (
@@ -7166,7 +7452,7 @@ abstract class AirportLibrary
     'elevation' => 974,
     'lat' => 52.9435997009,
     'lon' => -91.3127975464,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'ZSJ' => 
   array (
@@ -7179,7 +7465,7 @@ abstract class AirportLibrary
     'elevation' => 951,
     'lat' => 53.064201355,
     'lon' => -93.3443984985,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'ZSN' => 
   array (
@@ -7207,6 +7493,19 @@ abstract class AirportLibrary
     'lon' => -129.982434511,
     'tz' => 'America/Vancouver',
   ),
+  'YDV' => 
+  array (
+    'icao' => 'CZTA',
+    'iata' => 'YDV',
+    'name' => 'Bloodvein River Airport',
+    'city' => 'Bloodvein River',
+    'state' => 'Manitoba',
+    'country' => 'CA',
+    'elevation' => 721,
+    'lat' => 51.7832984924,
+    'lon' => -96.6999969482,
+    'tz' => 'America/Winnipeg',
+  ),
   'ZTM' => 
   array (
     'icao' => 'CZTM',
@@ -7231,7 +7530,7 @@ abstract class AirportLibrary
     'elevation' => 1435,
     'lat' => 49.4296989441,
     'lon' => -91.7177963257,
-    'tz' => 'America/Winnipeg',
+    'tz' => 'America/Rainy_River',
   ),
   'ZUM' => 
   array (
@@ -7244,7 +7543,7 @@ abstract class AirportLibrary
     'elevation' => 1442,
     'lat' => 53.5619010925,
     'lon' => -64.1063995361,
-    'tz' => 'America/Halifax',
+    'tz' => 'America/Goose_Bay',
   ),
   'ZWH' => 
   array (
@@ -8936,6 +9235,19 @@ abstract class AirportLibrary
     'lon' => 8.0001096725,
     'tz' => 'Africa/Niamey',
   ),
+  'RLT' => 
+  array (
+    'icao' => 'DRZL',
+    'iata' => 'RLT',
+    'name' => 'Arlit Airport',
+    'city' => 'Arlit',
+    'state' => 'Agadez',
+    'country' => 'NE',
+    'elevation' => 1443,
+    'lat' => 18.7903995514,
+    'lon' => 7.3659501076,
+    'tz' => 'Africa/Niamey',
+  ),
   'ZND' => 
   array (
     'icao' => 'DRZR',
@@ -9248,6 +9560,32 @@ abstract class AirportLibrary
     'lon' => 14.152299881,
     'tz' => 'Europe/Berlin',
   ),
+  'ZHZ' => 
+  array (
+    'icao' => 'EDAQ',
+    'iata' => 'ZHZ',
+    'name' => 'Halle-Oppin Airport',
+    'city' => 'Oppin',
+    'state' => 'Saxony-Anhalt',
+    'country' => 'DE',
+    'elevation' => 348,
+    'lat' => 51.5522232056,
+    'lon' => 12.0538892746,
+    'tz' => 'Europe/Berlin',
+  ),
+  'IES' => 
+  array (
+    'icao' => 'EDAU',
+    'iata' => 'IES',
+    'name' => 'Riesa-Gohlis Airport',
+    'city' => 'Riesa',
+    'state' => 'Saxony',
+    'country' => 'DE',
+    'elevation' => 322,
+    'lat' => 51.2936096191,
+    'lon' => 13.3561105728,
+    'tz' => 'Europe/Berlin',
+  ),
   'REB' => 
   array (
     'icao' => 'EDAX',
@@ -9261,17 +9599,17 @@ abstract class AirportLibrary
     'lon' => 12.7522220612,
     'tz' => 'Europe/Berlin',
   ),
-  'SXF' => 
+  'BER' => 
   array (
     'icao' => 'EDDB',
-    'iata' => 'SXF',
-    'name' => 'Berlin-Schonefeld International Airport',
+    'iata' => 'BER',
+    'name' => 'Berlin Brandenburg Airport',
     'city' => 'Berlin',
-    'state' => 'Brandenburg',
+    'state' => '',
     'country' => 'DE',
-    'elevation' => 157,
-    'lat' => 52.3800010681,
-    'lon' => 13.5225000381,
+    'elevation' => 156,
+    'lat' => 52.366667,
+    'lon' => 13.503333,
     'tz' => 'Europe/Berlin',
   ),
   'CSO' => 
@@ -9337,6 +9675,19 @@ abstract class AirportLibrary
     'elevation' => 69,
     'lat' => 54.3833312988,
     'lon' => 13.3255558014,
+    'tz' => 'Europe/Berlin',
+  ),
+  'KOQ' => 
+  array (
+    'icao' => 'EDCK',
+    'iata' => 'KOQ',
+    'name' => 'Kothen Airport',
+    'city' => 'Kothen',
+    'state' => 'Saxony-Anhalt',
+    'country' => 'DE',
+    'elevation' => 305,
+    'lat' => 51.7211112976,
+    'lon' => 11.9527778625,
     'tz' => 'Europe/Berlin',
   ),
   'PEF' => 
@@ -9612,6 +9963,19 @@ abstract class AirportLibrary
     'lon' => 8.1472215652,
     'tz' => 'Europe/Berlin',
   ),
+  'EIB' => 
+  array (
+    'icao' => 'EDGE',
+    'iata' => 'EIB',
+    'name' => 'Eisenach-Kindel Airport',
+    'city' => 'Eisenach',
+    'state' => 'Thuringia',
+    'country' => 'DE',
+    'elevation' => 1112,
+    'lat' => 50.9927787781,
+    'lon' => 10.4727783203,
+    'tz' => 'Europe/Berlin',
+  ),
   'SGE' => 
   array (
     'icao' => 'EDGS',
@@ -9792,7 +10156,7 @@ abstract class AirportLibrary
     'elevation' => 106,
     'lat' => 51.6024017334,
     'lon' => 6.1421699524,
-    'tz' => 'Europe/Berlin',
+    'tz' => 'Europe/Amsterdam',
   ),
   'DTM' => 
   array (
@@ -9896,6 +10260,19 @@ abstract class AirportLibrary
     'elevation' => 1601,
     'lat' => 49.9850006104,
     'lon' => 11.6400003433,
+    'tz' => 'Europe/Berlin',
+  ),
+  'URD' => 
+  array (
+    'icao' => 'EDQE',
+    'iata' => 'URD',
+    'name' => 'Burg Feuerstein Airport',
+    'city' => 'Ebermannstadt',
+    'state' => 'Bavaria',
+    'country' => 'DE',
+    'elevation' => 1673,
+    'lat' => 49.7941665649,
+    'lon' => 11.1336107254,
     'tz' => 'Europe/Berlin',
   ),
   'QOB' => 
@@ -10201,7 +10578,7 @@ abstract class AirportLibrary
   array (
     'icao' => 'EDXF',
     'iata' => 'FLF',
-    'name' => 'Flensburg-Schaferhaus Airport',
+    'name' => 'Flensburg-Schaeferhaus Airport',
     'city' => 'Flensburg',
     'state' => 'Schleswig-Holstein',
     'country' => 'DE',
@@ -10221,6 +10598,19 @@ abstract class AirportLibrary
     'elevation' => 8,
     'lat' => 54.1852798462,
     'lon' => 7.9158329964,
+    'tz' => 'Europe/Berlin',
+  ),
+  'QHU' => 
+  array (
+    'icao' => 'EDXJ',
+    'iata' => 'QHU',
+    'name' => 'Husum-Schwesing Airport',
+    'city' => 'Husum',
+    'state' => 'Schleswig-Holstein',
+    'country' => 'DE',
+    'elevation' => 62,
+    'lat' => 54.5099983215,
+    'lon' => 9.1383333206,
     'tz' => 'Europe/Berlin',
   ),
   'PSH' => 
@@ -10769,6 +11159,19 @@ abstract class AirportLibrary
     'lon' => 24.7159996033,
     'tz' => 'Europe/Helsinki',
   ),
+  'LHB' => 
+  array (
+    'icao' => 'EG74',
+    'iata' => 'LHB',
+    'name' => 'Bruntingthorpe Airport',
+    'city' => 'Bruntingthorpe',
+    'state' => '',
+    'country' => 'GB',
+    'elevation' => 467,
+    'lat' => 52.492971862,
+    'lon' => -1.1250901222,
+    'tz' => 'Europe/London',
+  ),
   'BFS' => 
   array (
     'icao' => 'EGAA',
@@ -10884,6 +11287,19 @@ abstract class AirportLibrary
     'elevation' => 138,
     'lat' => 52.9199981689,
     'lon' => -1.0791699886,
+    'tz' => 'Europe/London',
+  ),
+  'GBA' => 
+  array (
+    'icao' => 'EGBP',
+    'iata' => 'GBA',
+    'name' => 'Kemble Airport',
+    'city' => 'Kemble',
+    'state' => 'England',
+    'country' => 'GB',
+    'elevation' => 433,
+    'lat' => 51.6680984497,
+    'lon' => -2.0569400787,
     'tz' => 'Europe/London',
   ),
   'MAN' => 
@@ -11573,6 +11989,19 @@ abstract class AirportLibrary
     'elevation' => 681,
     'lat' => 53.8658981323,
     'lon' => -1.6605700254,
+    'tz' => 'Europe/London',
+  ),
+  'WRT' => 
+  array (
+    'icao' => 'EGNO',
+    'iata' => 'WRT',
+    'name' => 'Warton Airport',
+    'city' => 'Warton',
+    'state' => 'England',
+    'country' => 'GB',
+    'elevation' => 55,
+    'lat' => 53.745098114,
+    'lon' => -2.8830599785,
     'tz' => 'Europe/London',
   ),
   'CEG' => 
@@ -13473,6 +13902,19 @@ abstract class AirportLibrary
     'lon' => 10.7855997086,
     'tz' => 'Europe/Oslo',
   ),
+  'SRP' => 
+  array (
+    'icao' => 'ENSO',
+    'iata' => 'SRP',
+    'name' => 'Stord Airport',
+    'city' => 'Leirvik',
+    'state' => 'Hordaland',
+    'country' => 'NO',
+    'elevation' => 160,
+    'lat' => 59.7919006348,
+    'lon' => 5.3408498764,
+    'tz' => 'Europe/Oslo',
+  ),
   'LYR' => 
   array (
     'icao' => 'ENSB',
@@ -13549,19 +13991,6 @@ abstract class AirportLibrary
     'elevation' => 463,
     'lat' => 59.1850013733,
     'lon' => 9.5669403076,
-    'tz' => 'Europe/Oslo',
-  ),
-  'SRP' => 
-  array (
-    'icao' => 'ENSO',
-    'iata' => 'SRP',
-    'name' => 'Stord Airport',
-    'city' => 'Leirvik',
-    'state' => 'Hordaland',
-    'country' => 'NO',
-    'elevation' => 160,
-    'lat' => 59.7919006348,
-    'lon' => 5.3408498764,
     'tz' => 'Europe/Oslo',
   ),
   'SOJ' => 
@@ -13709,15 +14138,15 @@ abstract class AirportLibrary
   ),
   'CZW' => 
   array (
-    'icao' => 'EPCH',
+    'icao' => 'EPRU',
     'iata' => 'CZW',
-    'name' => 'Czestochowa-Rudniki',
+    'name' => 'Czestochowa-Rudniki Airport',
     'city' => 'Czestochowa',
     'state' => 'Silesia',
     'country' => 'PL',
     'elevation' => 860,
-    'lat' => 50.8849983215,
-    'lon' => 19.20470047,
+    'lat' => 50.886133,
+    'lon' => 19.202472,
     'tz' => 'Europe/Warsaw',
   ),
   'GDN' => 
@@ -13837,6 +14266,19 @@ abstract class AirportLibrary
     'lon' => 22.3946990967,
     'tz' => 'Europe/Warsaw',
   ),
+  'WMI' => 
+  array (
+    'icao' => 'EPMO',
+    'iata' => 'WMI',
+    'name' => 'Warsaw Modlin Airport',
+    'city' => 'Warsaw',
+    'state' => 'Mazovia',
+    'country' => 'PL',
+    'elevation' => 341,
+    'lat' => 52.4510993958,
+    'lon' => 20.6518001556,
+    'tz' => 'Europe/Warsaw',
+  ),
   'QWS' => 
   array (
     'icao' => 'EPNT',
@@ -13889,6 +14331,19 @@ abstract class AirportLibrary
     'lon' => 16.8262996674,
     'tz' => 'Europe/Warsaw',
   ),
+  'RDO' => 
+  array (
+    'icao' => 'EPRA',
+    'iata' => 'RDO',
+    'name' => 'Warsaw-Radom Airport',
+    'city' => 'Radom',
+    'state' => 'Mazovia',
+    'country' => 'PL',
+    'elevation' => 623,
+    'lat' => 51.3891983032,
+    'lon' => 21.213300705,
+    'tz' => 'Europe/Warsaw',
+  ),
   'RZE' => 
   array (
     'icao' => 'EPRZ',
@@ -13913,6 +14368,32 @@ abstract class AirportLibrary
     'elevation' => 154,
     'lat' => 53.5847015381,
     'lon' => 14.9021997452,
+    'tz' => 'Europe/Warsaw',
+  ),
+  'ZWK' => 
+  array (
+    'icao' => 'EPSU',
+    'iata' => 'ZWK',
+    'name' => 'Suwalki Airport',
+    'city' => 'Suwalki',
+    'state' => 'Podlasie',
+    'country' => 'PL',
+    'elevation' => 581,
+    'lat' => 54.0727996826,
+    'lon' => 22.8992004395,
+    'tz' => 'Europe/Warsaw',
+  ),
+  'SZY' => 
+  array (
+    'icao' => 'EPSY',
+    'iata' => 'SZY',
+    'name' => 'Olsztyn-Mazury Airport',
+    'city' => 'Szymany',
+    'state' => 'Warmia-Mazury',
+    'country' => 'PL',
+    'elevation' => 464,
+    'lat' => 53.481944,
+    'lon' => 20.937778,
     'tz' => 'Europe/Warsaw',
   ),
   'WAW' => 
@@ -14656,6 +15137,19 @@ abstract class AirportLibrary
     'lon' => 10.9141674042,
     'tz' => 'Europe/Berlin',
   ),
+  'GHF' => 
+  array (
+    'icao' => 'ETEU',
+    'iata' => 'GHF',
+    'name' => 'Giebelstadt Army Air Field',
+    'city' => '',
+    'state' => 'Bavaria',
+    'country' => 'DE',
+    'elevation' => 980,
+    'lat' => 49.6481018066,
+    'lon' => 9.9664897919,
+    'tz' => 'Europe/Berlin',
+  ),
   'ZCN' => 
   array (
     'icao' => 'ETHC',
@@ -14708,6 +15202,32 @@ abstract class AirportLibrary
     'lon' => 8.9615898132,
     'tz' => 'Europe/Berlin',
   ),
+  'ILH' => 
+  array (
+    'icao' => 'ETIK',
+    'iata' => 'ILH',
+    'name' => 'Illesheim Air Base',
+    'city' => '',
+    'state' => 'Bavaria',
+    'country' => 'DE',
+    'elevation' => 1079,
+    'lat' => 49.4738998413,
+    'lon' => 10.3880996704,
+    'tz' => 'Europe/Berlin',
+  ),
+  'KZG' => 
+  array (
+    'icao' => 'ETIN',
+    'iata' => 'KZG',
+    'name' => 'Kitzingen Army Air Field',
+    'city' => '',
+    'state' => 'Bavaria',
+    'country' => 'DE',
+    'elevation' => 689,
+    'lat' => 49.7430992126,
+    'lon' => 10.2005996704,
+    'tz' => 'Europe/Berlin',
+  ),
   'NDZ' => 
   array (
     'icao' => 'ETMN',
@@ -14732,7 +15252,7 @@ abstract class AirportLibrary
     'elevation' => 296,
     'lat' => 50.9608001709,
     'lon' => 6.0424199104,
-    'tz' => 'Europe/Berlin',
+    'tz' => 'Europe/Amsterdam',
   ),
   'RLG' => 
   array (
@@ -14836,19 +15356,6 @@ abstract class AirportLibrary
     'elevation' => 236,
     'lat' => 51.9227981567,
     'lon' => 8.3063297272,
-    'tz' => 'Europe/Berlin',
-  ),
-  'BGN' => 
-  array (
-    'icao' => 'ETUR',
-    'iata' => 'BGN',
-    'name' => 'Brugge Air Base',
-    'city' => '',
-    'state' => 'North-Rhine-Westphalia',
-    'country' => 'DE',
-    'elevation' => 0,
-    'lat' => 51.1996994019,
-    'lon' => 6.1320800781,
     'tz' => 'Europe/Berlin',
   ),
   'DGP' => 
@@ -15477,15 +15984,15 @@ abstract class AirportLibrary
   ),
   'MEZ' => 
   array (
-    'icao' => 'FAMH',
+    'icao' => 'FAMS',
     'iata' => 'MEZ',
-    'name' => 'Musina(Messina) Airport',
-    'city' => 'Musina',
-    'state' => 'Limpopo',
+    'name' => 'Morningside Farm Airport',
+    'city' => 'Silveroaks',
+    'state' => 'North-West',
     'country' => 'ZA',
-    'elevation' => 1904,
-    'lat' => -22.3560009003,
-    'lon' => 29.9862003326,
+    'elevation' => 4251,
+    'lat' => -25.7045001984,
+    'lon' => 26.9090003967,
     'tz' => 'Africa/Johannesburg',
   ),
   'MBD' => 
@@ -15609,13 +16116,13 @@ abstract class AirportLibrary
   array (
     'icao' => 'FAOR',
     'iata' => 'JNB',
-    'name' => 'Olifants River Bridge Landing Strip Airport',
-    'city' => 'Olifants River Bridge',
-    'state' => 'Limpopo',
+    'name' => 'O. R. Tambo International Airport',
+    'city' => 'Johannesburg',
+    'state' => 'Gauteng',
     'country' => 'ZA',
-    'elevation' => 2420,
-    'lat' => -24.2670001984,
-    'lon' => 29.783000946,
+    'elevation' => 5558,
+    'lat' => -26.133333,
+    'lon' => 28.25,
     'tz' => 'Africa/Johannesburg',
   ),
   'AFD' => 
@@ -16203,6 +16710,19 @@ abstract class AirportLibrary
     'lon' => 27.8288002014,
     'tz' => 'Africa/Gaborone',
   ),
+  'SVT' => 
+  array (
+    'icao' => 'FBSV',
+    'iata' => 'SVT',
+    'name' => 'Savuti Airport',
+    'city' => 'Savuti',
+    'state' => 'North-West',
+    'country' => 'BW',
+    'elevation' => 3150,
+    'lat' => -18.5205993652,
+    'lon' => 24.0767002106,
+    'tz' => 'Africa/Gaborone',
+  ),
   'SWX' => 
   array (
     'icao' => 'FBSW',
@@ -16595,16 +17115,16 @@ abstract class AirportLibrary
   ),
   'BEM' => 
   array (
-    'icao' => 'FEFL',
+    'icao' => 'GMMD',
     'iata' => 'BEM',
-    'name' => 'Bossembele Airport',
-    'city' => 'Bossembele',
-    'state' => 'Ombella-M\'Poko',
-    'country' => 'CF',
-    'elevation' => 2231,
-    'lat' => 5.2670001984,
-    'lon' => 17.6329994202,
-    'tz' => 'Africa/Bangui',
+    'name' => 'Beni Mellal Airport',
+    'city' => '',
+    'state' => 'Beni-Mellal-Khenifra',
+    'country' => 'MA',
+    'elevation' => 1670,
+    'lat' => 32.4000015259,
+    'lon' => -6.3333301544,
+    'tz' => 'Africa/Casablanca',
   ),
   'BBY' => 
   array (
@@ -17202,26 +17722,26 @@ abstract class AirportLibrary
     'elevation' => 4462,
     'lat' => -15.633332,
     'lon' => 29.603333,
-    'tz' => 'Africa/Lusaka',
+    'tz' => 'Africa/Harare',
   ),
   'ZKP' => 
   array (
-    'icao' => 'FLKE',
+    'icao' => 'UESU',
     'iata' => 'ZKP',
-    'name' => 'Kasompe Airport',
-    'city' => 'Kasompe',
-    'state' => 'Copperbelt',
-    'country' => 'ZM',
-    'elevation' => 4636,
-    'lat' => -12.5727996826,
-    'lon' => 27.8938999176,
-    'tz' => 'Africa/Lusaka',
+    'name' => 'Zyryanka Airport',
+    'city' => 'Zyryanka',
+    'state' => 'Chukot',
+    'country' => 'RU',
+    'elevation' => 181,
+    'lat' => 65.7367019653,
+    'lon' => 150.705001831,
+    'tz' => 'Asia/Srednekolymsk',
   ),
   'LUN' => 
   array (
-    'icao' => 'FLKK',
+    'icao' => 'FLLS',
     'iata' => 'LUN',
-    'name' => 'Kenneth Kaunda International Airport',
+    'name' => 'Lusaka International Airport',
     'city' => 'Lusaka',
     'state' => 'Lusaka',
     'country' => 'ZM',
@@ -17528,6 +18048,19 @@ abstract class AirportLibrary
     'lat' => -21.3208999634,
     'lon' => 55.4249992371,
     'tz' => 'Indian/Reunion',
+  ),
+  'OHB' => 
+  array (
+    'icao' => 'FMFE',
+    'iata' => 'OHB',
+    'name' => 'Moramanga Aerodrome',
+    'city' => 'Moramanga',
+    'state' => '',
+    'country' => 'MG',
+    'elevation' => 2960,
+    'lat' => -18.9175,
+    'lon' => 48.2181944444,
+    'tz' => 'Indian/Antananarivo',
   ),
   'WML' => 
   array (
@@ -18426,6 +18959,32 @@ abstract class AirportLibrary
     'lon' => 16.9473991394,
     'tz' => 'Africa/Luanda',
   ),
+  'LLT' => 
+  array (
+    'icao' => 'FNLB',
+    'iata' => 'LLT',
+    'name' => 'Lobito Airport',
+    'city' => 'Lobito',
+    'state' => 'Benguela',
+    'country' => 'AO',
+    'elevation' => 10,
+    'lat' => -12.3711996078,
+    'lon' => 13.5366001129,
+    'tz' => 'Africa/Luanda',
+  ),
+  'LBZ' => 
+  array (
+    'icao' => 'FNLK',
+    'iata' => 'LBZ',
+    'name' => 'Lucapa Airport',
+    'city' => 'Lucapa',
+    'state' => 'Luanda-Norte',
+    'country' => 'AO',
+    'elevation' => 3029,
+    'lat' => -8.4457273483,
+    'lon' => 20.7320861816,
+    'tz' => 'Africa/Luanda',
+  ),
   'LAD' => 
   array (
     'icao' => 'FNLU',
@@ -18437,6 +18996,19 @@ abstract class AirportLibrary
     'elevation' => 243,
     'lat' => -8.8583698273,
     'lon' => 13.2312002182,
+    'tz' => 'Africa/Luanda',
+  ),
+  'LZM' => 
+  array (
+    'icao' => 'FNLZ',
+    'iata' => 'LZM',
+    'name' => 'Luzamba Airport',
+    'city' => 'Luzamba',
+    'state' => 'Luanda-Norte',
+    'country' => 'AO',
+    'elevation' => 2904,
+    'lat' => -9.1159601212,
+    'lon' => 18.0492992401,
     'tz' => 'Africa/Luanda',
   ),
   'MEG' => 
@@ -18633,6 +19205,19 @@ abstract class AirportLibrary
     'lat' => -7.2594399452,
     'lon' => 12.8631000519,
     'tz' => 'Africa/Luanda',
+  ),
+  'NZA' => 
+  array (
+    'icao' => 'SPZA',
+    'iata' => 'NZA',
+    'name' => 'Maria Reiche Neuman Airport',
+    'city' => '',
+    'state' => 'Ica',
+    'country' => 'PE',
+    'elevation' => 1860,
+    'lat' => -14.8540000916,
+    'lon' => -74.9615020752,
+    'tz' => 'America/Lima',
   ),
   'BGB' => 
   array (
@@ -19165,6 +19750,19 @@ abstract class AirportLibrary
     'elevation' => 331,
     'lat' => -12.9917621613,
     'lon' => 40.5240135193,
+    'tz' => 'Africa/Maputo',
+  ),
+  'PDD' => 
+  array (
+    'icao' => 'FQPO',
+    'iata' => 'PDD',
+    'name' => 'Ponta do Ouro Airport',
+    'city' => 'Ponta do Ouro',
+    'state' => 'Maputo',
+    'country' => 'MZ',
+    'elevation' => 92,
+    'lat' => -26.8285522461,
+    'lon' => 32.8377075195,
     'tz' => 'Africa/Maputo',
   ),
   'UEL' => 
@@ -19815,7 +20413,7 @@ abstract class AirportLibrary
     'elevation' => 5350,
     'lat' => -28.8556003571,
     'lon' => 28.0527992249,
-    'tz' => 'Africa/Maseru',
+    'tz' => 'Africa/Johannesburg',
   ),
   'LES' => 
   array (
@@ -19828,6 +20426,19 @@ abstract class AirportLibrary
     'elevation' => 7130,
     'lat' => -29.7828998566,
     'lon' => 28.3166999817,
+    'tz' => 'Africa/Maseru',
+  ),
+  'MSG' => 
+  array (
+    'icao' => 'FXMA',
+    'iata' => 'MSG',
+    'name' => 'Matsaile Airport',
+    'city' => 'Matsaile',
+    'state' => 'Thaba-Tseka',
+    'country' => 'LS',
+    'elevation' => 6200,
+    'lat' => -29.8405990601,
+    'lon' => 28.7763996124,
     'tz' => 'Africa/Maseru',
   ),
   'MFC' => 
@@ -19919,7 +20530,7 @@ abstract class AirportLibrary
     'elevation' => 6100,
     'lat' => -30.111700058,
     'lon' => 28.6718997955,
-    'tz' => 'Africa/Maseru',
+    'tz' => 'Africa/Johannesburg',
   ),
   'SHK' => 
   array (
@@ -20064,6 +20675,19 @@ abstract class AirportLibrary
     'lon' => 18.1114006042,
     'tz' => 'Africa/Windhoek',
   ),
+  'LHU' => 
+  array (
+    'icao' => 'FYLS',
+    'iata' => 'LHU',
+    'name' => 'Lianshulu Airport',
+    'city' => 'Muneambuanas',
+    'state' => '',
+    'country' => 'NA',
+    'elevation' => 3143,
+    'lat' => -18.1166992188,
+    'lon' => 23.3932991028,
+    'tz' => 'Africa/Gaborone',
+  ),
   'LUD' => 
   array (
     'icao' => 'FYLZ',
@@ -20075,6 +20699,19 @@ abstract class AirportLibrary
     'elevation' => 457,
     'lat' => -26.6874008179,
     'lon' => 15.2428998947,
+    'tz' => 'Africa/Windhoek',
+  ),
+  'MJO' => 
+  array (
+    'icao' => 'FYME',
+    'iata' => 'MJO',
+    'name' => 'Mount Etjo Airport',
+    'city' => '',
+    'state' => 'Otjozondjupa',
+    'country' => 'NA',
+    'elevation' => 5000,
+    'lat' => -21.0233001709,
+    'lon' => 16.4528007507,
     'tz' => 'Africa/Windhoek',
   ),
   'OKU' => 
@@ -20140,7 +20777,7 @@ abstract class AirportLibrary
     'elevation' => 14,
     'lat' => -28.5846996307,
     'lon' => 16.4466991425,
-    'tz' => 'Africa/Windhoek',
+    'tz' => 'Africa/Johannesburg',
   ),
   'OKF' => 
   array (
@@ -20153,6 +20790,19 @@ abstract class AirportLibrary
     'elevation' => 3911,
     'lat' => -19.1492004395,
     'lon' => 15.9118995667,
+    'tz' => 'Africa/Windhoek',
+  ),
+  'OTJ' => 
+  array (
+    'icao' => 'FYOW',
+    'iata' => 'OTJ',
+    'name' => 'Otjiwarongo Airport',
+    'city' => 'Otjiwarongo',
+    'state' => '',
+    'country' => 'NA',
+    'elevation' => 4859,
+    'lat' => -20.4347000122,
+    'lon' => 16.6608009338,
     'tz' => 'Africa/Windhoek',
   ),
   'NDU' => 
@@ -20168,6 +20818,19 @@ abstract class AirportLibrary
     'lon' => 19.7194004059,
     'tz' => 'Africa/Windhoek',
   ),
+  'RHN' => 
+  array (
+    'icao' => 'FYSA',
+    'iata' => 'RHN',
+    'name' => 'Skorpion Mine Airport',
+    'city' => 'Rosh Pinah',
+    'state' => '',
+    'country' => 'NA',
+    'elevation' => 1870,
+    'lat' => -27.8763999939,
+    'lon' => 16.6478004456,
+    'tz' => 'Africa/Windhoek',
+  ),
   'SWP' => 
   array (
     'icao' => 'FYSM',
@@ -20179,6 +20842,19 @@ abstract class AirportLibrary
     'elevation' => 207,
     'lat' => -22.6618995667,
     'lon' => 14.5680999756,
+    'tz' => 'Africa/Windhoek',
+  ),
+  'SZM' => 
+  array (
+    'icao' => 'FYSS',
+    'iata' => 'SZM',
+    'name' => 'Sesriem Airstrip',
+    'city' => '',
+    'state' => 'Hardap',
+    'country' => 'NA',
+    'elevation' => 2454,
+    'lat' => -24.5128002167,
+    'lon' => 15.7467002869,
     'tz' => 'Africa/Windhoek',
   ),
   'TSB' => 
@@ -20701,6 +21377,19 @@ abstract class AirportLibrary
     'lon' => 26.7339992523,
     'tz' => 'Africa/Lubumbashi',
   ),
+  'KGN' => 
+  array (
+    'icao' => 'FZOK',
+    'iata' => 'KGN',
+    'name' => 'Kasongo Airport',
+    'city' => 'Kasongo',
+    'state' => 'Maniema',
+    'country' => 'CD',
+    'elevation' => 1785,
+    'lat' => -4.5329999924,
+    'lon' => 26.6170005798,
+    'tz' => 'Africa/Lubumbashi',
+  ),
   'PUN' => 
   array (
     'icao' => 'FZOP',
@@ -20751,7 +21440,7 @@ abstract class AirportLibrary
     'elevation' => 3146,
     'lat' => -10.3500003815,
     'lon' => 28.6329994202,
-    'tz' => 'Africa/Lusaka',
+    'tz' => 'Africa/Lubumbashi',
   ),
   'KWZ' => 
   array (
@@ -20833,15 +21522,15 @@ abstract class AirportLibrary
   ),
   'KMN' => 
   array (
-    'icao' => 'FZSA',
+    'icao' => 'FZSB',
     'iata' => 'KMN',
-    'name' => 'Kamina Base Airport',
-    'city' => '',
+    'name' => 'Ville Airport',
+    'city' => 'Kamina',
     'state' => '',
     'country' => 'CD',
-    'elevation' => 3543,
-    'lat' => -8.6420202255,
-    'lon' => 25.2528991699,
+    'elevation' => 3475,
+    'lat' => -8.7286100388,
+    'lon' => 24.991399765,
     'tz' => 'Africa/Lubumbashi',
   ),
   'KAP' => 
@@ -21297,7 +21986,7 @@ abstract class AirportLibrary
     'elevation' => 156,
     'lat' => 35.279800415,
     'lon' => -2.9562599659,
-    'tz' => 'Europe/Madrid',
+    'tz' => 'Africa/Casablanca',
   ),
   'BTE' => 
   array (
@@ -21661,7 +22350,7 @@ abstract class AirportLibrary
     'elevation' => 350,
     'lat' => 26.7318000793,
     'lon' => -11.6847000122,
-    'tz' => 'Africa/Casablanca',
+    'tz' => 'Africa/El_Aaiun',
   ),
   'GMD' => 
   array (
@@ -21726,7 +22415,7 @@ abstract class AirportLibrary
     'elevation' => 36,
     'lat' => 23.7182998657,
     'lon' => -15.9320001602,
-    'tz' => 'Africa/Casablanca',
+    'tz' => 'Africa/El_Aaiun',
   ),
   'ESU' => 
   array (
@@ -21752,7 +22441,7 @@ abstract class AirportLibrary
     'elevation' => 207,
     'lat' => 27.1516990662,
     'lon' => -13.2192001343,
-    'tz' => 'Africa/Casablanca',
+    'tz' => 'Africa/El_Aaiun',
   ),
   'CMN' => 
   array (
@@ -22181,7 +22870,7 @@ abstract class AirportLibrary
     'elevation' => 66,
     'lat' => 16.1595001221,
     'lon' => -13.5075998306,
-    'tz' => 'Africa/Nouakchott',
+    'tz' => 'Africa/Dakar',
   ),
   'MOM' => 
   array (
@@ -22272,7 +22961,7 @@ abstract class AirportLibrary
     'elevation' => 24,
     'lat' => 20.9330997467,
     'lon' => -17.0300006866,
-    'tz' => 'Africa/Nouakchott',
+    'tz' => 'Africa/El_Aaiun',
   ),
   'OUZ' => 
   array (
@@ -22820,6 +23509,19 @@ abstract class AirportLibrary
     'lon' => 36.5830001831,
     'tz' => 'Africa/Addis_Ababa',
   ),
+  'JIJ' => 
+  array (
+    'icao' => 'HAJJ',
+    'iata' => 'JIJ',
+    'name' => 'Jijiga Airport',
+    'city' => 'Jijiga',
+    'state' => 'Somali',
+    'country' => 'ET',
+    'elevation' => 5413,
+    'lat' => 9.330833,
+    'lon' => 42.911111,
+    'tz' => 'Africa/Addis_Ababa',
+  ),
   'JIM' => 
   array (
     'icao' => 'HAJM',
@@ -22885,6 +23587,19 @@ abstract class AirportLibrary
     'lon' => 38.9799995422,
     'tz' => 'Africa/Addis_Ababa',
   ),
+  'TUJ' => 
+  array (
+    'icao' => 'HAMJ',
+    'iata' => 'TUJ',
+    'name' => 'Tume Airport',
+    'city' => 'Maji',
+    'state' => 'SNNPR',
+    'country' => 'ET',
+    'elevation' => 2500,
+    'lat' => 5.8330001831,
+    'lon' => 35.533000946,
+    'tz' => 'Africa/Addis_Ababa',
+  ),
   'MQX' => 
   array (
     'icao' => 'HAMK',
@@ -22896,6 +23611,32 @@ abstract class AirportLibrary
     'elevation' => 7396,
     'lat' => 13.4673995972,
     'lon' => 39.5335006714,
+    'tz' => 'Africa/Addis_Ababa',
+  ),
+  'MZX' => 
+  array (
+    'icao' => 'HAML',
+    'iata' => 'MZX',
+    'name' => 'Masslo Airport',
+    'city' => 'Masslo',
+    'state' => 'Oromiya',
+    'country' => 'ET',
+    'elevation' => 4180,
+    'lat' => 6.4080600739,
+    'lon' => 39.7238998413,
+    'tz' => 'Africa/Addis_Ababa',
+  ),
+  'ETE' => 
+  array (
+    'icao' => 'HAMM',
+    'iata' => 'ETE',
+    'name' => 'Metema Airport',
+    'city' => 'Metema',
+    'state' => 'Amhara',
+    'country' => 'ET',
+    'elevation' => 2650,
+    'lat' => 12.9329996109,
+    'lon' => 36.1669998169,
     'tz' => 'Africa/Addis_Ababa',
   ),
   'NDM' => 
@@ -22950,6 +23691,19 @@ abstract class AirportLibrary
     'lon' => 36.5999984741,
     'tz' => 'Africa/Addis_Ababa',
   ),
+  'SHC' => 
+  array (
+    'icao' => 'HASC',
+    'iata' => 'SHC',
+    'name' => 'Shire Airport',
+    'city' => 'Shire',
+    'state' => 'Tigray',
+    'country' => 'ET',
+    'elevation' => 6207,
+    'lat' => 14.079444,
+    'lon' => 38.270833,
+    'tz' => 'Africa/Addis_Ababa',
+  ),
   'SXU' => 
   array (
     'icao' => 'HASD',
@@ -22961,6 +23715,19 @@ abstract class AirportLibrary
     'elevation' => 6400,
     'lat' => 6.8169999123,
     'lon' => 37.75,
+    'tz' => 'Africa/Addis_Ababa',
+  ),
+  'SZE' => 
+  array (
+    'icao' => 'HASM',
+    'iata' => 'SZE',
+    'name' => 'Semera Airport',
+    'city' => 'Semera',
+    'state' => 'Afar',
+    'country' => 'ET',
+    'elevation' => 1390,
+    'lat' => 11.7875,
+    'lon' => 40.991667,
     'tz' => 'Africa/Addis_Ababa',
   ),
   'ASO' => 
@@ -23782,6 +24549,19 @@ abstract class AirportLibrary
     'lon' => 36.9277992249,
     'tz' => 'Africa/Nairobi',
   ),
+  'KEU' => 
+  array (
+    'icao' => 'HKKE',
+    'iata' => 'KEU',
+    'name' => 'Keekorok Airport',
+    'city' => 'Keekorok',
+    'state' => 'Narok',
+    'country' => 'KE',
+    'elevation' => 5800,
+    'lat' => -1.5829999447,
+    'lon' => 35.25,
+    'tz' => 'Africa/Nairobi',
+  ),
   'GGM' => 
   array (
     'icao' => 'HKKG',
@@ -23910,7 +24690,7 @@ abstract class AirportLibrary
     'elevation' => 805,
     'lat' => 3.9330000877,
     'lon' => 41.8499984741,
-    'tz' => 'Africa/Nairobi',
+    'tz' => 'Africa/Addis_Ababa',
   ),
   'RBT' => 
   array (
@@ -24209,6 +24989,19 @@ abstract class AirportLibrary
     'elevation' => 50,
     'lat' => 30.3780994415,
     'lon' => 19.5764007568,
+    'tz' => 'Africa/Tripoli',
+  ),
+  'NFR' => 
+  array (
+    'icao' => 'HLNR',
+    'iata' => 'NFR',
+    'name' => 'Nafurah 1 Airport',
+    'city' => 'Nafurah 1',
+    'state' => '',
+    'country' => 'LY',
+    'elevation' => 122,
+    'lat' => 29.2131996155,
+    'lon' => 21.5923995972,
     'tz' => 'Africa/Tripoli',
   ),
   'HUQ' => 
@@ -24639,6 +25432,19 @@ abstract class AirportLibrary
     'lat' => 7.7258300781,
     'lon' => 27.9750003815,
     'tz' => 'Africa/Juba',
+  ),
+  'ZLX' => 
+  array (
+    'icao' => 'HSZA',
+    'iata' => 'ZLX',
+    'name' => 'Zalingei Airport',
+    'city' => 'Zalingei',
+    'state' => 'Central-Darfur',
+    'country' => 'SD',
+    'elevation' => 2953,
+    'lat' => 12.8999996185,
+    'lon' => 23.4829998016,
+    'tz' => 'Africa/Khartoum',
   ),
   'ARK' => 
   array (
@@ -25927,6 +26733,19 @@ abstract class AirportLibrary
     'lon' => -82.7093963623,
     'tz' => 'America/New_York',
   ),
+  'SLT' => 
+  array (
+    'icao' => 'KANK',
+    'iata' => 'SLT',
+    'name' => 'Harriet Alexander Field',
+    'city' => 'Salida',
+    'state' => 'Colorado',
+    'country' => 'US',
+    'elevation' => 7523,
+    'lat' => 38.5382995605,
+    'lon' => -106.0490036011,
+    'tz' => 'America/Denver',
+  ),
   'ANP' => 
   array (
     'icao' => 'KANP',
@@ -26081,7 +26900,7 @@ abstract class AirportLibrary
     'elevation' => 690,
     'lat' => 45.0780983,
     'lon' => -83.56030273,
-    'tz' => 'America/New_York',
+    'tz' => 'America/Detroit',
   ),
   'APT' => 
   array (
@@ -26148,6 +26967,19 @@ abstract class AirportLibrary
     'lon' => -90.9251111,
     'tz' => 'America/Chicago',
   ),
+  'WHT' => 
+  array (
+    'icao' => 'KARM',
+    'iata' => 'WHT',
+    'name' => 'Wharton Regional Airport',
+    'city' => 'Wharton',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 100,
+    'lat' => 29.2542991638,
+    'lon' => -96.1544036865,
+    'tz' => 'America/Chicago',
+  ),
   'AUZ' => 
   array (
     'icao' => 'KARR',
@@ -26212,6 +27044,19 @@ abstract class AirportLibrary
     'lat' => 39.22320175,
     'lon' => -106.8690033,
     'tz' => 'America/Denver',
+  ),
+  'SPZ' => 
+  array (
+    'icao' => 'KASG',
+    'iata' => 'SPZ',
+    'name' => 'Springdale Municipal Airport',
+    'city' => 'Springdale',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 1353,
+    'lat' => 36.176399231,
+    'lon' => -94.1193008423,
+    'tz' => 'America/Chicago',
   ),
   'ASH' => 
   array (
@@ -26321,7 +27166,7 @@ abstract class AirportLibrary
   array (
     'icao' => 'KATW',
     'iata' => 'ATW',
-    'name' => 'Outagamie County Regional Airport',
+    'name' => 'Appleton International Airport',
     'city' => 'Appleton',
     'state' => 'Wisconsin',
     'country' => 'US',
@@ -26473,6 +27318,19 @@ abstract class AirportLibrary
     'lon' => -111.218002319,
     'tz' => 'America/Phoenix',
   ),
+  'AVX' => 
+  array (
+    'icao' => 'KAVX',
+    'iata' => 'AVX',
+    'name' => 'Catalina Airport',
+    'city' => 'Avalon',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 1602,
+    'lat' => 33.4048995972,
+    'lon' => -118.4160003662,
+    'tz' => 'America/Los_Angeles',
+  ),
   'AWM' => 
   array (
     'icao' => 'KAWM',
@@ -26616,6 +27474,32 @@ abstract class AirportLibrary
     'lon' => -72.7155990601,
     'tz' => 'America/New_York',
   ),
+  'CLU' => 
+  array (
+    'icao' => 'KBAK',
+    'iata' => 'CLU',
+    'name' => 'Columbus Municipal Airport',
+    'city' => 'Columbus',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 656,
+    'lat' => 39.2619018555,
+    'lon' => -85.8963012695,
+    'tz' => 'America/Indiana/Indianapolis',
+  ),
+  'BAM' => 
+  array (
+    'icao' => 'KBAM',
+    'iata' => 'BAM',
+    'name' => 'Battle Mountain Airport',
+    'city' => 'Battle Mountain',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 4532,
+    'lat' => 40.5989990234,
+    'lon' => -116.8740005493,
+    'tz' => 'America/Los_Angeles',
+  ),
   'BBB' => 
   array (
     'icao' => 'KBBB',
@@ -26733,6 +27617,32 @@ abstract class AirportLibrary
     'lon' => -94.612197876,
     'tz' => 'America/Chicago',
   ),
+  'BDG' => 
+  array (
+    'icao' => 'KBDG',
+    'iata' => 'BDG',
+    'name' => 'Blanding Municipal Airport',
+    'city' => 'Blanding',
+    'state' => 'Utah',
+    'country' => 'US',
+    'elevation' => 5868,
+    'lat' => 37.58330154,
+    'lon' => -109.4830017,
+    'tz' => 'America/Denver',
+  ),
+  'ILL' => 
+  array (
+    'icao' => 'KBDH',
+    'iata' => 'ILL',
+    'name' => 'Willmar Municipal -John L Rice Field',
+    'city' => 'Willmar',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1126,
+    'lat' => 45.11769867,
+    'lon' => -95.13040161,
+    'tz' => 'America/Chicago',
+  ),
   'BDL' => 
   array (
     'icao' => 'KBDL',
@@ -26758,6 +27668,19 @@ abstract class AirportLibrary
     'lat' => 41.1635017395,
     'lon' => -73.1261978149,
     'tz' => 'America/New_York',
+  ),
+  'WBU' => 
+  array (
+    'icao' => 'KBDU',
+    'iata' => 'WBU',
+    'name' => 'Boulder Municipal Airport',
+    'city' => 'Boulder',
+    'state' => 'Colorado',
+    'country' => 'US',
+    'elevation' => 5288,
+    'lat' => 40.0393981934,
+    'lon' => -105.225997925,
+    'tz' => 'America/Denver',
   ),
   'BEC' => 
   array (
@@ -27071,6 +27994,19 @@ abstract class AirportLibrary
     'lon' => -94.93370056,
     'tz' => 'America/Chicago',
   ),
+  'BJJ' => 
+  array (
+    'icao' => 'KBJJ',
+    'iata' => 'BJJ',
+    'name' => 'Wayne County Airport',
+    'city' => 'Wooster',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 1136,
+    'lat' => 40.8748016357,
+    'lon' => -81.8882980347,
+    'tz' => 'America/New_York',
+  ),
   'BKD' => 
   array (
     'icao' => 'KBKD',
@@ -27201,6 +28137,19 @@ abstract class AirportLibrary
     'lon' => -122.5380020142,
     'tz' => 'America/Los_Angeles',
   ),
+  'BLM' => 
+  array (
+    'icao' => 'KBLM',
+    'iata' => 'BLM',
+    'name' => 'Monmouth Executive Airport',
+    'city' => 'Belmar/Farmingdale',
+    'state' => 'New-Jersey',
+    'country' => 'US',
+    'elevation' => 153,
+    'lat' => 40.18690109,
+    'lon' => -74.12490082,
+    'tz' => 'America/New_York',
+  ),
   'BLU' => 
   array (
     'icao' => 'KBLU',
@@ -27251,7 +28200,7 @@ abstract class AirportLibrary
     'elevation' => 846,
     'lat' => 39.1459999084,
     'lon' => -86.6166992188,
-    'tz' => 'America/New_York',
+    'tz' => 'America/Indiana/Indianapolis',
   ),
   'BMI' => 
   array (
@@ -27565,6 +28514,32 @@ abstract class AirportLibrary
     'lon' => -112.4970016479,
     'tz' => 'America/Denver',
   ),
+  'TTO' => 
+  array (
+    'icao' => 'KBTN',
+    'iata' => 'TTO',
+    'name' => 'Britton Municipal Airport',
+    'city' => 'Britton',
+    'state' => 'South-Dakota',
+    'country' => 'US',
+    'elevation' => 1318,
+    'lat' => 45.8152008057,
+    'lon' => -97.7431030273,
+    'tz' => 'America/Chicago',
+  ),
+  'BTP' => 
+  array (
+    'icao' => 'KBTP',
+    'iata' => 'BTP',
+    'name' => 'Butler County-K W Scholter Field',
+    'city' => 'Butler',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 1248,
+    'lat' => 40.77690125,
+    'lon' => -79.9496994,
+    'tz' => 'America/New_York',
+  ),
   'BTR' => 
   array (
     'icao' => 'KBTR',
@@ -27681,6 +28656,19 @@ abstract class AirportLibrary
     'lat' => 36.76250076,
     'lon' => -96.01119995,
     'tz' => 'America/Chicago',
+  ),
+  'MVW' => 
+  array (
+    'icao' => 'KBVS',
+    'iata' => 'MVW',
+    'name' => 'Skagit Regional Airport',
+    'city' => 'Burlington/Mount Vernon',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 144,
+    'lat' => 48.4709014893,
+    'lon' => -122.4209976196,
+    'tz' => 'America/Los_Angeles',
   ),
   'BLD' => 
   array (
@@ -27825,6 +28813,45 @@ abstract class AirportLibrary
     'lon' => -69.9388297,
     'tz' => 'America/New_York',
   ),
+  'BYG' => 
+  array (
+    'icao' => 'KBYG',
+    'iata' => 'BYG',
+    'name' => 'Johnson County Airport',
+    'city' => 'Buffalo',
+    'state' => 'Wyoming',
+    'country' => 'US',
+    'elevation' => 4968,
+    'lat' => 44.3810997009,
+    'lon' => -106.7220001221,
+    'tz' => 'America/Denver',
+  ),
+  'BYH' => 
+  array (
+    'icao' => 'KBYH',
+    'iata' => 'BYH',
+    'name' => 'Arkansas International Airport',
+    'city' => 'Blytheville',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 254,
+    'lat' => 35.9642982483,
+    'lon' => -89.9440002441,
+    'tz' => 'America/Chicago',
+  ),
+  'BYI' => 
+  array (
+    'icao' => 'KBYI',
+    'iata' => 'BYI',
+    'name' => 'Burley Municipal Airport',
+    'city' => 'Burley',
+    'state' => 'Idaho',
+    'country' => 'US',
+    'elevation' => 4150,
+    'lat' => 42.5425987244,
+    'lon' => -113.7720031738,
+    'tz' => 'America/Boise',
+  ),
   'BYS' => 
   array (
     'icao' => 'KBYS',
@@ -27890,6 +28917,19 @@ abstract class AirportLibrary
     'lon' => -81.1194992065,
     'tz' => 'America/New_York',
   ),
+  'CIG' => 
+  array (
+    'icao' => 'KCAG',
+    'iata' => 'CIG',
+    'name' => 'Craig Moffat Airport',
+    'city' => 'Craig',
+    'state' => 'Colorado',
+    'country' => 'US',
+    'elevation' => 6193,
+    'lat' => 40.4952011108,
+    'lon' => -107.5220031738,
+    'tz' => 'America/Denver',
+  ),
   'CAK' => 
   array (
     'icao' => 'KCAK',
@@ -27915,6 +28955,19 @@ abstract class AirportLibrary
     'lat' => 36.4462013245,
     'lon' => -103.166999817,
     'tz' => 'America/Denver',
+  ),
+  'CAR' => 
+  array (
+    'icao' => 'SUCM',
+    'iata' => 'CAR',
+    'name' => 'Carmelo International Airport',
+    'city' => 'Carmelo',
+    'state' => 'Colonia',
+    'country' => 'UY',
+    'elevation' => 42,
+    'lat' => -33.9661102295,
+    'lon' => -58.3252792358,
+    'tz' => 'America/Montevideo',
   ),
   'CBE' => 
   array (
@@ -28111,6 +29164,19 @@ abstract class AirportLibrary
     'lon' => -74.2814025879,
     'tz' => 'America/New_York',
   ),
+  'CEA' => 
+  array (
+    'icao' => 'KCEA',
+    'iata' => 'CEA',
+    'name' => 'Cessna Acft Field',
+    'city' => 'Wichita',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 1378,
+    'lat' => 37.648601532,
+    'lon' => -97.2506027222,
+    'tz' => 'America/Chicago',
+  ),
   'CEC' => 
   array (
     'icao' => 'KCEC',
@@ -28137,6 +29203,58 @@ abstract class AirportLibrary
     'lon' => -72.53479767,
     'tz' => 'America/New_York',
   ),
+  'CEU' => 
+  array (
+    'icao' => 'KCEU',
+    'iata' => 'CEU',
+    'name' => 'Oconee County Regional Airport',
+    'city' => 'Clemson',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 892,
+    'lat' => 34.6719017,
+    'lon' => -82.8864975,
+    'tz' => 'America/New_York',
+  ),
+  'CEV' => 
+  array (
+    'icao' => 'KCEV',
+    'iata' => 'CEV',
+    'name' => 'Mettel Field',
+    'city' => 'Connersville',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 867,
+    'lat' => 39.6985015869,
+    'lon' => -85.129699707,
+    'tz' => 'America/Indiana/Indianapolis',
+  ),
+  'CEW' => 
+  array (
+    'icao' => 'KCEW',
+    'iata' => 'CEW',
+    'name' => 'Bob Sikes Airport',
+    'city' => 'Crestview',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 213,
+    'lat' => 30.778799057,
+    'lon' => -86.522102356,
+    'tz' => 'America/Chicago',
+  ),
+  'CEY' => 
+  array (
+    'icao' => 'KCEY',
+    'iata' => 'CEY',
+    'name' => 'Kyle Oakley Field',
+    'city' => 'Murray',
+    'state' => 'Kentucky',
+    'country' => 'US',
+    'elevation' => 577,
+    'lat' => 36.66460037,
+    'lon' => -88.37280273,
+    'tz' => 'America/Chicago',
+  ),
   'CEZ' => 
   array (
     'icao' => 'KCEZ',
@@ -28149,6 +29267,84 @@ abstract class AirportLibrary
     'lat' => 37.3030014038,
     'lon' => -108.627998352,
     'tz' => 'America/Denver',
+  ),
+  'CFD' => 
+  array (
+    'icao' => 'KCFD',
+    'iata' => 'CFD',
+    'name' => 'Coulter Field',
+    'city' => 'Bryan',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 367,
+    'lat' => 30.7157001495,
+    'lon' => -96.3313980103,
+    'tz' => 'America/Chicago',
+  ),
+  'TZC' => 
+  array (
+    'icao' => 'KCFS',
+    'iata' => 'TZC',
+    'name' => 'Tuscola Area Airport',
+    'city' => 'Caro',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 701,
+    'lat' => 43.4588012695,
+    'lon' => -83.4455032349,
+    'tz' => 'America/Detroit',
+  ),
+  'CFT' => 
+  array (
+    'icao' => 'KCFT',
+    'iata' => 'CFT',
+    'name' => 'Greenlee County Airport',
+    'city' => 'Clifton/Morenci',
+    'state' => 'Arizona',
+    'country' => 'US',
+    'elevation' => 3798,
+    'lat' => 32.95280075,
+    'lon' => -109.2099991,
+    'tz' => 'America/Phoenix',
+  ),
+  'CFV' => 
+  array (
+    'icao' => 'KCFV',
+    'iata' => 'CFV',
+    'name' => 'Coffeyville Municipal Airport',
+    'city' => 'Coffeyville',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 754,
+    'lat' => 37.09400177,
+    'lon' => -95.5718994141,
+    'tz' => 'America/Chicago',
+  ),
+  'CGE' => 
+  array (
+    'icao' => 'KCGE',
+    'iata' => 'CGE',
+    'name' => 'Cambridge Dorchester Airport',
+    'city' => 'Cambridge',
+    'state' => 'Maryland',
+    'country' => 'US',
+    'elevation' => 20,
+    'lat' => 38.53929901,
+    'lon' => -76.03040314,
+    'tz' => 'America/New_York',
+  ),
+  'CGF' => 
+  array (
+    'icao' => 'KCGF',
+    'iata' => 'CGF',
+    'name' => 'Cuyahoga County Airport',
+    'city' => 'Cleveland',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 879,
+    'lat' => 41.5651016235,
+    'lon' => -81.4863967896,
+    'tz' => 'America/New_York',
   ),
   'CGI' => 
   array (
@@ -28163,6 +29359,32 @@ abstract class AirportLibrary
     'lon' => -89.5708007813,
     'tz' => 'America/Chicago',
   ),
+  'CGS' => 
+  array (
+    'icao' => 'KCGS',
+    'iata' => 'CGS',
+    'name' => 'College Park Airport',
+    'city' => 'College Park',
+    'state' => 'Maryland',
+    'country' => 'US',
+    'elevation' => 48,
+    'lat' => 38.9805984497,
+    'lon' => -76.9223022461,
+    'tz' => 'America/New_York',
+  ),
+  'CGZ' => 
+  array (
+    'icao' => 'KCGZ',
+    'iata' => 'CGZ',
+    'name' => 'Casa Grande Municipal Airport',
+    'city' => 'Casa Grande',
+    'state' => 'Arizona',
+    'country' => 'US',
+    'elevation' => 1464,
+    'lat' => 32.9548988342,
+    'lon' => -111.766998291,
+    'tz' => 'America/Phoenix',
+  ),
   'CHA' => 
   array (
     'icao' => 'KCHA',
@@ -28175,6 +29397,19 @@ abstract class AirportLibrary
     'lat' => 35.0353012085,
     'lon' => -85.2037963867,
     'tz' => 'America/New_York',
+  ),
+  'CHK' => 
+  array (
+    'icao' => 'KCHK',
+    'iata' => 'CHK',
+    'name' => 'Chickasha Municipal Airport',
+    'city' => 'Chickasha',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 1152,
+    'lat' => 35.09740067,
+    'lon' => -97.96769714,
+    'tz' => 'America/Chicago',
   ),
   'CHO' => 
   array (
@@ -28202,6 +29437,19 @@ abstract class AirportLibrary
     'lon' => -80.04049683,
     'tz' => 'America/New_York',
   ),
+  'CIC' => 
+  array (
+    'icao' => 'KCIC',
+    'iata' => 'CIC',
+    'name' => 'Chico Municipal Airport',
+    'city' => 'Chico',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 240,
+    'lat' => 39.79539871,
+    'lon' => -121.8580017,
+    'tz' => 'America/Los_Angeles',
+  ),
   'CID' => 
   array (
     'icao' => 'KCID',
@@ -28215,6 +29463,32 @@ abstract class AirportLibrary
     'lon' => -91.7108001709,
     'tz' => 'America/Chicago',
   ),
+  'CIN' => 
+  array (
+    'icao' => 'KCIN',
+    'iata' => 'CIN',
+    'name' => 'Arthur N Neu Airport',
+    'city' => 'Carroll',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 1204,
+    'lat' => 42.0461997986,
+    'lon' => -94.7890014648,
+    'tz' => 'America/Chicago',
+  ),
+  'CIR' => 
+  array (
+    'icao' => 'KCIR',
+    'iata' => 'CIR',
+    'name' => 'Cairo Regional Airport',
+    'city' => 'Cairo',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 321,
+    'lat' => 37.0644989014,
+    'lon' => -89.2195968628,
+    'tz' => 'America/Chicago',
+  ),
   'CIU' => 
   array (
     'icao' => 'KCIU',
@@ -28226,7 +29500,20 @@ abstract class AirportLibrary
     'elevation' => 800,
     'lat' => 46.2508010864,
     'lon' => -84.4723968506,
-    'tz' => 'America/New_York',
+    'tz' => 'America/Detroit',
+  ),
+  'CKA' => 
+  array (
+    'icao' => 'KCKA',
+    'iata' => 'CKA',
+    'name' => 'Kegelman Af Aux Field',
+    'city' => 'Cherokee',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 1202,
+    'lat' => 36.7439002991,
+    'lon' => -98.1231002808,
+    'tz' => 'America/Chicago',
   ),
   'CKB' => 
   array (
@@ -28241,6 +29528,58 @@ abstract class AirportLibrary
     'lon' => -80.2281036377,
     'tz' => 'America/New_York',
   ),
+  'GRM' => 
+  array (
+    'icao' => 'KCKC',
+    'iata' => 'GRM',
+    'name' => 'Grand Marais Cook County Airport',
+    'city' => 'Grand Marais',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1799,
+    'lat' => 47.8382987976,
+    'lon' => -90.3828964233,
+    'tz' => 'America/Chicago',
+  ),
+  'CKM' => 
+  array (
+    'icao' => 'KCKM',
+    'iata' => 'CKM',
+    'name' => 'Fletcher Field',
+    'city' => 'Clarksdale',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 173,
+    'lat' => 34.2997016907,
+    'lon' => -90.512298584,
+    'tz' => 'America/Chicago',
+  ),
+  'CKN' => 
+  array (
+    'icao' => 'KCKN',
+    'iata' => 'CKN',
+    'name' => 'Crookston Municipal Kirkwood Field',
+    'city' => 'Crookston',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 899,
+    'lat' => 47.8417015076,
+    'lon' => -96.62159729,
+    'tz' => 'America/Chicago',
+  ),
+  'CKV' => 
+  array (
+    'icao' => 'KCKV',
+    'iata' => 'CKV',
+    'name' => 'Outlaw Field',
+    'city' => 'Clarksville',
+    'state' => 'Tennessee',
+    'country' => 'US',
+    'elevation' => 550,
+    'lat' => 36.6218986511,
+    'lon' => -87.4150009155,
+    'tz' => 'America/Chicago',
+  ),
   'CLE' => 
   array (
     'icao' => 'KCLE',
@@ -28253,6 +29592,32 @@ abstract class AirportLibrary
     'lat' => 41.4117012024,
     'lon' => -81.8498001099,
     'tz' => 'America/New_York',
+  ),
+  'CLI' => 
+  array (
+    'icao' => 'KCLI',
+    'iata' => 'CLI',
+    'name' => 'Clintonville Municipal Airport',
+    'city' => 'Clintonville',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 822,
+    'lat' => 44.6138000488,
+    'lon' => -88.731300354,
+    'tz' => 'America/Chicago',
+  ),
+  'CLK' => 
+  array (
+    'icao' => 'KCLK',
+    'iata' => 'CLK',
+    'name' => 'Clinton Regional Airport',
+    'city' => 'Clinton',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 1616,
+    'lat' => 35.53829956,
+    'lon' => -98.93270111,
+    'tz' => 'America/Chicago',
   ),
   'CLL' => 
   array (
@@ -28280,6 +29645,32 @@ abstract class AirportLibrary
     'lon' => -123.5,
     'tz' => 'America/Los_Angeles',
   ),
+  'CLR' => 
+  array (
+    'icao' => 'KCLR',
+    'iata' => 'CLR',
+    'name' => 'Cliff Hatfield Memorial Airport',
+    'city' => 'Calipatria',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => -182,
+    'lat' => 33.1315002441,
+    'lon' => -115.5210037231,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'CLS' => 
+  array (
+    'icao' => 'KCLS',
+    'iata' => 'CLS',
+    'name' => 'Chehalis Centralia Airport',
+    'city' => 'Chehalis',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 176,
+    'lat' => 46.6769981384,
+    'lon' => -122.983001709,
+    'tz' => 'America/Los_Angeles',
+  ),
   'CLT' => 
   array (
     'icao' => 'KCLT',
@@ -28291,6 +29682,19 @@ abstract class AirportLibrary
     'elevation' => 748,
     'lat' => 35.2140007019,
     'lon' => -80.9430999756,
+    'tz' => 'America/New_York',
+  ),
+  'CLW' => 
+  array (
+    'icao' => 'KCLW',
+    'iata' => 'CLW',
+    'name' => 'Clearwater Air Park',
+    'city' => 'Clearwater',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 71,
+    'lat' => 27.9766998291,
+    'lon' => -82.7586975098,
     'tz' => 'America/New_York',
   ),
   'CMH' => 
@@ -28330,7 +29734,46 @@ abstract class AirportLibrary
     'elevation' => 1095,
     'lat' => 47.1683998108,
     'lon' => -88.4890975952,
+    'tz' => 'America/Detroit',
+  ),
+  'CMY' => 
+  array (
+    'icao' => 'KCMY',
+    'iata' => 'CMY',
+    'name' => 'Sparta Fort Mc Coy Airport',
+    'city' => 'Sparta',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 837,
+    'lat' => 43.9583015442,
+    'lon' => -90.7378997803,
+    'tz' => 'America/Chicago',
+  ),
+  'CNH' => 
+  array (
+    'icao' => 'KCNH',
+    'iata' => 'CNH',
+    'name' => 'Claremont Municipal Airport',
+    'city' => 'Claremont',
+    'state' => 'New-Hampshire',
+    'country' => 'US',
+    'elevation' => 545,
+    'lat' => 43.3703994751,
+    'lon' => -72.3686981201,
     'tz' => 'America/New_York',
+  ),
+  'CNK' => 
+  array (
+    'icao' => 'KCNK',
+    'iata' => 'CNK',
+    'name' => 'Blosser Municipal Airport',
+    'city' => 'Concordia',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 1486,
+    'lat' => 39.5493011475,
+    'lon' => -97.6522979736,
+    'tz' => 'America/Chicago',
   ),
   'CNM' => 
   array (
@@ -28343,6 +29786,58 @@ abstract class AirportLibrary
     'elevation' => 3295,
     'lat' => 32.3375015259,
     'lon' => -104.2630004883,
+    'tz' => 'America/Denver',
+  ),
+  'CNO' => 
+  array (
+    'icao' => 'KCNO',
+    'iata' => 'CNO',
+    'name' => 'Chino Airport',
+    'city' => 'Chino',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 650,
+    'lat' => 33.97470093,
+    'lon' => -117.637001,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'CNU' => 
+  array (
+    'icao' => 'KCNU',
+    'iata' => 'CNU',
+    'name' => 'Chanute Martin Johnson Airport',
+    'city' => 'Chanute',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 1002,
+    'lat' => 37.668800354,
+    'lon' => -95.4850997925,
+    'tz' => 'America/Chicago',
+  ),
+  'CNW' => 
+  array (
+    'icao' => 'KCNW',
+    'iata' => 'CNW',
+    'name' => 'TSTC Waco Airport',
+    'city' => 'Waco',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 470,
+    'lat' => 31.6378002167,
+    'lon' => -97.0740966797,
+    'tz' => 'America/Chicago',
+  ),
+  'CNY' => 
+  array (
+    'icao' => 'KCNY',
+    'iata' => 'CNY',
+    'name' => 'Canyonlands Field',
+    'city' => 'Moab',
+    'state' => 'Utah',
+    'country' => 'US',
+    'elevation' => 4557,
+    'lat' => 38.75500107,
+    'lon' => -109.7549973,
     'tz' => 'America/Denver',
   ),
   'COD' => 
@@ -28358,6 +29853,71 @@ abstract class AirportLibrary
     'lon' => -109.0240020752,
     'tz' => 'America/Denver',
   ),
+  'COE' => 
+  array (
+    'icao' => 'KCOE',
+    'iata' => 'COE',
+    'name' => 'Coeur D\'Alene - Pappy Boyington Field',
+    'city' => 'Coeur d\'Alene',
+    'state' => 'Idaho',
+    'country' => 'US',
+    'elevation' => 2320,
+    'lat' => 47.77429962,
+    'lon' => -116.8199997,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'COF' => 
+  array (
+    'icao' => 'KCOF',
+    'iata' => 'COF',
+    'name' => 'Patrick Air Force Base',
+    'city' => 'Cocoa Beach',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 8,
+    'lat' => 28.2348995209,
+    'lon' => -80.6100997925,
+    'tz' => 'America/New_York',
+  ),
+  'COI' => 
+  array (
+    'icao' => 'KCOI',
+    'iata' => 'COI',
+    'name' => 'Merritt Island Airport',
+    'city' => 'Merritt Island',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 6,
+    'lat' => 28.3416004181,
+    'lon' => -80.6855010986,
+    'tz' => 'America/New_York',
+  ),
+  'COM' => 
+  array (
+    'icao' => 'KCOM',
+    'iata' => 'COM',
+    'name' => 'Coleman Municipal Airport',
+    'city' => 'Coleman',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 1697,
+    'lat' => 31.8411006927,
+    'lon' => -99.4036026001,
+    'tz' => 'America/Chicago',
+  ),
+  'CON' => 
+  array (
+    'icao' => 'KCON',
+    'iata' => 'CON',
+    'name' => 'Concord Municipal Airport',
+    'city' => 'Concord',
+    'state' => 'New-Hampshire',
+    'country' => 'US',
+    'elevation' => 342,
+    'lat' => 43.20270157,
+    'lon' => -71.50229645,
+    'tz' => 'America/New_York',
+  ),
   'COS' => 
   array (
     'icao' => 'KCOS',
@@ -28370,6 +29930,19 @@ abstract class AirportLibrary
     'lat' => 38.8058013916,
     'lon' => -104.7009963989,
     'tz' => 'America/Denver',
+  ),
+  'COT' => 
+  array (
+    'icao' => 'KCOT',
+    'iata' => 'COT',
+    'name' => 'Cotulla-La Salle County',
+    'city' => 'Cotulla',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 474,
+    'lat' => 28.45669937,
+    'lon' => -99.22029877,
+    'tz' => 'America/Chicago',
   ),
   'COU' => 
   array (
@@ -28384,6 +29957,19 @@ abstract class AirportLibrary
     'lon' => -92.2195968628,
     'tz' => 'America/Chicago',
   ),
+  'CPM' => 
+  array (
+    'icao' => 'KCPM',
+    'iata' => 'CPM',
+    'name' => 'Compton Woodley Airport',
+    'city' => 'Compton',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 97,
+    'lat' => 33.8899993896,
+    'lon' => -118.2440032959,
+    'tz' => 'America/Los_Angeles',
+  ),
   'CPR' => 
   array (
     'icao' => 'KCPR',
@@ -28396,6 +29982,58 @@ abstract class AirportLibrary
     'lat' => 42.90800095,
     'lon' => -106.4639969,
     'tz' => 'America/Denver',
+  ),
+  'CPS' => 
+  array (
+    'icao' => 'KCPS',
+    'iata' => 'CPS',
+    'name' => 'St Louis Downtown Airport',
+    'city' => 'Cahokia/St Louis',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 413,
+    'lat' => 38.5707015991,
+    'lon' => -90.1561965942,
+    'tz' => 'America/Chicago',
+  ),
+  'HCW' => 
+  array (
+    'icao' => 'KCQW',
+    'iata' => 'HCW',
+    'name' => 'Cheraw Municipal Lynch Bellinger Field',
+    'city' => 'Cheraw',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 239,
+    'lat' => 34.71289825,
+    'lon' => -79.95700073,
+    'tz' => 'America/New_York',
+  ),
+  'CRE' => 
+  array (
+    'icao' => 'KCRE',
+    'iata' => 'CRE',
+    'name' => 'Grand Strand Airport',
+    'city' => 'North Myrtle Beach',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 32,
+    'lat' => 33.8116989136,
+    'lon' => -78.7238998413,
+    'tz' => 'America/New_York',
+  ),
+  'CRG' => 
+  array (
+    'icao' => 'KCRG',
+    'iata' => 'CRG',
+    'name' => 'Craig Municipal Airport',
+    'city' => 'Jacksonville',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 41,
+    'lat' => 30.3362998962,
+    'lon' => -81.5143966675,
+    'tz' => 'America/New_York',
   ),
   'CRO' => 
   array (
@@ -28423,6 +30061,45 @@ abstract class AirportLibrary
     'lon' => -97.5011978149,
     'tz' => 'America/Chicago',
   ),
+  'CLD' => 
+  array (
+    'icao' => 'KCRQ',
+    'iata' => 'CLD',
+    'name' => 'Mc Clellan-Palomar Airport',
+    'city' => 'Carlsbad',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 331,
+    'lat' => 33.12829971,
+    'lon' => -117.2799988,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'CRS' => 
+  array (
+    'icao' => 'KCRS',
+    'iata' => 'CRS',
+    'name' => 'C David Campbell Field Corsicana Municipal Airport',
+    'city' => 'Corsicana',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 449,
+    'lat' => 32.0280990601,
+    'lon' => -96.4005966187,
+    'tz' => 'America/Chicago',
+  ),
+  'CRT' => 
+  array (
+    'icao' => 'KCRT',
+    'iata' => 'CRT',
+    'name' => 'Z M Jack Stell Field',
+    'city' => 'Crossett',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 184,
+    'lat' => 33.1782989502,
+    'lon' => -91.8802032471,
+    'tz' => 'America/Chicago',
+  ),
   'CRW' => 
   array (
     'icao' => 'KCRW',
@@ -28435,6 +30112,19 @@ abstract class AirportLibrary
     'lat' => 38.3731002808,
     'lon' => -81.5932006836,
     'tz' => 'America/New_York',
+  ),
+  'CRX' => 
+  array (
+    'icao' => 'KCRX',
+    'iata' => 'CRX',
+    'name' => 'Roscoe Turner Airport',
+    'city' => 'Corinth',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 425,
+    'lat' => 34.9150009155,
+    'lon' => -88.6035003662,
+    'tz' => 'America/Chicago',
   ),
   'CSG' => 
   array (
@@ -28449,6 +30139,110 @@ abstract class AirportLibrary
     'lon' => -84.9389038086,
     'tz' => 'America/New_York',
   ),
+  'CSM' => 
+  array (
+    'icao' => 'KCSM',
+    'iata' => 'CSM',
+    'name' => 'Clinton Sherman Airport',
+    'city' => 'Clinton',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 1922,
+    'lat' => 35.3398017883,
+    'lon' => -99.2005004883,
+    'tz' => 'America/Chicago',
+  ),
+  'CSQ' => 
+  array (
+    'icao' => 'KCSQ',
+    'iata' => 'CSQ',
+    'name' => 'Creston Municipal Airport',
+    'city' => 'Creston',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 1300,
+    'lat' => 41.0214004517,
+    'lon' => -94.3632965088,
+    'tz' => 'America/Chicago',
+  ),
+  'CSV' => 
+  array (
+    'icao' => 'KCSV',
+    'iata' => 'CSV',
+    'name' => 'Crossville Memorial Whitson Field',
+    'city' => 'Crossville',
+    'state' => 'Tennessee',
+    'country' => 'US',
+    'elevation' => 1881,
+    'lat' => 35.9513015747,
+    'lon' => -85.0849990845,
+    'tz' => 'America/Chicago',
+  ),
+  'CTB' => 
+  array (
+    'icao' => 'KCTB',
+    'iata' => 'CTB',
+    'name' => 'Cut Bank Municipal Airport',
+    'city' => 'Cut Bank',
+    'state' => 'Montana',
+    'country' => 'US',
+    'elevation' => 3854,
+    'lat' => 48.6083984375,
+    'lon' => -112.3759994507,
+    'tz' => 'America/Denver',
+  ),
+  'CTY' => 
+  array (
+    'icao' => 'KCTY',
+    'iata' => 'CTY',
+    'name' => 'Cross City Airport',
+    'city' => 'Cross City',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 42,
+    'lat' => 29.6354999542,
+    'lon' => -83.1047973633,
+    'tz' => 'America/New_York',
+  ),
+  'CTZ' => 
+  array (
+    'icao' => 'KCTZ',
+    'iata' => 'CTZ',
+    'name' => 'Sampson County Airport',
+    'city' => 'Clinton',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 148,
+    'lat' => 34.9756011963,
+    'lon' => -78.3646011353,
+    'tz' => 'America/New_York',
+  ),
+  'CUB' => 
+  array (
+    'icao' => 'KCUB',
+    'iata' => 'CUB',
+    'name' => 'Jim Hamilton L.B. Owens Airport',
+    'city' => 'Columbia',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 193,
+    'lat' => 33.970500946,
+    'lon' => -80.9952011108,
+    'tz' => 'America/New_York',
+  ),
+  'CUH' => 
+  array (
+    'icao' => 'KCUH',
+    'iata' => 'CUH',
+    'name' => 'Cushing Municipal Airport',
+    'city' => 'Cushing',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 916,
+    'lat' => 35.9499015808,
+    'lon' => -96.7731018066,
+    'tz' => 'America/Chicago',
+  ),
   'CVG' => 
   array (
     'icao' => 'KCVG',
@@ -28462,6 +30256,32 @@ abstract class AirportLibrary
     'lon' => -84.6678009033,
     'tz' => 'America/New_York',
   ),
+  'HLI' => 
+  array (
+    'icao' => 'KCVH',
+    'iata' => 'HLI',
+    'name' => 'Hollister Municipal Airport',
+    'city' => 'Hollister',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 230,
+    'lat' => 36.8932991028,
+    'lon' => -121.410003662,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'CKK' => 
+  array (
+    'icao' => 'KCVK',
+    'iata' => 'CKK',
+    'name' => 'Sharp County Regional Airport',
+    'city' => 'Ash Flat',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 716,
+    'lat' => 36.26490021,
+    'lon' => -91.56259918,
+    'tz' => 'America/Chicago',
+  ),
   'CVN' => 
   array (
     'icao' => 'KCVN',
@@ -28473,6 +30293,32 @@ abstract class AirportLibrary
     'elevation' => 4216,
     'lat' => 34.4250984192,
     'lon' => -103.07900238,
+    'tz' => 'America/Denver',
+  ),
+  'CVO' => 
+  array (
+    'icao' => 'KCVO',
+    'iata' => 'CVO',
+    'name' => 'Corvallis Municipal Airport',
+    'city' => 'Corvallis',
+    'state' => 'Oregon',
+    'country' => 'US',
+    'elevation' => 250,
+    'lat' => 44.49720001,
+    'lon' => -123.2900009,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'CVS' => 
+  array (
+    'icao' => 'KCVS',
+    'iata' => 'CVS',
+    'name' => 'Cannon Air Force Base',
+    'city' => 'Clovis',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 4295,
+    'lat' => 34.3828010559,
+    'lon' => -103.3219985962,
     'tz' => 'America/Denver',
   ),
   'CWA' => 
@@ -28514,6 +30360,71 @@ abstract class AirportLibrary
     'lon' => -93.1432037354,
     'tz' => 'America/Chicago',
   ),
+  'CWI' => 
+  array (
+    'icao' => 'KCWI',
+    'iata' => 'CWI',
+    'name' => 'Clinton Municipal Airport',
+    'city' => 'Clinton',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 708,
+    'lat' => 41.8311004639,
+    'lon' => -90.3291015625,
+    'tz' => 'America/Chicago',
+  ),
+  'CXL' => 
+  array (
+    'icao' => 'KCXL',
+    'iata' => 'CXL',
+    'name' => 'Calexico International Airport',
+    'city' => 'Calexico',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 4,
+    'lat' => 32.6694984436,
+    'lon' => -115.5130004883,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'CXO' => 
+  array (
+    'icao' => 'KCXO',
+    'iata' => 'CXO',
+    'name' => 'Lone Star Executive Airport',
+    'city' => 'Houston',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 245,
+    'lat' => 30.3518009186,
+    'lon' => -95.4144973755,
+    'tz' => 'America/Chicago',
+  ),
+  'CSN' => 
+  array (
+    'icao' => 'KCXP',
+    'iata' => 'CSN',
+    'name' => 'Carson Airport',
+    'city' => 'Carson City',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 4697,
+    'lat' => 39.192199707,
+    'lon' => -119.7340011597,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'HAR' => 
+  array (
+    'icao' => 'KCXY',
+    'iata' => 'HAR',
+    'name' => 'Capital City Airport',
+    'city' => 'Harrisburg',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 347,
+    'lat' => 40.2170982361,
+    'lon' => -76.8515014648,
+    'tz' => 'America/New_York',
+  ),
   'CYS' => 
   array (
     'icao' => 'KCYS',
@@ -28526,6 +30437,19 @@ abstract class AirportLibrary
     'lat' => 41.15570068,
     'lon' => -104.8119965,
     'tz' => 'America/Denver',
+  ),
+  'CZT' => 
+  array (
+    'icao' => 'KCZT',
+    'iata' => 'CZT',
+    'name' => 'Dimmit County Airport',
+    'city' => 'Carrizo Springs',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 599,
+    'lat' => 28.5221996307,
+    'lon' => -99.823600769,
+    'tz' => 'America/Chicago',
   ),
   'DAA' => 
   array (
@@ -28759,7 +30683,7 @@ abstract class AirportLibrary
     'elevation' => 4173,
     'lat' => 31.3425998688,
     'lon' => -109.505996704,
-    'tz' => 'America/Phoenix',
+    'tz' => 'America/Hermosillo',
   ),
   'DGW' => 
   array (
@@ -28813,6 +30737,45 @@ abstract class AirportLibrary
     'lon' => -102.802001953,
     'tz' => 'America/Denver',
   ),
+  'DKK' => 
+  array (
+    'icao' => 'KDKK',
+    'iata' => 'DKK',
+    'name' => 'Chautauqua County-Dunkirk Airport',
+    'city' => 'Dunkirk',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 693,
+    'lat' => 42.49330139,
+    'lon' => -79.27200317,
+    'tz' => 'America/New_York',
+  ),
+  'DLL' => 
+  array (
+    'icao' => 'KDLC',
+    'iata' => 'DLL',
+    'name' => 'Dillon County Airport',
+    'city' => 'Dillon',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 133,
+    'lat' => 34.4491004944,
+    'lon' => -79.368598938,
+    'tz' => 'America/New_York',
+  ),
+  'DLF' => 
+  array (
+    'icao' => 'KDLF',
+    'iata' => 'DLF',
+    'name' => 'Laughlin Air Force Base',
+    'city' => 'Del Rio',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 1082,
+    'lat' => 29.359500885,
+    'lon' => -100.7779998779,
+    'tz' => 'America/Chicago',
+  ),
   'DLH' => 
   array (
     'icao' => 'KDLH',
@@ -28826,6 +30789,71 @@ abstract class AirportLibrary
     'lon' => -92.1936035156,
     'tz' => 'America/Chicago',
   ),
+  'DLN' => 
+  array (
+    'icao' => 'KDLN',
+    'iata' => 'DLN',
+    'name' => 'Dillon Airport',
+    'city' => 'Dillon',
+    'state' => 'Montana',
+    'country' => 'US',
+    'elevation' => 5241,
+    'lat' => 45.2554016113,
+    'lon' => -112.5530014038,
+    'tz' => 'America/Denver',
+  ),
+  'DLS' => 
+  array (
+    'icao' => 'KDLS',
+    'iata' => 'DLS',
+    'name' => 'Columbia Gorge Regional the Dalles Municipal Airport',
+    'city' => 'The Dalles',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 247,
+    'lat' => 45.6184997559,
+    'lon' => -121.1669998169,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'DMA' => 
+  array (
+    'icao' => 'KDMA',
+    'iata' => 'DMA',
+    'name' => 'Davis Monthan Air Force Base',
+    'city' => 'Tucson',
+    'state' => 'Arizona',
+    'country' => 'US',
+    'elevation' => 2704,
+    'lat' => 32.1665000916,
+    'lon' => -110.8830032349,
+    'tz' => 'America/Phoenix',
+  ),
+  'DMN' => 
+  array (
+    'icao' => 'KDMN',
+    'iata' => 'DMN',
+    'name' => 'Deming Municipal Airport',
+    'city' => 'Deming',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 4314,
+    'lat' => 32.262298584,
+    'lon' => -107.7210006714,
+    'tz' => 'America/Denver',
+  ),
+  'DMO' => 
+  array (
+    'icao' => 'KDMO',
+    'iata' => 'DMO',
+    'name' => 'Sedalia Memorial Airport',
+    'city' => 'Sedalia',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 909,
+    'lat' => 38.7074012756,
+    'lon' => -93.1759033203,
+    'tz' => 'America/Chicago',
+  ),
   'DNL' => 
   array (
     'icao' => 'KDNL',
@@ -28837,6 +30865,58 @@ abstract class AirportLibrary
     'elevation' => 423,
     'lat' => 33.4664993286,
     'lon' => -82.0393981934,
+    'tz' => 'America/New_York',
+  ),
+  'DNN' => 
+  array (
+    'icao' => 'KDNN',
+    'iata' => 'DNN',
+    'name' => 'Dalton Municipal Airport',
+    'city' => 'Dalton',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 709,
+    'lat' => 34.72290039,
+    'lon' => -84.87020111,
+    'tz' => 'America/New_York',
+  ),
+  'DNS' => 
+  array (
+    'icao' => 'KDNS',
+    'iata' => 'DNS',
+    'name' => 'Denison Municipal Airport',
+    'city' => 'Denison',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 1274,
+    'lat' => 41.9864006,
+    'lon' => -95.38069916,
+    'tz' => 'America/Chicago',
+  ),
+  'DNV' => 
+  array (
+    'icao' => 'KDNV',
+    'iata' => 'DNV',
+    'name' => 'Vermilion Regional Airport',
+    'city' => 'Danville',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 697,
+    'lat' => 40.19919968,
+    'lon' => -87.59590149,
+    'tz' => 'America/Chicago',
+  ),
+  'DOV' => 
+  array (
+    'icao' => 'KDOV',
+    'iata' => 'DOV',
+    'name' => 'Dover Air Force Base',
+    'city' => 'Dover',
+    'state' => 'Delaware',
+    'country' => 'US',
+    'elevation' => 24,
+    'lat' => 39.12950134,
+    'lon' => -75.46600342,
     'tz' => 'America/New_York',
   ),
   'DPA' => 
@@ -28864,6 +30944,45 @@ abstract class AirportLibrary
     'lat' => 40.19940186,
     'lon' => -112.9369965,
     'tz' => 'America/Denver',
+  ),
+  'DRA' => 
+  array (
+    'icao' => 'KDRA',
+    'iata' => 'DRA',
+    'name' => 'Desert Rock Airport',
+    'city' => 'Mercury',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 3314,
+    'lat' => 36.6194000244,
+    'lon' => -116.032997131,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'DRI' => 
+  array (
+    'icao' => 'KDRI',
+    'iata' => 'DRI',
+    'name' => 'Beauregard Regional Airport',
+    'city' => 'De Ridder',
+    'state' => 'Louisiana',
+    'country' => 'US',
+    'elevation' => 202,
+    'lat' => 30.8316993713,
+    'lon' => -93.3398971558,
+    'tz' => 'America/Chicago',
+  ),
+  'DRE' => 
+  array (
+    'icao' => 'KDRM',
+    'iata' => 'DRE',
+    'name' => 'Drummond Island Airport',
+    'city' => 'Drummond Island',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 668,
+    'lat' => 46.0093002319,
+    'lon' => -83.7438964844,
+    'tz' => 'America/Detroit',
   ),
   'DRO' => 
   array (
@@ -28980,7 +31099,7 @@ abstract class AirportLibrary
     'elevation' => 645,
     'lat' => 42.2123985291,
     'lon' => -83.3534011841,
-    'tz' => 'America/New_York',
+    'tz' => 'America/Detroit',
   ),
   'DUA' => 
   array (
@@ -29058,6 +31177,32 @@ abstract class AirportLibrary
     'elevation' => 751,
     'lat' => 41.61029816,
     'lon' => -90.58830261,
+    'tz' => 'America/Chicago',
+  ),
+  'NOT' => 
+  array (
+    'icao' => 'KDVO',
+    'iata' => 'NOT',
+    'name' => 'Gnoss Field',
+    'city' => 'Novato',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 2,
+    'lat' => 38.1436004639,
+    'lon' => -122.5559997559,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'NSL' => 
+  array (
+    'icao' => 'KDVP',
+    'iata' => 'NSL',
+    'name' => 'Slayton Municipal Airport',
+    'city' => 'Slayton',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1623,
+    'lat' => 43.9868011475,
+    'lon' => -95.7826004028,
     'tz' => 'America/Chicago',
   ),
   'DVT' => 
@@ -29140,16 +31285,16 @@ abstract class AirportLibrary
   ),
   'BGQ' => 
   array (
-    'icao' => 'KE41',
+    'icao' => 'PAGQ',
     'iata' => 'BGQ',
-    'name' => 'Reagan County Airport',
+    'name' => 'Big Lake Airport',
     'city' => 'Big Lake',
-    'state' => 'Texas',
+    'state' => 'Alaska',
     'country' => 'US',
-    'elevation' => 2706,
-    'lat' => 31.1989002228,
-    'lon' => -101.472999573,
-    'tz' => 'America/Chicago',
+    'elevation' => 158,
+    'lat' => 61.5360984802,
+    'lon' => -149.8139953613,
+    'tz' => 'America/Anchorage',
   ),
   'BGT' => 
   array (
@@ -29163,6 +31308,19 @@ abstract class AirportLibrary
     'lat' => 34.5959014893,
     'lon' => -113.1699981689,
     'tz' => 'America/Phoenix',
+  ),
+  'EAN' => 
+  array (
+    'icao' => 'KEAN',
+    'iata' => 'EAN',
+    'name' => 'Phifer Airfield',
+    'city' => 'Wheatland',
+    'state' => 'Wyoming',
+    'country' => 'US',
+    'elevation' => 4776,
+    'lat' => 42.05550003,
+    'lon' => -104.9290009,
+    'tz' => 'America/Denver',
   ),
   'EAR' => 
   array (
@@ -29240,7 +31398,72 @@ abstract class AirportLibrary
     'elevation' => 69,
     'lat' => 30.3417,
     'lon' => -85.7973,
+    'tz' => 'America/Chicago',
+  ),
+  'ECS' => 
+  array (
+    'icao' => 'KECS',
+    'iata' => 'ECS',
+    'name' => 'Mondell Field',
+    'city' => 'Newcastle',
+    'state' => 'Wyoming',
+    'country' => 'US',
+    'elevation' => 4174,
+    'lat' => 43.8853988647,
+    'lon' => -104.3180007935,
+    'tz' => 'America/Denver',
+  ),
+  'EDE' => 
+  array (
+    'icao' => 'KEDE',
+    'iata' => 'EDE',
+    'name' => 'Northeastern Regional Airport',
+    'city' => 'Edenton',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 20,
+    'lat' => 36.0276985168,
+    'lon' => -76.5671005249,
     'tz' => 'America/New_York',
+  ),
+  'ETS' => 
+  array (
+    'icao' => 'KEDN',
+    'iata' => 'ETS',
+    'name' => 'Enterprise Municipal Airport',
+    'city' => 'Enterprise',
+    'state' => 'Alabama',
+    'country' => 'US',
+    'elevation' => 361,
+    'lat' => 31.29969978,
+    'lon' => -85.89990234,
+    'tz' => 'America/Chicago',
+  ),
+  'EDW' => 
+  array (
+    'icao' => 'KEDW',
+    'iata' => 'EDW',
+    'name' => 'Edwards Air Force Base',
+    'city' => 'Edwards',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 2312,
+    'lat' => 34.90539932,
+    'lon' => -117.8840027,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'EED' => 
+  array (
+    'icao' => 'KEED',
+    'iata' => 'EED',
+    'name' => 'Needles Airport',
+    'city' => 'Needles',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 983,
+    'lat' => 34.7663002014,
+    'lon' => -114.6230010986,
+    'tz' => 'America/Los_Angeles',
   ),
   'EEN' => 
   array (
@@ -29255,6 +31478,19 @@ abstract class AirportLibrary
     'lon' => -72.2707977295,
     'tz' => 'America/New_York',
   ),
+  'EFD' => 
+  array (
+    'icao' => 'KEFD',
+    'iata' => 'EFD',
+    'name' => 'Ellington Field',
+    'city' => 'Houston',
+    'state' => 'Connecticut',
+    'country' => 'US',
+    'elevation' => 32,
+    'lat' => 29.6072998047,
+    'lon' => -95.1587982178,
+    'tz' => 'America/Chicago',
+  ),
   'EFK' => 
   array (
     'icao' => 'KEFK',
@@ -29267,6 +31503,19 @@ abstract class AirportLibrary
     'lat' => 44.8888015747,
     'lon' => -72.2292022705,
     'tz' => 'America/New_York',
+  ),
+  'EFW' => 
+  array (
+    'icao' => 'KEFW',
+    'iata' => 'EFW',
+    'name' => 'Jefferson Municipal Airport',
+    'city' => 'Jefferson',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 1044,
+    'lat' => 42.0102005,
+    'lon' => -94.34259796,
+    'tz' => 'America/Chicago',
   ),
   'EGE' => 
   array (
@@ -29281,6 +31530,71 @@ abstract class AirportLibrary
     'lon' => -106.9179993,
     'tz' => 'America/Denver',
   ),
+  'EGI' => 
+  array (
+    'icao' => 'KEGI',
+    'iata' => 'EGI',
+    'name' => 'Duke Field(Eglin Af Aux Nr 3) Airport',
+    'city' => 'Crestview',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 191,
+    'lat' => 30.65040016,
+    'lon' => -86.52290344,
+    'tz' => 'America/Chicago',
+  ),
+  'EGV' => 
+  array (
+    'icao' => 'KEGV',
+    'iata' => 'EGV',
+    'name' => 'Eagle River Union Airport',
+    'city' => 'Eagle River',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 1642,
+    'lat' => 45.9323005676,
+    'lon' => -89.2683029175,
+    'tz' => 'America/Chicago',
+  ),
+  'EKA' => 
+  array (
+    'icao' => 'KEKA',
+    'iata' => 'EKA',
+    'name' => 'Murray Field',
+    'city' => 'Eureka',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 7,
+    'lat' => 40.8033981323,
+    'lon' => -124.1129989624,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'EKI' => 
+  array (
+    'icao' => 'KEKM',
+    'iata' => 'EKI',
+    'name' => 'Elkhart Municipal Airport',
+    'city' => 'Elkhart',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 778,
+    'lat' => 41.7193984985,
+    'lon' => -86.0031967163,
+    'tz' => 'America/Indiana/Indianapolis',
+  ),
+  'EKN' => 
+  array (
+    'icao' => 'KEKN',
+    'iata' => 'EKN',
+    'name' => 'Elkins-Randolph Co-Jennings Randolph Field',
+    'city' => 'Elkins',
+    'state' => 'West-Virginia',
+    'country' => 'US',
+    'elevation' => 1987,
+    'lat' => 38.88940048,
+    'lon' => -79.85710144,
+    'tz' => 'America/New_York',
+  ),
   'EKO' => 
   array (
     'icao' => 'KEKO',
@@ -29294,6 +31608,32 @@ abstract class AirportLibrary
     'lon' => -115.7919998169,
     'tz' => 'America/Los_Angeles',
   ),
+  'EKX' => 
+  array (
+    'icao' => 'KEKX',
+    'iata' => 'EKX',
+    'name' => 'Addington Field',
+    'city' => 'Elizabethtown',
+    'state' => 'Kentucky',
+    'country' => 'US',
+    'elevation' => 775,
+    'lat' => 37.686000824,
+    'lon' => -85.9250030518,
+    'tz' => 'America/New_York',
+  ),
+  'ELA' => 
+  array (
+    'icao' => 'KELA',
+    'iata' => 'ELA',
+    'name' => 'Eagle Lake Airport',
+    'city' => 'Eagle Lake',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 184,
+    'lat' => 29.6005992889,
+    'lon' => -96.3218994141,
+    'tz' => 'America/Chicago',
+  ),
   'ELD' => 
   array (
     'icao' => 'KELD',
@@ -29305,6 +31645,19 @@ abstract class AirportLibrary
     'elevation' => 277,
     'lat' => 33.2210006714,
     'lon' => -92.8133010864,
+    'tz' => 'America/Chicago',
+  ),
+  'ELK' => 
+  array (
+    'icao' => 'KELK',
+    'iata' => 'ELK',
+    'name' => 'Elk City Regional Business Airport',
+    'city' => 'Elk City',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 2013,
+    'lat' => 35.43080139,
+    'lon' => -99.39430237,
     'tz' => 'America/Chicago',
   ),
   'ELM' => 
@@ -29320,6 +31673,32 @@ abstract class AirportLibrary
     'lon' => -76.8916015625,
     'tz' => 'America/New_York',
   ),
+  'ELN' => 
+  array (
+    'icao' => 'KELN',
+    'iata' => 'ELN',
+    'name' => 'Bowers Field',
+    'city' => 'Ellensburg',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 1764,
+    'lat' => 47.03300095,
+    'lon' => -120.5309982,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'LYU' => 
+  array (
+    'icao' => 'KELO',
+    'iata' => 'LYU',
+    'name' => 'Ely Municipal Airport',
+    'city' => 'Ely',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1456,
+    'lat' => 47.82450104,
+    'lon' => -91.83070374,
+    'tz' => 'America/Chicago',
+  ),
   'ELP' => 
   array (
     'icao' => 'KELP',
@@ -29333,6 +31712,71 @@ abstract class AirportLibrary
     'lon' => -106.3779984,
     'tz' => 'America/Denver',
   ),
+  'ELY' => 
+  array (
+    'icao' => 'KELY',
+    'iata' => 'ELY',
+    'name' => 'Ely Airport Yelland Field',
+    'city' => 'Ely',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 6259,
+    'lat' => 39.29970169,
+    'lon' => -114.8420029,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'ELZ' => 
+  array (
+    'icao' => 'KELZ',
+    'iata' => 'ELZ',
+    'name' => 'Wellsville Municipal ArptTarantine Field',
+    'city' => 'Wellsville',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 2124,
+    'lat' => 42.10950089,
+    'lon' => -77.98999786,
+    'tz' => 'America/New_York',
+  ),
+  'EMM' => 
+  array (
+    'icao' => 'KEMM',
+    'iata' => 'EMM',
+    'name' => 'Kemmerer Municipal Airport',
+    'city' => 'Kemmerer',
+    'state' => 'Wyoming',
+    'country' => 'US',
+    'elevation' => 7285,
+    'lat' => 41.8241004944,
+    'lon' => -110.5569992065,
+    'tz' => 'America/Denver',
+  ),
+  'EMP' => 
+  array (
+    'icao' => 'KEMP',
+    'iata' => 'EMP',
+    'name' => 'Emporia Municipal Airport',
+    'city' => 'Emporia',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 1208,
+    'lat' => 38.3320999146,
+    'lon' => -96.1912002563,
+    'tz' => 'America/Chicago',
+  ),
+  'EMT' => 
+  array (
+    'icao' => 'KEMT',
+    'iata' => 'EMT',
+    'name' => 'El Monte Airport',
+    'city' => 'El Monte',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 296,
+    'lat' => 34.086101532,
+    'lon' => -118.0350036621,
+    'tz' => 'America/Los_Angeles',
+  ),
   'END' => 
   array (
     'icao' => 'KEND',
@@ -29344,6 +31788,19 @@ abstract class AirportLibrary
     'elevation' => 1307,
     'lat' => 36.3391990662,
     'lon' => -97.9164962769,
+    'tz' => 'America/Chicago',
+  ),
+  'ENL' => 
+  array (
+    'icao' => 'KENL',
+    'iata' => 'ENL',
+    'name' => 'Centralia Municipal Airport',
+    'city' => 'Centralia',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 534,
+    'lat' => 38.5150985718,
+    'lon' => -89.0911026001,
     'tz' => 'America/Chicago',
   ),
   'ENV' => 
@@ -29359,6 +31816,71 @@ abstract class AirportLibrary
     'lon' => -114.03099823,
     'tz' => 'America/Denver',
   ),
+  'ENW' => 
+  array (
+    'icao' => 'KENW',
+    'iata' => 'ENW',
+    'name' => 'Kenosha Regional Airport',
+    'city' => 'Kenosha',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 742,
+    'lat' => 42.59569931,
+    'lon' => -87.92780304,
+    'tz' => 'America/Chicago',
+  ),
+  'EOK' => 
+  array (
+    'icao' => 'KEOK',
+    'iata' => 'EOK',
+    'name' => 'Keokuk Municipal Airport',
+    'city' => 'Keokuk',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 671,
+    'lat' => 40.4598999023,
+    'lon' => -91.4284973145,
+    'tz' => 'America/Chicago',
+  ),
+  'EOS' => 
+  array (
+    'icao' => 'KEOS',
+    'iata' => 'EOS',
+    'name' => 'Neosho Hugh Robinson Airport',
+    'city' => 'Neosho',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 1255,
+    'lat' => 36.810798645,
+    'lon' => -94.3917007446,
+    'tz' => 'America/Chicago',
+  ),
+  'EPH' => 
+  array (
+    'icao' => 'KEPH',
+    'iata' => 'EPH',
+    'name' => 'Ephrata Municipal Airport',
+    'city' => 'Ephrata',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 1276,
+    'lat' => 47.30759811,
+    'lon' => -119.5159988,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'EDK' => 
+  array (
+    'icao' => 'KEQA',
+    'iata' => 'EDK',
+    'name' => 'Captain Jack Thomas El Dorado Airport',
+    'city' => 'El Dorado',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 1378,
+    'lat' => 37.7741012573,
+    'lon' => -96.8175964355,
+    'tz' => 'America/Chicago',
+  ),
   'ERI' => 
   array (
     'icao' => 'KERI',
@@ -29372,6 +31894,136 @@ abstract class AirportLibrary
     'lon' => -80.1738667488,
     'tz' => 'America/New_York',
   ),
+  'ERR' => 
+  array (
+    'icao' => 'KERR',
+    'iata' => 'ERR',
+    'name' => 'Errol Airport',
+    'city' => 'Errol',
+    'state' => 'New-Hampshire',
+    'country' => 'US',
+    'elevation' => 1245,
+    'lat' => 44.7924995422,
+    'lon' => -71.1641998291,
+    'tz' => 'America/New_York',
+  ),
+  'ERV' => 
+  array (
+    'icao' => 'KERV',
+    'iata' => 'ERV',
+    'name' => 'Kerrville Municipal Louis Schreiner Field',
+    'city' => 'Kerrville',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 1617,
+    'lat' => 29.9766998291,
+    'lon' => -99.0857009888,
+    'tz' => 'America/Chicago',
+  ),
+  'ESC' => 
+  array (
+    'icao' => 'KESC',
+    'iata' => 'ESC',
+    'name' => 'Delta County Airport',
+    'city' => 'Escanaba',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 609,
+    'lat' => 45.7226982117,
+    'lon' => -87.0936965942,
+    'tz' => 'America/Detroit',
+  ),
+  'ESF' => 
+  array (
+    'icao' => 'KESF',
+    'iata' => 'ESF',
+    'name' => 'Esler Regional Airport',
+    'city' => 'Alexandria',
+    'state' => 'Louisiana',
+    'country' => 'US',
+    'elevation' => 112,
+    'lat' => 31.3948993683,
+    'lon' => -92.2957992554,
+    'tz' => 'America/Chicago',
+  ),
+  'ESN' => 
+  array (
+    'icao' => 'KESN',
+    'iata' => 'ESN',
+    'name' => 'Easton Newnam Field',
+    'city' => 'Easton',
+    'state' => 'Maryland',
+    'country' => 'US',
+    'elevation' => 72,
+    'lat' => 38.8041992188,
+    'lon' => -76.0690002441,
+    'tz' => 'America/New_York',
+  ),
+  'EST' => 
+  array (
+    'icao' => 'KEST',
+    'iata' => 'EST',
+    'name' => 'Estherville Municipal Airport',
+    'city' => 'Estherville',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 1319,
+    'lat' => 43.40739822,
+    'lon' => -94.74639893,
+    'tz' => 'America/Chicago',
+  ),
+  'ESW' => 
+  array (
+    'icao' => 'KESW',
+    'iata' => 'ESW',
+    'name' => 'Easton State Airport',
+    'city' => 'Easton',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 2226,
+    'lat' => 47.2541999817,
+    'lon' => -121.1859970093,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'ETB' => 
+  array (
+    'icao' => 'KETB',
+    'iata' => 'ETB',
+    'name' => 'West Bend Municipal Airport',
+    'city' => 'West Bend',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 887,
+    'lat' => 43.4221992493,
+    'lon' => -88.1278991699,
+    'tz' => 'America/Chicago',
+  ),
+  'ETN' => 
+  array (
+    'icao' => 'KETN',
+    'iata' => 'ETN',
+    'name' => 'Eastland Municipal Airport',
+    'city' => 'Eastland',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 1464,
+    'lat' => 32.4135017395,
+    'lon' => -98.8097991943,
+    'tz' => 'America/Chicago',
+  ),
+  'EUF' => 
+  array (
+    'icao' => 'KEUF',
+    'iata' => 'EUF',
+    'name' => 'Weedon Field',
+    'city' => 'Eufaula',
+    'state' => 'Alabama',
+    'country' => 'US',
+    'elevation' => 285,
+    'lat' => 31.9512996674,
+    'lon' => -85.1288986206,
+    'tz' => 'America/Chicago',
+  ),
   'EUG' => 
   array (
     'icao' => 'KEUG',
@@ -29384,6 +32036,19 @@ abstract class AirportLibrary
     'lat' => 44.1245994568,
     'lon' => -123.2119979858,
     'tz' => 'America/Los_Angeles',
+  ),
+  'EVM' => 
+  array (
+    'icao' => 'KEVM',
+    'iata' => 'EVM',
+    'name' => 'Eveleth Virginia Municipal Airport',
+    'city' => 'Eveleth',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1379,
+    'lat' => 47.42509842,
+    'lon' => -92.49849701,
+    'tz' => 'America/Chicago',
   ),
   'EVV' => 
   array (
@@ -29476,6 +32141,32 @@ abstract class AirportLibrary
     'lon' => -81.7595977783,
     'tz' => 'America/New_York',
   ),
+  'FAF' => 
+  array (
+    'icao' => 'KFAF',
+    'iata' => 'FAF',
+    'name' => 'Felker Army Air Field',
+    'city' => 'Fort Eustis',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 12,
+    'lat' => 37.1324996948,
+    'lon' => -76.6088027954,
+    'tz' => 'America/New_York',
+  ),
+  'FAM' => 
+  array (
+    'icao' => 'KFAM',
+    'iata' => 'FAM',
+    'name' => 'Farmington Regional Airport',
+    'city' => 'Farmington',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 946,
+    'lat' => 37.76110077,
+    'lon' => -90.4285965,
+    'tz' => 'America/Chicago',
+  ),
   'FAR' => 
   array (
     'icao' => 'KFAR',
@@ -29528,6 +32219,71 @@ abstract class AirportLibrary
     'lon' => -78.93669891,
     'tz' => 'America/New_York',
   ),
+  'FBL' => 
+  array (
+    'icao' => 'KFBL',
+    'iata' => 'FBL',
+    'name' => 'Faribault Municipal Airport',
+    'city' => 'Faribault',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1060,
+    'lat' => 44.3246994019,
+    'lon' => -93.310798645,
+    'tz' => 'America/Chicago',
+  ),
+  'FBR' => 
+  array (
+    'icao' => 'KFBR',
+    'iata' => 'FBR',
+    'name' => 'Fort Bridger Airport',
+    'city' => 'Fort Bridger',
+    'state' => 'Wyoming',
+    'country' => 'US',
+    'elevation' => 7034,
+    'lat' => 41.3918991089,
+    'lon' => -110.4069976807,
+    'tz' => 'America/Denver',
+  ),
+  'FBY' => 
+  array (
+    'icao' => 'KFBY',
+    'iata' => 'FBY',
+    'name' => 'Fairbury Municipal Airport',
+    'city' => 'Fairbury',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 1479,
+    'lat' => 40.1829986572,
+    'lon' => -97.1692962646,
+    'tz' => 'America/Chicago',
+  ),
+  'FCH' => 
+  array (
+    'icao' => 'KFCH',
+    'iata' => 'FCH',
+    'name' => 'Fresno Chandler Executive Airport',
+    'city' => 'Fresno',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 279,
+    'lat' => 36.73239899,
+    'lon' => -119.8199997,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'FCM' => 
+  array (
+    'icao' => 'KFCM',
+    'iata' => 'FCM',
+    'name' => 'Flying Cloud Airport',
+    'city' => 'Minneapolis',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 906,
+    'lat' => 44.8272018433,
+    'lon' => -93.4570999146,
+    'tz' => 'America/Chicago',
+  ),
   'FCS' => 
   array (
     'icao' => 'KFCS',
@@ -29540,6 +32296,162 @@ abstract class AirportLibrary
     'lat' => 38.67839813,
     'lon' => -104.7570038,
     'tz' => 'America/Denver',
+  ),
+  'FCY' => 
+  array (
+    'icao' => 'KFCY',
+    'iata' => 'FCY',
+    'name' => 'Forrest City Municipal Airport',
+    'city' => 'Forrest City',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 249,
+    'lat' => 34.9420013428,
+    'lon' => -90.7750015259,
+    'tz' => 'America/Chicago',
+  ),
+  'FDK' => 
+  array (
+    'icao' => 'KFDK',
+    'iata' => 'FDK',
+    'name' => 'Frederick Municipal Airport',
+    'city' => 'Frederick',
+    'state' => 'Maryland',
+    'country' => 'US',
+    'elevation' => 303,
+    'lat' => 39.4175987244,
+    'lon' => -77.3742980957,
+    'tz' => 'America/New_York',
+  ),
+  'FDR' => 
+  array (
+    'icao' => 'KFDR',
+    'iata' => 'FDR',
+    'name' => 'Frederick Regional Airport',
+    'city' => 'Frederick',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 1258,
+    'lat' => 34.35200119,
+    'lon' => -98.98390198,
+    'tz' => 'America/Chicago',
+  ),
+  'FDY' => 
+  array (
+    'icao' => 'KFDY',
+    'iata' => 'FDY',
+    'name' => 'Findlay Airport',
+    'city' => 'Findlay',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 813,
+    'lat' => 41.0135002136,
+    'lon' => -83.6687011719,
+    'tz' => 'America/New_York',
+  ),
+  'FEP' => 
+  array (
+    'icao' => 'KFEP',
+    'iata' => 'FEP',
+    'name' => 'Albertus Airport',
+    'city' => 'Freeport',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 859,
+    'lat' => 42.2462005615,
+    'lon' => -89.5820007324,
+    'tz' => 'America/Chicago',
+  ),
+  'FET' => 
+  array (
+    'icao' => 'KFET',
+    'iata' => 'FET',
+    'name' => 'Fremont Municipal Airport',
+    'city' => 'Fremont',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 1204,
+    'lat' => 41.44910049,
+    'lon' => -96.52020264,
+    'tz' => 'America/Chicago',
+  ),
+  'FFA' => 
+  array (
+    'icao' => 'KFFA',
+    'iata' => 'FFA',
+    'name' => 'First Flight Airport',
+    'city' => 'Kill Devil Hills',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 13,
+    'lat' => 36.0181999207,
+    'lon' => -75.6713027954,
+    'tz' => 'America/New_York',
+  ),
+  'FFL' => 
+  array (
+    'icao' => 'KFFL',
+    'iata' => 'FFL',
+    'name' => 'Fairfield Municipal Airport',
+    'city' => 'Fairfield',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 799,
+    'lat' => 41.0532989502,
+    'lon' => -91.9788970947,
+    'tz' => 'America/Chicago',
+  ),
+  'FFM' => 
+  array (
+    'icao' => 'KFFM',
+    'iata' => 'FFM',
+    'name' => 'Fergus Falls Municipal Einar Mickelson Field',
+    'city' => 'Fergus Falls',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1183,
+    'lat' => 46.28440094,
+    'lon' => -96.15670013,
+    'tz' => 'America/Chicago',
+  ),
+  'FFO' => 
+  array (
+    'icao' => 'KFFO',
+    'iata' => 'FFO',
+    'name' => 'Wright Patterson Air Force Base',
+    'city' => 'Dayton',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 823,
+    'lat' => 39.8260993958,
+    'lon' => -84.0483016968,
+    'tz' => 'America/New_York',
+  ),
+  'FFT' => 
+  array (
+    'icao' => 'KFFT',
+    'iata' => 'FFT',
+    'name' => 'Capital City Airport',
+    'city' => 'Frankfort',
+    'state' => 'Kentucky',
+    'country' => 'US',
+    'elevation' => 806,
+    'lat' => 38.18249893,
+    'lon' => -84.90470123,
+    'tz' => 'America/New_York',
+  ),
+  'MSC' => 
+  array (
+    'icao' => 'KFFZ',
+    'iata' => 'MSC',
+    'name' => 'Falcon Field',
+    'city' => 'Mesa',
+    'state' => 'Alabama',
+    'country' => 'US',
+    'elevation' => 1394,
+    'lat' => 33.4608001709,
+    'lon' => -111.7279968262,
+    'tz' => 'America/Phoenix',
   ),
   'FHB' => 
   array (
@@ -29580,6 +32492,45 @@ abstract class AirportLibrary
     'lon' => -110.34400177,
     'tz' => 'America/Phoenix',
   ),
+  'FKL' => 
+  array (
+    'icao' => 'KFKL',
+    'iata' => 'FKL',
+    'name' => 'Venango Regional Airport',
+    'city' => 'Franklin',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 1540,
+    'lat' => 41.3778991699,
+    'lon' => -79.8603973389,
+    'tz' => 'America/New_York',
+  ),
+  'FKN' => 
+  array (
+    'icao' => 'KFKN',
+    'iata' => 'FKN',
+    'name' => 'Franklin Municipal John Beverly Rose Airport',
+    'city' => 'Franklin',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 41,
+    'lat' => 36.6981010437,
+    'lon' => -76.9038009644,
+    'tz' => 'America/New_York',
+  ),
+  'FLD' => 
+  array (
+    'icao' => 'KFLD',
+    'iata' => 'FLD',
+    'name' => 'Fond du Lac County Airport',
+    'city' => 'Fond du Lac',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 808,
+    'lat' => 43.7711982727,
+    'lon' => -88.4884033203,
+    'tz' => 'America/Chicago',
+  ),
   'FLG' => 
   array (
     'icao' => 'KFLG',
@@ -29619,6 +32570,110 @@ abstract class AirportLibrary
     'lon' => -79.7238998413,
     'tz' => 'America/New_York',
   ),
+  'FLP' => 
+  array (
+    'icao' => 'KFLP',
+    'iata' => 'FLP',
+    'name' => 'Marion County Regional Airport',
+    'city' => 'Flippin',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 719,
+    'lat' => 36.29090118,
+    'lon' => -92.59030151,
+    'tz' => 'America/Chicago',
+  ),
+  'FLV' => 
+  array (
+    'icao' => 'KFLV',
+    'iata' => 'FLV',
+    'name' => 'Sherman Army Air Field',
+    'city' => 'Fort Leavenworth',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 772,
+    'lat' => 39.3683013916,
+    'lon' => -94.9147033691,
+    'tz' => 'America/Chicago',
+  ),
+  'FLX' => 
+  array (
+    'icao' => 'KFLX',
+    'iata' => 'FLX',
+    'name' => 'Fallon Municipal Airport',
+    'city' => 'Fallon',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 3963,
+    'lat' => 39.4990997314,
+    'lon' => -118.7490005493,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'FME' => 
+  array (
+    'icao' => 'KFME',
+    'iata' => 'FME',
+    'name' => 'Tipton Airport',
+    'city' => 'Fort Meade(Odenton)',
+    'state' => 'Maryland',
+    'country' => 'US',
+    'elevation' => 150,
+    'lat' => 39.0853996277,
+    'lon' => -76.7593994141,
+    'tz' => 'America/New_York',
+  ),
+  'FMH' => 
+  array (
+    'icao' => 'KFMH',
+    'iata' => 'FMH',
+    'name' => 'Cape Cod Coast Guard Air Station',
+    'city' => 'Falmouth',
+    'state' => 'Massachusetts',
+    'country' => 'US',
+    'elevation' => 131,
+    'lat' => 41.6584014893,
+    'lon' => -70.5214004517,
+    'tz' => 'America/New_York',
+  ),
+  'FMN' => 
+  array (
+    'icao' => 'KFMN',
+    'iata' => 'FMN',
+    'name' => 'Four Corners Regional Airport',
+    'city' => 'Farmington',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 5506,
+    'lat' => 36.7411994934,
+    'lon' => -108.2300033569,
+    'tz' => 'America/Denver',
+  ),
+  'FMY' => 
+  array (
+    'icao' => 'KFMY',
+    'iata' => 'FMY',
+    'name' => 'Page Field',
+    'city' => 'Fort Myers',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 17,
+    'lat' => 26.58659935,
+    'lon' => -81.8632965088,
+    'tz' => 'America/New_York',
+  ),
+  'FNL' => 
+  array (
+    'icao' => 'KFNL',
+    'iata' => 'FNL',
+    'name' => 'Fort Collins Loveland Municipal Airport',
+    'city' => 'Fort Collins/Loveland',
+    'state' => 'Colorado',
+    'country' => 'US',
+    'elevation' => 5016,
+    'lat' => 40.4518013,
+    'lon' => -105.011001587,
+    'tz' => 'America/Denver',
+  ),
   'FNT' => 
   array (
     'icao' => 'KFNT',
@@ -29630,7 +32685,7 @@ abstract class AirportLibrary
     'elevation' => 782,
     'lat' => 42.9654006958,
     'lon' => -83.743598938,
-    'tz' => 'America/New_York',
+    'tz' => 'America/Detroit',
   ),
   'FOD' => 
   array (
@@ -29658,6 +32713,19 @@ abstract class AirportLibrary
     'lon' => -95.6635971069,
     'tz' => 'America/Chicago',
   ),
+  'FOK' => 
+  array (
+    'icao' => 'KFOK',
+    'iata' => 'FOK',
+    'name' => 'Francis S Gabreski Airport',
+    'city' => 'Westhampton Beach',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 67,
+    'lat' => 40.8437004089,
+    'lon' => -72.6317977905,
+    'tz' => 'America/New_York',
+  ),
   'FIL' => 
   array (
     'icao' => 'KFOM',
@@ -29682,6 +32750,19 @@ abstract class AirportLibrary
     'elevation' => 24,
     'lat' => 27.49510002,
     'lon' => -80.36830139,
+    'tz' => 'America/New_York',
+  ),
+  'FRG' => 
+  array (
+    'icao' => 'KFRG',
+    'iata' => 'FRG',
+    'name' => 'Republic Airport',
+    'city' => 'Farmingdale',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 82,
+    'lat' => 40.7288017273,
+    'lon' => -73.4133987427,
     'tz' => 'America/New_York',
   ),
   'FRH' => 
@@ -29723,6 +32804,19 @@ abstract class AirportLibrary
     'lon' => -94.4156036377,
     'tz' => 'America/Chicago',
   ),
+  'FRR' => 
+  array (
+    'icao' => 'KFRR',
+    'iata' => 'FRR',
+    'name' => 'Front Royal Warren County Airport',
+    'city' => 'Front Royal',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 709,
+    'lat' => 38.9174995422,
+    'lon' => -78.2535018921,
+    'tz' => 'America/New_York',
+  ),
   'FSD' => 
   array (
     'icao' => 'KFSD',
@@ -29749,6 +32843,19 @@ abstract class AirportLibrary
     'lon' => -98.40219879,
     'tz' => 'America/Chicago',
   ),
+  'FSK' => 
+  array (
+    'icao' => 'KFSK',
+    'iata' => 'FSK',
+    'name' => 'Fort Scott Municipal Airport',
+    'city' => 'Fort Scott',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 918,
+    'lat' => 37.7984008789,
+    'lon' => -94.7694015503,
+    'tz' => 'America/Chicago',
+  ),
   'FSM' => 
   array (
     'icao' => 'KFSM',
@@ -29761,6 +32868,32 @@ abstract class AirportLibrary
     'lat' => 35.3366012573,
     'lon' => -94.367401123,
     'tz' => 'America/Chicago',
+  ),
+  'FST' => 
+  array (
+    'icao' => 'KFST',
+    'iata' => 'FST',
+    'name' => 'Fort Stockton Pecos County Airport',
+    'city' => 'Fort Stockton',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 3011,
+    'lat' => 30.9157009125,
+    'lon' => -102.9160003662,
+    'tz' => 'America/Chicago',
+  ),
+  'FSU' => 
+  array (
+    'icao' => 'KFSU',
+    'iata' => 'FSU',
+    'name' => 'Fort Sumner Municipal Airport',
+    'city' => 'Fort Sumner',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 4165,
+    'lat' => 34.4833984375,
+    'lon' => -104.2170028687,
+    'tz' => 'America/Denver',
   ),
   'FMS' => 
   array (
@@ -29775,6 +32908,19 @@ abstract class AirportLibrary
     'lon' => -91.3267974854,
     'tz' => 'America/Chicago',
   ),
+  'FTK' => 
+  array (
+    'icao' => 'KFTK',
+    'iata' => 'FTK',
+    'name' => 'Godman Army Air Field',
+    'city' => 'Fort Knox',
+    'state' => 'Kentucky',
+    'country' => 'US',
+    'elevation' => 756,
+    'lat' => 37.9071006775,
+    'lon' => -85.9720993042,
+    'tz' => 'America/New_York',
+  ),
   'FTW' => 
   array (
     'icao' => 'KFTW',
@@ -29787,6 +32933,19 @@ abstract class AirportLibrary
     'lat' => 32.8198013306,
     'lon' => -97.3623962402,
     'tz' => 'America/Chicago',
+  ),
+  'FTY' => 
+  array (
+    'icao' => 'KFTY',
+    'iata' => 'FTY',
+    'name' => 'Fulton County Airport Brown Field',
+    'city' => 'Atlanta',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 841,
+    'lat' => 33.7790985107,
+    'lon' => -84.5214004517,
+    'tz' => 'America/New_York',
   ),
   'FUL' => 
   array (
@@ -29801,6 +32960,19 @@ abstract class AirportLibrary
     'lon' => -117.980003357,
     'tz' => 'America/Los_Angeles',
   ),
+  'WFK' => 
+  array (
+    'icao' => 'KFVE',
+    'iata' => 'WFK',
+    'name' => 'Northern Aroostook Regional Airport',
+    'city' => 'Frenchville',
+    'state' => 'Maine',
+    'country' => 'US',
+    'elevation' => 988,
+    'lat' => 47.2854995728,
+    'lon' => -68.3127975464,
+    'tz' => 'America/New_York',
+  ),
   'FWA' => 
   array (
     'icao' => 'KFWA',
@@ -29812,7 +32984,46 @@ abstract class AirportLibrary
     'elevation' => 814,
     'lat' => 40.97850037,
     'lon' => -85.19509888,
+    'tz' => 'America/Indiana/Indianapolis',
+  ),
+  'FXE' => 
+  array (
+    'icao' => 'KFXE',
+    'iata' => 'FXE',
+    'name' => 'Fort Lauderdale Executive Airport',
+    'city' => 'Fort Lauderdale',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 13,
+    'lat' => 26.1972999573,
+    'lon' => -80.1707000732,
     'tz' => 'America/New_York',
+  ),
+  'FXY' => 
+  array (
+    'icao' => 'KFXY',
+    'iata' => 'FXY',
+    'name' => 'Forest City Municipal Airport',
+    'city' => 'Forest City',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 1229,
+    'lat' => 43.23469925,
+    'lon' => -93.62409973,
+    'tz' => 'America/Chicago',
+  ),
+  'FYM' => 
+  array (
+    'icao' => 'KFYM',
+    'iata' => 'FYM',
+    'name' => 'Fayetteville Municipal Airport',
+    'city' => 'Fayetteville',
+    'state' => 'Tennessee',
+    'country' => 'US',
+    'elevation' => 984,
+    'lat' => 35.0597000122,
+    'lon' => -86.5640029907,
+    'tz' => 'America/Chicago',
   ),
   'FYV' => 
   array (
@@ -29840,6 +33051,19 @@ abstract class AirportLibrary
     'lon' => -117.958999634,
     'tz' => 'America/Los_Angeles',
   ),
+  'GAD' => 
+  array (
+    'icao' => 'KGAD',
+    'iata' => 'GAD',
+    'name' => 'Northeast Alabama Regional Airport',
+    'city' => 'Gadsden',
+    'state' => 'Alabama',
+    'country' => 'US',
+    'elevation' => 569,
+    'lat' => 33.9725990295,
+    'lon' => -86.0889968872,
+    'tz' => 'America/Chicago',
+  ),
   'GAG' => 
   array (
     'icao' => 'KGAG',
@@ -29852,6 +33076,19 @@ abstract class AirportLibrary
     'lat' => 36.295501709,
     'lon' => -99.7763977051,
     'tz' => 'America/Chicago',
+  ),
+  'GAI' => 
+  array (
+    'icao' => 'KGAI',
+    'iata' => 'GAI',
+    'name' => 'Montgomery County Airpark',
+    'city' => 'Gaithersburg',
+    'state' => 'Maryland',
+    'country' => 'US',
+    'elevation' => 539,
+    'lat' => 39.1683006287,
+    'lon' => -77.1660003662,
+    'tz' => 'America/New_York',
   ),
   'GBD' => 
   array (
@@ -29866,6 +33103,32 @@ abstract class AirportLibrary
     'lon' => -98.8591995239,
     'tz' => 'America/Chicago',
   ),
+  'GBG' => 
+  array (
+    'icao' => 'KGBG',
+    'iata' => 'GBG',
+    'name' => 'Galesburg Municipal Airport',
+    'city' => 'Galesburg',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 764,
+    'lat' => 40.9379997253,
+    'lon' => -90.431098938,
+    'tz' => 'America/Chicago',
+  ),
+  'GBR' => 
+  array (
+    'icao' => 'KGBR',
+    'iata' => 'GBR',
+    'name' => 'Walter J. Koladza Airport',
+    'city' => 'Great Barrington',
+    'state' => 'Massachusetts',
+    'country' => 'US',
+    'elevation' => 739,
+    'lat' => 42.18420029,
+    'lon' => -73.40319824,
+    'tz' => 'America/New_York',
+  ),
   'GCC' => 
   array (
     'icao' => 'KGCC',
@@ -29878,6 +33141,19 @@ abstract class AirportLibrary
     'lat' => 44.3488998413,
     'lon' => -105.5390014648,
     'tz' => 'America/Denver',
+  ),
+  'JDA' => 
+  array (
+    'icao' => 'KGCD',
+    'iata' => 'JDA',
+    'name' => 'Grant Co Regional/Ogilvie Field',
+    'city' => 'John Day',
+    'state' => 'Oregon',
+    'country' => 'US',
+    'elevation' => 3703,
+    'lat' => 44.40420151,
+    'lon' => -118.9629974,
+    'tz' => 'America/Los_Angeles',
   ),
   'GCK' => 
   array (
@@ -29905,6 +33181,32 @@ abstract class AirportLibrary
     'lon' => -112.1470031738,
     'tz' => 'America/Phoenix',
   ),
+  'GCY' => 
+  array (
+    'icao' => 'KGCY',
+    'iata' => 'GCY',
+    'name' => 'Greeneville Greene County Municipal Airport',
+    'city' => 'Greeneville',
+    'state' => 'Tennessee',
+    'country' => 'US',
+    'elevation' => 1608,
+    'lat' => 36.19300079,
+    'lon' => -82.81510162,
+    'tz' => 'America/New_York',
+  ),
+  'GDM' => 
+  array (
+    'icao' => 'KGDM',
+    'iata' => 'GDM',
+    'name' => 'Gardner Municipal Airport',
+    'city' => 'Gardner',
+    'state' => 'Massachusetts',
+    'country' => 'US',
+    'elevation' => 955,
+    'lat' => 42.5499992371,
+    'lon' => -72.0160980225,
+    'tz' => 'America/New_York',
+  ),
   'GDV' => 
   array (
     'icao' => 'KGDV',
@@ -29918,6 +33220,19 @@ abstract class AirportLibrary
     'lon' => -104.8069992,
     'tz' => 'America/Denver',
   ),
+  'GDW' => 
+  array (
+    'icao' => 'KGDW',
+    'iata' => 'GDW',
+    'name' => 'Gladwin Zettel Memorial Airport',
+    'city' => 'Gladwin',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 776,
+    'lat' => 43.9706001282,
+    'lon' => -84.4749984741,
+    'tz' => 'America/Detroit',
+  ),
   'GDY' => 
   array (
     'icao' => 'KGDY',
@@ -29929,6 +33244,19 @@ abstract class AirportLibrary
     'elevation' => 2304,
     'lat' => 37.2323989868,
     'lon' => -82.125,
+    'tz' => 'America/New_York',
+  ),
+  'GED' => 
+  array (
+    'icao' => 'KGED',
+    'iata' => 'GED',
+    'name' => 'Sussex County Airport',
+    'city' => 'Georgetown',
+    'state' => 'Delaware',
+    'country' => 'US',
+    'elevation' => 53,
+    'lat' => 38.68920135,
+    'lon' => -75.35890198,
     'tz' => 'America/New_York',
   ),
   'GEG' => 
@@ -29944,6 +33272,19 @@ abstract class AirportLibrary
     'lon' => -117.533996582,
     'tz' => 'America/Los_Angeles',
   ),
+  'GEY' => 
+  array (
+    'icao' => 'KGEY',
+    'iata' => 'GEY',
+    'name' => 'South Big Horn County Airport',
+    'city' => 'Greybull',
+    'state' => 'Wyoming',
+    'country' => 'US',
+    'elevation' => 3939,
+    'lat' => 44.51679993,
+    'lon' => -108.0830002,
+    'tz' => 'America/Denver',
+  ),
   'GFK' => 
   array (
     'icao' => 'KGFK',
@@ -29956,6 +33297,32 @@ abstract class AirportLibrary
     'lat' => 47.9492988586,
     'lon' => -97.1761016846,
     'tz' => 'America/Chicago',
+  ),
+  'GFL' => 
+  array (
+    'icao' => 'KGFL',
+    'iata' => 'GFL',
+    'name' => 'Floyd Bennett Memorial Airport',
+    'city' => 'Glens Falls',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 328,
+    'lat' => 43.3412017822,
+    'lon' => -73.6102981567,
+    'tz' => 'America/New_York',
+  ),
+  'GGE' => 
+  array (
+    'icao' => 'KGGE',
+    'iata' => 'GGE',
+    'name' => 'Georgetown County Airport',
+    'city' => 'Georgetown',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 39,
+    'lat' => 33.3116989136,
+    'lon' => -79.3196029663,
+    'tz' => 'America/New_York',
   ),
   'GGG' => 
   array (
@@ -29983,6 +33350,19 @@ abstract class AirportLibrary
     'lon' => -106.6149978638,
     'tz' => 'America/Denver',
   ),
+  'GHM' => 
+  array (
+    'icao' => 'KGHM',
+    'iata' => 'GHM',
+    'name' => 'Centerville Municipal Airport',
+    'city' => 'Centerville',
+    'state' => 'Tennessee',
+    'country' => 'US',
+    'elevation' => 768,
+    'lat' => 35.8373985291,
+    'lon' => -87.4453964233,
+    'tz' => 'America/Chicago',
+  ),
   'IDH' => 
   array (
     'icao' => 'KGIC',
@@ -29995,6 +33375,19 @@ abstract class AirportLibrary
     'lat' => 45.94260025,
     'lon' => -116.1230011,
     'tz' => 'America/Los_Angeles',
+  ),
+  'GIF' => 
+  array (
+    'icao' => 'KGIF',
+    'iata' => 'GIF',
+    'name' => 'Winter Haven\'s Gilbert Airport',
+    'city' => 'Winter Haven',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 145,
+    'lat' => 28.06290054,
+    'lon' => -81.75330353,
+    'tz' => 'America/New_York',
   ),
   'GJT' => 
   array (
@@ -30009,6 +33402,58 @@ abstract class AirportLibrary
     'lon' => -108.527000427,
     'tz' => 'America/Denver',
   ),
+  'MEJ' => 
+  array (
+    'icao' => 'KGKJ',
+    'iata' => 'MEJ',
+    'name' => 'Port Meadville Airport',
+    'city' => 'Meadville',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 1399,
+    'lat' => 41.62649918,
+    'lon' => -80.21469879,
+    'tz' => 'America/New_York',
+  ),
+  'GKT' => 
+  array (
+    'icao' => 'KGKT',
+    'iata' => 'GKT',
+    'name' => 'Gatlinburg Pigeon Forge Airport',
+    'city' => 'Sevierville',
+    'state' => 'Tennessee',
+    'country' => 'US',
+    'elevation' => 1014,
+    'lat' => 35.85779953,
+    'lon' => -83.5287017822,
+    'tz' => 'America/New_York',
+  ),
+  'GLD' => 
+  array (
+    'icao' => 'KGLD',
+    'iata' => 'GLD',
+    'name' => 'Renner Field-Goodland Municipal Airport',
+    'city' => 'Goodland',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 3656,
+    'lat' => 39.37060165,
+    'lon' => -101.6989975,
+    'tz' => 'America/Denver',
+  ),
+  'GLE' => 
+  array (
+    'icao' => 'KGLE',
+    'iata' => 'GLE',
+    'name' => 'Gainesville Municipal Airport',
+    'city' => 'Gainesville',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 845,
+    'lat' => 33.6514015198,
+    'lon' => -97.1969985962,
+    'tz' => 'America/Chicago',
+  ),
   'GLH' => 
   array (
     'icao' => 'KGLH',
@@ -30021,6 +33466,19 @@ abstract class AirportLibrary
     'lat' => 33.4828987122,
     'lon' => -90.9856033325,
     'tz' => 'America/Chicago',
+  ),
+  'GLR' => 
+  array (
+    'icao' => 'KGLR',
+    'iata' => 'GLR',
+    'name' => 'Gaylord Regional Airport',
+    'city' => 'Gaylord',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 1328,
+    'lat' => 45.0135002136,
+    'lon' => -84.7035980225,
+    'tz' => 'America/Detroit',
   ),
   'GLS' => 
   array (
@@ -30035,6 +33493,58 @@ abstract class AirportLibrary
     'lon' => -94.8603973389,
     'tz' => 'America/Chicago',
   ),
+  'GLW' => 
+  array (
+    'icao' => 'KGLW',
+    'iata' => 'GLW',
+    'name' => 'Glasgow Municipal Airport',
+    'city' => 'Glasgow',
+    'state' => 'Kentucky',
+    'country' => 'US',
+    'elevation' => 716,
+    'lat' => 37.03179932,
+    'lon' => -85.9536972,
+    'tz' => 'America/Chicago',
+  ),
+  'GMU' => 
+  array (
+    'icao' => 'KGMU',
+    'iata' => 'GMU',
+    'name' => 'Greenville Downtown Airport',
+    'city' => 'Greenville',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 1048,
+    'lat' => 34.8479003906,
+    'lon' => -82.3499984741,
+    'tz' => 'America/New_York',
+  ),
+  'GNG' => 
+  array (
+    'icao' => 'KGNG',
+    'iata' => 'GNG',
+    'name' => 'Gooding Municipal Airport',
+    'city' => 'Gooding',
+    'state' => 'Idaho',
+    'country' => 'US',
+    'elevation' => 3732,
+    'lat' => 42.91719818,
+    'lon' => -114.7649994,
+    'tz' => 'America/Boise',
+  ),
+  'GNT' => 
+  array (
+    'icao' => 'KGNT',
+    'iata' => 'GNT',
+    'name' => 'Grants Milan Municipal Airport',
+    'city' => 'Grants',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 6537,
+    'lat' => 35.167301178,
+    'lon' => -107.9020004272,
+    'tz' => 'America/Denver',
+  ),
   'GNV' => 
   array (
     'icao' => 'KGNV',
@@ -30047,6 +33557,19 @@ abstract class AirportLibrary
     'lat' => 29.6900997162,
     'lon' => -82.2717971802,
     'tz' => 'America/New_York',
+  ),
+  'GOK' => 
+  array (
+    'icao' => 'KGOK',
+    'iata' => 'GOK',
+    'name' => 'Guthrie-Edmond Regional Airport',
+    'city' => 'Guthrie',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 1069,
+    'lat' => 35.84980011,
+    'lon' => -97.41560364,
+    'tz' => 'America/Chicago',
   ),
   'GON' => 
   array (
@@ -30087,6 +33610,32 @@ abstract class AirportLibrary
     'lon' => -89.070098877,
     'tz' => 'America/Chicago',
   ),
+  'GPZ' => 
+  array (
+    'icao' => 'KGPZ',
+    'iata' => 'GPZ',
+    'name' => 'Grand Rapids Itasca Co-Gordon Newstrom field',
+    'city' => 'Grand Rapids',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1355,
+    'lat' => 47.21110153,
+    'lon' => -93.50980377,
+    'tz' => 'America/Chicago',
+  ),
+  'GQQ' => 
+  array (
+    'icao' => 'KGQQ',
+    'iata' => 'GQQ',
+    'name' => 'Galion Municipal Airport',
+    'city' => 'Galion',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 1224,
+    'lat' => 40.7533988953,
+    'lon' => -82.7238006592,
+    'tz' => 'America/New_York',
+  ),
   'GRB' => 
   array (
     'icao' => 'KGRB',
@@ -30099,6 +33648,45 @@ abstract class AirportLibrary
     'lat' => 44.4850997925,
     'lon' => -88.1296005249,
     'tz' => 'America/Chicago',
+  ),
+  'GRD' => 
+  array (
+    'icao' => 'KGRD',
+    'iata' => 'GRD',
+    'name' => 'Greenwood County Airport',
+    'city' => 'Greenwood',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 631,
+    'lat' => 34.2486991882,
+    'lon' => -82.1591033936,
+    'tz' => 'America/New_York',
+  ),
+  'GRE' => 
+  array (
+    'icao' => 'KGRE',
+    'iata' => 'GRE',
+    'name' => 'Greenville Airport',
+    'city' => 'Greenville',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 541,
+    'lat' => 38.8362007141,
+    'lon' => -89.37840271,
+    'tz' => 'America/Chicago',
+  ),
+  'GRF' => 
+  array (
+    'icao' => 'KGRF',
+    'iata' => 'GRF',
+    'name' => 'Gray Army Air Field',
+    'city' => 'Fort Lewis/Tacoma',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 300,
+    'lat' => 47.07920074,
+    'lon' => -122.5810013,
+    'tz' => 'America/Los_Angeles',
   ),
   'GRI' => 
   array (
@@ -30126,6 +33714,19 @@ abstract class AirportLibrary
     'lon' => -97.8289031982,
     'tz' => 'America/Chicago',
   ),
+  'GRN' => 
+  array (
+    'icao' => 'KGRN',
+    'iata' => 'GRN',
+    'name' => 'Gordon Municipal Airport',
+    'city' => 'Gordon',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 3562,
+    'lat' => 42.8059997559,
+    'lon' => -102.1750030518,
+    'tz' => 'America/Denver',
+  ),
   'GRR' => 
   array (
     'icao' => 'KGRR',
@@ -30137,7 +33738,33 @@ abstract class AirportLibrary
     'elevation' => 794,
     'lat' => 42.88079834,
     'lon' => -85.52279663,
+    'tz' => 'America/Detroit',
+  ),
+  'GSB' => 
+  array (
+    'icao' => 'KGSB',
+    'iata' => 'GSB',
+    'name' => 'Seymour Johnson Air Force Base',
+    'city' => 'Goldsboro',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 109,
+    'lat' => 35.33940125,
+    'lon' => -77.96060181,
     'tz' => 'America/New_York',
+  ),
+  'GSH' => 
+  array (
+    'icao' => 'KGSH',
+    'iata' => 'GSH',
+    'name' => 'Goshen Municipal Airport',
+    'city' => 'Goshen',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 827,
+    'lat' => 41.5264015198,
+    'lon' => -85.7929000854,
+    'tz' => 'America/Indiana/Indianapolis',
   ),
   'GSO' => 
   array (
@@ -30165,6 +33792,19 @@ abstract class AirportLibrary
     'lon' => -82.2189025879,
     'tz' => 'America/New_York',
   ),
+  'GTB' => 
+  array (
+    'icao' => 'KGTB',
+    'iata' => 'GTB',
+    'name' => 'Wheeler Sack Army Air Field',
+    'city' => 'Fort Drum',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 688,
+    'lat' => 44.05559921,
+    'lon' => -75.71949768,
+    'tz' => 'America/New_York',
+  ),
   'GTF' => 
   array (
     'icao' => 'KGTF',
@@ -30177,6 +33817,19 @@ abstract class AirportLibrary
     'lat' => 47.48199844,
     'lon' => -111.3710022,
     'tz' => 'America/Denver',
+  ),
+  'GTG' => 
+  array (
+    'icao' => 'KGTG',
+    'iata' => 'GTG',
+    'name' => 'Grantsburg Municipal Airport',
+    'city' => 'Grantsburg',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 927,
+    'lat' => 45.7980995178,
+    'lon' => -92.6643981934,
+    'tz' => 'America/Chicago',
   ),
   'GTR' => 
   array (
@@ -30217,6 +33870,45 @@ abstract class AirportLibrary
     'lon' => -108.789001465,
     'tz' => 'America/Denver',
   ),
+  'GUS' => 
+  array (
+    'icao' => 'KGUS',
+    'iata' => 'GUS',
+    'name' => 'Grissom ARB Airport',
+    'city' => 'Peru',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 812,
+    'lat' => 40.6481018066,
+    'lon' => -86.1520996094,
+    'tz' => 'America/Indiana/Indianapolis',
+  ),
+  'GUY' => 
+  array (
+    'icao' => 'KGUY',
+    'iata' => 'GUY',
+    'name' => 'Guymon Municipal Airport',
+    'city' => 'Guymon',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 3123,
+    'lat' => 36.6851005554,
+    'lon' => -101.5080032349,
+    'tz' => 'America/Chicago',
+  ),
+  'GVL' => 
+  array (
+    'icao' => 'KGVL',
+    'iata' => 'GVL',
+    'name' => 'Lee Gilmer Memorial Airport',
+    'city' => 'Gainesville',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 1276,
+    'lat' => 34.27259827,
+    'lon' => -83.8302002,
+    'tz' => 'America/New_York',
+  ),
   'GVT' => 
   array (
     'icao' => 'KGVT',
@@ -30230,6 +33922,84 @@ abstract class AirportLibrary
     'lon' => -96.0652999878,
     'tz' => 'America/Chicago',
   ),
+  'GWO' => 
+  array (
+    'icao' => 'KGWO',
+    'iata' => 'GWO',
+    'name' => 'Greenwood Leflore Airport',
+    'city' => 'Greenwood',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 162,
+    'lat' => 33.4943008423,
+    'lon' => -90.0847015381,
+    'tz' => 'America/Chicago',
+  ),
+  'GWS' => 
+  array (
+    'icao' => 'KGWS',
+    'iata' => 'GWS',
+    'name' => 'Glenwood Springs Municipal Airport',
+    'city' => 'Glenwood Springs',
+    'state' => 'Colorado',
+    'country' => 'US',
+    'elevation' => 5916,
+    'lat' => 39.5083007813,
+    'lon' => -107.3109970093,
+    'tz' => 'America/Denver',
+  ),
+  'GXY' => 
+  array (
+    'icao' => 'KGXY',
+    'iata' => 'GXY',
+    'name' => 'Greeley Weld County Airport',
+    'city' => 'Greeley',
+    'state' => 'Colorado',
+    'country' => 'US',
+    'elevation' => 4697,
+    'lat' => 40.4374008179,
+    'lon' => -104.6330032349,
+    'tz' => 'America/Denver',
+  ),
+  'GDC' => 
+  array (
+    'icao' => 'KGYH',
+    'iata' => 'GDC',
+    'name' => 'Donaldson Center Airport',
+    'city' => 'Greenville',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 955,
+    'lat' => 34.7583007813,
+    'lon' => -82.3764038086,
+    'tz' => 'America/New_York',
+  ),
+  'PNX' => 
+  array (
+    'icao' => 'KGYI',
+    'iata' => 'PNX',
+    'name' => 'North Texas Rgnl/Perrin Field',
+    'city' => 'Sherman/Denison',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 749,
+    'lat' => 33.714099884,
+    'lon' => -96.6736984253,
+    'tz' => 'America/Chicago',
+  ),
+  'GYR' => 
+  array (
+    'icao' => 'KGYR',
+    'iata' => 'GYR',
+    'name' => 'Phoenix Goodyear Airport',
+    'city' => 'Goodyear',
+    'state' => 'Arizona',
+    'country' => 'US',
+    'elevation' => 968,
+    'lat' => 33.4225006104,
+    'lon' => -112.3759994507,
+    'tz' => 'America/Phoenix',
+  ),
   'GYY' => 
   array (
     'icao' => 'KGYY',
@@ -30241,6 +34011,97 @@ abstract class AirportLibrary
     'elevation' => 591,
     'lat' => 41.6162986755,
     'lon' => -87.4128036499,
+    'tz' => 'America/Chicago',
+  ),
+  'HAB' => 
+  array (
+    'icao' => 'KHAB',
+    'iata' => 'HAB',
+    'name' => 'Marion County Rankin Fite Airport',
+    'city' => 'Hamilton',
+    'state' => 'Alabama',
+    'country' => 'US',
+    'elevation' => 436,
+    'lat' => 34.11759949,
+    'lon' => -87.99819946,
+    'tz' => 'America/Chicago',
+  ),
+  'HAF' => 
+  array (
+    'icao' => 'KHAF',
+    'iata' => 'HAF',
+    'name' => 'Half Moon Bay Airport',
+    'city' => 'Half Moon Bay',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 66,
+    'lat' => 37.5134010315,
+    'lon' => -122.5009994507,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'HAI' => 
+  array (
+    'icao' => 'KHAI',
+    'iata' => 'HAI',
+    'name' => 'Three Rivers Municipal Dr Haines Airport',
+    'city' => 'Three Rivers',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 824,
+    'lat' => 41.9598007202,
+    'lon' => -85.5933990479,
+    'tz' => 'America/Detroit',
+  ),
+  'HAO' => 
+  array (
+    'icao' => 'KHAO',
+    'iata' => 'HAO',
+    'name' => 'Butler Co Regional Airport',
+    'city' => 'Hamilton',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 633,
+    'lat' => 39.3638000488,
+    'lon' => -84.5220031738,
+    'tz' => 'America/New_York',
+  ),
+  'HBG' => 
+  array (
+    'icao' => 'KHBG',
+    'iata' => 'HBG',
+    'name' => 'Hattiesburg Bobby L Chain Municipal Airport',
+    'city' => 'Hattiesburg',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 151,
+    'lat' => 31.26479912,
+    'lon' => -89.25279999,
+    'tz' => 'America/Chicago',
+  ),
+  'HBR' => 
+  array (
+    'icao' => 'KHBR',
+    'iata' => 'HBR',
+    'name' => 'Hobart Regional Airport',
+    'city' => 'Hobart',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 1563,
+    'lat' => 34.99129868,
+    'lon' => -99.05139923,
+    'tz' => 'America/Chicago',
+  ),
+  'HDE' => 
+  array (
+    'icao' => 'KHDE',
+    'iata' => 'HDE',
+    'name' => 'Brewster Field',
+    'city' => 'Holdrege',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 2313,
+    'lat' => 40.45209885,
+    'lon' => -99.33650208,
     'tz' => 'America/Chicago',
   ),
   'HDN' => 
@@ -30256,6 +34117,71 @@ abstract class AirportLibrary
     'lon' => -107.2180023,
     'tz' => 'America/Denver',
   ),
+  'HEE' => 
+  array (
+    'icao' => 'KHEE',
+    'iata' => 'HEE',
+    'name' => 'Thompson Robbins Airport',
+    'city' => 'Helena/West Helena',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 242,
+    'lat' => 34.576499939,
+    'lon' => -90.6759033203,
+    'tz' => 'America/Chicago',
+  ),
+  'MNZ' => 
+  array (
+    'icao' => 'KHEF',
+    'iata' => 'MNZ',
+    'name' => 'Manassas Regional Harry P. Davis field',
+    'city' => 'Manassas',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 192,
+    'lat' => 38.72140121,
+    'lon' => -77.51540375,
+    'tz' => 'America/New_York',
+  ),
+  'HEZ' => 
+  array (
+    'icao' => 'KHEZ',
+    'iata' => 'HEZ',
+    'name' => 'Hardy Anders Field Natchez Adams County Airport',
+    'city' => 'Natchez',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 272,
+    'lat' => 31.6137008667,
+    'lon' => -91.2973022461,
+    'tz' => 'America/Chicago',
+  ),
+  'HFD' => 
+  array (
+    'icao' => 'KHFD',
+    'iata' => 'HFD',
+    'name' => 'Hartford Brainard Airport',
+    'city' => 'Hartford',
+    'state' => 'Connecticut',
+    'country' => 'US',
+    'elevation' => 18,
+    'lat' => 41.7366981506,
+    'lon' => -72.6493988037,
+    'tz' => 'America/New_York',
+  ),
+  'HFF' => 
+  array (
+    'icao' => 'KHFF',
+    'iata' => 'HFF',
+    'name' => 'Mackall Army Air Field',
+    'city' => 'Camp Mackall',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 376,
+    'lat' => 35.03649902,
+    'lon' => -79.49749756,
+    'tz' => 'America/New_York',
+  ),
   'HGR' => 
   array (
     'icao' => 'KHGR',
@@ -30268,6 +34194,32 @@ abstract class AirportLibrary
     'lat' => 39.707901,
     'lon' => -77.72949982,
     'tz' => 'America/New_York',
+  ),
+  'HHR' => 
+  array (
+    'icao' => 'KHHR',
+    'iata' => 'HHR',
+    'name' => 'Jack Northrop Field Hawthorne Municipal Airport',
+    'city' => 'Hawthorne',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 66,
+    'lat' => 33.9227981567,
+    'lon' => -118.3349990845,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'HUJ' => 
+  array (
+    'icao' => 'KHHW',
+    'iata' => 'HUJ',
+    'name' => 'Stan Stamper Municipal Airport',
+    'city' => 'Hugo',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 572,
+    'lat' => 34.03480148,
+    'lon' => -95.54190063,
+    'tz' => 'America/Chicago',
   ),
   'HIB' => 
   array (
@@ -30282,6 +34234,45 @@ abstract class AirportLibrary
     'lon' => -92.83899689,
     'tz' => 'America/Chicago',
   ),
+  'HIE' => 
+  array (
+    'icao' => 'KHIE',
+    'iata' => 'HIE',
+    'name' => 'Mount Washington Regional Airport',
+    'city' => 'Whitefield',
+    'state' => 'New-Hampshire',
+    'country' => 'US',
+    'elevation' => 1074,
+    'lat' => 44.3675994873,
+    'lon' => -71.5445022583,
+    'tz' => 'America/New_York',
+  ),
+  'HIF' => 
+  array (
+    'icao' => 'KHIF',
+    'iata' => 'HIF',
+    'name' => 'Hill Air Force Base',
+    'city' => 'Ogden',
+    'state' => 'Utah',
+    'country' => 'US',
+    'elevation' => 4789,
+    'lat' => 41.1239013672,
+    'lon' => -111.9729995728,
+    'tz' => 'America/Denver',
+  ),
+  'HII' => 
+  array (
+    'icao' => 'KHII',
+    'iata' => 'HII',
+    'name' => 'Lake Havasu City Airport',
+    'city' => 'Lake Havasu City',
+    'state' => 'Arizona',
+    'country' => 'US',
+    'elevation' => 783,
+    'lat' => 34.57109833,
+    'lon' => -114.3580017,
+    'tz' => 'America/Los_Angeles',
+  ),
   'HIO' => 
   array (
     'icao' => 'KHIO',
@@ -30294,6 +34285,32 @@ abstract class AirportLibrary
     'lat' => 45.54040146,
     'lon' => -122.9499969,
     'tz' => 'America/Los_Angeles',
+  ),
+  'HKA' => 
+  array (
+    'icao' => 'KHKA',
+    'iata' => 'HKA',
+    'name' => 'Blytheville Municipal Airport',
+    'city' => 'Blytheville',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 255,
+    'lat' => 35.9403991699,
+    'lon' => -89.8308029175,
+    'tz' => 'America/Chicago',
+  ),
+  'HKS' => 
+  array (
+    'icao' => 'KHKS',
+    'iata' => 'HKS',
+    'name' => 'Hawkins Field',
+    'city' => 'Jackson',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 341,
+    'lat' => 32.33449936,
+    'lon' => -90.22219849,
+    'tz' => 'America/Chicago',
   ),
   'HKY' => 
   array (
@@ -30308,6 +34325,58 @@ abstract class AirportLibrary
     'lon' => -81.38950348,
     'tz' => 'America/New_York',
   ),
+  'HLB' => 
+  array (
+    'icao' => 'KHLB',
+    'iata' => 'HLB',
+    'name' => 'Hillenbrand Industries Airport',
+    'city' => 'Batesville',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 973,
+    'lat' => 39.3445014954,
+    'lon' => -85.2583007813,
+    'tz' => 'America/Indiana/Indianapolis',
+  ),
+  'HLC' => 
+  array (
+    'icao' => 'KHLC',
+    'iata' => 'HLC',
+    'name' => 'Hill City Municipal Airport',
+    'city' => 'Hill City',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 2238,
+    'lat' => 39.37879944,
+    'lon' => -99.83149719,
+    'tz' => 'America/Chicago',
+  ),
+  'HLG' => 
+  array (
+    'icao' => 'KHLG',
+    'iata' => 'HLG',
+    'name' => 'Wheeling Ohio County Airport',
+    'city' => 'Wheeling',
+    'state' => 'West-Virginia',
+    'country' => 'US',
+    'elevation' => 1195,
+    'lat' => 40.1749992371,
+    'lon' => -80.6463012695,
+    'tz' => 'America/New_York',
+  ),
+  'HLM' => 
+  array (
+    'icao' => 'KHLM',
+    'iata' => 'HLM',
+    'name' => 'Park Township Airport',
+    'city' => 'Holland',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 603,
+    'lat' => 42.7958984375,
+    'lon' => -86.1620025635,
+    'tz' => 'America/Detroit',
+  ),
   'HLN' => 
   array (
     'icao' => 'KHLN',
@@ -30321,6 +34390,84 @@ abstract class AirportLibrary
     'lon' => -111.983001709,
     'tz' => 'America/Denver',
   ),
+  'HLR' => 
+  array (
+    'icao' => 'KHLR',
+    'iata' => 'HLR',
+    'name' => 'Hood Army Air Field',
+    'city' => 'Fort Hood(Killeen)',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 924,
+    'lat' => 31.1387004852,
+    'lon' => -97.7145004272,
+    'tz' => 'America/Chicago',
+  ),
+  'HMN' => 
+  array (
+    'icao' => 'KHMN',
+    'iata' => 'HMN',
+    'name' => 'Holloman Air Force Base',
+    'city' => 'Alamogordo',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 4093,
+    'lat' => 32.8525009155,
+    'lon' => -106.1070022583,
+    'tz' => 'America/Denver',
+  ),
+  'HMT' => 
+  array (
+    'icao' => 'KHMT',
+    'iata' => 'HMT',
+    'name' => 'Hemet Ryan Airport',
+    'city' => 'Hemet',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 1512,
+    'lat' => 33.7340011597,
+    'lon' => -117.0230026245,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'HNB' => 
+  array (
+    'icao' => 'KHNB',
+    'iata' => 'HNB',
+    'name' => 'Huntingburg Airport',
+    'city' => 'Huntingburg',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 529,
+    'lat' => 38.2490005493,
+    'lon' => -86.9536972046,
+    'tz' => 'America/Indiana/Vincennes',
+  ),
+  'HSH' => 
+  array (
+    'icao' => 'KHND',
+    'iata' => 'HSH',
+    'name' => 'Henderson Executive Airport',
+    'city' => 'Las Vegas',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 2492,
+    'lat' => 35.9728012085,
+    'lon' => -115.1340026855,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'HOB' => 
+  array (
+    'icao' => 'KHOB',
+    'iata' => 'HOB',
+    'name' => 'Lea County Regional Airport',
+    'city' => 'Hobbs',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 3661,
+    'lat' => 32.6875,
+    'lon' => -103.2170029,
+    'tz' => 'America/Denver',
+  ),
   'HON' => 
   array (
     'icao' => 'KHON',
@@ -30332,6 +34479,19 @@ abstract class AirportLibrary
     'elevation' => 1289,
     'lat' => 44.3852005005,
     'lon' => -98.2285003662,
+    'tz' => 'America/Chicago',
+  ),
+  'HOP' => 
+  array (
+    'icao' => 'KHOP',
+    'iata' => 'HOP',
+    'name' => 'Campbell AAF (Fort Campbell) Air Field',
+    'city' => 'Fort Campbell/Hopkinsville',
+    'state' => 'Kentucky',
+    'country' => 'US',
+    'elevation' => 573,
+    'lat' => 36.668598175,
+    'lon' => -87.4962005615,
     'tz' => 'America/Chicago',
   ),
   'HOT' => 
@@ -30373,6 +34533,58 @@ abstract class AirportLibrary
     'lon' => -73.7076034546,
     'tz' => 'America/New_York',
   ),
+  'HPT' => 
+  array (
+    'icao' => 'KHPT',
+    'iata' => 'HPT',
+    'name' => 'Hampton Municipal Airport',
+    'city' => 'Hampton',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 1176,
+    'lat' => 42.7237014771,
+    'lon' => -93.2263031006,
+    'tz' => 'America/Chicago',
+  ),
+  'HPY' => 
+  array (
+    'icao' => 'KHPY',
+    'iata' => 'HPY',
+    'name' => 'Baytown Airport',
+    'city' => 'Baytown',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 34,
+    'lat' => 29.7861003876,
+    'lon' => -94.9526977539,
+    'tz' => 'America/Chicago',
+  ),
+  'HQM' => 
+  array (
+    'icao' => 'KHQM',
+    'iata' => 'HQM',
+    'name' => 'Bowerman Airport',
+    'city' => 'Hoquiam',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 18,
+    'lat' => 46.9711990356,
+    'lon' => -123.93699646,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'HES' => 
+  array (
+    'icao' => 'KHRI',
+    'iata' => 'HES',
+    'name' => 'Hermiston Municipal Airport',
+    'city' => 'Hermiston',
+    'state' => 'Oregon',
+    'country' => 'US',
+    'elevation' => 644,
+    'lat' => 45.8282012939,
+    'lon' => -119.2590026855,
+    'tz' => 'America/Los_Angeles',
+  ),
   'HRL' => 
   array (
     'icao' => 'KHRL',
@@ -30399,6 +34611,19 @@ abstract class AirportLibrary
     'lon' => -93.1547012329,
     'tz' => 'America/Chicago',
   ),
+  'HSB' => 
+  array (
+    'icao' => 'KHSB',
+    'iata' => 'HSB',
+    'name' => 'Harrisburg Raleigh Airport',
+    'city' => 'Harrisburg',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 398,
+    'lat' => 37.81129837,
+    'lon' => -88.5503006,
+    'tz' => 'America/Chicago',
+  ),
   'HNC' => 
   array (
     'icao' => 'KHSE',
@@ -30410,6 +34635,45 @@ abstract class AirportLibrary
     'elevation' => 17,
     'lat' => 35.23279953,
     'lon' => -75.6177978516,
+    'tz' => 'America/New_York',
+  ),
+  'HSI' => 
+  array (
+    'icao' => 'KHSI',
+    'iata' => 'HSI',
+    'name' => 'Hastings Municipal Airport',
+    'city' => 'Hastings',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 1961,
+    'lat' => 40.6053009033,
+    'lon' => -98.4279022217,
+    'tz' => 'America/Chicago',
+  ),
+  'HSP' => 
+  array (
+    'icao' => 'KHSP',
+    'iata' => 'HSP',
+    'name' => 'Ingalls Field',
+    'city' => 'Hot Springs',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 3793,
+    'lat' => 37.95140076,
+    'lon' => -79.83390045,
+    'tz' => 'America/New_York',
+  ),
+  'HST' => 
+  array (
+    'icao' => 'KHST',
+    'iata' => 'HST',
+    'name' => 'Homestead ARB Airport',
+    'city' => 'Homestead',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 5,
+    'lat' => 25.48859978,
+    'lon' => -80.38359833,
     'tz' => 'America/New_York',
   ),
   'HSV' => 
@@ -30425,6 +34689,45 @@ abstract class AirportLibrary
     'lon' => -86.775100708,
     'tz' => 'America/Chicago',
   ),
+  'HTH' => 
+  array (
+    'icao' => 'KHTH',
+    'iata' => 'HTH',
+    'name' => 'Hawthorne Industrial Airport',
+    'city' => 'Hawthorne',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 4215,
+    'lat' => 38.5443992615,
+    'lon' => -118.6340026855,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'HTL' => 
+  array (
+    'icao' => 'KHTL',
+    'iata' => 'HTL',
+    'name' => 'Roscommon County - Blodgett Memorial Airport',
+    'city' => 'Houghton Lake',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 1150,
+    'lat' => 44.35979843,
+    'lon' => -84.6710968,
+    'tz' => 'America/Detroit',
+  ),
+  'HTO' => 
+  array (
+    'icao' => 'KHTO',
+    'iata' => 'HTO',
+    'name' => 'East Hampton Airport',
+    'city' => 'East Hampton',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 55,
+    'lat' => 40.95959854,
+    'lon' => -72.25180054,
+    'tz' => 'America/New_York',
+  ),
   'HTS' => 
   array (
     'icao' => 'KHTS',
@@ -30438,6 +34741,32 @@ abstract class AirportLibrary
     'lon' => -82.55799866,
     'tz' => 'America/New_York',
   ),
+  'HTW' => 
+  array (
+    'icao' => 'KHTW',
+    'iata' => 'HTW',
+    'name' => 'Lawrence County Airpark',
+    'city' => 'Chesapeake/Huntington Wva',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 568,
+    'lat' => 38.4193000793,
+    'lon' => -82.4943008423,
+    'tz' => 'America/New_York',
+  ),
+  'HUA' => 
+  array (
+    'icao' => 'KHUA',
+    'iata' => 'HUA',
+    'name' => 'Redstone Army Air Field',
+    'city' => 'Redstone Arsnl Huntsville',
+    'state' => 'Alabama',
+    'country' => 'US',
+    'elevation' => 684,
+    'lat' => 34.67869949,
+    'lon' => -86.68479919,
+    'tz' => 'America/Chicago',
+  ),
   'HUF' => 
   array (
     'icao' => 'KHUF',
@@ -30450,6 +34779,58 @@ abstract class AirportLibrary
     'lat' => 39.451499939,
     'lon' => -87.3076019287,
     'tz' => 'America/Indiana/Indianapolis',
+  ),
+  'HUL' => 
+  array (
+    'icao' => 'KHUL',
+    'iata' => 'HUL',
+    'name' => 'Houlton International Airport',
+    'city' => 'Houlton',
+    'state' => 'Maine',
+    'country' => 'US',
+    'elevation' => 489,
+    'lat' => 46.1231002808,
+    'lon' => -67.792098999,
+    'tz' => 'America/Moncton',
+  ),
+  'HUM' => 
+  array (
+    'icao' => 'KHUM',
+    'iata' => 'HUM',
+    'name' => 'Houma Terrebonne Airport',
+    'city' => 'Houma',
+    'state' => 'Louisiana',
+    'country' => 'US',
+    'elevation' => 10,
+    'lat' => 29.5664997101,
+    'lon' => -90.6604003906,
+    'tz' => 'America/Chicago',
+  ),
+  'HUT' => 
+  array (
+    'icao' => 'KHUT',
+    'iata' => 'HUT',
+    'name' => 'Hutchinson Municipal Airport',
+    'city' => 'Hutchinson',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 1543,
+    'lat' => 38.0654983521,
+    'lon' => -97.8606033325,
+    'tz' => 'America/Chicago',
+  ),
+  'HVE' => 
+  array (
+    'icao' => 'KHVE',
+    'iata' => 'HVE',
+    'name' => 'Hanksville Airport',
+    'city' => 'Hanksville',
+    'state' => 'Utah',
+    'country' => 'US',
+    'elevation' => 4444,
+    'lat' => 38.4179992676,
+    'lon' => -110.7040023804,
+    'tz' => 'America/Denver',
   ),
   'HVN' => 
   array (
@@ -30477,6 +34858,58 @@ abstract class AirportLibrary
     'lon' => -109.762001,
     'tz' => 'America/Denver',
   ),
+  'HVS' => 
+  array (
+    'icao' => 'KHVS',
+    'iata' => 'HVS',
+    'name' => 'Hartsville Regional Airport',
+    'city' => 'Hartsville',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 364,
+    'lat' => 34.4030990601,
+    'lon' => -80.1192016602,
+    'tz' => 'America/New_York',
+  ),
+  'HWD' => 
+  array (
+    'icao' => 'KHWD',
+    'iata' => 'HWD',
+    'name' => 'Hayward Executive Airport',
+    'city' => 'Hayward',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 52,
+    'lat' => 37.659198761,
+    'lon' => -122.1220016479,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'HWO' => 
+  array (
+    'icao' => 'KHWO',
+    'iata' => 'HWO',
+    'name' => 'North Perry Airport',
+    'city' => 'Hollywood',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 8,
+    'lat' => 26.0011997223,
+    'lon' => -80.2406997681,
+    'tz' => 'America/New_York',
+  ),
+  'WSH' => 
+  array (
+    'icao' => 'KHWV',
+    'iata' => 'WSH',
+    'name' => 'Brookhaven Airport',
+    'city' => 'Shirley',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 81,
+    'lat' => 40.8218994141,
+    'lon' => -72.8694000244,
+    'tz' => 'America/New_York',
+  ),
   'HHH' => 
   array (
     'icao' => 'KHXD',
@@ -30494,7 +34927,7 @@ abstract class AirportLibrary
   array (
     'icao' => 'KHYA',
     'iata' => 'HYA',
-    'name' => 'Barnstable Municipal Boardman Polando Field',
+    'name' => 'Cape Cod Gateway Airport',
     'city' => 'Hyannis',
     'state' => 'Massachusetts',
     'country' => 'US',
@@ -30502,6 +34935,19 @@ abstract class AirportLibrary
     'lat' => 41.66930008,
     'lon' => -70.28040314,
     'tz' => 'America/New_York',
+  ),
+  'HYR' => 
+  array (
+    'icao' => 'KHYR',
+    'iata' => 'HYR',
+    'name' => 'Sawyer County Airport',
+    'city' => 'Hayward',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 1216,
+    'lat' => 46.0251998901,
+    'lon' => -91.4442977905,
+    'tz' => 'America/Chicago',
   ),
   'HYS' => 
   array (
@@ -30515,6 +34961,32 @@ abstract class AirportLibrary
     'lat' => 38.84220123,
     'lon' => -99.27320099,
     'tz' => 'America/Chicago',
+  ),
+  'HZL' => 
+  array (
+    'icao' => 'KHZL',
+    'iata' => 'HZL',
+    'name' => 'Hazleton Municipal Airport',
+    'city' => 'Hazleton',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 1603,
+    'lat' => 40.9868011475,
+    'lon' => -75.9949035645,
+    'tz' => 'America/New_York',
+  ),
+  'JFN' => 
+  array (
+    'icao' => 'KHZY',
+    'iata' => 'JFN',
+    'name' => 'Ashtabula County Airport',
+    'city' => 'Ashtabula',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 924,
+    'lat' => 41.7779998779,
+    'lon' => -80.6955032349,
+    'tz' => 'America/New_York',
   ),
   'IAB' => 
   array (
@@ -30534,7 +35006,7 @@ abstract class AirportLibrary
     'icao' => 'KIAD',
     'iata' => 'IAD',
     'name' => 'Washington Dulles International Airport',
-    'city' => 'Washington',
+    'city' => 'Dulles',
     'state' => 'Virginia',
     'country' => 'US',
     'elevation' => 312,
@@ -30568,6 +35040,19 @@ abstract class AirportLibrary
     'lon' => -95.3414001465,
     'tz' => 'America/Chicago',
   ),
+  'ICL' => 
+  array (
+    'icao' => 'KICL',
+    'iata' => 'ICL',
+    'name' => 'Schenck Field',
+    'city' => 'Clarinda',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 996,
+    'lat' => 40.72180176,
+    'lon' => -95.02639771,
+    'tz' => 'America/Chicago',
+  ),
   'ICT' => 
   array (
     'icao' => 'KICT',
@@ -30594,6 +35079,45 @@ abstract class AirportLibrary
     'lon' => -112.0709991455,
     'tz' => 'America/Boise',
   ),
+  'IDG' => 
+  array (
+    'icao' => 'KIDG',
+    'iata' => 'IDG',
+    'name' => 'Ida Grove Municipal Airport',
+    'city' => 'Ida Grove',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 1245,
+    'lat' => 42.3325996399,
+    'lon' => -95.4449005127,
+    'tz' => 'America/Chicago',
+  ),
+  'IDI' => 
+  array (
+    'icao' => 'KIDI',
+    'iata' => 'IDI',
+    'name' => 'Indiana County/Jimmy Stewart Fld/ Airport',
+    'city' => 'Indiana',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 1405,
+    'lat' => 40.63219833,
+    'lon' => -79.10549927,
+    'tz' => 'America/New_York',
+  ),
+  'IDP' => 
+  array (
+    'icao' => 'KIDP',
+    'iata' => 'IDP',
+    'name' => 'Independence Municipal Airport',
+    'city' => 'Independence',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 825,
+    'lat' => 37.1584014893,
+    'lon' => -95.7783966064,
+    'tz' => 'America/Chicago',
+  ),
   'XPR' => 
   array (
     'icao' => 'KIEN',
@@ -30606,6 +35130,19 @@ abstract class AirportLibrary
     'lat' => 43.0224990845,
     'lon' => -102.511001587,
     'tz' => 'America/Denver',
+  ),
+  'IFA' => 
+  array (
+    'icao' => 'KIFA',
+    'iata' => 'IFA',
+    'name' => 'Iowa Falls Municipal Airport',
+    'city' => 'Iowa Falls',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 1137,
+    'lat' => 42.4707984924,
+    'lon' => -93.2699966431,
+    'tz' => 'America/Chicago',
   ),
   'IFP' => 
   array (
@@ -30633,6 +35170,45 @@ abstract class AirportLibrary
     'lon' => -113.93800354,
     'tz' => 'America/Phoenix',
   ),
+  'IJX' => 
+  array (
+    'icao' => 'KIJX',
+    'iata' => 'IJX',
+    'name' => 'Jacksonville Municipal Airport',
+    'city' => 'Jacksonville',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 624,
+    'lat' => 39.7746009827,
+    'lon' => -90.2382965088,
+    'tz' => 'America/Chicago',
+  ),
+  'IKK' => 
+  array (
+    'icao' => 'KIKK',
+    'iata' => 'IKK',
+    'name' => 'Greater Kankakee Airport',
+    'city' => 'Kankakee',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 630,
+    'lat' => 41.0713996887,
+    'lon' => -87.8462982178,
+    'tz' => 'America/Chicago',
+  ),
+  'ILE' => 
+  array (
+    'icao' => 'KILE',
+    'iata' => 'ILE',
+    'name' => 'Skylark Field',
+    'city' => 'Killeen',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 848,
+    'lat' => 31.0858001709,
+    'lon' => -97.6865005493,
+    'tz' => 'America/Chicago',
+  ),
   'ILG' => 
   array (
     'icao' => 'KILG',
@@ -30659,6 +35235,58 @@ abstract class AirportLibrary
     'lon' => -77.9026031494,
     'tz' => 'America/New_York',
   ),
+  'ILN' => 
+  array (
+    'icao' => 'KILN',
+    'iata' => 'ILN',
+    'name' => 'Airborne Airpark',
+    'city' => 'Wilmington',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 1077,
+    'lat' => 39.427898407,
+    'lon' => -83.792098999,
+    'tz' => 'America/New_York',
+  ),
+  'IML' => 
+  array (
+    'icao' => 'KIML',
+    'iata' => 'IML',
+    'name' => 'Imperial Municipal Airport',
+    'city' => 'Imperial',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 3275,
+    'lat' => 40.50930023,
+    'lon' => -101.6210022,
+    'tz' => 'America/Denver',
+  ),
+  'IMM' => 
+  array (
+    'icao' => 'KIMM',
+    'iata' => 'IMM',
+    'name' => 'Immokalee Regional Airport',
+    'city' => 'Immokalee',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 37,
+    'lat' => 26.43320084,
+    'lon' => -81.40100098,
+    'tz' => 'America/New_York',
+  ),
+  'MDN' => 
+  array (
+    'icao' => 'KIMS',
+    'iata' => 'MDN',
+    'name' => 'Madison Municipal Airport',
+    'city' => 'Madison',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 819,
+    'lat' => 38.75889969,
+    'lon' => -85.46549988,
+    'tz' => 'America/Indiana/Indianapolis',
+  ),
   'IMT' => 
   array (
     'icao' => 'KIMT',
@@ -30683,7 +35311,20 @@ abstract class AirportLibrary
     'elevation' => 797,
     'lat' => 39.717300415,
     'lon' => -86.2944030762,
-    'tz' => 'America/New_York',
+    'tz' => 'America/Indiana/Indianapolis',
+  ),
+  'INK' => 
+  array (
+    'icao' => 'KINK',
+    'iata' => 'INK',
+    'name' => 'Winkler County Airport',
+    'city' => 'Wink',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 2822,
+    'lat' => 31.7796001434,
+    'lon' => -103.2009963989,
+    'tz' => 'America/Chicago',
   ),
   'INL' => 
   array (
@@ -30698,6 +35339,19 @@ abstract class AirportLibrary
     'lon' => -93.4030990601,
     'tz' => 'America/Chicago',
   ),
+  'INS' => 
+  array (
+    'icao' => 'KINS',
+    'iata' => 'INS',
+    'name' => 'Creech Air Force Base',
+    'city' => 'Indian Springs',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 3133,
+    'lat' => 36.5872001648,
+    'lon' => -115.672996521,
+    'tz' => 'America/Los_Angeles',
+  ),
   'INT' => 
   array (
     'icao' => 'KINT',
@@ -30710,6 +35364,32 @@ abstract class AirportLibrary
     'lat' => 36.1337013245,
     'lon' => -80.2220001221,
     'tz' => 'America/New_York',
+  ),
+  'INW' => 
+  array (
+    'icao' => 'KINW',
+    'iata' => 'INW',
+    'name' => 'Winslow Lindbergh Regional Airport',
+    'city' => 'Winslow',
+    'state' => 'Arizona',
+    'country' => 'US',
+    'elevation' => 4941,
+    'lat' => 35.021900177,
+    'lon' => -110.7229995728,
+    'tz' => 'America/Phoenix',
+  ),
+  'IOW' => 
+  array (
+    'icao' => 'KIOW',
+    'iata' => 'IOW',
+    'name' => 'Iowa City Municipal Airport',
+    'city' => 'Iowa City',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 668,
+    'lat' => 41.6391983032,
+    'lon' => -91.5465011597,
+    'tz' => 'America/Chicago',
   ),
   'IPL' => 
   array (
@@ -30750,6 +35430,32 @@ abstract class AirportLibrary
     'lon' => -92.5448989868,
     'tz' => 'America/Chicago',
   ),
+  'IRS' => 
+  array (
+    'icao' => 'KIRS',
+    'iata' => 'IRS',
+    'name' => 'Kirsch Municipal Airport',
+    'city' => 'Sturgis',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 924,
+    'lat' => 41.81330109,
+    'lon' => -85.43900299,
+    'tz' => 'America/Detroit',
+  ),
+  'ISM' => 
+  array (
+    'icao' => 'KISM',
+    'iata' => 'ISM',
+    'name' => 'Kissimmee Gateway Airport',
+    'city' => 'Orlando',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 82,
+    'lat' => 28.2898006439,
+    'lon' => -81.4371032715,
+    'tz' => 'America/New_York',
+  ),
   'ISN' => 
   array (
     'icao' => 'KISN',
@@ -30763,6 +35469,19 @@ abstract class AirportLibrary
     'lon' => -103.641998291,
     'tz' => 'America/Chicago',
   ),
+  'ISO' => 
+  array (
+    'icao' => 'KISO',
+    'iata' => 'ISO',
+    'name' => 'Kinston Regional Jetport At Stallings Field',
+    'city' => 'Kinston',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 93,
+    'lat' => 35.331401825,
+    'lon' => -77.6088027954,
+    'tz' => 'America/New_York',
+  ),
   'ISP' => 
   array (
     'icao' => 'KISP',
@@ -30775,6 +35494,32 @@ abstract class AirportLibrary
     'lat' => 40.79520035,
     'lon' => -73.10019684,
     'tz' => 'America/New_York',
+  ),
+  'ISQ' => 
+  array (
+    'icao' => 'KISQ',
+    'iata' => 'ISQ',
+    'name' => 'Schoolcraft County Airport',
+    'city' => 'Manistique',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 684,
+    'lat' => 45.97460175,
+    'lon' => -86.17179871,
+    'tz' => 'America/Detroit',
+  ),
+  'ISW' => 
+  array (
+    'icao' => 'KISW',
+    'iata' => 'ISW',
+    'name' => 'Alexander Field South Wood County Airport',
+    'city' => 'Wisconsin Rapids',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 1021,
+    'lat' => 44.3602981567,
+    'lon' => -89.8389968872,
+    'tz' => 'America/Chicago',
   ),
   'ITH' => 
   array (
@@ -30802,6 +35547,58 @@ abstract class AirportLibrary
     'lon' => -111.6549988,
     'tz' => 'America/Phoenix',
   ),
+  'IWD' => 
+  array (
+    'icao' => 'KIWD',
+    'iata' => 'IWD',
+    'name' => 'Gogebic Iron County Airport',
+    'city' => 'Ironwood',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 1230,
+    'lat' => 46.5275001526,
+    'lon' => -90.131401062,
+    'tz' => 'America/Menominee',
+  ),
+  'ISS' => 
+  array (
+    'icao' => 'KIWI',
+    'iata' => 'ISS',
+    'name' => 'Wiscasset Airport',
+    'city' => 'Wiscasset',
+    'state' => 'Maine',
+    'country' => 'US',
+    'elevation' => 70,
+    'lat' => 43.9613990784,
+    'lon' => -69.712600708,
+    'tz' => 'America/New_York',
+  ),
+  'IWS' => 
+  array (
+    'icao' => 'KIWS',
+    'iata' => 'IWS',
+    'name' => 'West Houston Airport',
+    'city' => 'Houston',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 111,
+    'lat' => 29.8181991577,
+    'lon' => -95.6725997925,
+    'tz' => 'America/Chicago',
+  ),
+  'JCI' => 
+  array (
+    'icao' => 'KIXD',
+    'iata' => 'JCI',
+    'name' => 'New Century Aircenter Airport',
+    'city' => 'Olathe',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 1087,
+    'lat' => 38.8308982849,
+    'lon' => -94.890296936,
+    'tz' => 'America/Chicago',
+  ),
   'IYK' => 
   array (
     'icao' => 'KIYK',
@@ -30814,6 +35611,32 @@ abstract class AirportLibrary
     'lat' => 35.65879822,
     'lon' => -117.8300018,
     'tz' => 'America/Los_Angeles',
+  ),
+  'SQA' => 
+  array (
+    'icao' => 'KIZA',
+    'iata' => 'SQA',
+    'name' => 'Santa Ynez Airport',
+    'city' => 'Santa Ynez',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 674,
+    'lat' => 34.60680008,
+    'lon' => -120.0759964,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'FRY' => 
+  array (
+    'icao' => 'KIZG',
+    'iata' => 'FRY',
+    'name' => 'Eastern Slopes Regional Airport',
+    'city' => 'Fryeburg',
+    'state' => 'Maine',
+    'country' => 'US',
+    'elevation' => 454,
+    'lat' => 43.9911003113,
+    'lon' => -70.9478988647,
+    'tz' => 'America/New_York',
   ),
   'JAC' => 
   array (
@@ -30839,6 +35662,19 @@ abstract class AirportLibrary
     'elevation' => 346,
     'lat' => 32.3111991882,
     'lon' => -90.0758972168,
+    'tz' => 'America/Chicago',
+  ),
+  'JAS' => 
+  array (
+    'icao' => 'KJAS',
+    'iata' => 'JAS',
+    'name' => 'Jasper County-Bell Field',
+    'city' => 'Jasper',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 213,
+    'lat' => 30.88570023,
+    'lon' => -94.03489685,
     'tz' => 'America/Chicago',
   ),
   'JAX' => 
@@ -30867,6 +35703,45 @@ abstract class AirportLibrary
     'lon' => -90.6464004517,
     'tz' => 'America/Chicago',
   ),
+  'JCT' => 
+  array (
+    'icao' => 'KJCT',
+    'iata' => 'JCT',
+    'name' => 'Kimble County Airport',
+    'city' => 'Junction',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 1749,
+    'lat' => 30.5112991333,
+    'lon' => -99.7634963989,
+    'tz' => 'America/Chicago',
+  ),
+  'JDN' => 
+  array (
+    'icao' => 'KJDN',
+    'iata' => 'JDN',
+    'name' => 'Jordan Airport',
+    'city' => 'Jordan',
+    'state' => 'Montana',
+    'country' => 'US',
+    'elevation' => 2662,
+    'lat' => 47.3288002014,
+    'lon' => -106.9530029297,
+    'tz' => 'America/Denver',
+  ),
+  'JEF' => 
+  array (
+    'icao' => 'KJEF',
+    'iata' => 'JEF',
+    'name' => 'Jefferson City Memorial Airport',
+    'city' => 'Jefferson City',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 549,
+    'lat' => 38.5912017822,
+    'lon' => -92.1560974121,
+    'tz' => 'America/Chicago',
+  ),
   'JFK' => 
   array (
     'icao' => 'KJFK',
@@ -30879,6 +35754,32 @@ abstract class AirportLibrary
     'lat' => 40.63980103,
     'lon' => -73.77890015,
     'tz' => 'America/New_York',
+  ),
+  'JHW' => 
+  array (
+    'icao' => 'KJHW',
+    'iata' => 'JHW',
+    'name' => 'Chautauqua County-Jamestown Airport',
+    'city' => 'Jamestown',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 1723,
+    'lat' => 42.15340042,
+    'lon' => -79.25800323,
+    'tz' => 'America/New_York',
+  ),
+  'GUF' => 
+  array (
+    'icao' => 'KJKA',
+    'iata' => 'GUF',
+    'name' => 'Jack Edwards Airport',
+    'city' => 'Gulf Shores',
+    'state' => 'Alabama',
+    'country' => 'US',
+    'elevation' => 17,
+    'lat' => 30.29050064,
+    'lon' => -87.67179871,
+    'tz' => 'America/Chicago',
   ),
   'JLN' => 
   array (
@@ -30906,6 +35807,19 @@ abstract class AirportLibrary
     'lon' => -98.67819977,
     'tz' => 'America/Chicago',
   ),
+  'JOT' => 
+  array (
+    'icao' => 'KJOT',
+    'iata' => 'JOT',
+    'name' => 'Joliet Regional Airport',
+    'city' => 'Joliet',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 582,
+    'lat' => 41.51779938,
+    'lon' => -88.17549896,
+    'tz' => 'America/Chicago',
+  ),
   'USA' => 
   array (
     'icao' => 'KJQF',
@@ -30918,6 +35832,19 @@ abstract class AirportLibrary
     'lat' => 35.3877983093,
     'lon' => -80.7090988159,
     'tz' => 'America/New_York',
+  ),
+  'JKV' => 
+  array (
+    'icao' => 'KJSO',
+    'iata' => 'JKV',
+    'name' => 'Cherokee County Airport',
+    'city' => 'Jacksonville',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 677,
+    'lat' => 31.8693008423,
+    'lon' => -95.2173995972,
+    'tz' => 'America/Chicago',
   ),
   'JST' => 
   array (
@@ -30932,6 +35859,71 @@ abstract class AirportLibrary
     'lon' => -78.8339004517,
     'tz' => 'America/New_York',
   ),
+  'JVL' => 
+  array (
+    'icao' => 'KJVL',
+    'iata' => 'JVL',
+    'name' => 'Southern Wisconsin Regional Airport',
+    'city' => 'Janesville',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 808,
+    'lat' => 42.620300293,
+    'lon' => -89.0416030884,
+    'tz' => 'America/Chicago',
+  ),
+  'JXN' => 
+  array (
+    'icao' => 'KJXN',
+    'iata' => 'JXN',
+    'name' => 'Jackson County Reynolds Field',
+    'city' => 'Jackson',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 1001,
+    'lat' => 42.2597999573,
+    'lon' => -84.4593963623,
+    'tz' => 'America/Detroit',
+  ),
+  'KIC' => 
+  array (
+    'icao' => 'KKIC',
+    'iata' => 'KIC',
+    'name' => 'Mesa Del Rey Airport',
+    'city' => 'King City',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 370,
+    'lat' => 36.2280006409,
+    'lon' => -121.1220016479,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'KLS' => 
+  array (
+    'icao' => 'KKLS',
+    'iata' => 'KLS',
+    'name' => 'Southwest Washington Regional Airport',
+    'city' => 'Kelso',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 20,
+    'lat' => 46.1180000305,
+    'lon' => -122.898002625,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'KNB' => 
+  array (
+    'icao' => 'KKNB',
+    'iata' => 'KNB',
+    'name' => 'Kanab Municipal Airport',
+    'city' => 'Kanab',
+    'state' => 'Utah',
+    'country' => 'US',
+    'elevation' => 4868,
+    'lat' => 37.011100769,
+    'lon' => -112.53099823,
+    'tz' => 'America/Denver',
+  ),
   'BXS' => 
   array (
     'icao' => 'KL08',
@@ -30945,6 +35937,19 @@ abstract class AirportLibrary
     'lon' => -116.320999146,
     'tz' => 'America/Los_Angeles',
   ),
+  'LAA' => 
+  array (
+    'icao' => 'KLAA',
+    'iata' => 'LAA',
+    'name' => 'Lamar Municipal Airport',
+    'city' => 'Lamar',
+    'state' => 'Colorado',
+    'country' => 'US',
+    'elevation' => 3706,
+    'lat' => 38.0696983337,
+    'lon' => -102.68800354,
+    'tz' => 'America/Denver',
+  ),
   'LAF' => 
   array (
     'icao' => 'KLAF',
@@ -30956,7 +35961,33 @@ abstract class AirportLibrary
     'elevation' => 606,
     'lat' => 40.4123001099,
     'lon' => -86.9368972778,
+    'tz' => 'America/Indiana/Indianapolis',
+  ),
+  'LAL' => 
+  array (
+    'icao' => 'KLAL',
+    'iata' => 'LAL',
+    'name' => 'Lakeland Linder Regional Airport',
+    'city' => 'Lakeland',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 142,
+    'lat' => 27.988899231,
+    'lon' => -82.0186004639,
     'tz' => 'America/New_York',
+  ),
+  'LAM' => 
+  array (
+    'icao' => 'KLAM',
+    'iata' => 'LAM',
+    'name' => 'Los Alamos Airport',
+    'city' => 'Los Alamos',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 7171,
+    'lat' => 35.8797988892,
+    'lon' => -106.2689971924,
+    'tz' => 'America/Denver',
   ),
   'LAN' => 
   array (
@@ -30988,7 +36019,7 @@ abstract class AirportLibrary
   array (
     'icao' => 'KLAS',
     'iata' => 'LAS',
-    'name' => 'McCarran International Airport',
+    'name' => 'Harry Reid International Airport',
     'city' => 'Las Vegas',
     'state' => 'Nevada',
     'country' => 'US',
@@ -31075,6 +36106,32 @@ abstract class AirportLibrary
     'lon' => -100.9599991,
     'tz' => 'America/Chicago',
   ),
+  'LBT' => 
+  array (
+    'icao' => 'KLBT',
+    'iata' => 'LBT',
+    'name' => 'Lumberton Municipal Airport',
+    'city' => 'Lumberton',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 126,
+    'lat' => 34.6099014282,
+    'lon' => -79.0594024658,
+    'tz' => 'America/New_York',
+  ),
+  'LJN' => 
+  array (
+    'icao' => 'KLBX',
+    'iata' => 'LJN',
+    'name' => 'Brazoria County Airport',
+    'city' => 'Angleton/Lake Jackson',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 25,
+    'lat' => 29.1086006165,
+    'lon' => -95.462097168,
+    'tz' => 'America/Chicago',
+  ),
   'LCH' => 
   array (
     'icao' => 'KLCH',
@@ -31087,6 +36144,71 @@ abstract class AirportLibrary
     'lat' => 30.1261005402,
     'lon' => -93.2232971191,
     'tz' => 'America/Chicago',
+  ),
+  'LCI' => 
+  array (
+    'icao' => 'KLCI',
+    'iata' => 'LCI',
+    'name' => 'Laconia Municipal Airport',
+    'city' => 'Laconia',
+    'state' => 'New-Hampshire',
+    'country' => 'US',
+    'elevation' => 545,
+    'lat' => 43.5727005005,
+    'lon' => -71.4188995361,
+    'tz' => 'America/New_York',
+  ),
+  'LCK' => 
+  array (
+    'icao' => 'KLCK',
+    'iata' => 'LCK',
+    'name' => 'Rickenbacker International Airport',
+    'city' => 'Columbus',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 744,
+    'lat' => 39.8138008118,
+    'lon' => -82.9278030396,
+    'tz' => 'America/New_York',
+  ),
+  'LCQ' => 
+  array (
+    'icao' => 'KLCQ',
+    'iata' => 'LCQ',
+    'name' => 'Lake City Municipal Airport',
+    'city' => 'Lake City',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 201,
+    'lat' => 30.1819992065,
+    'lon' => -82.5768966675,
+    'tz' => 'America/New_York',
+  ),
+  'LDJ' => 
+  array (
+    'icao' => 'KLDJ',
+    'iata' => 'LDJ',
+    'name' => 'Linden Airport',
+    'city' => 'Linden',
+    'state' => 'New-Jersey',
+    'country' => 'US',
+    'elevation' => 23,
+    'lat' => 40.617401123,
+    'lon' => -74.2445983887,
+    'tz' => 'America/New_York',
+  ),
+  'LDM' => 
+  array (
+    'icao' => 'KLDM',
+    'iata' => 'LDM',
+    'name' => 'Mason County Airport',
+    'city' => 'Ludington',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 646,
+    'lat' => 43.96250153,
+    'lon' => -86.40789795,
+    'tz' => 'America/Detroit',
   ),
   'LEB' => 
   array (
@@ -31101,6 +36223,45 @@ abstract class AirportLibrary
     'lon' => -72.3041992188,
     'tz' => 'America/New_York',
   ),
+  'LEE' => 
+  array (
+    'icao' => 'KLEE',
+    'iata' => 'LEE',
+    'name' => 'Leesburg International Airport',
+    'city' => 'Leesburg',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 76,
+    'lat' => 28.82309914,
+    'lon' => -81.80870056,
+    'tz' => 'America/New_York',
+  ),
+  'LEM' => 
+  array (
+    'icao' => 'KLEM',
+    'iata' => 'LEM',
+    'name' => 'Lemmon Municipal Airport',
+    'city' => 'Lemmon',
+    'state' => 'South-Dakota',
+    'country' => 'US',
+    'elevation' => 2571,
+    'lat' => 45.9187011719,
+    'lon' => -102.1060028076,
+    'tz' => 'America/Denver',
+  ),
+  'LEW' => 
+  array (
+    'icao' => 'KLEW',
+    'iata' => 'LEW',
+    'name' => 'Auburn Lewiston Municipal Airport',
+    'city' => 'Auburn/Lewiston',
+    'state' => 'Maine',
+    'country' => 'US',
+    'elevation' => 288,
+    'lat' => 44.048500061,
+    'lon' => -70.2835006714,
+    'tz' => 'America/New_York',
+  ),
   'LEX' => 
   array (
     'icao' => 'KLEX',
@@ -31113,6 +36274,32 @@ abstract class AirportLibrary
     'lat' => 38.0364990234,
     'lon' => -84.6059036255,
     'tz' => 'America/New_York',
+  ),
+  'LFI' => 
+  array (
+    'icao' => 'KLFI',
+    'iata' => 'LFI',
+    'name' => 'Langley Air Force Base',
+    'city' => 'Hampton',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 11,
+    'lat' => 37.082901001,
+    'lon' => -76.360496521,
+    'tz' => 'America/New_York',
+  ),
+  'LFK' => 
+  array (
+    'icao' => 'KLFK',
+    'iata' => 'LFK',
+    'name' => 'Angelina County Airport',
+    'city' => 'Lufkin',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 296,
+    'lat' => 31.2339992523,
+    'lon' => -94.75,
+    'tz' => 'America/Chicago',
   ),
   'LFT' => 
   array (
@@ -31153,6 +36340,110 @@ abstract class AirportLibrary
     'lon' => -118.1520004,
     'tz' => 'America/Los_Angeles',
   ),
+  'LGC' => 
+  array (
+    'icao' => 'KLGC',
+    'iata' => 'LGC',
+    'name' => 'Lagrange Callaway Airport',
+    'city' => 'Lagrange',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 693,
+    'lat' => 33.0088996887,
+    'lon' => -85.0726013184,
+    'tz' => 'America/New_York',
+  ),
+  'LGD' => 
+  array (
+    'icao' => 'KLGD',
+    'iata' => 'LGD',
+    'name' => 'La Grande Union County Airport',
+    'city' => 'La Grande',
+    'state' => 'Oregon',
+    'country' => 'US',
+    'elevation' => 2717,
+    'lat' => 45.2901992798,
+    'lon' => -118.0070037842,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'LGF' => 
+  array (
+    'icao' => 'KLGF',
+    'iata' => 'LGF',
+    'name' => 'Laguna AAF (Yuma Proving Ground) Airfield',
+    'city' => 'Yuma Proving Ground(Yuma)',
+    'state' => 'Arizona',
+    'country' => 'US',
+    'elevation' => 433,
+    'lat' => 32.86000061,
+    'lon' => -114.3970032,
+    'tz' => 'America/Phoenix',
+  ),
+  'LGU' => 
+  array (
+    'icao' => 'KLGU',
+    'iata' => 'LGU',
+    'name' => 'Logan Cache Airport',
+    'city' => 'Logan',
+    'state' => 'Utah',
+    'country' => 'US',
+    'elevation' => 4457,
+    'lat' => 41.7911987305,
+    'lon' => -111.8519973755,
+    'tz' => 'America/Denver',
+  ),
+  'LHV' => 
+  array (
+    'icao' => 'KLHV',
+    'iata' => 'LHV',
+    'name' => 'William T. Piper Memorial Airport',
+    'city' => 'Lock Haven',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 556,
+    'lat' => 41.13560104,
+    'lon' => -77.42230225,
+    'tz' => 'America/New_York',
+  ),
+  'LIY' => 
+  array (
+    'icao' => 'KLHW',
+    'iata' => 'LIY',
+    'name' => 'Wright Aaf (Fort Stewart)/Midcoast Regional Airport',
+    'city' => 'Fort Stewart(Hinesville)',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 45,
+    'lat' => 31.88909912,
+    'lon' => -81.56230164,
+    'tz' => 'America/New_York',
+  ),
+  'LFN' => 
+  array (
+    'icao' => 'KLHZ',
+    'iata' => 'LFN',
+    'name' => 'Franklin County Airport',
+    'city' => 'Louisburg',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 369,
+    'lat' => 36.0233001709,
+    'lon' => -78.3302993774,
+    'tz' => 'America/New_York',
+  ),
+  'LIC' => 
+  array (
+    'icao' => 'KLIC',
+    'iata' => 'LIC',
+    'name' => 'Limon Municipal Airport',
+    'city' => 'Limon',
+    'state' => 'Colorado',
+    'country' => 'US',
+    'elevation' => 5374,
+    'lat' => 39.2747993469,
+    'lon' => -103.6660003662,
+    'tz' => 'America/Denver',
+  ),
   'LIT' => 
   array (
     'icao' => 'KLIT',
@@ -31164,6 +36455,71 @@ abstract class AirportLibrary
     'elevation' => 262,
     'lat' => 34.7294006348,
     'lon' => -92.2242965698,
+    'tz' => 'America/Chicago',
+  ),
+  'LKP' => 
+  array (
+    'icao' => 'KLKP',
+    'iata' => 'LKP',
+    'name' => 'Lake Placid Airport',
+    'city' => 'Lake Placid',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 1747,
+    'lat' => 44.2644996643,
+    'lon' => -73.9618988037,
+    'tz' => 'America/New_York',
+  ),
+  'LOW' => 
+  array (
+    'icao' => 'KLKU',
+    'iata' => 'LOW',
+    'name' => 'Louisa County-Freeman field',
+    'city' => 'Louisa',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 493,
+    'lat' => 38.00979996,
+    'lon' => -77.9701004,
+    'tz' => 'America/New_York',
+  ),
+  'LKV' => 
+  array (
+    'icao' => 'KLKV',
+    'iata' => 'LKV',
+    'name' => 'Lake County Airport',
+    'city' => 'Lakeview',
+    'state' => 'Colorado',
+    'country' => 'US',
+    'elevation' => 4733,
+    'lat' => 42.1610984802,
+    'lon' => -120.3990020752,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'CHL' => 
+  array (
+    'icao' => 'KLLJ',
+    'iata' => 'CHL',
+    'name' => 'Challis Airport',
+    'city' => 'Challis',
+    'state' => 'Idaho',
+    'country' => 'US',
+    'elevation' => 5072,
+    'lat' => 44.5229988098,
+    'lon' => -114.2180023193,
+    'tz' => 'America/Boise',
+  ),
+  'LMS' => 
+  array (
+    'icao' => 'KLMS',
+    'iata' => 'LMS',
+    'name' => 'Louisville Winston County Airport',
+    'city' => 'Louisville',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 575,
+    'lat' => 33.1461982727,
+    'lon' => -89.0625,
     'tz' => 'America/Chicago',
   ),
   'LMT' => 
@@ -31179,17 +36535,82 @@ abstract class AirportLibrary
     'lon' => -121.733001709,
     'tz' => 'America/Los_Angeles',
   ),
+  'LNA' => 
+  array (
+    'icao' => 'KLNA',
+    'iata' => 'LNA',
+    'name' => 'Palm Beach County Park Airport',
+    'city' => 'West Palm Beach',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 14,
+    'lat' => 26.59300041,
+    'lon' => -80.08509827,
+    'tz' => 'America/New_York',
+  ),
+  'LND' => 
+  array (
+    'icao' => 'KLND',
+    'iata' => 'LND',
+    'name' => 'Hunt Field',
+    'city' => 'Lander',
+    'state' => 'Wyoming',
+    'country' => 'US',
+    'elevation' => 5586,
+    'lat' => 42.8152008057,
+    'lon' => -108.7300033569,
+    'tz' => 'America/Denver',
+  ),
   'LNK' => 
   array (
     'icao' => 'KLNK',
     'iata' => 'LNK',
     'name' => 'Lincoln Airport',
     'city' => 'Lincoln',
-    'state' => 'Montana',
+    'state' => 'Nebraska',
     'country' => 'US',
     'elevation' => 1219,
     'lat' => 40.8510017395,
     'lon' => -96.7592010498,
+    'tz' => 'America/Chicago',
+  ),
+  'LNN' => 
+  array (
+    'icao' => 'KLNN',
+    'iata' => 'LNN',
+    'name' => 'Willoughby Lost Nation Municipal Airport',
+    'city' => 'Willoughby',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 626,
+    'lat' => 41.6839981079,
+    'lon' => -81.3897018433,
+    'tz' => 'America/New_York',
+  ),
+  'LNP' => 
+  array (
+    'icao' => 'KLNP',
+    'iata' => 'LNP',
+    'name' => 'Lonesome Pine Airport',
+    'city' => 'Wise',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 2684,
+    'lat' => 36.9874992371,
+    'lon' => -82.5299987793,
+    'tz' => 'America/New_York',
+  ),
+  'LNR' => 
+  array (
+    'icao' => 'KLNR',
+    'iata' => 'LNR',
+    'name' => 'Tri-County Regional Airport',
+    'city' => 'Lone Rock',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 717,
+    'lat' => 43.2117004395,
+    'lon' => -90.181602478,
     'tz' => 'America/Chicago',
   ),
   'LNS' => 
@@ -31205,6 +36626,19 @@ abstract class AirportLibrary
     'lon' => -76.2960968018,
     'tz' => 'America/New_York',
   ),
+  'LOL' => 
+  array (
+    'icao' => 'KLOL',
+    'iata' => 'LOL',
+    'name' => 'Derby Field',
+    'city' => 'Lovelock',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 3904,
+    'lat' => 40.0663986206,
+    'lon' => -118.5650024414,
+    'tz' => 'America/Los_Angeles',
+  ),
   'BBX' => 
   array (
     'icao' => 'KLOM',
@@ -31216,6 +36650,71 @@ abstract class AirportLibrary
     'elevation' => 302,
     'lat' => 40.1375007629,
     'lon' => -75.2650985718,
+    'tz' => 'America/New_York',
+  ),
+  'LOT' => 
+  array (
+    'icao' => 'KLOT',
+    'iata' => 'LOT',
+    'name' => 'Lewis University Airport',
+    'city' => 'Chicago/Romeoville',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 679,
+    'lat' => 41.6072998,
+    'lon' => -88.09619904,
+    'tz' => 'America/Chicago',
+  ),
+  'LOU' => 
+  array (
+    'icao' => 'KLOU',
+    'iata' => 'LOU',
+    'name' => 'Bowman Field',
+    'city' => 'Louisville',
+    'state' => 'Kentucky',
+    'country' => 'US',
+    'elevation' => 546,
+    'lat' => 38.2280006409,
+    'lon' => -85.6636962891,
+    'tz' => 'America/Kentucky/Louisville',
+  ),
+  'LOZ' => 
+  array (
+    'icao' => 'KLOZ',
+    'iata' => 'LOZ',
+    'name' => 'London Corbin Airport Magee Field',
+    'city' => 'London',
+    'state' => 'Kentucky',
+    'country' => 'US',
+    'elevation' => 1212,
+    'lat' => 37.0821990967,
+    'lon' => -84.0848999023,
+    'tz' => 'America/New_York',
+  ),
+  'LPC' => 
+  array (
+    'icao' => 'KLPC',
+    'iata' => 'LPC',
+    'name' => 'Lompoc Airport',
+    'city' => 'Lompoc',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 88,
+    'lat' => 34.665599823,
+    'lon' => -120.4680023193,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'LQK' => 
+  array (
+    'icao' => 'KLQK',
+    'iata' => 'LQK',
+    'name' => 'Pickens County Airport',
+    'city' => 'Pickens',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 1013,
+    'lat' => 34.8100013733,
+    'lon' => -82.7029037476,
     'tz' => 'America/New_York',
   ),
   'LRD' => 
@@ -31231,6 +36730,32 @@ abstract class AirportLibrary
     'lon' => -99.4616012573,
     'tz' => 'America/Chicago',
   ),
+  'LRF' => 
+  array (
+    'icao' => 'KLRF',
+    'iata' => 'LRF',
+    'name' => 'Little Rock Air Force Base',
+    'city' => 'Jacksonville',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 311,
+    'lat' => 34.9169006348,
+    'lon' => -92.1496963501,
+    'tz' => 'America/Chicago',
+  ),
+  'LRJ' => 
+  array (
+    'icao' => 'KLRJ',
+    'iata' => 'LRJ',
+    'name' => 'Le Mars Municipal Airport',
+    'city' => 'Le Mars',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 1197,
+    'lat' => 42.77799988,
+    'lon' => -96.1937027,
+    'tz' => 'America/Chicago',
+  ),
   'LRU' => 
   array (
     'icao' => 'KLRU',
@@ -31242,6 +36767,19 @@ abstract class AirportLibrary
     'elevation' => 4456,
     'lat' => 32.2893981934,
     'lon' => -106.9219970703,
+    'tz' => 'America/Denver',
+  ),
+  'LSB' => 
+  array (
+    'icao' => 'KLSB',
+    'iata' => 'LSB',
+    'name' => 'Lordsburg Municipal Airport',
+    'city' => 'Lordsburg',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 4289,
+    'lat' => 32.3334999084,
+    'lon' => -108.6920013428,
     'tz' => 'America/Denver',
   ),
   'LSE' => 
@@ -31257,6 +36795,84 @@ abstract class AirportLibrary
     'lon' => -91.25669861,
     'tz' => 'America/Chicago',
   ),
+  'LSF' => 
+  array (
+    'icao' => 'KLSF',
+    'iata' => 'LSF',
+    'name' => 'Lawson Army Air Field (Fort Benning)',
+    'city' => 'Fort Benning(Columbus)',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 232,
+    'lat' => 32.3372993469,
+    'lon' => -84.9913024902,
+    'tz' => 'America/Chicago',
+  ),
+  'LSK' => 
+  array (
+    'icao' => 'KLSK',
+    'iata' => 'LSK',
+    'name' => 'Lusk Municipal Airport',
+    'city' => 'Lusk',
+    'state' => 'Wyoming',
+    'country' => 'US',
+    'elevation' => 4964,
+    'lat' => 42.7537994385,
+    'lon' => -104.4049987793,
+    'tz' => 'America/Denver',
+  ),
+  'LSN' => 
+  array (
+    'icao' => 'KLSN',
+    'iata' => 'LSN',
+    'name' => 'Los Banos Municipal Airport',
+    'city' => 'Los Banos',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 121,
+    'lat' => 37.06290054,
+    'lon' => -120.8690033,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'LSV' => 
+  array (
+    'icao' => 'KLSV',
+    'iata' => 'LSV',
+    'name' => 'Nellis Air Force Base',
+    'city' => 'Las Vegas',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 1870,
+    'lat' => 36.2361984253,
+    'lon' => -115.033996582,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'LTS' => 
+  array (
+    'icao' => 'KLTS',
+    'iata' => 'LTS',
+    'name' => 'Altus Air Force Base',
+    'city' => 'Altus',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 1382,
+    'lat' => 34.667098999,
+    'lon' => -99.2667007446,
+    'tz' => 'America/Chicago',
+  ),
+  'LUF' => 
+  array (
+    'icao' => 'KLUF',
+    'iata' => 'LUF',
+    'name' => 'Luke Air Force Base',
+    'city' => 'Glendale',
+    'state' => 'Arizona',
+    'country' => 'US',
+    'elevation' => 1085,
+    'lat' => 33.5349998474,
+    'lon' => -112.3830032349,
+    'tz' => 'America/Phoenix',
+  ),
   'LUK' => 
   array (
     'icao' => 'KLUK',
@@ -31270,6 +36886,71 @@ abstract class AirportLibrary
     'lon' => -84.41860199,
     'tz' => 'America/New_York',
   ),
+  'LUL' => 
+  array (
+    'icao' => 'KLUL',
+    'iata' => 'LUL',
+    'name' => 'Hesler Noble Field',
+    'city' => 'Laurel',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 238,
+    'lat' => 31.6725997925,
+    'lon' => -89.172203064,
+    'tz' => 'America/Chicago',
+  ),
+  'LVK' => 
+  array (
+    'icao' => 'KLVK',
+    'iata' => 'LVK',
+    'name' => 'Livermore Municipal Airport',
+    'city' => 'Livermore',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 400,
+    'lat' => 37.6934013367,
+    'lon' => -121.8199996948,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'LVL' => 
+  array (
+    'icao' => 'KLVL',
+    'iata' => 'LVL',
+    'name' => 'Lawrenceville Brunswick Municipal Airport',
+    'city' => 'Lawrenceville',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 329,
+    'lat' => 36.7728004456,
+    'lon' => -77.7942962646,
+    'tz' => 'America/New_York',
+  ),
+  'LVM' => 
+  array (
+    'icao' => 'KLVM',
+    'iata' => 'LVM',
+    'name' => 'Mission Field',
+    'city' => 'Livingston',
+    'state' => 'Montana',
+    'country' => 'US',
+    'elevation' => 4660,
+    'lat' => 45.6994018555,
+    'lon' => -110.4479980469,
+    'tz' => 'America/Denver',
+  ),
+  'LVS' => 
+  array (
+    'icao' => 'KLVS',
+    'iata' => 'LVS',
+    'name' => 'Las Vegas Municipal Airport',
+    'city' => 'Las Vegas',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 6877,
+    'lat' => 35.6542015076,
+    'lon' => -105.141998291,
+    'tz' => 'America/Denver',
+  ),
   'LWB' => 
   array (
     'icao' => 'KLWB',
@@ -31281,6 +36962,45 @@ abstract class AirportLibrary
     'elevation' => 2302,
     'lat' => 37.8582992554,
     'lon' => -80.3994979858,
+    'tz' => 'America/New_York',
+  ),
+  'LWC' => 
+  array (
+    'icao' => 'KLWC',
+    'iata' => 'LWC',
+    'name' => 'Lawrence Municipal Airport',
+    'city' => 'Lawrence',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 833,
+    'lat' => 39.01119995,
+    'lon' => -95.21659851,
+    'tz' => 'America/Chicago',
+  ),
+  'LWL' => 
+  array (
+    'icao' => 'KLWL',
+    'iata' => 'LWL',
+    'name' => 'Wells Municipal Harriet Field',
+    'city' => 'Wells',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 5772,
+    'lat' => 41.117099762,
+    'lon' => -114.9219970703,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'LWM' => 
+  array (
+    'icao' => 'KLWM',
+    'iata' => 'LWM',
+    'name' => 'Lawrence Municipal Airport',
+    'city' => 'Lawrence',
+    'state' => 'Massachusetts',
+    'country' => 'US',
+    'elevation' => 148,
+    'lat' => 42.7172012329,
+    'lon' => -71.1233978271,
     'tz' => 'America/New_York',
   ),
   'LWS' => 
@@ -31309,6 +37029,45 @@ abstract class AirportLibrary
     'lon' => -109.4670028687,
     'tz' => 'America/Denver',
   ),
+  'LWV' => 
+  array (
+    'icao' => 'KLWV',
+    'iata' => 'LWV',
+    'name' => 'Lawrenceville Vincennes International Airport',
+    'city' => 'Lawrenceville',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 430,
+    'lat' => 38.7643013,
+    'lon' => -87.6054992676,
+    'tz' => 'America/Chicago',
+  ),
+  'LXN' => 
+  array (
+    'icao' => 'KLXN',
+    'iata' => 'LXN',
+    'name' => 'Jim Kelly Field',
+    'city' => 'Lexington',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 2413,
+    'lat' => 40.7910003662,
+    'lon' => -99.7772979736,
+    'tz' => 'America/Chicago',
+  ),
+  'LXV' => 
+  array (
+    'icao' => 'KLXV',
+    'iata' => 'LXV',
+    'name' => 'Lake County Airport',
+    'city' => 'Leadville',
+    'state' => 'Colorado',
+    'country' => 'US',
+    'elevation' => 9927,
+    'lat' => 39.2202987671,
+    'lon' => -106.3170013428,
+    'tz' => 'America/Denver',
+  ),
   'LYH' => 
   array (
     'icao' => 'KLYH',
@@ -31321,6 +37080,58 @@ abstract class AirportLibrary
     'lat' => 37.3266983032,
     'lon' => -79.2004013062,
     'tz' => 'America/New_York',
+  ),
+  'LYO' => 
+  array (
+    'icao' => 'KLYO',
+    'iata' => 'LYO',
+    'name' => 'Lyons Rice County Municipal Airport',
+    'city' => 'Lyons',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 1691,
+    'lat' => 38.34280014,
+    'lon' => -98.22689819,
+    'tz' => 'America/Chicago',
+  ),
+  'LZU' => 
+  array (
+    'icao' => 'KLZU',
+    'iata' => 'LZU',
+    'name' => 'Gwinnett County Briscoe Field',
+    'city' => 'Lawrenceville',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 1061,
+    'lat' => 33.97809982,
+    'lon' => -83.96240234,
+    'tz' => 'America/New_York',
+  ),
+  'MAC' => 
+  array (
+    'icao' => 'KMAC',
+    'iata' => 'MAC',
+    'name' => 'Macon Downtown Airport',
+    'city' => 'Macon',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 437,
+    'lat' => 32.82210159,
+    'lon' => -83.56199646,
+    'tz' => 'America/New_York',
+  ),
+  'MAE' => 
+  array (
+    'icao' => 'KMAE',
+    'iata' => 'MAE',
+    'name' => 'Madera Municipal Airport',
+    'city' => 'Madera',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 255,
+    'lat' => 36.9886016846,
+    'lon' => -120.1119995117,
+    'tz' => 'America/Los_Angeles',
   ),
   'MAF' => 
   array (
@@ -31335,6 +37146,58 @@ abstract class AirportLibrary
     'lon' => -102.202003479,
     'tz' => 'America/Chicago',
   ),
+  'MAW' => 
+  array (
+    'icao' => 'KMAW',
+    'iata' => 'MAW',
+    'name' => 'Malden Regional Airport',
+    'city' => 'Malden',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 294,
+    'lat' => 36.6006012,
+    'lon' => -89.99220276,
+    'tz' => 'America/Chicago',
+  ),
+  'MBG' => 
+  array (
+    'icao' => 'KMBG',
+    'iata' => 'MBG',
+    'name' => 'Mobridge Municipal Airport',
+    'city' => 'Mobridge',
+    'state' => 'South-Dakota',
+    'country' => 'US',
+    'elevation' => 1716,
+    'lat' => 45.54650116,
+    'lon' => -100.4079971,
+    'tz' => 'America/Chicago',
+  ),
+  'MBL' => 
+  array (
+    'icao' => 'KMBL',
+    'iata' => 'MBL',
+    'name' => 'Manistee Co Blacker Airport',
+    'city' => 'Manistee',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 621,
+    'lat' => 44.2723999,
+    'lon' => -86.24690247,
+    'tz' => 'America/Detroit',
+  ),
+  'DXE' => 
+  array (
+    'icao' => 'KMBO',
+    'iata' => 'DXE',
+    'name' => 'Bruce Campbell Field',
+    'city' => 'Madison',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 326,
+    'lat' => 32.4387016296,
+    'lon' => -90.1031036377,
+    'tz' => 'America/Chicago',
+  ),
   'MBS' => 
   array (
     'icao' => 'KMBS',
@@ -31346,7 +37209,59 @@ abstract class AirportLibrary
     'elevation' => 668,
     'lat' => 43.5329017639,
     'lon' => -84.0795974731,
-    'tz' => 'America/New_York',
+    'tz' => 'America/Detroit',
+  ),
+  'MBY' => 
+  array (
+    'icao' => 'KMBY',
+    'iata' => 'MBY',
+    'name' => 'Omar N Bradley Airport',
+    'city' => 'Moberly',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 867,
+    'lat' => 39.4639015198,
+    'lon' => -92.4270019531,
+    'tz' => 'America/Chicago',
+  ),
+  'MCB' => 
+  array (
+    'icao' => 'KMCB',
+    'iata' => 'MCB',
+    'name' => 'Mc Comb/Pike County/John E Lewis Field',
+    'city' => 'Mc Comb',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 413,
+    'lat' => 31.17849922,
+    'lon' => -90.47190094,
+    'tz' => 'America/Chicago',
+  ),
+  'MCC' => 
+  array (
+    'icao' => 'KMCC',
+    'iata' => 'MCC',
+    'name' => 'Mc Clellan Airfield',
+    'city' => 'Sacramento',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 77,
+    'lat' => 38.66759872,
+    'lon' => -121.401001,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'MCD' => 
+  array (
+    'icao' => 'KMCD',
+    'iata' => 'MCD',
+    'name' => 'Mackinac Island Airport',
+    'city' => 'Mackinac Island',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 739,
+    'lat' => 45.86489868,
+    'lon' => -84.63729858,
+    'tz' => 'America/Detroit',
   ),
   'MCE' => 
   array (
@@ -31361,6 +37276,19 @@ abstract class AirportLibrary
     'lon' => -120.5139999,
     'tz' => 'America/Los_Angeles',
   ),
+  'MCF' => 
+  array (
+    'icao' => 'KMCF',
+    'iata' => 'MCF',
+    'name' => 'MacDill Air Force Base',
+    'city' => 'Tampa',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 14,
+    'lat' => 27.84930038,
+    'lon' => -82.52120209,
+    'tz' => 'America/New_York',
+  ),
   'MCI' => 
   array (
     'icao' => 'KMCI',
@@ -31372,6 +37300,19 @@ abstract class AirportLibrary
     'elevation' => 1026,
     'lat' => 39.2975997925,
     'lon' => -94.7138977051,
+    'tz' => 'America/Chicago',
+  ),
+  'MCK' => 
+  array (
+    'icao' => 'KMCK',
+    'iata' => 'MCK',
+    'name' => 'Mc Cook Ben Nelson Regional Airport',
+    'city' => 'Mc Cook',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 2583,
+    'lat' => 40.20629883,
+    'lon' => -100.5920029,
     'tz' => 'America/Chicago',
   ),
   'MCN' => 
@@ -31413,6 +37354,19 @@ abstract class AirportLibrary
     'lon' => -93.3312988281,
     'tz' => 'America/Chicago',
   ),
+  'MDD' => 
+  array (
+    'icao' => 'KMDD',
+    'iata' => 'MDD',
+    'name' => 'Midland Airpark',
+    'city' => 'Midland',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 2803,
+    'lat' => 32.0364990234,
+    'lon' => -102.1009979248,
+    'tz' => 'America/Chicago',
+  ),
   'MDH' => 
   array (
     'icao' => 'KMDH',
@@ -31424,6 +37378,19 @@ abstract class AirportLibrary
     'elevation' => 411,
     'lat' => 37.7780990601,
     'lon' => -89.2519989014,
+    'tz' => 'America/Chicago',
+  ),
+  'XMD' => 
+  array (
+    'icao' => 'KMDS',
+    'iata' => 'XMD',
+    'name' => 'Madison Municipal Airport',
+    'city' => 'Madison',
+    'state' => 'South-Dakota',
+    'country' => 'US',
+    'elevation' => 1718,
+    'lat' => 44.01599884,
+    'lon' => -97.08589935,
     'tz' => 'America/Chicago',
   ),
   'MDT' => 
@@ -31452,6 +37419,32 @@ abstract class AirportLibrary
     'lon' => -87.7524032593,
     'tz' => 'America/Chicago',
   ),
+  'MDF' => 
+  array (
+    'icao' => 'KMDZ',
+    'iata' => 'MDF',
+    'name' => 'Taylor County Airport',
+    'city' => 'Medford',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 1478,
+    'lat' => 45.10100174,
+    'lon' => -90.30329895,
+    'tz' => 'America/Chicago',
+  ),
+  'MXE' => 
+  array (
+    'icao' => 'KMEB',
+    'iata' => 'MXE',
+    'name' => 'Laurinburg Maxton Airport',
+    'city' => 'Maxton',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 216,
+    'lat' => 34.79190063,
+    'lon' => -79.36579895,
+    'tz' => 'America/New_York',
+  ),
   'MEI' => 
   array (
     'icao' => 'KMEI',
@@ -31478,6 +37471,45 @@ abstract class AirportLibrary
     'lon' => -89.9766998291,
     'tz' => 'America/Chicago',
   ),
+  'MER' => 
+  array (
+    'icao' => 'SUME',
+    'iata' => 'MER',
+    'name' => 'Ricardo de Tomasi International Airport',
+    'city' => 'Mercedes',
+    'state' => 'Soriano',
+    'country' => 'UY',
+    'elevation' => 68,
+    'lat' => -33.25,
+    'lon' => -58.0670013428,
+    'tz' => 'America/Montevideo',
+  ),
+  'MEV' => 
+  array (
+    'icao' => 'KMEV',
+    'iata' => 'MEV',
+    'name' => 'Minden Tahoe Airport',
+    'city' => 'Minden',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 4722,
+    'lat' => 39.00030136,
+    'lon' => -119.7509995,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'MFD' => 
+  array (
+    'icao' => 'KMFD',
+    'iata' => 'MFD',
+    'name' => 'Mansfield Lahm Regional Airport',
+    'city' => 'Mansfield',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 1297,
+    'lat' => 40.8213996887,
+    'lon' => -82.5166015625,
+    'tz' => 'America/New_York',
+  ),
   'MFE' => 
   array (
     'icao' => 'KMFE',
@@ -31489,6 +37521,19 @@ abstract class AirportLibrary
     'elevation' => 107,
     'lat' => 26.17580032,
     'lon' => -98.23860168,
+    'tz' => 'America/Chicago',
+  ),
+  'MFI' => 
+  array (
+    'icao' => 'KMFI',
+    'iata' => 'MFI',
+    'name' => 'Marshfield Municipal Airport',
+    'city' => 'Marshfield',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 1277,
+    'lat' => 44.6369018555,
+    'lon' => -90.1893005371,
     'tz' => 'America/Chicago',
   ),
   'MFR' => 
@@ -31504,6 +37549,58 @@ abstract class AirportLibrary
     'lon' => -122.8730010986,
     'tz' => 'America/Los_Angeles',
   ),
+  'MFV' => 
+  array (
+    'icao' => 'KMFV',
+    'iata' => 'MFV',
+    'name' => 'Accomack County Airport',
+    'city' => 'Melfa',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 47,
+    'lat' => 37.646900177,
+    'lon' => -75.761100769,
+    'tz' => 'America/New_York',
+  ),
+  'MGC' => 
+  array (
+    'icao' => 'KMGC',
+    'iata' => 'MGC',
+    'name' => 'Michigan City Municipal Airport',
+    'city' => 'Michigan City',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 655,
+    'lat' => 41.7033004761,
+    'lon' => -86.8211975098,
+    'tz' => 'America/Chicago',
+  ),
+  'MGE' => 
+  array (
+    'icao' => 'KMGE',
+    'iata' => 'MGE',
+    'name' => 'Dobbins Air Reserve Base Airport',
+    'city' => 'Marietta',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 1068,
+    'lat' => 33.91540146,
+    'lon' => -84.51629639,
+    'tz' => 'America/New_York',
+  ),
+  'MGJ' => 
+  array (
+    'icao' => 'KMGJ',
+    'iata' => 'MGJ',
+    'name' => 'Orange County Airport',
+    'city' => 'Montgomery',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 364,
+    'lat' => 41.50999832,
+    'lon' => -74.26460266,
+    'tz' => 'America/New_York',
+  ),
   'MGM' => 
   array (
     'icao' => 'KMGM',
@@ -31516,6 +37613,19 @@ abstract class AirportLibrary
     'lat' => 32.30059814,
     'lon' => -86.39399719,
     'tz' => 'America/Chicago',
+  ),
+  'MGR' => 
+  array (
+    'icao' => 'KMGR',
+    'iata' => 'MGR',
+    'name' => 'Moultrie Municipal Airport',
+    'city' => 'Moultrie',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 294,
+    'lat' => 31.0848999023,
+    'lon' => -83.8032989502,
+    'tz' => 'America/New_York',
   ),
   'MGW' => 
   array (
@@ -31530,6 +37640,32 @@ abstract class AirportLibrary
     'lon' => -79.91629791,
     'tz' => 'America/New_York',
   ),
+  'MGY' => 
+  array (
+    'icao' => 'KMGY',
+    'iata' => 'MGY',
+    'name' => 'Dayton Wright Brothers Airport',
+    'city' => 'Dayton',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 957,
+    'lat' => 39.5890007019,
+    'lon' => -84.224899292,
+    'tz' => 'America/New_York',
+  ),
+  'MHE' => 
+  array (
+    'icao' => 'KMHE',
+    'iata' => 'MHE',
+    'name' => 'Mitchell Municipal Airport',
+    'city' => 'Mitchell',
+    'state' => 'South-Dakota',
+    'country' => 'US',
+    'elevation' => 1304,
+    'lat' => 43.7747993469,
+    'lon' => -98.0385971069,
+    'tz' => 'America/Chicago',
+  ),
   'MHK' => 
   array (
     'icao' => 'KMHK',
@@ -31542,6 +37678,32 @@ abstract class AirportLibrary
     'lat' => 39.1409988403,
     'lon' => -96.6707992554,
     'tz' => 'America/Chicago',
+  ),
+  'MHL' => 
+  array (
+    'icao' => 'KMHL',
+    'iata' => 'MHL',
+    'name' => 'Marshall Memorial Municipal Airport',
+    'city' => 'Marshall',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 779,
+    'lat' => 39.0957984924,
+    'lon' => -93.2029037476,
+    'tz' => 'America/Chicago',
+  ),
+  'MHR' => 
+  array (
+    'icao' => 'KMHR',
+    'iata' => 'MHR',
+    'name' => 'Sacramento Mather Airport',
+    'city' => 'Sacramento',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 99,
+    'lat' => 38.55390167,
+    'lon' => -121.2979965,
+    'tz' => 'America/Los_Angeles',
   ),
   'MHT' => 
   array (
@@ -31582,6 +37744,32 @@ abstract class AirportLibrary
     'lon' => -80.2906036377,
     'tz' => 'America/New_York',
   ),
+  'MIB' => 
+  array (
+    'icao' => 'KMIB',
+    'iata' => 'MIB',
+    'name' => 'Minot Air Force Base',
+    'city' => 'Minot',
+    'state' => 'North-Dakota',
+    'country' => 'US',
+    'elevation' => 1667,
+    'lat' => 48.41559982,
+    'lon' => -101.3580017,
+    'tz' => 'America/Chicago',
+  ),
+  'MIC' => 
+  array (
+    'icao' => 'KMIC',
+    'iata' => 'MIC',
+    'name' => 'Crystal Airport',
+    'city' => 'Minneapolis',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 869,
+    'lat' => 45.0620002747,
+    'lon' => -93.3538970947,
+    'tz' => 'America/Chicago',
+  ),
   'MIE' => 
   array (
     'icao' => 'KMIE',
@@ -31594,6 +37782,84 @@ abstract class AirportLibrary
     'lat' => 40.2422981262,
     'lon' => -85.3958969116,
     'tz' => 'America/Indiana/Indianapolis',
+  ),
+  'MIO' => 
+  array (
+    'icao' => 'KMIO',
+    'iata' => 'MIO',
+    'name' => 'Miami Municipal Airport',
+    'city' => 'Miami',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 808,
+    'lat' => 36.909198761,
+    'lon' => -94.8874969482,
+    'tz' => 'America/Chicago',
+  ),
+  'MIT' => 
+  array (
+    'icao' => 'KMIT',
+    'iata' => 'MIT',
+    'name' => 'Shafter Minter Field',
+    'city' => 'Shafter',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 424,
+    'lat' => 35.50740051,
+    'lon' => -119.1920013,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'MIV' => 
+  array (
+    'icao' => 'KMIV',
+    'iata' => 'MIV',
+    'name' => 'Millville Municipal Airport',
+    'city' => 'Millville',
+    'state' => 'New-Jersey',
+    'country' => 'US',
+    'elevation' => 85,
+    'lat' => 39.3678016663,
+    'lon' => -75.0721969604,
+    'tz' => 'America/New_York',
+  ),
+  'MIW' => 
+  array (
+    'icao' => 'KMIW',
+    'iata' => 'MIW',
+    'name' => 'Marshalltown Municipal Airport',
+    'city' => 'Marshalltown',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 974,
+    'lat' => 42.112701416,
+    'lon' => -92.9178009033,
+    'tz' => 'America/Chicago',
+  ),
+  'MJQ' => 
+  array (
+    'icao' => 'KMJQ',
+    'iata' => 'MJQ',
+    'name' => 'Jackson Municipal Airport',
+    'city' => 'Jackson',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1446,
+    'lat' => 43.6500015259,
+    'lon' => -94.9865036011,
+    'tz' => 'America/Chicago',
+  ),
+  'MJX' => 
+  array (
+    'icao' => 'KMJX',
+    'iata' => 'MJX',
+    'name' => 'Robert J. Miller Air Park',
+    'city' => 'Toms River',
+    'state' => 'New-Jersey',
+    'country' => 'US',
+    'elevation' => 82,
+    'lat' => 39.92750168,
+    'lon' => -74.29239655,
+    'tz' => 'America/New_York',
   ),
   'MKC' => 
   array (
@@ -31632,7 +37898,7 @@ abstract class AirportLibrary
     'elevation' => 629,
     'lat' => 43.16949844,
     'lon' => -86.23819733,
-    'tz' => 'America/New_York',
+    'tz' => 'America/Detroit',
   ),
   'MKL' => 
   array (
@@ -31647,6 +37913,45 @@ abstract class AirportLibrary
     'lon' => -88.91560364,
     'tz' => 'America/Chicago',
   ),
+  'MKO' => 
+  array (
+    'icao' => 'KMKO',
+    'iata' => 'MKO',
+    'name' => 'Davis Field',
+    'city' => 'Muskogee',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 611,
+    'lat' => 35.65650177,
+    'lon' => -95.36669922,
+    'tz' => 'America/Chicago',
+  ),
+  'MKT' => 
+  array (
+    'icao' => 'KMKT',
+    'iata' => 'MKT',
+    'name' => 'Mankato Regional Airport',
+    'city' => 'Mankato',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1021,
+    'lat' => 44.22159958,
+    'lon' => -93.91870117,
+    'tz' => 'America/Chicago',
+  ),
+  'MRK' => 
+  array (
+    'icao' => 'KMKY',
+    'iata' => 'MRK',
+    'name' => 'Marco Island Airport',
+    'city' => 'Marco Island',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 5,
+    'lat' => 25.9950008392,
+    'lon' => -81.6725006104,
+    'tz' => 'America/New_York',
+  ),
   'MLB' => 
   array (
     'icao' => 'KMLB',
@@ -31659,6 +37964,58 @@ abstract class AirportLibrary
     'lat' => 28.1028003693,
     'lon' => -80.6453018188,
     'tz' => 'America/New_York',
+  ),
+  'MLC' => 
+  array (
+    'icao' => 'KMLC',
+    'iata' => 'MLC',
+    'name' => 'Mc Alester Regional Airport',
+    'city' => 'Mc Alester',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 770,
+    'lat' => 34.88240051,
+    'lon' => -95.78350067,
+    'tz' => 'America/Chicago',
+  ),
+  'MLD' => 
+  array (
+    'icao' => 'KMLD',
+    'iata' => 'MLD',
+    'name' => 'Malad City Airport',
+    'city' => 'Malad City',
+    'state' => 'Idaho',
+    'country' => 'US',
+    'elevation' => 4503,
+    'lat' => 42.1665992737,
+    'lon' => -112.2969970703,
+    'tz' => 'America/Boise',
+  ),
+  'MIQ' => 
+  array (
+    'icao' => 'KMLE',
+    'iata' => 'MIQ',
+    'name' => 'Millard Airport',
+    'city' => 'Omaha',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 1051,
+    'lat' => 41.1959991455,
+    'lon' => -96.1119995117,
+    'tz' => 'America/Chicago',
+  ),
+  'MLF' => 
+  array (
+    'icao' => 'KMLF',
+    'iata' => 'MLF',
+    'name' => 'Milford Municipal-Ben and Judy Briscoe Field',
+    'city' => 'Milford',
+    'state' => 'Utah',
+    'country' => 'US',
+    'elevation' => 5039,
+    'lat' => 38.42660141,
+    'lon' => -113.012001,
+    'tz' => 'America/Denver',
   ),
   'MLI' => 
   array (
@@ -31673,6 +38030,19 @@ abstract class AirportLibrary
     'lon' => -90.5074996948,
     'tz' => 'America/Chicago',
   ),
+  'MLJ' => 
+  array (
+    'icao' => 'KMLJ',
+    'iata' => 'MLJ',
+    'name' => 'Baldwin County Airport',
+    'city' => 'Milledgeville',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 385,
+    'lat' => 33.15420151,
+    'lon' => -83.24069977,
+    'tz' => 'America/New_York',
+  ),
   'MLS' => 
   array (
     'icao' => 'KMLS',
@@ -31685,6 +38055,19 @@ abstract class AirportLibrary
     'lat' => 46.4280014038,
     'lon' => -105.8860015869,
     'tz' => 'America/Denver',
+  ),
+  'MLT' => 
+  array (
+    'icao' => 'KMLT',
+    'iata' => 'MLT',
+    'name' => 'Millinocket Municipal Airport',
+    'city' => 'Millinocket',
+    'state' => 'Maine',
+    'country' => 'US',
+    'elevation' => 408,
+    'lat' => 45.6478004456,
+    'lon' => -68.6856002808,
+    'tz' => 'America/New_York',
   ),
   'MLU' => 
   array (
@@ -31712,6 +38095,58 @@ abstract class AirportLibrary
     'lon' => -118.8379974,
     'tz' => 'America/Los_Angeles',
   ),
+  'MMI' => 
+  array (
+    'icao' => 'KMMI',
+    'iata' => 'MMI',
+    'name' => 'McMinn County Airport',
+    'city' => 'Athens',
+    'state' => 'Tennessee',
+    'country' => 'US',
+    'elevation' => 875,
+    'lat' => 35.39730072,
+    'lon' => -84.56259918,
+    'tz' => 'America/New_York',
+  ),
+  'MML' => 
+  array (
+    'icao' => 'KMML',
+    'iata' => 'MML',
+    'name' => 'Southwest Minnesota Regional-Marshall-Ryan Field',
+    'city' => 'Marshall',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1183,
+    'lat' => 44.45050049,
+    'lon' => -95.82189941,
+    'tz' => 'America/Chicago',
+  ),
+  'MMS' => 
+  array (
+    'icao' => 'KMMS',
+    'iata' => 'MMS',
+    'name' => 'Selfs Airport',
+    'city' => 'Marks',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 162,
+    'lat' => 34.2314987183,
+    'lon' => -90.2895965576,
+    'tz' => 'America/Chicago',
+  ),
+  'MMT' => 
+  array (
+    'icao' => 'KMMT',
+    'iata' => 'MMT',
+    'name' => 'Mc Entire JNGB Airport',
+    'city' => 'Eastover',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 254,
+    'lat' => 33.92079926,
+    'lon' => -80.80130005,
+    'tz' => 'America/New_York',
+  ),
   'MMU' => 
   array (
     'icao' => 'KMMU',
@@ -31723,6 +38158,32 @@ abstract class AirportLibrary
     'elevation' => 187,
     'lat' => 40.7994003296,
     'lon' => -74.4149017334,
+    'tz' => 'America/New_York',
+  ),
+  'MNM' => 
+  array (
+    'icao' => 'KMNM',
+    'iata' => 'MNM',
+    'name' => 'Menominee Marinette Twin County Airport',
+    'city' => 'Menominee',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 625,
+    'lat' => 45.126701355,
+    'lon' => -87.6383972168,
+    'tz' => 'America/Chicago',
+  ),
+  'MNN' => 
+  array (
+    'icao' => 'KMNN',
+    'iata' => 'MNN',
+    'name' => 'Marion Municipal Airport',
+    'city' => 'Marion',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 993,
+    'lat' => 40.6161994934,
+    'lon' => -83.0634994507,
     'tz' => 'America/New_York',
   ),
   'MOB' => 
@@ -31751,6 +38212,32 @@ abstract class AirportLibrary
     'lon' => -120.9540024,
     'tz' => 'America/Los_Angeles',
   ),
+  'MOP' => 
+  array (
+    'icao' => 'KMOP',
+    'iata' => 'MOP',
+    'name' => 'Mount Pleasant Municipal Airport',
+    'city' => 'Mount Pleasant',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 755,
+    'lat' => 43.6217002869,
+    'lon' => -84.7375030518,
+    'tz' => 'America/Detroit',
+  ),
+  'MOR' => 
+  array (
+    'icao' => 'KMOR',
+    'iata' => 'MOR',
+    'name' => 'Moore Murrell Airport',
+    'city' => 'Morristown',
+    'state' => 'Tennessee',
+    'country' => 'US',
+    'elevation' => 1313,
+    'lat' => 36.1794013977,
+    'lon' => -83.37550354,
+    'tz' => 'America/New_York',
+  ),
   'MOT' => 
   array (
     'icao' => 'KMOT',
@@ -31762,6 +38249,19 @@ abstract class AirportLibrary
     'elevation' => 1716,
     'lat' => 48.2593994141,
     'lon' => -101.2799987793,
+    'tz' => 'America/Chicago',
+  ),
+  'MOX' => 
+  array (
+    'icao' => 'KMOX',
+    'iata' => 'MOX',
+    'name' => 'Morris Municipal - Charlie Schmidt Airport',
+    'city' => 'Morris',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1138,
+    'lat' => 45.56600189,
+    'lon' => -95.96720123,
     'tz' => 'America/Chicago',
   ),
   'RMY' => 
@@ -31777,6 +38277,45 @@ abstract class AirportLibrary
     'lon' => -120.040000916,
     'tz' => 'America/Los_Angeles',
   ),
+  'MPJ' => 
+  array (
+    'icao' => 'KMPJ',
+    'iata' => 'MPJ',
+    'name' => 'Petit Jean Park Airport',
+    'city' => 'Morrilton',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 923,
+    'lat' => 35.1389007568,
+    'lon' => -92.9092025757,
+    'tz' => 'America/Chicago',
+  ),
+  'MPO' => 
+  array (
+    'icao' => 'KMPO',
+    'iata' => 'MPO',
+    'name' => 'Pocono Mountains Municipal Airport',
+    'city' => 'Mount Pocono',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 1915,
+    'lat' => 41.13750076,
+    'lon' => -75.37889862,
+    'tz' => 'America/New_York',
+  ),
+  'MPR' => 
+  array (
+    'icao' => 'KMPR',
+    'iata' => 'MPR',
+    'name' => 'Mc Pherson Airport',
+    'city' => 'Mc Pherson',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 1498,
+    'lat' => 38.35240173,
+    'lon' => -97.69129944,
+    'tz' => 'America/Chicago',
+  ),
   'MPV' => 
   array (
     'icao' => 'KMPV',
@@ -31788,6 +38327,136 @@ abstract class AirportLibrary
     'elevation' => 1166,
     'lat' => 44.20349884,
     'lon' => -72.56230164,
+    'tz' => 'America/New_York',
+  ),
+  'MPZ' => 
+  array (
+    'icao' => 'KMPZ',
+    'iata' => 'MPZ',
+    'name' => 'Mount Pleasant Municipal Airport',
+    'city' => 'Mount Pleasant',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 730,
+    'lat' => 40.94660187,
+    'lon' => -91.51110077,
+    'tz' => 'America/Chicago',
+  ),
+  'MQB' => 
+  array (
+    'icao' => 'KMQB',
+    'iata' => 'MQB',
+    'name' => 'Macomb Municipal Airport',
+    'city' => 'Macomb',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 707,
+    'lat' => 40.5200996399,
+    'lon' => -90.6523971558,
+    'tz' => 'America/Chicago',
+  ),
+  'MEO' => 
+  array (
+    'icao' => 'KMQI',
+    'iata' => 'MEO',
+    'name' => 'Dare County Regional Airport',
+    'city' => 'Manteo',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 13,
+    'lat' => 35.91899872,
+    'lon' => -75.69550323,
+    'tz' => 'America/New_York',
+  ),
+  'CTH' => 
+  array (
+    'icao' => 'KMQS',
+    'iata' => 'CTH',
+    'name' => 'Chester County G O Carlson Airport',
+    'city' => 'Coatesville',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 660,
+    'lat' => 39.97900009,
+    'lon' => -75.8655014,
+    'tz' => 'America/New_York',
+  ),
+  'MQW' => 
+  array (
+    'icao' => 'KMQW',
+    'iata' => 'MQW',
+    'name' => 'Telfair Wheeler Airport',
+    'city' => 'Mc Rae',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 202,
+    'lat' => 32.0957984924,
+    'lon' => -82.8799972534,
+    'tz' => 'America/New_York',
+  ),
+  'MQY' => 
+  array (
+    'icao' => 'KMQY',
+    'iata' => 'MQY',
+    'name' => 'Smyrna Airport',
+    'city' => 'Smyrna',
+    'state' => 'Delaware',
+    'country' => 'US',
+    'elevation' => 543,
+    'lat' => 36.0089988708,
+    'lon' => -86.5201034546,
+    'tz' => 'America/Chicago',
+  ),
+  'MRB' => 
+  array (
+    'icao' => 'KMRB',
+    'iata' => 'MRB',
+    'name' => 'Eastern Wv Regional Shepherd Field',
+    'city' => 'Martinsburg',
+    'state' => 'West-Virginia',
+    'country' => 'US',
+    'elevation' => 565,
+    'lat' => 39.40190125,
+    'lon' => -77.98459625,
+    'tz' => 'America/New_York',
+  ),
+  'MRC' => 
+  array (
+    'icao' => 'KMRC',
+    'iata' => 'MRC',
+    'name' => 'Maury County Airport',
+    'city' => 'Columbia/Mount Pleasant',
+    'state' => 'Tennessee',
+    'country' => 'US',
+    'elevation' => 681,
+    'lat' => 35.5541000366,
+    'lon' => -87.1789016724,
+    'tz' => 'America/Chicago',
+  ),
+  'MRF' => 
+  array (
+    'icao' => 'KMRF',
+    'iata' => 'MRF',
+    'name' => 'Marfa Municipal Airport',
+    'city' => 'Marfa',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 4849,
+    'lat' => 30.371099472,
+    'lon' => -104.0179977417,
+    'tz' => 'America/Chicago',
+  ),
+  'MRN' => 
+  array (
+    'icao' => 'KMRN',
+    'iata' => 'MRN',
+    'name' => 'Foothills Regional Airport',
+    'city' => 'Morganton',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 1270,
+    'lat' => 35.8202018738,
+    'lon' => -81.6113967896,
     'tz' => 'America/New_York',
   ),
   'MRY' => 
@@ -31868,6 +38537,19 @@ abstract class AirportLibrary
     'lon' => -74.8455963135,
     'tz' => 'America/New_York',
   ),
+  'MSV' => 
+  array (
+    'icao' => 'KMSV',
+    'iata' => 'MSV',
+    'name' => 'Sullivan County International Airport',
+    'city' => 'Monticello',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 1403,
+    'lat' => 41.70159912,
+    'lon' => -74.79499817,
+    'tz' => 'America/New_York',
+  ),
   'MSY' => 
   array (
     'icao' => 'KMSY',
@@ -31880,6 +38562,32 @@ abstract class AirportLibrary
     'lat' => 29.9934005737,
     'lon' => -90.2580032349,
     'tz' => 'America/Chicago',
+  ),
+  'MTC' => 
+  array (
+    'icao' => 'KMTC',
+    'iata' => 'MTC',
+    'name' => 'Selfridge Angb Airport',
+    'city' => 'Mount Clemens',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 580,
+    'lat' => 42.6082992554,
+    'lon' => -82.8355026245,
+    'tz' => 'America/Detroit',
+  ),
+  'MTH' => 
+  array (
+    'icao' => 'KMTH',
+    'iata' => 'MTH',
+    'name' => 'The Florida Keys Marathon Airport',
+    'city' => 'Marathon',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 5,
+    'lat' => 24.72610092,
+    'lon' => -81.05139923,
+    'tz' => 'America/New_York',
   ),
   'MTJ' => 
   array (
@@ -31894,6 +38602,136 @@ abstract class AirportLibrary
     'lon' => -107.893997192,
     'tz' => 'America/Denver',
   ),
+  'MTN' => 
+  array (
+    'icao' => 'KMTN',
+    'iata' => 'MTN',
+    'name' => 'Martin State Airport',
+    'city' => 'Baltimore',
+    'state' => 'Maryland',
+    'country' => 'US',
+    'elevation' => 21,
+    'lat' => 39.32569885,
+    'lon' => -76.4138031,
+    'tz' => 'America/New_York',
+  ),
+  'MTO' => 
+  array (
+    'icao' => 'KMTO',
+    'iata' => 'MTO',
+    'name' => 'Coles County Memorial Airport',
+    'city' => 'Mattoon/Charleston',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 722,
+    'lat' => 39.47790146,
+    'lon' => -88.27919769,
+    'tz' => 'America/Chicago',
+  ),
+  'MTP' => 
+  array (
+    'icao' => 'KMTP',
+    'iata' => 'MTP',
+    'name' => 'Montauk Airport',
+    'city' => 'Montauk',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 6,
+    'lat' => 41.076499939,
+    'lon' => -71.9207992554,
+    'tz' => 'America/New_York',
+  ),
+  'MTW' => 
+  array (
+    'icao' => 'WAOM',
+    'iata' => 'MTW',
+    'name' => 'Beringin Airport',
+    'city' => 'Murateweh-Borneo Island',
+    'state' => 'Central-Kalimantan',
+    'country' => 'ID',
+    'elevation' => 126,
+    'lat' => -0.9403250217,
+    'lon' => 114.8938751221,
+    'tz' => 'Asia/Pontianak',
+  ),
+  'MUI' => 
+  array (
+    'icao' => 'KMUI',
+    'iata' => 'MUI',
+    'name' => 'Muir Army Air Field (Fort Indiantown Gap) Airport',
+    'city' => 'Fort Indiantown Gap(Annville)',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 488,
+    'lat' => 40.43479919,
+    'lon' => -76.56939697,
+    'tz' => 'America/New_York',
+  ),
+  'MUL' => 
+  array (
+    'icao' => 'KMUL',
+    'iata' => 'MUL',
+    'name' => 'Spence Airport',
+    'city' => 'Moultrie',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 292,
+    'lat' => 31.1376991272,
+    'lon' => -83.7041015625,
+    'tz' => 'America/New_York',
+  ),
+  'MUO' => 
+  array (
+    'icao' => 'KMUO',
+    'iata' => 'MUO',
+    'name' => 'Mountain Home Air Force Base',
+    'city' => 'Mountain Home',
+    'state' => 'Idaho',
+    'country' => 'US',
+    'elevation' => 2996,
+    'lat' => 43.043598175,
+    'lon' => -115.8720016479,
+    'tz' => 'America/Boise',
+  ),
+  'MUT' => 
+  array (
+    'icao' => 'KMUT',
+    'iata' => 'MUT',
+    'name' => 'Muscatine Municipal Airport',
+    'city' => 'Muscatine',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 547,
+    'lat' => 41.3678016663,
+    'lon' => -91.1482009888,
+    'tz' => 'America/Chicago',
+  ),
+  'MVC' => 
+  array (
+    'icao' => 'KMVC',
+    'iata' => 'MVC',
+    'name' => 'Monroe County Airport',
+    'city' => 'Monroeville',
+    'state' => 'Alabama',
+    'country' => 'US',
+    'elevation' => 419,
+    'lat' => 31.4580001831,
+    'lon' => -87.3509979248,
+    'tz' => 'America/Chicago',
+  ),
+  'MVE' => 
+  array (
+    'icao' => 'KMVE',
+    'iata' => 'MVE',
+    'name' => 'Montevideo Chippewa County Airport',
+    'city' => 'Montevideo',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1034,
+    'lat' => 44.9691009521,
+    'lon' => -95.7102966309,
+    'tz' => 'America/Chicago',
+  ),
   'MVL' => 
   array (
     'icao' => 'KMVL',
@@ -31906,6 +38744,19 @@ abstract class AirportLibrary
     'lat' => 44.5345993042,
     'lon' => -72.6139984131,
     'tz' => 'America/New_York',
+  ),
+  'MVN' => 
+  array (
+    'icao' => 'KMVN',
+    'iata' => 'MVN',
+    'name' => 'Mount Vernon Airport',
+    'city' => 'Mount Vernon',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 480,
+    'lat' => 38.3233985901,
+    'lon' => -88.8588027954,
+    'tz' => 'America/Chicago',
   ),
   'MVY' => 
   array (
@@ -31920,6 +38771,149 @@ abstract class AirportLibrary
     'lon' => -70.6143035889,
     'tz' => 'America/New_York',
   ),
+  'MWA' => 
+  array (
+    'icao' => 'KMWA',
+    'iata' => 'MWA',
+    'name' => 'Williamson County Regional Airport',
+    'city' => 'Marion',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 472,
+    'lat' => 37.75500107,
+    'lon' => -89.01110077,
+    'tz' => 'America/Chicago',
+  ),
+  'MWC' => 
+  array (
+    'icao' => 'KMWC',
+    'iata' => 'MWC',
+    'name' => 'Lawrence J Timmerman Airport',
+    'city' => 'Milwaukee',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 745,
+    'lat' => 43.1104011536,
+    'lon' => -88.0344009399,
+    'tz' => 'America/Chicago',
+  ),
+  'MWH' => 
+  array (
+    'icao' => 'KMWH',
+    'iata' => 'MWH',
+    'name' => 'Grant Co International Airport',
+    'city' => 'Moses Lake',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 1189,
+    'lat' => 47.20769882,
+    'lon' => -119.3199997,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'MWL' => 
+  array (
+    'icao' => 'KMWL',
+    'iata' => 'MWL',
+    'name' => 'Mineral Wells Airport',
+    'city' => 'Mineral Wells',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 974,
+    'lat' => 32.7816009521,
+    'lon' => -98.0602035522,
+    'tz' => 'America/Chicago',
+  ),
+  'MWM' => 
+  array (
+    'icao' => 'KMWM',
+    'iata' => 'MWM',
+    'name' => 'Windom Municipal Airport',
+    'city' => 'Windom',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1410,
+    'lat' => 43.9133987427,
+    'lon' => -95.1093978882,
+    'tz' => 'America/Chicago',
+  ),
+  'MWO' => 
+  array (
+    'icao' => 'KMWO',
+    'iata' => 'MWO',
+    'name' => 'Middletown Regional-Hook Field Municipal Airport',
+    'city' => 'Middletown',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 650,
+    'lat' => 39.53099823,
+    'lon' => -84.39530182,
+    'tz' => 'America/New_York',
+  ),
+  'MXA' => 
+  array (
+    'icao' => 'KMXA',
+    'iata' => 'MXA',
+    'name' => 'Manila Municipal Airport',
+    'city' => 'Manila',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 242,
+    'lat' => 35.8944015503,
+    'lon' => -90.1546020508,
+    'tz' => 'America/Chicago',
+  ),
+  'MXF' => 
+  array (
+    'icao' => 'KMXF',
+    'iata' => 'MXF',
+    'name' => 'Maxwell Air Force Base',
+    'city' => 'Montgomery',
+    'state' => 'Alabama',
+    'country' => 'US',
+    'elevation' => 171,
+    'lat' => 32.382900238,
+    'lon' => -86.3657989502,
+    'tz' => 'America/Chicago',
+  ),
+  'MXO' => 
+  array (
+    'icao' => 'KMXO',
+    'iata' => 'MXO',
+    'name' => 'Monticello Regional Airport',
+    'city' => 'Monticello',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 832,
+    'lat' => 42.22040176,
+    'lon' => -91.16329956,
+    'tz' => 'America/Chicago',
+  ),
+  'MYF' => 
+  array (
+    'icao' => 'KMYF',
+    'iata' => 'MYF',
+    'name' => 'Montgomery Field',
+    'city' => 'San Diego',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 427,
+    'lat' => 32.815700531,
+    'lon' => -117.1399993896,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'MYL' => 
+  array (
+    'icao' => 'KMYL',
+    'iata' => 'MYL',
+    'name' => 'Mc Call Municipal Airport',
+    'city' => 'Mc Call',
+    'state' => 'Idaho',
+    'country' => 'US',
+    'elevation' => 5024,
+    'lat' => 44.88970184,
+    'lon' => -116.1009979,
+    'tz' => 'America/Boise',
+  ),
   'MYR' => 
   array (
     'icao' => 'KMYR',
@@ -31932,6 +38926,71 @@ abstract class AirportLibrary
     'lat' => 33.6796989441,
     'lon' => -78.9282989502,
     'tz' => 'America/New_York',
+  ),
+  'MYV' => 
+  array (
+    'icao' => 'KMYV',
+    'iata' => 'MYV',
+    'name' => 'Yuba County Airport',
+    'city' => 'Marysville',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 64,
+    'lat' => 39.09780121,
+    'lon' => -121.5699997,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'MZJ' => 
+  array (
+    'icao' => 'KMZJ',
+    'iata' => 'MZJ',
+    'name' => 'Pinal Airpark',
+    'city' => 'Marana',
+    'state' => 'Arizona',
+    'country' => 'US',
+    'elevation' => 1893,
+    'lat' => 32.5106010437,
+    'lon' => -111.3280029297,
+    'tz' => 'America/Phoenix',
+  ),
+  'MZZ' => 
+  array (
+    'icao' => 'KMZZ',
+    'iata' => 'MZZ',
+    'name' => 'Marion Municipal Airport',
+    'city' => 'Marion',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 859,
+    'lat' => 40.4898986816,
+    'lon' => -85.6797027588,
+    'tz' => 'America/Indiana/Indianapolis',
+  ),
+  'NBG' => 
+  array (
+    'icao' => 'KNBG',
+    'iata' => 'NBG',
+    'name' => 'New Orleans Nas Jrb/Alvin Callender Field/ Airport',
+    'city' => 'New Orleans',
+    'state' => 'Louisiana',
+    'country' => 'US',
+    'elevation' => 2,
+    'lat' => 29.82530022,
+    'lon' => -90.03500366,
+    'tz' => 'America/Chicago',
+  ),
+  'NHX' => 
+  array (
+    'icao' => 'KNBJ',
+    'iata' => 'NHX',
+    'name' => 'Barin Nolf Airport',
+    'city' => 'Foley',
+    'state' => 'Alabama',
+    'country' => 'US',
+    'elevation' => 54,
+    'lat' => 30.3890991211,
+    'lon' => -87.6352996826,
+    'tz' => 'America/Chicago',
   ),
   'DGN' => 
   array (
@@ -31959,6 +39018,123 @@ abstract class AirportLibrary
     'lon' => -74.353302,
     'tz' => 'America/New_York',
   ),
+  'NEN' => 
+  array (
+    'icao' => 'KNEN',
+    'iata' => 'NEN',
+    'name' => 'Whitehouse Nolf Airport',
+    'city' => 'Jacksonville',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 99,
+    'lat' => 30.3539009094,
+    'lon' => -81.8719024658,
+    'tz' => 'America/New_York',
+  ),
+  'NEW' => 
+  array (
+    'icao' => 'KNEW',
+    'iata' => 'NEW',
+    'name' => 'Lakefront Airport',
+    'city' => 'New Orleans',
+    'state' => 'Louisiana',
+    'country' => 'US',
+    'elevation' => 8,
+    'lat' => 30.0424003601,
+    'lon' => -90.0282974243,
+    'tz' => 'America/Chicago',
+  ),
+  'NFL' => 
+  array (
+    'icao' => 'KNFL',
+    'iata' => 'NFL',
+    'name' => 'Fallon Naval Air Station /Van Voorhis Field',
+    'city' => 'Fallon',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 3934,
+    'lat' => 39.41659927,
+    'lon' => -118.7009964,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'FWH' => 
+  array (
+    'icao' => 'KNFW',
+    'iata' => 'FWH',
+    'name' => 'Fort Worth Nas Jrb/Carswell field',
+    'city' => 'Fort Worth',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 650,
+    'lat' => 32.76919937,
+    'lon' => -97.4414978,
+    'tz' => 'America/Chicago',
+  ),
+  'NGP' => 
+  array (
+    'icao' => 'KNGP',
+    'iata' => 'NGP',
+    'name' => 'Corpus Christi Naval Air Station/Truax Field',
+    'city' => 'Corpus Christi',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 18,
+    'lat' => 27.69260025,
+    'lon' => -97.29109955,
+    'tz' => 'America/Chicago',
+  ),
+  'NGU' => 
+  array (
+    'icao' => 'KNGU',
+    'iata' => 'NGU',
+    'name' => 'Norfolk Ns (Chambers Fld) Airport',
+    'city' => 'Norfolk',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 17,
+    'lat' => 36.93759918,
+    'lon' => -76.28929901,
+    'tz' => 'America/New_York',
+  ),
+  'NGW' => 
+  array (
+    'icao' => 'KNGW',
+    'iata' => 'NGW',
+    'name' => 'Cabaniss Field Nolf Airport',
+    'city' => 'Corpus Christi',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 30,
+    'lat' => 27.7003002167,
+    'lon' => -97.4344024658,
+    'tz' => 'America/Chicago',
+  ),
+  'NHK' => 
+  array (
+    'icao' => 'KNHK',
+    'iata' => 'NHK',
+    'name' => 'Patuxent River Naval Air Station/Trapnell Field Aiport',
+    'city' => 'Patuxent River',
+    'state' => 'Maryland',
+    'country' => 'US',
+    'elevation' => 39,
+    'lat' => 38.2859993,
+    'lon' => -76.41179657,
+    'tz' => 'America/New_York',
+  ),
+  'NIP' => 
+  array (
+    'icao' => 'KNIP',
+    'iata' => 'NIP',
+    'name' => 'Jacksonville Naval Air Station',
+    'city' => 'Jacksonville',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 21,
+    'lat' => 30.23579979,
+    'lon' => -81.68060303,
+    'tz' => 'America/New_York',
+  ),
   'NJK' => 
   array (
     'icao' => 'KNJK',
@@ -31972,6 +39148,214 @@ abstract class AirportLibrary
     'lon' => -115.6719970703,
     'tz' => 'America/Los_Angeles',
   ),
+  'NKX' => 
+  array (
+    'icao' => 'KNKX',
+    'iata' => 'NKX',
+    'name' => 'Miramar Marine Corps Air Station',
+    'city' => 'San Diego',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 477,
+    'lat' => 32.86840057,
+    'lon' => -117.1429977,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'NLC' => 
+  array (
+    'icao' => 'KNLC',
+    'iata' => 'NLC',
+    'name' => 'Lemoore Naval Air Station (Reeves Field) Airport',
+    'city' => 'Lemoore',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 232,
+    'lat' => 36.33300018,
+    'lon' => -119.9520035,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'NPA' => 
+  array (
+    'icao' => 'KNPA',
+    'iata' => 'NPA',
+    'name' => 'Pensacola Naval Air Station/Forrest Sherman field',
+    'city' => 'Pensacola',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 28,
+    'lat' => 30.35269928,
+    'lon' => -87.31860352,
+    'tz' => 'America/Chicago',
+  ),
+  'NQA' => 
+  array (
+    'icao' => 'KNQA',
+    'iata' => 'NQA',
+    'name' => 'Millington Regional Jetport Airport',
+    'city' => 'Millington',
+    'state' => 'Tennessee',
+    'country' => 'US',
+    'elevation' => 320,
+    'lat' => 35.3567008972,
+    'lon' => -89.870300293,
+    'tz' => 'America/Chicago',
+  ),
+  'NQI' => 
+  array (
+    'icao' => 'KNQI',
+    'iata' => 'NQI',
+    'name' => 'Kingsville Naval Air Station',
+    'city' => 'Kingsville',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 50,
+    'lat' => 27.5072002411,
+    'lon' => -97.8097000122,
+    'tz' => 'America/Chicago',
+  ),
+  'NQX' => 
+  array (
+    'icao' => 'KNQX',
+    'iata' => 'NQX',
+    'name' => 'Key West Nas /Boca Chica Field/ Airport',
+    'city' => 'Key West',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 6,
+    'lat' => 24.57579994,
+    'lon' => -81.68890381,
+    'tz' => 'America/New_York',
+  ),
+  'NRB' => 
+  array (
+    'icao' => 'KNRB',
+    'iata' => 'NRB',
+    'name' => 'Mayport Ns (Adm David L. Mcdonald Field) Airport',
+    'city' => 'Mayport',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 15,
+    'lat' => 30.39109993,
+    'lon' => -81.42469788,
+    'tz' => 'America/New_York',
+  ),
+  'NRS' => 
+  array (
+    'icao' => 'KNRS',
+    'iata' => 'NRS',
+    'name' => 'Imperial Beach Nolf (Ream Fld) Airport',
+    'city' => 'Imperial Beach',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 24,
+    'lat' => 32.56669998,
+    'lon' => -117.1169968,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'NSE' => 
+  array (
+    'icao' => 'KNSE',
+    'iata' => 'NSE',
+    'name' => 'Whiting Field Naval Air Station North Airport',
+    'city' => 'Milton',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 199,
+    'lat' => 30.7241993,
+    'lon' => -87.02189636,
+    'tz' => 'America/Chicago',
+  ),
+  'NTD' => 
+  array (
+    'icao' => 'KNTD',
+    'iata' => 'NTD',
+    'name' => 'Point Mugu Naval Air Station (Naval Base Ventura Co)',
+    'city' => 'Point Mugu',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 13,
+    'lat' => 34.120300293,
+    'lon' => -119.121002197,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'NTU' => 
+  array (
+    'icao' => 'KNTU',
+    'iata' => 'NTU',
+    'name' => 'Oceana Nas /Apollo Soucek Field/ Station',
+    'city' => 'Virginia Beach',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 23,
+    'lat' => 36.8207016,
+    'lon' => -76.03350067,
+    'tz' => 'America/New_York',
+  ),
+  'NUN' => 
+  array (
+    'icao' => 'KNUN',
+    'iata' => 'NUN',
+    'name' => 'Saufley Field Nolf Airport',
+    'city' => 'Pensacola',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 85,
+    'lat' => 30.4696998596,
+    'lon' => -87.3380966187,
+    'tz' => 'America/Chicago',
+  ),
+  'NUQ' => 
+  array (
+    'icao' => 'KNUQ',
+    'iata' => 'NUQ',
+    'name' => 'Moffett Federal Airfield',
+    'city' => 'Mountain View',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 32,
+    'lat' => 37.4160995483,
+    'lon' => -122.0490036011,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'NUW' => 
+  array (
+    'icao' => 'KNUW',
+    'iata' => 'NUW',
+    'name' => 'Whidbey Island Naval Air Station /Ault Field/ Airport',
+    'city' => 'Oak Harbor',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 47,
+    'lat' => 48.35179901,
+    'lon' => -122.6559982,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'NVD' => 
+  array (
+    'icao' => 'KNVD',
+    'iata' => 'NVD',
+    'name' => 'Nevada Municipal Airport',
+    'city' => 'Nevada',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 892,
+    'lat' => 37.8521003723,
+    'lon' => -94.304901123,
+    'tz' => 'America/Chicago',
+  ),
+  'NYG' => 
+  array (
+    'icao' => 'KNYG',
+    'iata' => 'NYG',
+    'name' => 'Quantico MCAF /Turner field',
+    'city' => 'Quantico',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 10,
+    'lat' => 38.50170135,
+    'lon' => -77.30529785,
+    'tz' => 'America/New_York',
+  ),
   'YUM' => 
   array (
     'icao' => 'KNYL',
@@ -31984,6 +39368,19 @@ abstract class AirportLibrary
     'lat' => 32.65660095,
     'lon' => -114.6060028,
     'tz' => 'America/Phoenix',
+  ),
+  'NZY' => 
+  array (
+    'icao' => 'KNZY',
+    'iata' => 'NZY',
+    'name' => 'North Island Naval Air Station-Halsey Field',
+    'city' => 'San Diego',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 26,
+    'lat' => 32.69919968,
+    'lon' => -117.2149963,
+    'tz' => 'America/Los_Angeles',
   ),
   'NVN' => 
   array (
@@ -32063,6 +39460,136 @@ abstract class AirportLibrary
     'lon' => -121.762001,
     'tz' => 'America/Los_Angeles',
   ),
+  'OBE' => 
+  array (
+    'icao' => 'KOBE',
+    'iata' => 'OBE',
+    'name' => 'Okeechobee County Airport',
+    'city' => 'Okeechobee',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 34,
+    'lat' => 27.2628002167,
+    'lon' => -80.8498001099,
+    'tz' => 'America/New_York',
+  ),
+  'OCF' => 
+  array (
+    'icao' => 'KOCF',
+    'iata' => 'OCF',
+    'name' => 'Ocala International Jim Taylor Field',
+    'city' => 'Ocala',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 90,
+    'lat' => 29.17259979,
+    'lon' => -82.22419739,
+    'tz' => 'America/New_York',
+  ),
+  'OCH' => 
+  array (
+    'icao' => 'KOCH',
+    'iata' => 'OCH',
+    'name' => 'A L Mangham Jr. Regional Airport',
+    'city' => 'Nacogdoches',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 355,
+    'lat' => 31.57799911,
+    'lon' => -94.70950317,
+    'tz' => 'America/Chicago',
+  ),
+  'OCW' => 
+  array (
+    'icao' => 'KOCW',
+    'iata' => 'OCW',
+    'name' => 'Warren Field',
+    'city' => 'Washington',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 38,
+    'lat' => 35.5704994202,
+    'lon' => -77.0497970581,
+    'tz' => 'America/New_York',
+  ),
+  'OEO' => 
+  array (
+    'icao' => 'KOEO',
+    'iata' => 'OEO',
+    'name' => 'L O Simenstad Municipal Airport',
+    'city' => 'Osceola',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 903,
+    'lat' => 45.3100013733,
+    'lon' => -92.6919021606,
+    'tz' => 'America/Chicago',
+  ),
+  'OFF' => 
+  array (
+    'icao' => 'KOFF',
+    'iata' => 'OFF',
+    'name' => 'Offutt Air Force Base',
+    'city' => 'Omaha',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 1052,
+    'lat' => 41.1183013916,
+    'lon' => -95.9124984741,
+    'tz' => 'America/Chicago',
+  ),
+  'OFK' => 
+  array (
+    'icao' => 'KOFK',
+    'iata' => 'OFK',
+    'name' => 'Karl Stefan Memorial Airport',
+    'city' => 'Norfolk',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 1573,
+    'lat' => 41.9855003357,
+    'lon' => -97.4350967407,
+    'tz' => 'America/Chicago',
+  ),
+  'OGA' => 
+  array (
+    'icao' => 'KOGA',
+    'iata' => 'OGA',
+    'name' => 'Searle Field',
+    'city' => 'Ogallala',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 3279,
+    'lat' => 41.11949921,
+    'lon' => -101.7699966,
+    'tz' => 'America/Denver',
+  ),
+  'OGB' => 
+  array (
+    'icao' => 'KOGB',
+    'iata' => 'OGB',
+    'name' => 'Orangeburg Municipal Airport',
+    'city' => 'Orangeburg',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 195,
+    'lat' => 33.4567985535,
+    'lon' => -80.8594970703,
+    'tz' => 'America/New_York',
+  ),
+  'OGD' => 
+  array (
+    'icao' => 'KOGD',
+    'iata' => 'OGD',
+    'name' => 'Ogden Hinckley Airport',
+    'city' => 'Ogden',
+    'state' => 'Utah',
+    'country' => 'US',
+    'elevation' => 4473,
+    'lat' => 41.1958999634,
+    'lon' => -112.0120010376,
+    'tz' => 'America/Denver',
+  ),
   'OGS' => 
   array (
     'icao' => 'KOGS',
@@ -32075,6 +39602,45 @@ abstract class AirportLibrary
     'lat' => 44.6819000244,
     'lon' => -75.4654998779,
     'tz' => 'America/New_York',
+  ),
+  'OIC' => 
+  array (
+    'icao' => 'KOIC',
+    'iata' => 'OIC',
+    'name' => 'Lt Warren Eaton Airport',
+    'city' => 'Norwich',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 1025,
+    'lat' => 42.5666007996,
+    'lon' => -75.5241012573,
+    'tz' => 'America/New_York',
+  ),
+  'OJC' => 
+  array (
+    'icao' => 'KOJC',
+    'iata' => 'OJC',
+    'name' => 'Johnson County Executive Airport',
+    'city' => 'Olathe',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 1096,
+    'lat' => 38.84759903,
+    'lon' => -94.73760223,
+    'tz' => 'America/Chicago',
+  ),
+  'OCN' => 
+  array (
+    'icao' => 'KOKB',
+    'iata' => 'OCN',
+    'name' => 'Oceanside Municipal Airport',
+    'city' => 'Oceanside',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 28,
+    'lat' => 33.217300415,
+    'lon' => -117.3539962769,
+    'tz' => 'America/Los_Angeles',
   ),
   'OKC' => 
   array (
@@ -32089,6 +39655,71 @@ abstract class AirportLibrary
     'lon' => -97.6007003784,
     'tz' => 'America/Chicago',
   ),
+  'ODW' => 
+  array (
+    'icao' => 'KOKH',
+    'iata' => 'ODW',
+    'name' => 'AJ Eisenberg Airport',
+    'city' => 'Oak Harbor',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 193,
+    'lat' => 48.251499176,
+    'lon' => -122.674003601,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'OKK' => 
+  array (
+    'icao' => 'KOKK',
+    'iata' => 'OKK',
+    'name' => 'Kokomo Municipal Airport',
+    'city' => 'Kokomo',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 830,
+    'lat' => 40.5281982422,
+    'lon' => -86.0589981079,
+    'tz' => 'America/Indiana/Indianapolis',
+  ),
+  'OKM' => 
+  array (
+    'icao' => 'KOKM',
+    'iata' => 'OKM',
+    'name' => 'Okmulgee Regional Airport',
+    'city' => 'Okmulgee',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 720,
+    'lat' => 35.6680984497,
+    'lon' => -95.9486999512,
+    'tz' => 'America/Chicago',
+  ),
+  'OKS' => 
+  array (
+    'icao' => 'KOKS',
+    'iata' => 'OKS',
+    'name' => 'Garden County Airport',
+    'city' => 'Oshkosh',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 3394,
+    'lat' => 41.4010009766,
+    'lon' => -102.3550033569,
+    'tz' => 'America/Denver',
+  ),
+  'WGO' => 
+  array (
+    'icao' => 'KOKV',
+    'iata' => 'WGO',
+    'name' => 'Winchester Regional Airport',
+    'city' => 'Winchester',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 726,
+    'lat' => 39.14350128,
+    'lon' => -78.14440155,
+    'tz' => 'America/New_York',
+  ),
   'OLD' => 
   array (
     'icao' => 'KOLD',
@@ -32101,6 +39732,32 @@ abstract class AirportLibrary
     'lat' => 44.95280075,
     'lon' => -68.67430115,
     'tz' => 'America/New_York',
+  ),
+  'OLE' => 
+  array (
+    'icao' => 'KOLE',
+    'iata' => 'OLE',
+    'name' => 'Cattaraugus County-Olean Airport',
+    'city' => 'Olean',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 2135,
+    'lat' => 42.24119949,
+    'lon' => -78.37139893,
+    'tz' => 'America/New_York',
+  ),
+  'OLF' => 
+  array (
+    'icao' => 'KOLF',
+    'iata' => 'OLF',
+    'name' => 'L M Clayton Airport',
+    'city' => 'Wolf Point',
+    'state' => 'Montana',
+    'country' => 'US',
+    'elevation' => 1986,
+    'lat' => 48.0945014954,
+    'lon' => -105.5749969482,
+    'tz' => 'America/Denver',
   ),
   'OLM' => 
   array (
@@ -32115,6 +39772,58 @@ abstract class AirportLibrary
     'lon' => -122.9029999,
     'tz' => 'America/Los_Angeles',
   ),
+  'OLS' => 
+  array (
+    'icao' => 'KOLS',
+    'iata' => 'OLS',
+    'name' => 'Nogales International Airport',
+    'city' => 'Nogales',
+    'state' => 'Arizona',
+    'country' => 'US',
+    'elevation' => 3955,
+    'lat' => 31.4176998138,
+    'lon' => -110.8479995728,
+    'tz' => 'America/Phoenix',
+  ),
+  'OLU' => 
+  array (
+    'icao' => 'KOLU',
+    'iata' => 'OLU',
+    'name' => 'Columbus Municipal Airport',
+    'city' => 'Columbus',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 1447,
+    'lat' => 41.44800186,
+    'lon' => -97.34259796,
+    'tz' => 'America/Chicago',
+  ),
+  'OLV' => 
+  array (
+    'icao' => 'KOLV',
+    'iata' => 'OLV',
+    'name' => 'Olive Branch Airport',
+    'city' => 'Olive Branch',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 402,
+    'lat' => 34.9786987305,
+    'lon' => -89.7869033813,
+    'tz' => 'America/Chicago',
+  ),
+  'OLY' => 
+  array (
+    'icao' => 'KOLY',
+    'iata' => 'OLY',
+    'name' => 'Olney Noble Airport',
+    'city' => 'Olney-Noble',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 482,
+    'lat' => 38.7218017578,
+    'lon' => -88.176399231,
+    'tz' => 'America/Chicago',
+  ),
   'OMA' => 
   array (
     'icao' => 'KOMA',
@@ -32128,6 +39837,84 @@ abstract class AirportLibrary
     'lon' => -95.8940963745,
     'tz' => 'America/Chicago',
   ),
+  'OMK' => 
+  array (
+    'icao' => 'KOMK',
+    'iata' => 'OMK',
+    'name' => 'Omak Airport',
+    'city' => 'Omak',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 1305,
+    'lat' => 48.4644012451,
+    'lon' => -119.5179977417,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'ONA' => 
+  array (
+    'icao' => 'KONA',
+    'iata' => 'ONA',
+    'name' => 'Winona Municipal-Max Conrad Field',
+    'city' => 'Winona',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 656,
+    'lat' => 44.07720184,
+    'lon' => -91.70829773,
+    'tz' => 'America/Chicago',
+  ),
+  'ONL' => 
+  array (
+    'icao' => 'KONL',
+    'iata' => 'ONL',
+    'name' => 'The O\'Neill Municipal John L Baker Field',
+    'city' => 'O\'Neill',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 2031,
+    'lat' => 42.46989822,
+    'lon' => -98.68810272,
+    'tz' => 'America/Chicago',
+  ),
+  'ONM' => 
+  array (
+    'icao' => 'KONM',
+    'iata' => 'ONM',
+    'name' => 'Socorro Municipal Airport',
+    'city' => 'Socorro',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 4875,
+    'lat' => 34.0224990845,
+    'lon' => -106.9029998779,
+    'tz' => 'America/Denver',
+  ),
+  'ONO' => 
+  array (
+    'icao' => 'KONO',
+    'iata' => 'ONO',
+    'name' => 'Ontario Municipal Airport',
+    'city' => 'Ontario',
+    'state' => 'Oregon',
+    'country' => 'US',
+    'elevation' => 2193,
+    'lat' => 44.0205001831,
+    'lon' => -117.013999939,
+    'tz' => 'America/Boise',
+  ),
+  'ONP' => 
+  array (
+    'icao' => 'KONP',
+    'iata' => 'ONP',
+    'name' => 'Newport Municipal Airport',
+    'city' => 'Newport',
+    'state' => 'Oregon',
+    'country' => 'US',
+    'elevation' => 160,
+    'lat' => 44.5803985596,
+    'lon' => -124.0579986572,
+    'tz' => 'America/Los_Angeles',
+  ),
   'ONT' => 
   array (
     'icao' => 'KONT',
@@ -32140,6 +39927,71 @@ abstract class AirportLibrary
     'lat' => 34.0559997559,
     'lon' => -117.6009979248,
     'tz' => 'America/Los_Angeles',
+  ),
+  'ONY' => 
+  array (
+    'icao' => 'KONY',
+    'iata' => 'ONY',
+    'name' => 'Olney Municipal Airport',
+    'city' => 'Olney',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 1275,
+    'lat' => 33.3508987427,
+    'lon' => -98.8191986084,
+    'tz' => 'America/Chicago',
+  ),
+  'OOA' => 
+  array (
+    'icao' => 'KOOA',
+    'iata' => 'OOA',
+    'name' => 'Oskaloosa Municipal Airport',
+    'city' => 'Oskaloosa',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 841,
+    'lat' => 41.2262001,
+    'lon' => -92.49389648,
+    'tz' => 'America/Chicago',
+  ),
+  'OPF' => 
+  array (
+    'icao' => 'KOPF',
+    'iata' => 'OPF',
+    'name' => 'Opa-locka Executive Airport',
+    'city' => 'Miami',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 8,
+    'lat' => 25.90699959,
+    'lon' => -80.27839661,
+    'tz' => 'America/New_York',
+  ),
+  'OPL' => 
+  array (
+    'icao' => 'KOPL',
+    'iata' => 'OPL',
+    'name' => 'St Landry Parish Ahart Field',
+    'city' => 'Opelousas',
+    'state' => 'Louisiana',
+    'country' => 'US',
+    'elevation' => 75,
+    'lat' => 30.5583992004,
+    'lon' => -92.0994033813,
+    'tz' => 'America/Chicago',
+  ),
+  'NCO' => 
+  array (
+    'icao' => 'KOQU',
+    'iata' => 'NCO',
+    'name' => 'Quonset State Airport',
+    'city' => 'North Kingstown',
+    'state' => 'Rhode-Island',
+    'country' => 'US',
+    'elevation' => 18,
+    'lat' => 41.5970993042,
+    'lon' => -71.4121017456,
+    'tz' => 'America/New_York',
   ),
   'ORD' => 
   array (
@@ -32180,6 +40032,19 @@ abstract class AirportLibrary
     'lon' => -71.8757019043,
     'tz' => 'America/New_York',
   ),
+  'ORL' => 
+  array (
+    'icao' => 'KORL',
+    'iata' => 'ORL',
+    'name' => 'Orlando Executive Airport',
+    'city' => 'Orlando',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 113,
+    'lat' => 28.5454998016,
+    'lon' => -81.332901001,
+    'tz' => 'America/New_York',
+  ),
   'ESD' => 
   array (
     'icao' => 'KORS',
@@ -32193,6 +40058,32 @@ abstract class AirportLibrary
     'lon' => -122.910003662,
     'tz' => 'America/Los_Angeles',
   ),
+  'MPS' => 
+  array (
+    'icao' => 'KOSA',
+    'iata' => 'MPS',
+    'name' => 'Mount Pleasant Regional Airport',
+    'city' => 'Mount Pleasant',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 364,
+    'lat' => 33.09550095,
+    'lon' => -94.96150208,
+    'tz' => 'America/Chicago',
+  ),
+  'OSC' => 
+  array (
+    'icao' => 'KOSC',
+    'iata' => 'OSC',
+    'name' => 'Oscoda Wurtsmith Airport',
+    'city' => 'Oscoda',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 633,
+    'lat' => 44.45159912,
+    'lon' => -83.39409637,
+    'tz' => 'America/Detroit',
+  ),
   'OSH' => 
   array (
     'icao' => 'KOSH',
@@ -32204,6 +40095,45 @@ abstract class AirportLibrary
     'elevation' => 808,
     'lat' => 43.9844017029,
     'lon' => -88.5569992065,
+    'tz' => 'America/Chicago',
+  ),
+  'OSU' => 
+  array (
+    'icao' => 'KOSU',
+    'iata' => 'OSU',
+    'name' => 'Ohio State University Airport',
+    'city' => 'Columbus',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 905,
+    'lat' => 40.0797996521,
+    'lon' => -83.0729980469,
+    'tz' => 'America/New_York',
+  ),
+  'OSX' => 
+  array (
+    'icao' => 'KOSX',
+    'iata' => 'OSX',
+    'name' => 'Kosciusko Attala County Airport',
+    'city' => 'Kosciusko',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 480,
+    'lat' => 33.0903015137,
+    'lon' => -89.5419998169,
+    'tz' => 'America/Chicago',
+  ),
+  'OTG' => 
+  array (
+    'icao' => 'KOTG',
+    'iata' => 'OTG',
+    'name' => 'Worthington Municipal Airport',
+    'city' => 'Worthington',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1574,
+    'lat' => 43.6551017761,
+    'lon' => -95.5792007446,
     'tz' => 'America/Chicago',
   ),
   'OTH' => 
@@ -32232,6 +40162,45 @@ abstract class AirportLibrary
     'lon' => -92.44789886,
     'tz' => 'America/Chicago',
   ),
+  'OUN' => 
+  array (
+    'icao' => 'KOUN',
+    'iata' => 'OUN',
+    'name' => 'University of Oklahoma Westheimer Airport',
+    'city' => 'Norman',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 1182,
+    'lat' => 35.2456016541,
+    'lon' => -97.4720993042,
+    'tz' => 'America/Chicago',
+  ),
+  'OVE' => 
+  array (
+    'icao' => 'KOVE',
+    'iata' => 'OVE',
+    'name' => 'Oroville Municipal Airport',
+    'city' => 'Oroville',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 192,
+    'lat' => 39.4878005981,
+    'lon' => -121.6220016479,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'OWA' => 
+  array (
+    'icao' => 'KOWA',
+    'iata' => 'OWA',
+    'name' => 'Owatonna Degner Regional Airport',
+    'city' => 'Owatonna',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1145,
+    'lat' => 44.12340164,
+    'lon' => -93.26059723,
+    'tz' => 'America/Chicago',
+  ),
   'OWB' => 
   array (
     'icao' => 'KOWB',
@@ -32245,6 +40214,123 @@ abstract class AirportLibrary
     'lon' => -87.16680145,
     'tz' => 'America/Chicago',
   ),
+  'OWD' => 
+  array (
+    'icao' => 'KOWD',
+    'iata' => 'OWD',
+    'name' => 'Norwood Memorial Airport',
+    'city' => 'Norwood',
+    'state' => 'Massachusetts',
+    'country' => 'US',
+    'elevation' => 49,
+    'lat' => 42.1904983521,
+    'lon' => -71.1728973389,
+    'tz' => 'America/New_York',
+  ),
+  'OWK' => 
+  array (
+    'icao' => 'KOWK',
+    'iata' => 'OWK',
+    'name' => 'Central Maine Arpt of Norridgewock Airport',
+    'city' => 'Norridgewock',
+    'state' => 'Maine',
+    'country' => 'US',
+    'elevation' => 270,
+    'lat' => 44.71549988,
+    'lon' => -69.86650085,
+    'tz' => 'America/New_York',
+  ),
+  'OCE' => 
+  array (
+    'icao' => 'KOXB',
+    'iata' => 'OCE',
+    'name' => 'Ocean City Municipal Airport',
+    'city' => 'Ocean City',
+    'state' => 'Maryland',
+    'country' => 'US',
+    'elevation' => 11,
+    'lat' => 38.3103981018,
+    'lon' => -75.1240005493,
+    'tz' => 'America/New_York',
+  ),
+  'OXC' => 
+  array (
+    'icao' => 'KOXC',
+    'iata' => 'OXC',
+    'name' => 'Waterbury Oxford Airport',
+    'city' => 'Oxford',
+    'state' => 'Connecticut',
+    'country' => 'US',
+    'elevation' => 726,
+    'lat' => 41.4785995483,
+    'lon' => -73.1352005005,
+    'tz' => 'America/New_York',
+  ),
+  'OXD' => 
+  array (
+    'icao' => 'KOXD',
+    'iata' => 'OXD',
+    'name' => 'Miami University Airport',
+    'city' => 'Oxford',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 1041,
+    'lat' => 39.50230026,
+    'lon' => -84.78440094,
+    'tz' => 'America/New_York',
+  ),
+  'OXR' => 
+  array (
+    'icao' => 'KOXR',
+    'iata' => 'OXR',
+    'name' => 'Oxnard Airport',
+    'city' => 'Oxnard',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 45,
+    'lat' => 34.2008018494,
+    'lon' => -119.2070007324,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'STQ' => 
+  array (
+    'icao' => 'KOYM',
+    'iata' => 'STQ',
+    'name' => 'St Marys Municipal Airport',
+    'city' => 'St Marys',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 1934,
+    'lat' => 41.4124984741,
+    'lon' => -78.5026016235,
+    'tz' => 'America/New_York',
+  ),
+  'OZA' => 
+  array (
+    'icao' => 'KOZA',
+    'iata' => 'OZA',
+    'name' => 'Ozona Municipal Airport',
+    'city' => 'Ozona',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 2381,
+    'lat' => 30.7353000641,
+    'lon' => -101.2030029297,
+    'tz' => 'America/Chicago',
+  ),
+  'OZR' => 
+  array (
+    'icao' => 'KOZR',
+    'iata' => 'OZR',
+    'name' => 'Cairns AAF (Fort Rucker) Air Field',
+    'city' => 'Fort Rucker/Ozark',
+    'state' => 'Alabama',
+    'country' => 'US',
+    'elevation' => 301,
+    'lat' => 31.27569962,
+    'lon' => -85.71340179,
+    'tz' => 'America/Chicago',
+  ),
   'BSQ' => 
   array (
     'icao' => 'KP04',
@@ -32256,7 +40342,7 @@ abstract class AirportLibrary
     'elevation' => 4780,
     'lat' => 31.3640003204,
     'lon' => -109.883003235,
-    'tz' => 'America/Phoenix',
+    'tz' => 'America/Hermosillo',
   ),
   'HBK' => 
   array (
@@ -32310,6 +40396,58 @@ abstract class AirportLibrary
     'lon' => -88.7738037109,
     'tz' => 'America/Chicago',
   ),
+  'PAM' => 
+  array (
+    'icao' => 'KPAM',
+    'iata' => 'PAM',
+    'name' => 'Tyndall Air Force Base',
+    'city' => 'Panama City',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 17,
+    'lat' => 30.0695991516,
+    'lon' => -85.5754013062,
+    'tz' => 'America/Chicago',
+  ),
+  'PJB' => 
+  array (
+    'icao' => 'KPAN',
+    'iata' => 'PJB',
+    'name' => 'Payson Airport',
+    'city' => 'Payson',
+    'state' => 'Arizona',
+    'country' => 'US',
+    'elevation' => 5157,
+    'lat' => 34.2568016052,
+    'lon' => -111.3389968872,
+    'tz' => 'America/Phoenix',
+  ),
+  'PAO' => 
+  array (
+    'icao' => 'KPAO',
+    'iata' => 'PAO',
+    'name' => 'Palo Alto Airport of Santa Clara County',
+    'city' => 'Palo Alto',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 4,
+    'lat' => 37.461101532,
+    'lon' => -122.1149978638,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'PBF' => 
+  array (
+    'icao' => 'KPBF',
+    'iata' => 'PBF',
+    'name' => 'Grider Field',
+    'city' => 'Pine Bluff',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 206,
+    'lat' => 34.1730995178,
+    'lon' => -91.9356002808,
+    'tz' => 'America/Chicago',
+  ),
   'PBG' => 
   array (
     'icao' => 'KPBG',
@@ -32336,6 +40474,32 @@ abstract class AirportLibrary
     'lon' => -80.0955963135,
     'tz' => 'America/New_York',
   ),
+  'PVL' => 
+  array (
+    'icao' => 'KPBX',
+    'iata' => 'PVL',
+    'name' => 'Pike County-Hatcher Field',
+    'city' => 'Pikeville',
+    'state' => 'Kentucky',
+    'country' => 'US',
+    'elevation' => 1473,
+    'lat' => 37.5617981,
+    'lon' => -82.56639862,
+    'tz' => 'America/New_York',
+  ),
+  'PCD' => 
+  array (
+    'icao' => 'KPDC',
+    'iata' => 'PCD',
+    'name' => 'Prairie Du Chien Municipal Airport',
+    'city' => 'Prairie Du Chien',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 661,
+    'lat' => 43.0192985535,
+    'lon' => -91.1237030029,
+    'tz' => 'America/Chicago',
+  ),
   'PDK' => 
   array (
     'icao' => 'KPDK',
@@ -32349,6 +40513,19 @@ abstract class AirportLibrary
     'lon' => -84.3020019531,
     'tz' => 'America/New_York',
   ),
+  'PDT' => 
+  array (
+    'icao' => 'KPDT',
+    'iata' => 'PDT',
+    'name' => 'Eastern Oregon Regional At Pendleton Airport',
+    'city' => 'Pendleton',
+    'state' => 'Oregon',
+    'country' => 'US',
+    'elevation' => 1497,
+    'lat' => 45.695098877,
+    'lon' => -118.841003418,
+    'tz' => 'America/Los_Angeles',
+  ),
   'PDX' => 
   array (
     'icao' => 'KPDX',
@@ -32361,6 +40538,19 @@ abstract class AirportLibrary
     'lat' => 45.58869934,
     'lon' => -122.5979996,
     'tz' => 'America/Los_Angeles',
+  ),
+  'PEQ' => 
+  array (
+    'icao' => 'KPEQ',
+    'iata' => 'PEQ',
+    'name' => 'Pecos Municipal Airport',
+    'city' => 'Pecos',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 2613,
+    'lat' => 31.3824005127,
+    'lon' => -103.5110015869,
+    'tz' => 'America/Chicago',
   ),
   'PFC' => 
   array (
@@ -32386,7 +40576,7 @@ abstract class AirportLibrary
     'elevation' => 20,
     'lat' => 30.2120990753,
     'lon' => -85.682800293,
-    'tz' => 'America/New_York',
+    'tz' => 'America/Chicago',
   ),
   'PGA' => 
   array (
@@ -32401,6 +40591,32 @@ abstract class AirportLibrary
     'lon' => -111.447998,
     'tz' => 'America/Phoenix',
   ),
+  'PGD' => 
+  array (
+    'icao' => 'KPGD',
+    'iata' => 'PGD',
+    'name' => 'Charlotte County Airport',
+    'city' => 'Punta Gorda',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 26,
+    'lat' => 26.92020035,
+    'lon' => -81.9905014,
+    'tz' => 'America/New_York',
+  ),
+  'PGR' => 
+  array (
+    'icao' => 'KPGR',
+    'iata' => 'PGR',
+    'name' => 'Kirk Field',
+    'city' => 'Paragould',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 290,
+    'lat' => 36.06290054,
+    'lon' => -90.50779724,
+    'tz' => 'America/Chicago',
+  ),
   'PGV' => 
   array (
     'icao' => 'KPGV',
@@ -32412,6 +40628,19 @@ abstract class AirportLibrary
     'elevation' => 26,
     'lat' => 35.6352005,
     'lon' => -77.38529968,
+    'tz' => 'America/New_York',
+  ),
+  'PHD' => 
+  array (
+    'icao' => 'KPHD',
+    'iata' => 'PHD',
+    'name' => 'Harry Clever Field',
+    'city' => 'New Philadelphia',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 894,
+    'lat' => 40.4709014893,
+    'lon' => -81.4197006226,
     'tz' => 'America/New_York',
   ),
   'PHF' => 
@@ -32440,6 +40669,19 @@ abstract class AirportLibrary
     'lon' => -79.5261993408,
     'tz' => 'America/New_York',
   ),
+  'PHK' => 
+  array (
+    'icao' => 'KPHK',
+    'iata' => 'PHK',
+    'name' => 'Palm Beach Co Glades Airport',
+    'city' => 'Pahokee',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 16,
+    'lat' => 26.78499985,
+    'lon' => -80.69339752,
+    'tz' => 'America/New_York',
+  ),
   'PHL' => 
   array (
     'icao' => 'KPHL',
@@ -32452,6 +40694,45 @@ abstract class AirportLibrary
     'lat' => 39.8718986511,
     'lon' => -75.2410964966,
     'tz' => 'America/New_York',
+  ),
+  'PHN' => 
+  array (
+    'icao' => 'KPHN',
+    'iata' => 'PHN',
+    'name' => 'St Clair County International Airport',
+    'city' => 'Port Huron',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 650,
+    'lat' => 42.9109993,
+    'lon' => -82.52890015,
+    'tz' => 'America/Detroit',
+  ),
+  'PHP' => 
+  array (
+    'icao' => 'KPHP',
+    'iata' => 'PHP',
+    'name' => 'Philip Airport',
+    'city' => 'Philip',
+    'state' => 'South-Dakota',
+    'country' => 'US',
+    'elevation' => 2207,
+    'lat' => 44.0485992432,
+    'lon' => -101.5989990234,
+    'tz' => 'America/Denver',
+  ),
+  'PHT' => 
+  array (
+    'icao' => 'KPHT',
+    'iata' => 'PHT',
+    'name' => 'Henry County Airport',
+    'city' => 'Paris',
+    'state' => 'Tennessee',
+    'country' => 'US',
+    'elevation' => 580,
+    'lat' => 36.3381996155,
+    'lon' => -88.3828964233,
+    'tz' => 'America/Chicago',
   ),
   'PHX' => 
   array (
@@ -32516,7 +40797,20 @@ abstract class AirportLibrary
     'elevation' => 4452,
     'lat' => 42.9098014832,
     'lon' => -112.5960006714,
-    'tz' => 'America/Denver',
+    'tz' => 'America/Boise',
+  ),
+  'PIM' => 
+  array (
+    'icao' => 'KPIM',
+    'iata' => 'PIM',
+    'name' => 'Harris County Airport',
+    'city' => 'Pine Mountain',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 902,
+    'lat' => 32.8406982422,
+    'lon' => -84.8824005127,
+    'tz' => 'America/New_York',
   ),
   'PIR' => 
   array (
@@ -32557,6 +40851,45 @@ abstract class AirportLibrary
     'lon' => -81.439201355,
     'tz' => 'America/New_York',
   ),
+  'PKD' => 
+  array (
+    'icao' => 'KPKD',
+    'iata' => 'PKD',
+    'name' => 'Park Rapids Municipal Konshok Field',
+    'city' => 'Park Rapids',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1445,
+    'lat' => 46.90060043,
+    'lon' => -95.07309723,
+    'tz' => 'America/Chicago',
+  ),
+  'PKF' => 
+  array (
+    'icao' => 'KPKF',
+    'iata' => 'PKF',
+    'name' => 'Park Falls Municipal Airport',
+    'city' => 'Park Falls',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 1500,
+    'lat' => 45.9550018311,
+    'lon' => -90.4244003296,
+    'tz' => 'America/Chicago',
+  ),
+  'PLK' => 
+  array (
+    'icao' => 'KPLK',
+    'iata' => 'PLK',
+    'name' => 'M. Graham Clark-Taney County Airport',
+    'city' => 'Point Lookout',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 940,
+    'lat' => 36.62590027,
+    'lon' => -93.22889709,
+    'tz' => 'America/Chicago',
+  ),
   'PLN' => 
   array (
     'icao' => 'KPLN',
@@ -32569,6 +40902,32 @@ abstract class AirportLibrary
     'lat' => 45.57089996,
     'lon' => -84.79669952,
     'tz' => 'America/Detroit',
+  ),
+  'PLR' => 
+  array (
+    'icao' => 'KPLR',
+    'iata' => 'PLR',
+    'name' => 'St Clair County Airport',
+    'city' => 'Pell City',
+    'state' => 'Alabama',
+    'country' => 'US',
+    'elevation' => 485,
+    'lat' => 33.5587997437,
+    'lon' => -86.2490997314,
+    'tz' => 'America/Chicago',
+  ),
+  'PMB' => 
+  array (
+    'icao' => 'KPMB',
+    'iata' => 'PMB',
+    'name' => 'Pembina Municipal Airport',
+    'city' => 'Pembina',
+    'state' => 'North-Dakota',
+    'country' => 'US',
+    'elevation' => 795,
+    'lat' => 48.9425010681,
+    'lon' => -97.2407989502,
+    'tz' => 'America/Chicago',
   ),
   'PMD' => 
   array (
@@ -32583,6 +40942,84 @@ abstract class AirportLibrary
     'lon' => -118.0849991,
     'tz' => 'America/Los_Angeles',
   ),
+  'PMH' => 
+  array (
+    'icao' => 'KPMH',
+    'iata' => 'PMH',
+    'name' => 'Greater Portsmouth Regional Airport',
+    'city' => 'Portsmouth',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 663,
+    'lat' => 38.8404998779,
+    'lon' => -82.8472976685,
+    'tz' => 'America/New_York',
+  ),
+  'PPM' => 
+  array (
+    'icao' => 'KPMP',
+    'iata' => 'PPM',
+    'name' => 'Pompano Beach Airpark',
+    'city' => 'Pompano Beach',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 19,
+    'lat' => 26.2471008301,
+    'lon' => -80.1110992432,
+    'tz' => 'America/New_York',
+  ),
+  'PWY' => 
+  array (
+    'icao' => 'KPNA',
+    'iata' => 'PWY',
+    'name' => 'Ralph Wenz Field',
+    'city' => 'Pinedale',
+    'state' => 'Wyoming',
+    'country' => 'US',
+    'elevation' => 7102,
+    'lat' => 42.79550171,
+    'lon' => -109.8069992,
+    'tz' => 'America/Denver',
+  ),
+  'PNC' => 
+  array (
+    'icao' => 'KPNC',
+    'iata' => 'PNC',
+    'name' => 'Ponca City Regional Airport',
+    'city' => 'Ponca City',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 1008,
+    'lat' => 36.73199844,
+    'lon' => -97.09980011,
+    'tz' => 'America/Chicago',
+  ),
+  'PNE' => 
+  array (
+    'icao' => 'KPNE',
+    'iata' => 'PNE',
+    'name' => 'Northeast Philadelphia Airport',
+    'city' => 'Philadelphia',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 120,
+    'lat' => 40.08190155,
+    'lon' => -75.01059723,
+    'tz' => 'America/New_York',
+  ),
+  'PNN' => 
+  array (
+    'icao' => 'KPNN',
+    'iata' => 'PNN',
+    'name' => 'Princeton Municipal Airport',
+    'city' => 'Princeton',
+    'state' => 'Maine',
+    'country' => 'US',
+    'elevation' => 266,
+    'lat' => 45.2006988525,
+    'lon' => -67.5643997192,
+    'tz' => 'America/New_York',
+  ),
   'PNS' => 
   array (
     'icao' => 'KPNS',
@@ -32594,6 +41031,71 @@ abstract class AirportLibrary
     'elevation' => 121,
     'lat' => 30.473400116,
     'lon' => -87.1865997314,
+    'tz' => 'America/Chicago',
+  ),
+  'POB' => 
+  array (
+    'icao' => 'KPOB',
+    'iata' => 'POB',
+    'name' => 'Pope Air Force Base',
+    'city' => 'Fayetteville',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 217,
+    'lat' => 35.1708984375,
+    'lon' => -79.014503479,
+    'tz' => 'America/New_York',
+  ),
+  'POC' => 
+  array (
+    'icao' => 'KPOC',
+    'iata' => 'POC',
+    'name' => 'Brackett Field',
+    'city' => 'La Verne',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1011,
+    'lat' => 34.0915985107,
+    'lon' => -117.7819976807,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'POE' => 
+  array (
+    'icao' => 'KPOE',
+    'iata' => 'POE',
+    'name' => 'Polk Army Air Field',
+    'city' => 'Fort Polk',
+    'state' => 'Louisiana',
+    'country' => 'US',
+    'elevation' => 330,
+    'lat' => 31.0447998,
+    'lon' => -93.1917038,
+    'tz' => 'America/Chicago',
+  ),
+  'POF' => 
+  array (
+    'icao' => 'KPOF',
+    'iata' => 'POF',
+    'name' => 'Poplar Bluff Municipal Airport',
+    'city' => 'Poplar Bluff',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 331,
+    'lat' => 36.7738990784,
+    'lon' => -90.3248977661,
+    'tz' => 'America/Chicago',
+  ),
+  'POH' => 
+  array (
+    'icao' => 'KPOH',
+    'iata' => 'POH',
+    'name' => 'Pocahontas Municipal Airport',
+    'city' => 'Pocahontas',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 1226,
+    'lat' => 42.74280167,
+    'lon' => -94.64730072,
     'tz' => 'America/Chicago',
   ),
   'POU' => 
@@ -32609,6 +41111,58 @@ abstract class AirportLibrary
     'lon' => -73.8842010498,
     'tz' => 'America/New_York',
   ),
+  'POY' => 
+  array (
+    'icao' => 'KPOY',
+    'iata' => 'POY',
+    'name' => 'Powell Municipal Airport',
+    'city' => 'Powell',
+    'state' => 'Wyoming',
+    'country' => 'US',
+    'elevation' => 5092,
+    'lat' => 44.8671989441,
+    'lon' => -108.7929992676,
+    'tz' => 'America/Denver',
+  ),
+  'PPA' => 
+  array (
+    'icao' => 'KPPA',
+    'iata' => 'PPA',
+    'name' => 'Perry Lefors Field',
+    'city' => 'Pampa',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 3245,
+    'lat' => 35.6129989624,
+    'lon' => -100.9960021973,
+    'tz' => 'America/Chicago',
+  ),
+  'PPF' => 
+  array (
+    'icao' => 'KPPF',
+    'iata' => 'PPF',
+    'name' => 'Tri City Airport',
+    'city' => 'Parsons',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 900,
+    'lat' => 37.32989883,
+    'lon' => -95.5062027,
+    'tz' => 'America/Chicago',
+  ),
+  'LPO' => 
+  array (
+    'icao' => 'KPPO',
+    'iata' => 'LPO',
+    'name' => 'La Porte Municipal Airport',
+    'city' => 'La Porte',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 812,
+    'lat' => 41.5724983215,
+    'lon' => -86.7344970703,
+    'tz' => 'America/Chicago',
+  ),
   'PQI' => 
   array (
     'icao' => 'KPQI',
@@ -32621,6 +41175,32 @@ abstract class AirportLibrary
     'lat' => 46.68899918,
     'lon' => -68.0447998,
     'tz' => 'America/New_York',
+  ),
+  'PGL' => 
+  array (
+    'icao' => 'KPQL',
+    'iata' => 'PGL',
+    'name' => 'Trent Lott International Airport',
+    'city' => 'Pascagoula',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 17,
+    'lat' => 30.4627990723,
+    'lon' => -88.5291976929,
+    'tz' => 'America/Chicago',
+  ),
+  'PRB' => 
+  array (
+    'icao' => 'KPRB',
+    'iata' => 'PRB',
+    'name' => 'Paso Robles Municipal Airport',
+    'city' => 'Paso Robles',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 840,
+    'lat' => 35.67290115,
+    'lon' => -120.6269989,
+    'tz' => 'America/Los_Angeles',
   ),
   'PRC' => 
   array (
@@ -32635,6 +41215,45 @@ abstract class AirportLibrary
     'lon' => -112.4199982,
     'tz' => 'America/Phoenix',
   ),
+  'PRO' => 
+  array (
+    'icao' => 'KPRO',
+    'iata' => 'PRO',
+    'name' => 'Perry Municipal Airport',
+    'city' => 'Perry',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 1013,
+    'lat' => 41.82799911,
+    'lon' => -94.15989685,
+    'tz' => 'America/Chicago',
+  ),
+  'PRX' => 
+  array (
+    'icao' => 'KPRX',
+    'iata' => 'PRX',
+    'name' => 'Cox Field',
+    'city' => 'Paris',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 547,
+    'lat' => 33.6366004944,
+    'lon' => -95.4507980347,
+    'tz' => 'America/Chicago',
+  ),
+  'PSB' => 
+  array (
+    'icao' => 'KPSB',
+    'iata' => 'PSB',
+    'name' => 'Mid State Airport',
+    'city' => 'Philipsburg',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 1948,
+    'lat' => 40.8843994141,
+    'lon' => -78.0873031616,
+    'tz' => 'America/New_York',
+  ),
   'PSC' => 
   array (
     'icao' => 'KPSC',
@@ -32647,6 +41266,32 @@ abstract class AirportLibrary
     'lat' => 46.2647018433,
     'lon' => -119.1190032959,
     'tz' => 'America/Los_Angeles',
+  ),
+  'PSF' => 
+  array (
+    'icao' => 'KPSF',
+    'iata' => 'PSF',
+    'name' => 'Pittsfield Municipal Airport',
+    'city' => 'Pittsfield',
+    'state' => 'Massachusetts',
+    'country' => 'US',
+    'elevation' => 1194,
+    'lat' => 42.4267997742,
+    'lon' => -73.2929000854,
+    'tz' => 'America/New_York',
+  ),
+  'PSK' => 
+  array (
+    'icao' => 'KPSK',
+    'iata' => 'PSK',
+    'name' => 'New River Valley Airport',
+    'city' => 'Dublin',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 2105,
+    'lat' => 37.137298584,
+    'lon' => -80.6784973145,
+    'tz' => 'America/New_York',
   ),
   'PSM' => 
   array (
@@ -32661,6 +41306,32 @@ abstract class AirportLibrary
     'lon' => -70.8233032227,
     'tz' => 'America/New_York',
   ),
+  'PSN' => 
+  array (
+    'icao' => 'KPSN',
+    'iata' => 'PSN',
+    'name' => 'Palestine Municipal Airport',
+    'city' => 'Palestine',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 423,
+    'lat' => 31.7796993256,
+    'lon' => -95.7062988281,
+    'tz' => 'America/Chicago',
+  ),
+  'PGO' => 
+  array (
+    'icao' => 'KPSO',
+    'iata' => 'PGO',
+    'name' => 'Stevens Field',
+    'city' => 'Pagosa Springs',
+    'state' => 'Colorado',
+    'country' => 'US',
+    'elevation' => 7664,
+    'lat' => 37.28630066,
+    'lon' => -107.0559998,
+    'tz' => 'America/Denver',
+  ),
   'PSP' => 
   array (
     'icao' => 'KPSP',
@@ -32674,6 +41345,32 @@ abstract class AirportLibrary
     'lon' => -116.5070037842,
     'tz' => 'America/Los_Angeles',
   ),
+  'PSX' => 
+  array (
+    'icao' => 'KPSX',
+    'iata' => 'PSX',
+    'name' => 'Palacios Municipal Airport',
+    'city' => 'Palacios',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 14,
+    'lat' => 28.7275009155,
+    'lon' => -96.2509994507,
+    'tz' => 'America/Chicago',
+  ),
+  'PTB' => 
+  array (
+    'icao' => 'KPTB',
+    'iata' => 'PTB',
+    'name' => 'Dinwiddie County Airport',
+    'city' => 'Petersburg',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 193,
+    'lat' => 37.1837997437,
+    'lon' => -77.5074005127,
+    'tz' => 'America/New_York',
+  ),
   'PTK' => 
   array (
     'icao' => 'KPTK',
@@ -32685,6 +41382,71 @@ abstract class AirportLibrary
     'elevation' => 980,
     'lat' => 42.6655006409,
     'lon' => -83.4200973511,
+    'tz' => 'America/Detroit',
+  ),
+  'PTN' => 
+  array (
+    'icao' => 'KPTN',
+    'iata' => 'PTN',
+    'name' => 'Harry P Williams Memorial Airport',
+    'city' => 'Patterson',
+    'state' => 'Louisiana',
+    'country' => 'US',
+    'elevation' => 9,
+    'lat' => 29.7094993591,
+    'lon' => -91.3389968872,
+    'tz' => 'America/Chicago',
+  ),
+  'PTS' => 
+  array (
+    'icao' => 'KPTS',
+    'iata' => 'PTS',
+    'name' => 'Atkinson Municipal Airport',
+    'city' => 'Pittsburg',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 950,
+    'lat' => 37.4495010376,
+    'lon' => -94.7311019897,
+    'tz' => 'America/Chicago',
+  ),
+  'PTT' => 
+  array (
+    'icao' => 'KPTT',
+    'iata' => 'PTT',
+    'name' => 'Pratt Industrial Airport',
+    'city' => 'Pratt',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 1953,
+    'lat' => 37.70159912,
+    'lon' => -98.74690247,
+    'tz' => 'America/Chicago',
+  ),
+  'PTV' => 
+  array (
+    'icao' => 'KPTV',
+    'iata' => 'PTV',
+    'name' => 'Porterville Municipal Airport',
+    'city' => 'Porterville',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 442,
+    'lat' => 36.0295982361,
+    'lon' => -119.06300354,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'PTW' => 
+  array (
+    'icao' => 'KPTW',
+    'iata' => 'PTW',
+    'name' => 'Pottstown Limerick Airport',
+    'city' => 'Pottstown',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 309,
+    'lat' => 40.2396011353,
+    'lon' => -75.5567016602,
     'tz' => 'America/New_York',
   ),
   'PUB' => 
@@ -32700,6 +41462,19 @@ abstract class AirportLibrary
     'lon' => -104.4970016479,
     'tz' => 'America/Denver',
   ),
+  'PUC' => 
+  array (
+    'icao' => 'KPUC',
+    'iata' => 'PUC',
+    'name' => 'Carbon County Regional/Buck Davis Field',
+    'city' => 'Price',
+    'state' => 'Utah',
+    'country' => 'US',
+    'elevation' => 5957,
+    'lat' => 39.61389923,
+    'lon' => -110.7509995,
+    'tz' => 'America/Denver',
+  ),
   'PUW' => 
   array (
     'icao' => 'KPUW',
@@ -32713,6 +41488,19 @@ abstract class AirportLibrary
     'lon' => -117.1100006104,
     'tz' => 'America/Los_Angeles',
   ),
+  'PVC' => 
+  array (
+    'icao' => 'KPVC',
+    'iata' => 'PVC',
+    'name' => 'Provincetown Municipal Airport',
+    'city' => 'Provincetown',
+    'state' => 'Massachusetts',
+    'country' => 'US',
+    'elevation' => 9,
+    'lat' => 42.0718994141,
+    'lon' => -70.2213973999,
+    'tz' => 'America/New_York',
+  ),
   'PVD' => 
   array (
     'icao' => 'KPVD',
@@ -32725,6 +41513,71 @@ abstract class AirportLibrary
     'lat' => 41.7326011658,
     'lon' => -71.4204025269,
     'tz' => 'America/New_York',
+  ),
+  'PVF' => 
+  array (
+    'icao' => 'KPVF',
+    'iata' => 'PVF',
+    'name' => 'Placerville Airport',
+    'city' => 'Placerville',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 2585,
+    'lat' => 38.7242012024,
+    'lon' => -120.7529983521,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'PVU' => 
+  array (
+    'icao' => 'KPVU',
+    'iata' => 'PVU',
+    'name' => 'Provo Municipal Airport',
+    'city' => 'Provo',
+    'state' => 'Utah',
+    'country' => 'US',
+    'elevation' => 4497,
+    'lat' => 40.2192001343,
+    'lon' => -111.7229995728,
+    'tz' => 'America/Denver',
+  ),
+  'PVW' => 
+  array (
+    'icao' => 'KPVW',
+    'iata' => 'PVW',
+    'name' => 'Hale County Airport',
+    'city' => 'Plainview',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 3374,
+    'lat' => 34.1680984497,
+    'lon' => -101.7170028687,
+    'tz' => 'America/Chicago',
+  ),
+  'PWA' => 
+  array (
+    'icao' => 'KPWA',
+    'iata' => 'PWA',
+    'name' => 'Wiley Post Airport',
+    'city' => 'Oklahoma City',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 1300,
+    'lat' => 35.53419876,
+    'lon' => -97.64710236,
+    'tz' => 'America/Chicago',
+  ),
+  'PWD' => 
+  array (
+    'icao' => 'KPWD',
+    'iata' => 'PWD',
+    'name' => 'Sher Wood Airport',
+    'city' => 'Plentywood',
+    'state' => 'Montana',
+    'country' => 'US',
+    'elevation' => 2250,
+    'lat' => 48.7902984619,
+    'lon' => -104.533996582,
+    'tz' => 'America/Denver',
   ),
   'PWM' => 
   array (
@@ -32752,6 +41605,45 @@ abstract class AirportLibrary
     'lon' => -122.7649993896,
     'tz' => 'America/Los_Angeles',
   ),
+  'PYM' => 
+  array (
+    'icao' => 'KPYM',
+    'iata' => 'PYM',
+    'name' => 'Plymouth Municipal Airport',
+    'city' => 'Plymouth',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 148,
+    'lat' => 41.9090003967,
+    'lon' => -70.7287979126,
+    'tz' => 'America/New_York',
+  ),
+  'RAC' => 
+  array (
+    'icao' => 'KRAC',
+    'iata' => 'RAC',
+    'name' => 'John H Batten Airport',
+    'city' => 'Racine',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 674,
+    'lat' => 42.7606010437,
+    'lon' => -87.8152008057,
+    'tz' => 'America/Chicago',
+  ),
+  'RAL' => 
+  array (
+    'icao' => 'KRAL',
+    'iata' => 'RAL',
+    'name' => 'Riverside Municipal Airport',
+    'city' => 'Riverside',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 819,
+    'lat' => 33.95190048,
+    'lon' => -117.4449997,
+    'tz' => 'America/Los_Angeles',
+  ),
   'RAP' => 
   array (
     'icao' => 'KRAP',
@@ -32764,6 +41656,97 @@ abstract class AirportLibrary
     'lat' => 44.04529953,
     'lon' => -103.0569992065,
     'tz' => 'America/Denver',
+  ),
+  'RBD' => 
+  array (
+    'icao' => 'KRBD',
+    'iata' => 'RBD',
+    'name' => 'Dallas Executive Airport',
+    'city' => 'Dallas',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 660,
+    'lat' => 32.6809005737,
+    'lon' => -96.8682022095,
+    'tz' => 'America/Chicago',
+  ),
+  'RBG' => 
+  array (
+    'icao' => 'KRBG',
+    'iata' => 'RBG',
+    'name' => 'Roseburg Regional Airport',
+    'city' => 'Roseburg',
+    'state' => 'Oregon',
+    'country' => 'US',
+    'elevation' => 529,
+    'lat' => 43.2388000488,
+    'lon' => -123.3560028076,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'RBL' => 
+  array (
+    'icao' => 'KRBL',
+    'iata' => 'RBL',
+    'name' => 'Red Bluff Municipal Airport',
+    'city' => 'Red Bluff',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 352,
+    'lat' => 40.1506996155,
+    'lon' => -122.2519989014,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'RBW' => 
+  array (
+    'icao' => 'KRBW',
+    'iata' => 'RBW',
+    'name' => 'Lowcountry Regional Airport',
+    'city' => 'Walterboro',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 101,
+    'lat' => 32.9210014343,
+    'lon' => -80.6406021118,
+    'tz' => 'America/New_York',
+  ),
+  'RCA' => 
+  array (
+    'icao' => 'KRCA',
+    'iata' => 'RCA',
+    'name' => 'Ellsworth Air Force Base',
+    'city' => 'Rapid City',
+    'state' => 'South-Dakota',
+    'country' => 'US',
+    'elevation' => 3276,
+    'lat' => 44.14500046,
+    'lon' => -103.1039963,
+    'tz' => 'America/Denver',
+  ),
+  'RCK' => 
+  array (
+    'icao' => 'KRCK',
+    'iata' => 'RCK',
+    'name' => 'H H Coffield Regional Airport',
+    'city' => 'Rockdale',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 474,
+    'lat' => 30.6315994263,
+    'lon' => -96.9897003174,
+    'tz' => 'America/Chicago',
+  ),
+  'RCR' => 
+  array (
+    'icao' => 'KRCR',
+    'iata' => 'RCR',
+    'name' => 'Fulton County Airport',
+    'city' => 'Rochester',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 790,
+    'lat' => 41.0656013489,
+    'lon' => -86.1817016602,
+    'tz' => 'America/Indiana/Indianapolis',
   ),
   'RCT' => 
   array (
@@ -32810,12 +41793,25 @@ abstract class AirportLibrary
     'iata' => 'RDM',
     'name' => 'Roberts Field',
     'city' => 'Redmond',
-    'state' => 'Indiana',
+    'state' => 'Oregon',
     'country' => 'US',
     'elevation' => 3080,
     'lat' => 44.2541008,
     'lon' => -121.1500015,
     'tz' => 'America/Los_Angeles',
+  ),
+  'RDR' => 
+  array (
+    'icao' => 'KRDR',
+    'iata' => 'RDR',
+    'name' => 'Grand Forks Air Force Base',
+    'city' => 'Grand Forks',
+    'state' => 'North-Dakota',
+    'country' => 'US',
+    'elevation' => 913,
+    'lat' => 47.961101532,
+    'lon' => -97.4011993408,
+    'tz' => 'America/Chicago',
   ),
   'RDU' => 
   array (
@@ -32830,6 +41826,19 @@ abstract class AirportLibrary
     'lon' => -78.7874984741,
     'tz' => 'America/New_York',
   ),
+  'REO' => 
+  array (
+    'icao' => 'KREO',
+    'iata' => 'REO',
+    'name' => 'Rome State Airport',
+    'city' => 'Rome',
+    'state' => 'Oregon',
+    'country' => 'US',
+    'elevation' => 4053,
+    'lat' => 42.5777015686,
+    'lon' => -117.8850021362,
+    'tz' => 'America/Boise',
+  ),
   'RFD' => 
   array (
     'icao' => 'KRFD',
@@ -32841,6 +41850,19 @@ abstract class AirportLibrary
     'elevation' => 742,
     'lat' => 42.195400238,
     'lon' => -89.0971984863,
+    'tz' => 'America/Chicago',
+  ),
+  'RFG' => 
+  array (
+    'icao' => 'KRFG',
+    'iata' => 'RFG',
+    'name' => 'Rooke Field',
+    'city' => 'Refugio',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 56,
+    'lat' => 28.2936000824,
+    'lon' => -97.3229980469,
     'tz' => 'America/Chicago',
   ),
   'RHI' => 
@@ -32856,6 +41878,19 @@ abstract class AirportLibrary
     'lon' => -89.4674987793,
     'tz' => 'America/Chicago',
   ),
+  'RHV' => 
+  array (
+    'icao' => 'KRHV',
+    'iata' => 'RHV',
+    'name' => 'Reid Hillview of Santa Clara County Airport',
+    'city' => 'San Jose',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 135,
+    'lat' => 37.332901001,
+    'lon' => -121.8190002441,
+    'tz' => 'America/Los_Angeles',
+  ),
   'RIC' => 
   array (
     'icao' => 'KRIC',
@@ -32868,6 +41903,84 @@ abstract class AirportLibrary
     'lat' => 37.5051994324,
     'lon' => -77.3197021484,
     'tz' => 'America/New_York',
+  ),
+  'RID' => 
+  array (
+    'icao' => 'KRID',
+    'iata' => 'RID',
+    'name' => 'Richmond Municipal Airport',
+    'city' => 'Richmond',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 1140,
+    'lat' => 39.7571983337,
+    'lon' => -84.8427963257,
+    'tz' => 'America/Indiana/Indianapolis',
+  ),
+  'RIF' => 
+  array (
+    'icao' => 'KRIF',
+    'iata' => 'RIF',
+    'name' => 'Richfield Municipal Airport',
+    'city' => 'Richfield',
+    'state' => 'Utah',
+    'country' => 'US',
+    'elevation' => 5301,
+    'lat' => 38.7364006042,
+    'lon' => -112.0989990234,
+    'tz' => 'America/Denver',
+  ),
+  'RIL' => 
+  array (
+    'icao' => 'KRIL',
+    'iata' => 'RIL',
+    'name' => 'Garfield County Regional Airport',
+    'city' => 'Rifle',
+    'state' => 'Colorado',
+    'country' => 'US',
+    'elevation' => 5548,
+    'lat' => 39.52629852,
+    'lon' => -107.7269974,
+    'tz' => 'America/Denver',
+  ),
+  'RIR' => 
+  array (
+    'icao' => 'KRIR',
+    'iata' => 'RIR',
+    'name' => 'Flabob Airport',
+    'city' => 'Riverside/Rubidoux/',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 764,
+    'lat' => 33.9897003174,
+    'lon' => -117.4110031128,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'RIV' => 
+  array (
+    'icao' => 'KRIV',
+    'iata' => 'RIV',
+    'name' => 'March ARB Airport',
+    'city' => 'Riverside',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 1536,
+    'lat' => 33.88069916,
+    'lon' => -117.2590027,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'RIW' => 
+  array (
+    'icao' => 'KRIW',
+    'iata' => 'RIW',
+    'name' => 'Riverton Regional Airport',
+    'city' => 'Riverton',
+    'state' => 'Wyoming',
+    'country' => 'US',
+    'elevation' => 5525,
+    'lat' => 43.064201355,
+    'lon' => -108.4599990845,
+    'tz' => 'America/Denver',
   ),
   'RKD' => 
   array (
@@ -32882,6 +41995,32 @@ abstract class AirportLibrary
     'lon' => -69.09919739,
     'tz' => 'America/New_York',
   ),
+  'RKP' => 
+  array (
+    'icao' => 'KRKP',
+    'iata' => 'RKP',
+    'name' => 'Aransas County Airport',
+    'city' => 'Rockport',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 24,
+    'lat' => 28.0867996216,
+    'lon' => -97.0446014404,
+    'tz' => 'America/Chicago',
+  ),
+  'RKR' => 
+  array (
+    'icao' => 'KRKR',
+    'iata' => 'RKR',
+    'name' => 'Robert S Kerr Airport',
+    'city' => 'Poteau',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 451,
+    'lat' => 35.0215988159,
+    'lon' => -94.6212997437,
+    'tz' => 'America/Chicago',
+  ),
   'RKS' => 
   array (
     'icao' => 'KRKS',
@@ -32895,6 +42034,97 @@ abstract class AirportLibrary
     'lon' => -109.0650024,
     'tz' => 'America/Denver',
   ),
+  'RKW' => 
+  array (
+    'icao' => 'KRKW',
+    'iata' => 'RKW',
+    'name' => 'Rockwood Municipal Airport',
+    'city' => 'Rockwood',
+    'state' => 'Tennessee',
+    'country' => 'US',
+    'elevation' => 1664,
+    'lat' => 35.9222984314,
+    'lon' => -84.6896972656,
+    'tz' => 'America/Chicago',
+  ),
+  'RLD' => 
+  array (
+    'icao' => 'KRLD',
+    'iata' => 'RLD',
+    'name' => 'Richland Airport',
+    'city' => 'Richland',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 394,
+    'lat' => 46.3055992126,
+    'lon' => -119.3040008545,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'RME' => 
+  array (
+    'icao' => 'KRME',
+    'iata' => 'RME',
+    'name' => 'Griffiss International Airport',
+    'city' => 'Rome',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 504,
+    'lat' => 43.23379898,
+    'lon' => -75.40699768,
+    'tz' => 'America/New_York',
+  ),
+  'RMG' => 
+  array (
+    'icao' => 'KRMG',
+    'iata' => 'RMG',
+    'name' => 'Richard B Russell Airport',
+    'city' => 'Rome',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 644,
+    'lat' => 34.3506011963,
+    'lon' => -85.1579971313,
+    'tz' => 'America/New_York',
+  ),
+  'RNC' => 
+  array (
+    'icao' => 'KRNC',
+    'iata' => 'RNC',
+    'name' => 'Warren County Memorial Airport',
+    'city' => 'Mc Minnville',
+    'state' => 'Tennessee',
+    'country' => 'US',
+    'elevation' => 1032,
+    'lat' => 35.69869995,
+    'lon' => -85.84380341,
+    'tz' => 'America/Chicago',
+  ),
+  'RND' => 
+  array (
+    'icao' => 'KRND',
+    'iata' => 'RND',
+    'name' => 'Randolph Air Force Base',
+    'city' => 'Universal City',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 761,
+    'lat' => 29.52969933,
+    'lon' => -98.27890015,
+    'tz' => 'America/Chicago',
+  ),
+  'RNH' => 
+  array (
+    'icao' => 'KRNH',
+    'iata' => 'RNH',
+    'name' => 'New Richmond Regional Airport',
+    'city' => 'New Richmond',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 998,
+    'lat' => 45.14830017,
+    'lon' => -92.5381012,
+    'tz' => 'America/Chicago',
+  ),
   'RNO' => 
   array (
     'icao' => 'KRNO',
@@ -32906,6 +42136,19 @@ abstract class AirportLibrary
     'elevation' => 4415,
     'lat' => 39.4990997314,
     'lon' => -119.7679977417,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'RNT' => 
+  array (
+    'icao' => 'KRNT',
+    'iata' => 'RNT',
+    'name' => 'Renton Municipal Airport',
+    'city' => 'Renton',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 32,
+    'lat' => 47.4930992126,
+    'lon' => -122.216003418,
     'tz' => 'America/Los_Angeles',
   ),
   'ROA' => 
@@ -32934,6 +42177,19 @@ abstract class AirportLibrary
     'lon' => -77.6724014282,
     'tz' => 'America/New_York',
   ),
+  'ROG' => 
+  array (
+    'icao' => 'KROG',
+    'iata' => 'ROG',
+    'name' => 'Rogers Municipal Carter Field',
+    'city' => 'Rogers',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 1359,
+    'lat' => 36.37229919,
+    'lon' => -94.10690308,
+    'tz' => 'America/Chicago',
+  ),
   'ROW' => 
   array (
     'icao' => 'KROW',
@@ -32947,6 +42203,58 @@ abstract class AirportLibrary
     'lon' => -104.53099823,
     'tz' => 'America/Denver',
   ),
+  'ROX' => 
+  array (
+    'icao' => 'KROX',
+    'iata' => 'ROX',
+    'name' => 'Roseau Municipal Rudy Billberg Field',
+    'city' => 'Roseau',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1060,
+    'lat' => 48.85599899,
+    'lon' => -95.6969986,
+    'tz' => 'America/Chicago',
+  ),
+  'RIE' => 
+  array (
+    'icao' => 'KRPD',
+    'iata' => 'RIE',
+    'name' => 'Rice Lake Regional Carl\'s Field',
+    'city' => 'Rice Lake',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 1109,
+    'lat' => 45.41899872,
+    'lon' => -91.77349854,
+    'tz' => 'America/Chicago',
+  ),
+  'RPX' => 
+  array (
+    'icao' => 'KRPX',
+    'iata' => 'RPX',
+    'name' => 'Roundup Airport',
+    'city' => 'Roundup',
+    'state' => 'Montana',
+    'country' => 'US',
+    'elevation' => 3491,
+    'lat' => 46.4749984741,
+    'lon' => -108.5429992676,
+    'tz' => 'America/Denver',
+  ),
+  'WBR' => 
+  array (
+    'icao' => 'KRQB',
+    'iata' => 'WBR',
+    'name' => 'Roben Hood Airport',
+    'city' => 'Big Rapids',
+    'state' => 'Michigan',
+    'country' => 'US',
+    'elevation' => 990,
+    'lat' => 43.7225990295,
+    'lon' => -85.5040969849,
+    'tz' => 'America/Detroit',
+  ),
   'RQO' => 
   array (
     'icao' => 'KRQO',
@@ -32958,6 +42266,58 @@ abstract class AirportLibrary
     'elevation' => 1420,
     'lat' => 35.47269821,
     'lon' => -98.00579834,
+    'tz' => 'America/Chicago',
+  ),
+  'RRL' => 
+  array (
+    'icao' => 'KRRL',
+    'iata' => 'RRL',
+    'name' => 'Merrill Municipal Airport',
+    'city' => 'Merrill',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 1318,
+    'lat' => 45.1988983154,
+    'lon' => -89.7128982544,
+    'tz' => 'America/Chicago',
+  ),
+  'RRT' => 
+  array (
+    'icao' => 'KRRT',
+    'iata' => 'RRT',
+    'name' => 'Warroad International Memorial Field',
+    'city' => 'Warroad',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1076,
+    'lat' => 48.94139862,
+    'lon' => -95.3483963,
+    'tz' => 'America/Chicago',
+  ),
+  'RSL' => 
+  array (
+    'icao' => 'KRSL',
+    'iata' => 'RSL',
+    'name' => 'Russell Municipal Airport',
+    'city' => 'Russell',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 1862,
+    'lat' => 38.8721008301,
+    'lon' => -98.8117980957,
+    'tz' => 'America/Chicago',
+  ),
+  'RSN' => 
+  array (
+    'icao' => 'KRSN',
+    'iata' => 'RSN',
+    'name' => 'Ruston Regional Airport',
+    'city' => 'Ruston',
+    'state' => 'Louisiana',
+    'country' => 'US',
+    'elevation' => 311,
+    'lat' => 32.5144004822,
+    'lon' => -92.5916976929,
     'tz' => 'America/Chicago',
   ),
   'RST' => 
@@ -32986,6 +42346,32 @@ abstract class AirportLibrary
     'lon' => -81.7552032471,
     'tz' => 'America/New_York',
   ),
+  'RTN' => 
+  array (
+    'icao' => 'KRTN',
+    'iata' => 'RTN',
+    'name' => 'Raton Municipal-Crews Field',
+    'city' => 'Raton',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 6352,
+    'lat' => 36.74150085,
+    'lon' => -104.5019989,
+    'tz' => 'America/Denver',
+  ),
+  'SRW' => 
+  array (
+    'icao' => 'KRUQ',
+    'iata' => 'SRW',
+    'name' => 'Rowan County Airport',
+    'city' => 'Salisbury',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 772,
+    'lat' => 35.64590073,
+    'lon' => -80.52030182,
+    'tz' => 'America/New_York',
+  ),
   'RUT' => 
   array (
     'icao' => 'KRUT',
@@ -32998,6 +42384,45 @@ abstract class AirportLibrary
     'lat' => 43.52939987,
     'lon' => -72.94960022,
     'tz' => 'America/New_York',
+  ),
+  'RED' => 
+  array (
+    'icao' => 'KRVL',
+    'iata' => 'RED',
+    'name' => 'Mifflin County Airport',
+    'city' => 'Reedsville',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 819,
+    'lat' => 40.6773986816,
+    'lon' => -77.6268005371,
+    'tz' => 'America/New_York',
+  ),
+  'RVS' => 
+  array (
+    'icao' => 'KRVS',
+    'iata' => 'RVS',
+    'name' => 'Richard Lloyd Jones Jr Airport',
+    'city' => 'Tulsa',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 638,
+    'lat' => 36.0396003723,
+    'lon' => -95.9845962524,
+    'tz' => 'America/Chicago',
+  ),
+  'RWF' => 
+  array (
+    'icao' => 'KRWF',
+    'iata' => 'RWF',
+    'name' => 'Redwood Falls Municipal Airport',
+    'city' => 'Redwood Falls',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1024,
+    'lat' => 44.54719925,
+    'lon' => -95.08229828,
+    'tz' => 'America/Chicago',
   ),
   'RWI' => 
   array (
@@ -33012,6 +42437,19 @@ abstract class AirportLibrary
     'lon' => -77.8918991089,
     'tz' => 'America/New_York',
   ),
+  'RWL' => 
+  array (
+    'icao' => 'KRWL',
+    'iata' => 'RWL',
+    'name' => 'Rawlins Municipal Harvey Field',
+    'city' => 'Rawlins',
+    'state' => 'Wyoming',
+    'country' => 'US',
+    'elevation' => 6813,
+    'lat' => 41.80559921,
+    'lon' => -107.1999969,
+    'tz' => 'America/Denver',
+  ),
   'RXE' => 
   array (
     'icao' => 'KRXE',
@@ -33024,6 +42462,32 @@ abstract class AirportLibrary
     'lat' => 43.8339004517,
     'lon' => -111.805000305,
     'tz' => 'America/Boise',
+  ),
+  'RNZ' => 
+  array (
+    'icao' => 'KRZL',
+    'iata' => 'RNZ',
+    'name' => 'Jasper County Airport',
+    'city' => 'Rensselaer',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 698,
+    'lat' => 40.9478988647,
+    'lon' => -87.1826019287,
+    'tz' => 'America/Chicago',
+  ),
+  'RZZ' => 
+  array (
+    'icao' => 'KRZZ',
+    'iata' => 'RZZ',
+    'name' => 'Halifax County Airport',
+    'city' => 'Roanoke Rapids',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 256,
+    'lat' => 36.4394989014,
+    'lon' => -77.7092971802,
+    'tz' => 'America/New_York',
   ),
   'AHM' => 
   array (
@@ -33077,6 +42541,45 @@ abstract class AirportLibrary
     'lon' => -119.209999084,
     'tz' => 'America/Los_Angeles',
   ),
+  'SAA' => 
+  array (
+    'icao' => 'KSAA',
+    'iata' => 'SAA',
+    'name' => 'Shively Field',
+    'city' => 'Saratoga',
+    'state' => 'Wyoming',
+    'country' => 'US',
+    'elevation' => 7012,
+    'lat' => 41.4449005127,
+    'lon' => -106.8239974976,
+    'tz' => 'America/Denver',
+  ),
+  'SAC' => 
+  array (
+    'icao' => 'KSAC',
+    'iata' => 'SAC',
+    'name' => 'Sacramento Executive Airport',
+    'city' => 'Sacramento',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 24,
+    'lat' => 38.5125007629,
+    'lon' => -121.4929962158,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'SAD' => 
+  array (
+    'icao' => 'KSAD',
+    'iata' => 'SAD',
+    'name' => 'Safford Regional Airport',
+    'city' => 'Safford',
+    'state' => 'Arizona',
+    'country' => 'US',
+    'elevation' => 3179,
+    'lat' => 32.85480118,
+    'lon' => -109.6350021,
+    'tz' => 'America/Phoenix',
+  ),
   'SAF' => 
   array (
     'icao' => 'KSAF',
@@ -33102,6 +42605,19 @@ abstract class AirportLibrary
     'lat' => 32.7336006165,
     'lon' => -117.1900024414,
     'tz' => 'America/Los_Angeles',
+  ),
+  'SAR' => 
+  array (
+    'icao' => 'KSAR',
+    'iata' => 'SAR',
+    'name' => 'Sparta Community Hunter Field',
+    'city' => 'Sparta',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 538,
+    'lat' => 38.1488990784,
+    'lon' => -89.6986999512,
+    'tz' => 'America/Chicago',
   ),
   'SAS' => 
   array (
@@ -33153,7 +42669,7 @@ abstract class AirportLibrary
     'elevation' => 1221,
     'lat' => 46.3535995483,
     'lon' => -87.395401001,
-    'tz' => 'America/New_York',
+    'tz' => 'America/Detroit',
   ),
   'SBA' => 
   array (
@@ -33167,6 +42683,32 @@ abstract class AirportLibrary
     'lat' => 34.42620087,
     'lon' => -119.8399963,
     'tz' => 'America/Los_Angeles',
+  ),
+  'SBD' => 
+  array (
+    'icao' => 'KSBD',
+    'iata' => 'SBD',
+    'name' => 'San Bernardino International Airport',
+    'city' => 'San Bernardino',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 1159,
+    'lat' => 34.0954017639,
+    'lon' => -117.2350006104,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'SBM' => 
+  array (
+    'icao' => 'KSBM',
+    'iata' => 'SBM',
+    'name' => 'Sheboygan County Memorial Airport',
+    'city' => 'Sheboygan',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 755,
+    'lat' => 43.76959991,
+    'lon' => -87.85140228,
+    'tz' => 'America/Chicago',
   ),
   'SBN' => 
   array (
@@ -33194,6 +42736,32 @@ abstract class AirportLibrary
     'lon' => -120.641998291,
     'tz' => 'America/Los_Angeles',
   ),
+  'SBS' => 
+  array (
+    'icao' => 'KSBS',
+    'iata' => 'SBS',
+    'name' => 'Steamboat Springs Bob Adams Field',
+    'city' => 'Steamboat Springs',
+    'state' => 'Colorado',
+    'country' => 'US',
+    'elevation' => 6882,
+    'lat' => 40.5163002,
+    'lon' => -106.8659973,
+    'tz' => 'America/Denver',
+  ),
+  'SBX' => 
+  array (
+    'icao' => 'KSBX',
+    'iata' => 'SBX',
+    'name' => 'Shelby Airport',
+    'city' => 'Shelby',
+    'state' => 'Montana',
+    'country' => 'US',
+    'elevation' => 3443,
+    'lat' => 48.5406990051,
+    'lon' => -111.8710021973,
+    'tz' => 'America/Denver',
+  ),
   'SBY' => 
   array (
     'icao' => 'KSBY',
@@ -33207,6 +42775,45 @@ abstract class AirportLibrary
     'lon' => -75.5102996826,
     'tz' => 'America/New_York',
   ),
+  'SCB' => 
+  array (
+    'icao' => 'KSCB',
+    'iata' => 'SCB',
+    'name' => 'Scribner State Airport',
+    'city' => 'Scribner',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 1325,
+    'lat' => 41.6102981567,
+    'lon' => -96.6298980713,
+    'tz' => 'America/Chicago',
+  ),
+  'SCH' => 
+  array (
+    'icao' => 'KSCH',
+    'iata' => 'SCH',
+    'name' => 'Schenectady County Airport',
+    'city' => 'Schenectady',
+    'state' => 'New-York',
+    'country' => 'US',
+    'elevation' => 378,
+    'lat' => 42.8525009155,
+    'lon' => -73.9289016724,
+    'tz' => 'America/New_York',
+  ),
+  'SCK' => 
+  array (
+    'icao' => 'KSCK',
+    'iata' => 'SCK',
+    'name' => 'Stockton Metropolitan Airport',
+    'city' => 'Stockton',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 33,
+    'lat' => 37.8941993713,
+    'lon' => -121.2379989624,
+    'tz' => 'America/Los_Angeles',
+  ),
   'SDF' => 
   array (
     'icao' => 'KSDF',
@@ -33219,6 +42826,32 @@ abstract class AirportLibrary
     'lat' => 38.1744003296,
     'lon' => -85.736000061,
     'tz' => 'America/Kentucky/Louisville',
+  ),
+  'SCF' => 
+  array (
+    'icao' => 'KSDL',
+    'iata' => 'SCF',
+    'name' => 'Scottsdale Airport',
+    'city' => 'Scottsdale',
+    'state' => 'Arizona',
+    'country' => 'US',
+    'elevation' => 1510,
+    'lat' => 33.6228981018,
+    'lon' => -111.9110031128,
+    'tz' => 'America/Phoenix',
+  ),
+  'SDM' => 
+  array (
+    'icao' => 'KSDM',
+    'iata' => 'SDM',
+    'name' => 'Brown Field Municipal Airport',
+    'city' => 'San Diego',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 526,
+    'lat' => 32.5722999573,
+    'lon' => -116.9800033569,
+    'tz' => 'America/Los_Angeles',
   ),
   'SDY' => 
   array (
@@ -33246,6 +42879,97 @@ abstract class AirportLibrary
     'lon' => -122.3089981079,
     'tz' => 'America/Los_Angeles',
   ),
+  'SEE' => 
+  array (
+    'icao' => 'KSEE',
+    'iata' => 'SEE',
+    'name' => 'Gillespie Field',
+    'city' => 'San Diego/El Cajon',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 388,
+    'lat' => 32.8261985779,
+    'lon' => -116.9720001221,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'SEF' => 
+  array (
+    'icao' => 'KSEF',
+    'iata' => 'SEF',
+    'name' => 'Sebring Regional Airport',
+    'city' => 'Sebring',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 62,
+    'lat' => 27.45639992,
+    'lon' => -81.3423996,
+    'tz' => 'America/New_York',
+  ),
+  'SEG' => 
+  array (
+    'icao' => 'KSEG',
+    'iata' => 'SEG',
+    'name' => 'Penn Valley Airport',
+    'city' => 'Selinsgrove',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 450,
+    'lat' => 40.8205986023,
+    'lon' => -76.863899231,
+    'tz' => 'America/New_York',
+  ),
+  'SEM' => 
+  array (
+    'icao' => 'KSEM',
+    'iata' => 'SEM',
+    'name' => 'Craig Field',
+    'city' => 'Selma',
+    'state' => 'Alabama',
+    'country' => 'US',
+    'elevation' => 166,
+    'lat' => 32.3438987732,
+    'lon' => -86.9878005981,
+    'tz' => 'America/Chicago',
+  ),
+  'SEP' => 
+  array (
+    'icao' => 'KSEP',
+    'iata' => 'SEP',
+    'name' => 'Clark Field Municipal Airport',
+    'city' => 'Stephenville',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 1321,
+    'lat' => 32.2153015137,
+    'lon' => -98.177696228,
+    'tz' => 'America/Chicago',
+  ),
+  'SER' => 
+  array (
+    'icao' => 'KSER',
+    'iata' => 'SER',
+    'name' => 'Freeman Municipal Airport',
+    'city' => 'Seymour',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 583,
+    'lat' => 38.9235992432,
+    'lon' => -85.9074020386,
+    'tz' => 'America/Indiana/Indianapolis',
+  ),
+  'SDX' => 
+  array (
+    'icao' => 'KSEZ',
+    'iata' => 'SDX',
+    'name' => 'Sedona Airport',
+    'city' => 'Sedona',
+    'state' => 'Arizona',
+    'country' => 'US',
+    'elevation' => 4830,
+    'lat' => 34.8485984802,
+    'lon' => -111.7880020142,
+    'tz' => 'America/Phoenix',
+  ),
   'SFB' => 
   array (
     'icao' => 'KSFB',
@@ -33257,6 +42981,32 @@ abstract class AirportLibrary
     'elevation' => 55,
     'lat' => 28.7775993347,
     'lon' => -81.2375030518,
+    'tz' => 'America/New_York',
+  ),
+  'SFF' => 
+  array (
+    'icao' => 'KSFF',
+    'iata' => 'SFF',
+    'name' => 'Felts Field',
+    'city' => 'Spokane',
+    'state' => 'Oregon',
+    'country' => 'US',
+    'elevation' => 1953,
+    'lat' => 47.682800293,
+    'lon' => -117.3229980469,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'SFM' => 
+  array (
+    'icao' => 'KSFM',
+    'iata' => 'SFM',
+    'name' => 'Sanford Regional Airport',
+    'city' => 'Sanford',
+    'state' => 'Maine',
+    'country' => 'US',
+    'elevation' => 244,
+    'lat' => 43.393901825,
+    'lon' => -70.7080001831,
     'tz' => 'America/New_York',
   ),
   'SFO' => 
@@ -33272,6 +43022,19 @@ abstract class AirportLibrary
     'lon' => -122.375,
     'tz' => 'America/Los_Angeles',
   ),
+  'SFZ' => 
+  array (
+    'icao' => 'KSFZ',
+    'iata' => 'SFZ',
+    'name' => 'North Central State Airport',
+    'city' => 'Pawtucket',
+    'state' => 'Rhode-Island',
+    'country' => 'US',
+    'elevation' => 441,
+    'lat' => 41.9207992554,
+    'lon' => -71.4914016724,
+    'tz' => 'America/New_York',
+  ),
   'SGF' => 
   array (
     'icao' => 'KSGF',
@@ -33283,6 +43046,58 @@ abstract class AirportLibrary
     'elevation' => 1268,
     'lat' => 37.24570084,
     'lon' => -93.38860321,
+    'tz' => 'America/Chicago',
+  ),
+  'SGH' => 
+  array (
+    'icao' => 'KSGH',
+    'iata' => 'SGH',
+    'name' => 'Springfield Beckley Municipal Airport',
+    'city' => 'Springfield',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 1051,
+    'lat' => 39.8403015137,
+    'lon' => -83.8402023315,
+    'tz' => 'America/New_York',
+  ),
+  'UST' => 
+  array (
+    'icao' => 'KSGJ',
+    'iata' => 'UST',
+    'name' => 'St Augustine Airport',
+    'city' => 'St Augustine',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 10,
+    'lat' => 29.9591999054,
+    'lon' => -81.3397979736,
+    'tz' => 'America/New_York',
+  ),
+  'SGR' => 
+  array (
+    'icao' => 'KSGR',
+    'iata' => 'SGR',
+    'name' => 'Sugar Land Regional Airport',
+    'city' => 'Houston',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 82,
+    'lat' => 29.6222991943,
+    'lon' => -95.65650177,
+    'tz' => 'America/Chicago',
+  ),
+  'SGT' => 
+  array (
+    'icao' => 'KSGT',
+    'iata' => 'SGT',
+    'name' => 'Stuttgart Municipal Airport',
+    'city' => 'Stuttgart',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 224,
+    'lat' => 34.5994987488,
+    'lon' => -91.5749969482,
     'tz' => 'America/Chicago',
   ),
   'SGU' => 
@@ -33311,6 +43126,19 @@ abstract class AirportLibrary
     'lon' => -78.8964004517,
     'tz' => 'America/New_York',
   ),
+  'SHN' => 
+  array (
+    'icao' => 'KSHN',
+    'iata' => 'SHN',
+    'name' => 'Sanderson Field',
+    'city' => 'Shelton',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 273,
+    'lat' => 47.2336006165,
+    'lon' => -123.1480026245,
+    'tz' => 'America/Los_Angeles',
+  ),
   'SHR' => 
   array (
     'icao' => 'KSHR',
@@ -33337,6 +43165,45 @@ abstract class AirportLibrary
     'lon' => -93.8255996704,
     'tz' => 'America/Chicago',
   ),
+  'SIK' => 
+  array (
+    'icao' => 'KSIK',
+    'iata' => 'SIK',
+    'name' => 'Sikeston Memorial Municipal Airport',
+    'city' => 'Sikeston',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 315,
+    'lat' => 36.8988990784,
+    'lon' => -89.5617980957,
+    'tz' => 'America/Chicago',
+  ),
+  'SIV' => 
+  array (
+    'icao' => 'KSIV',
+    'iata' => 'SIV',
+    'name' => 'Sullivan County Airport',
+    'city' => 'Sullivan',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 540,
+    'lat' => 39.1147003174,
+    'lon' => -87.4483032227,
+    'tz' => 'America/Indiana/Indianapolis',
+  ),
+  'SIY' => 
+  array (
+    'icao' => 'KSIY',
+    'iata' => 'SIY',
+    'name' => 'Siskiyou County Airport',
+    'city' => 'Montague',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 2648,
+    'lat' => 41.7813987732,
+    'lon' => -122.4680023193,
+    'tz' => 'America/Los_Angeles',
+  ),
   'SJC' => 
   array (
     'icao' => 'KSJC',
@@ -33349,6 +43216,19 @@ abstract class AirportLibrary
     'lat' => 37.3625984192,
     'lon' => -121.9290008545,
     'tz' => 'America/Los_Angeles',
+  ),
+  'SJN' => 
+  array (
+    'icao' => 'KSJN',
+    'iata' => 'SJN',
+    'name' => 'St Johns Industrial Air Park',
+    'city' => 'St Johns',
+    'state' => 'Arizona',
+    'country' => 'US',
+    'elevation' => 5737,
+    'lat' => 34.51860046,
+    'lon' => -109.3789978,
+    'tz' => 'America/Phoenix',
   ),
   'SJT' => 
   array (
@@ -33363,6 +43243,58 @@ abstract class AirportLibrary
     'lon' => -100.4960021973,
     'tz' => 'America/Chicago',
   ),
+  'SKA' => 
+  array (
+    'icao' => 'KSKA',
+    'iata' => 'SKA',
+    'name' => 'Fairchild Air Force Base',
+    'city' => 'Spokane',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 2461,
+    'lat' => 47.6151008606,
+    'lon' => -117.65599823,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'SKF' => 
+  array (
+    'icao' => 'KSKF',
+    'iata' => 'SKF',
+    'name' => 'Lackland Air Force Base (Kelly Field Annex) Airport',
+    'city' => 'San Antonio',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 691,
+    'lat' => 29.38419914,
+    'lon' => -98.58110046,
+    'tz' => 'America/Chicago',
+  ),
+  'TSM' => 
+  array (
+    'icao' => 'KSKX',
+    'iata' => 'TSM',
+    'name' => 'Taos Regional Airport',
+    'city' => 'Taos',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 7095,
+    'lat' => 36.45819855,
+    'lon' => -105.6719971,
+    'tz' => 'America/Denver',
+  ),
+  'SLB' => 
+  array (
+    'icao' => 'KSLB',
+    'iata' => 'SLB',
+    'name' => 'Storm Lake Municipal Airport',
+    'city' => 'Storm Lake',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 1488,
+    'lat' => 42.5973014832,
+    'lon' => -95.2406997681,
+    'tz' => 'America/Chicago',
+  ),
   'SLC' => 
   array (
     'icao' => 'KSLC',
@@ -33375,6 +43307,32 @@ abstract class AirportLibrary
     'lat' => 40.7883987427,
     'lon' => -111.9779968262,
     'tz' => 'America/Denver',
+  ),
+  'SLE' => 
+  array (
+    'icao' => 'KSLE',
+    'iata' => 'SLE',
+    'name' => 'McNary Field',
+    'city' => 'Salem',
+    'state' => 'Oregon',
+    'country' => 'US',
+    'elevation' => 214,
+    'lat' => 44.90950012,
+    'lon' => -123.0029984,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'SLG' => 
+  array (
+    'icao' => 'KSLG',
+    'iata' => 'SLG',
+    'name' => 'Smith Field',
+    'city' => 'Siloam Springs',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 1191,
+    'lat' => 36.19189835,
+    'lon' => -94.48999786,
+    'tz' => 'America/Chicago',
   ),
   'SLK' => 
   array (
@@ -33402,6 +43360,58 @@ abstract class AirportLibrary
     'lon' => -97.6521987915,
     'tz' => 'America/Chicago',
   ),
+  'SLO' => 
+  array (
+    'icao' => 'KSLO',
+    'iata' => 'SLO',
+    'name' => 'Salem Leckrone Airport',
+    'city' => 'Salem',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 573,
+    'lat' => 38.6428985596,
+    'lon' => -88.9642028809,
+    'tz' => 'America/Chicago',
+  ),
+  'SLR' => 
+  array (
+    'icao' => 'KSLR',
+    'iata' => 'SLR',
+    'name' => 'Sulphur Springs Municipal Airport',
+    'city' => 'Sulphur Springs',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 489,
+    'lat' => 33.1598014832,
+    'lon' => -95.6211013794,
+    'tz' => 'America/Chicago',
+  ),
+  'SMD' => 
+  array (
+    'icao' => 'KSMD',
+    'iata' => 'SMD',
+    'name' => 'Smith Field',
+    'city' => 'Fort Wayne',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 835,
+    'lat' => 41.14339828,
+    'lon' => -85.15280151,
+    'tz' => 'America/Indiana/Indianapolis',
+  ),
+  'SME' => 
+  array (
+    'icao' => 'KSME',
+    'iata' => 'SME',
+    'name' => 'Lake Cumberland Regional Airport',
+    'city' => 'Somerset',
+    'state' => 'Kentucky',
+    'country' => 'US',
+    'elevation' => 927,
+    'lat' => 37.0533981323,
+    'lon' => -84.6158981323,
+    'tz' => 'America/New_York',
+  ),
   'SMF' => 
   array (
     'icao' => 'KSMF',
@@ -33414,6 +43424,45 @@ abstract class AirportLibrary
     'lat' => 38.695400238,
     'lon' => -121.591003418,
     'tz' => 'America/Los_Angeles',
+  ),
+  'SMN' => 
+  array (
+    'icao' => 'KSMN',
+    'iata' => 'SMN',
+    'name' => 'Lemhi County Airport',
+    'city' => 'Salmon',
+    'state' => 'Idaho',
+    'country' => 'US',
+    'elevation' => 4043,
+    'lat' => 45.1237983704,
+    'lon' => -113.8809967041,
+    'tz' => 'America/Boise',
+  ),
+  'SMO' => 
+  array (
+    'icao' => 'KSMO',
+    'iata' => 'SMO',
+    'name' => 'Santa Monica Municipal Airport',
+    'city' => 'Santa Monica',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 177,
+    'lat' => 34.0158004761,
+    'lon' => -118.4509963989,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'SUM' => 
+  array (
+    'icao' => 'KSMS',
+    'iata' => 'SUM',
+    'name' => 'Sumter Airport',
+    'city' => 'Sumter',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 182,
+    'lat' => 33.9949989319,
+    'lon' => -80.3612976074,
+    'tz' => 'America/New_York',
   ),
   'SMX' => 
   array (
@@ -33441,6 +43490,71 @@ abstract class AirportLibrary
     'lon' => -117.8679962,
     'tz' => 'America/Los_Angeles',
   ),
+  'SNK' => 
+  array (
+    'icao' => 'KSNK',
+    'iata' => 'SNK',
+    'name' => 'Winston Field',
+    'city' => 'Snyder',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 2430,
+    'lat' => 32.6934013367,
+    'lon' => -100.9499969482,
+    'tz' => 'America/Chicago',
+  ),
+  'SNL' => 
+  array (
+    'icao' => 'KSNL',
+    'iata' => 'SNL',
+    'name' => 'Shawnee Regional Airport',
+    'city' => 'Shawnee',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 1073,
+    'lat' => 35.3578987122,
+    'lon' => -96.9428024292,
+    'tz' => 'America/Chicago',
+  ),
+  'SNS' => 
+  array (
+    'icao' => 'KSNS',
+    'iata' => 'SNS',
+    'name' => 'Salinas Municipal Airport',
+    'city' => 'Salinas',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 85,
+    'lat' => 36.6627998352,
+    'lon' => -121.6060028076,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'SNY' => 
+  array (
+    'icao' => 'KSNY',
+    'iata' => 'SNY',
+    'name' => 'Sidney Municipal-Lloyd W Carr Field',
+    'city' => 'Sidney',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 4313,
+    'lat' => 41.10129929,
+    'lon' => -102.9850006,
+    'tz' => 'America/Denver',
+  ),
+  'SOP' => 
+  array (
+    'icao' => 'KSOP',
+    'iata' => 'SOP',
+    'name' => 'Moore County Airport',
+    'city' => 'Pinehurst/Southern Pines',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 455,
+    'lat' => 35.23740005,
+    'lon' => -79.3911972,
+    'tz' => 'America/New_York',
+  ),
   'SOW' => 
   array (
     'icao' => 'KSOW',
@@ -33453,6 +43567,45 @@ abstract class AirportLibrary
     'lat' => 34.265499115,
     'lon' => -110.005996704,
     'tz' => 'America/Phoenix',
+  ),
+  'SPA' => 
+  array (
+    'icao' => 'KSPA',
+    'iata' => 'SPA',
+    'name' => 'Spartanburg Downtown Memorial Airport',
+    'city' => 'Spartanburg',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 801,
+    'lat' => 34.9156990051,
+    'lon' => -81.9564971924,
+    'tz' => 'America/New_York',
+  ),
+  'SPF' => 
+  array (
+    'icao' => 'KSPF',
+    'iata' => 'SPF',
+    'name' => 'Black Hills Clyde Ice Field',
+    'city' => 'Spearfish',
+    'state' => 'South-Dakota',
+    'country' => 'US',
+    'elevation' => 3931,
+    'lat' => 44.4803009033,
+    'lon' => -103.7829971313,
+    'tz' => 'America/Denver',
+  ),
+  'SPG' => 
+  array (
+    'icao' => 'KSPG',
+    'iata' => 'SPG',
+    'name' => 'Albert Whitted Airport',
+    'city' => 'St Petersburg',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 7,
+    'lat' => 27.7651004791,
+    'lon' => -82.6269989014,
+    'tz' => 'America/New_York',
   ),
   'SPI' => 
   array (
@@ -33480,6 +43633,58 @@ abstract class AirportLibrary
     'lon' => -98.49189758,
     'tz' => 'America/Chicago',
   ),
+  'SPW' => 
+  array (
+    'icao' => 'KSPW',
+    'iata' => 'SPW',
+    'name' => 'Spencer Municipal Airport',
+    'city' => 'Spencer',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 1339,
+    'lat' => 43.1655006409,
+    'lon' => -95.202796936,
+    'tz' => 'America/Chicago',
+  ),
+  'SQI' => 
+  array (
+    'icao' => 'KSQI',
+    'iata' => 'SQI',
+    'name' => 'Whiteside Co Arpt-Jos H Bittorf field',
+    'city' => 'Sterling/Rockfalls',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 648,
+    'lat' => 41.74280167,
+    'lon' => -89.67630005,
+    'tz' => 'America/Chicago',
+  ),
+  'SQL' => 
+  array (
+    'icao' => 'PASL',
+    'iata' => 'SQL',
+    'name' => 'Sleetmute Airport',
+    'city' => 'Sleetmute',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 190,
+    'lat' => 61.7005004883,
+    'lon' => -157.166000366,
+    'tz' => 'America/Anchorage',
+  ),
+  'SRC' => 
+  array (
+    'icao' => 'KSRC',
+    'iata' => 'SRC',
+    'name' => 'Searcy Municipal Airport',
+    'city' => 'Searcy',
+    'state' => 'Arkansas',
+    'country' => 'US',
+    'elevation' => 265,
+    'lat' => 35.21060181,
+    'lon' => -91.73750305,
+    'tz' => 'America/Chicago',
+  ),
   'SRQ' => 
   array (
     'icao' => 'KSRQ',
@@ -33491,6 +43696,58 @@ abstract class AirportLibrary
     'elevation' => 30,
     'lat' => 27.3953990936,
     'lon' => -82.554397583,
+    'tz' => 'America/New_York',
+  ),
+  'RUI' => 
+  array (
+    'icao' => 'KSRR',
+    'iata' => 'RUI',
+    'name' => 'Sierra Blanca Regional Airport',
+    'city' => 'Ruidoso',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 6814,
+    'lat' => 33.4627990723,
+    'lon' => -105.5350036621,
+    'tz' => 'America/Denver',
+  ),
+  'SSC' => 
+  array (
+    'icao' => 'KSSC',
+    'iata' => 'SSC',
+    'name' => 'Shaw Air Force Base',
+    'city' => 'Sumter',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 241,
+    'lat' => 33.97269821,
+    'lon' => -80.47059631,
+    'tz' => 'America/New_York',
+  ),
+  'SSF' => 
+  array (
+    'icao' => 'KSSF',
+    'iata' => 'SSF',
+    'name' => 'Stinson Municipal Airport',
+    'city' => 'San Antonio',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 577,
+    'lat' => 29.3369998932,
+    'lon' => -98.4710998535,
+    'tz' => 'America/Chicago',
+  ),
+  'SSI' => 
+  array (
+    'icao' => 'KSSI',
+    'iata' => 'SSI',
+    'name' => 'Malcolm Mc Kinnon Airport',
+    'city' => 'Brunswick',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 19,
+    'lat' => 31.15180016,
+    'lon' => -81.39129639,
     'tz' => 'America/New_York',
   ),
   'STC' => 
@@ -33505,6 +43762,45 @@ abstract class AirportLibrary
     'lat' => 45.5466003418,
     'lon' => -94.0598983765,
     'tz' => 'America/Chicago',
+  ),
+  'STE' => 
+  array (
+    'icao' => 'KSTE',
+    'iata' => 'STE',
+    'name' => 'Stevens Point Municipal Airport',
+    'city' => 'Stevens Point',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 1110,
+    'lat' => 44.5452003479,
+    'lon' => -89.5302963257,
+    'tz' => 'America/Chicago',
+  ),
+  'STJ' => 
+  array (
+    'icao' => 'KSTJ',
+    'iata' => 'STJ',
+    'name' => 'Rosecrans Memorial Airport',
+    'city' => 'St Joseph',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 826,
+    'lat' => 39.771900177,
+    'lon' => -94.9096984863,
+    'tz' => 'America/Chicago',
+  ),
+  'STK' => 
+  array (
+    'icao' => 'KSTK',
+    'iata' => 'STK',
+    'name' => 'Sterling Municipal Airport',
+    'city' => 'Sterling',
+    'state' => 'Colorado',
+    'country' => 'US',
+    'elevation' => 4040,
+    'lat' => 40.61529922,
+    'lon' => -103.2649994,
+    'tz' => 'America/Denver',
   ),
   'STL' => 
   array (
@@ -33545,6 +43841,45 @@ abstract class AirportLibrary
     'lon' => -122.8130035,
     'tz' => 'America/Los_Angeles',
   ),
+  'SUA' => 
+  array (
+    'icao' => 'KSUA',
+    'iata' => 'SUA',
+    'name' => 'Witham Field',
+    'city' => 'Stuart',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 16,
+    'lat' => 27.18169975,
+    'lon' => -80.22109985,
+    'tz' => 'America/New_York',
+  ),
+  'SUD' => 
+  array (
+    'icao' => 'KSUD',
+    'iata' => 'SUD',
+    'name' => 'Stroud Municipal Airport',
+    'city' => 'Stroud',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 900,
+    'lat' => 35.7896003723,
+    'lon' => -96.6557006836,
+    'tz' => 'America/Chicago',
+  ),
+  'SUE' => 
+  array (
+    'icao' => 'KSUE',
+    'iata' => 'SUE',
+    'name' => 'Door County Cherryland Airport',
+    'city' => 'Sturgeon Bay',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 725,
+    'lat' => 44.84370041,
+    'lon' => -87.42150116,
+    'tz' => 'America/Chicago',
+  ),
   'SUN' => 
   array (
     'icao' => 'KSUN',
@@ -33556,7 +43891,46 @@ abstract class AirportLibrary
     'elevation' => 5318,
     'lat' => 43.50439835,
     'lon' => -114.2959976,
-    'tz' => 'America/Denver',
+    'tz' => 'America/Boise',
+  ),
+  'SUS' => 
+  array (
+    'icao' => 'KSUS',
+    'iata' => 'SUS',
+    'name' => 'Spirit of St Louis Airport',
+    'city' => 'St Louis',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 463,
+    'lat' => 38.6621017456,
+    'lon' => -90.6520004272,
+    'tz' => 'America/Chicago',
+  ),
+  'SUU' => 
+  array (
+    'icao' => 'KSUU',
+    'iata' => 'SUU',
+    'name' => 'Travis Air Force Base',
+    'city' => 'Fairfield',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 62,
+    'lat' => 38.2626991272,
+    'lon' => -121.9270019531,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'SUW' => 
+  array (
+    'icao' => 'KSUW',
+    'iata' => 'SUW',
+    'name' => 'Richard I Bong Airport',
+    'city' => 'Superior',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 674,
+    'lat' => 46.6897010803,
+    'lon' => -92.0947036743,
+    'tz' => 'America/Chicago',
   ),
   'SUX' => 
   array (
@@ -33584,6 +43958,45 @@ abstract class AirportLibrary
     'lon' => -108.15599823,
     'tz' => 'America/Denver',
   ),
+  'SVE' => 
+  array (
+    'icao' => 'KSVE',
+    'iata' => 'SVE',
+    'name' => 'Susanville Municipal Airport',
+    'city' => 'Susanville',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 4149,
+    'lat' => 40.3757019043,
+    'lon' => -120.5729980469,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'SVH' => 
+  array (
+    'icao' => 'KSVH',
+    'iata' => 'SVH',
+    'name' => 'Statesville Regional Airport',
+    'city' => 'Statesville',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 968,
+    'lat' => 35.7653007507,
+    'lon' => -80.9539031982,
+    'tz' => 'America/New_York',
+  ),
+  'SVN' => 
+  array (
+    'icao' => 'KSVN',
+    'iata' => 'SVN',
+    'name' => 'Hunter Army Air Field',
+    'city' => 'Savannah',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 41,
+    'lat' => 32.00999832,
+    'lon' => -81.14569855,
+    'tz' => 'America/New_York',
+  ),
   'SWF' => 
   array (
     'icao' => 'KSWF',
@@ -33608,6 +44021,32 @@ abstract class AirportLibrary
     'elevation' => 1000,
     'lat' => 36.1612014771,
     'lon' => -97.0857009888,
+    'tz' => 'America/Chicago',
+  ),
+  'SWW' => 
+  array (
+    'icao' => 'KSWW',
+    'iata' => 'SWW',
+    'name' => 'Avenger Field',
+    'city' => 'Sweetwater',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 2380,
+    'lat' => 32.4673995972,
+    'lon' => -100.4670028687,
+    'tz' => 'America/Chicago',
+  ),
+  'SYI' => 
+  array (
+    'icao' => 'KSYI',
+    'iata' => 'SYI',
+    'name' => 'Bomar Field Shelbyville Municipal Airport',
+    'city' => 'Shelbyville',
+    'state' => 'Tennessee',
+    'country' => 'US',
+    'elevation' => 801,
+    'lat' => 35.56010056,
+    'lon' => -86.44249725,
     'tz' => 'America/Chicago',
   ),
   'SYN' => 
@@ -33635,6 +44074,32 @@ abstract class AirportLibrary
     'lat' => 43.1111984253,
     'lon' => -76.106300354,
     'tz' => 'America/New_York',
+  ),
+  'SYV' => 
+  array (
+    'icao' => 'KSYV',
+    'iata' => 'SYV',
+    'name' => 'Sylvester Airport',
+    'city' => 'Sylvester',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 403,
+    'lat' => 31.5585002899,
+    'lon' => -83.8956985474,
+    'tz' => 'America/New_York',
+  ),
+  'SZL' => 
+  array (
+    'icao' => 'KSZL',
+    'iata' => 'SZL',
+    'name' => 'Whiteman Air Force Base',
+    'city' => 'Knob Noster',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 870,
+    'lat' => 38.7303009033,
+    'lon' => -93.5478973389,
+    'tz' => 'America/Chicago',
   ),
   'SZN' => 
   array (
@@ -33688,6 +44153,32 @@ abstract class AirportLibrary
     'lon' => -92.14070129,
     'tz' => 'America/Chicago',
   ),
+  'TBR' => 
+  array (
+    'icao' => 'KTBR',
+    'iata' => 'TBR',
+    'name' => 'Statesboro Bulloch County Airport',
+    'city' => 'Statesboro',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 187,
+    'lat' => 32.4827003479,
+    'lon' => -81.7369003296,
+    'tz' => 'America/New_York',
+  ),
+  'TCC' => 
+  array (
+    'icao' => 'KTCC',
+    'iata' => 'TCC',
+    'name' => 'Tucumcari Municipal Airport',
+    'city' => 'Tucumcari',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 4065,
+    'lat' => 35.182800293,
+    'lon' => -103.6029968262,
+    'tz' => 'America/Denver',
+  ),
   'TCL' => 
   array (
     'icao' => 'KTCL',
@@ -33700,6 +44191,84 @@ abstract class AirportLibrary
     'lat' => 33.2206001282,
     'lon' => -87.6113967896,
     'tz' => 'America/Chicago',
+  ),
+  'TCM' => 
+  array (
+    'icao' => 'KTCM',
+    'iata' => 'TCM',
+    'name' => 'McChord Air Force Base',
+    'city' => 'Tacoma',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 322,
+    'lat' => 47.1376991272,
+    'lon' => -122.4759979248,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'TCS' => 
+  array (
+    'icao' => 'KTCS',
+    'iata' => 'TCS',
+    'name' => 'Truth Or Consequences Municipal Airport',
+    'city' => 'Truth Or Consequences',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 4853,
+    'lat' => 33.2369003296,
+    'lon' => -107.2720031738,
+    'tz' => 'America/Denver',
+  ),
+  'TDO' => 
+  array (
+    'icao' => 'KTDO',
+    'iata' => 'TDO',
+    'name' => 'Ed Carlson Memorial Field South Lewis County Airport',
+    'city' => 'Toledo',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 374,
+    'lat' => 46.4771995544,
+    'lon' => -122.8059997559,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'TDW' => 
+  array (
+    'icao' => 'KTDW',
+    'iata' => 'TDW',
+    'name' => 'Tradewind Airport',
+    'city' => 'Amarillo',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 3649,
+    'lat' => 35.1698989868,
+    'lon' => -101.8259963989,
+    'tz' => 'America/Chicago',
+  ),
+  'TDZ' => 
+  array (
+    'icao' => 'KTDZ',
+    'iata' => 'TDZ',
+    'name' => 'Metcalf Field',
+    'city' => 'Toledo',
+    'state' => 'Ohio',
+    'country' => 'US',
+    'elevation' => 623,
+    'lat' => 41.56489944,
+    'lon' => -83.4822998,
+    'tz' => 'America/New_York',
+  ),
+  'TEB' => 
+  array (
+    'icao' => 'KTEB',
+    'iata' => 'TEB',
+    'name' => 'Teterboro Airport',
+    'city' => 'Teterboro',
+    'state' => 'New-Jersey',
+    'country' => 'US',
+    'elevation' => 9,
+    'lat' => 40.8501014709,
+    'lon' => -74.060798645,
+    'tz' => 'America/New_York',
   ),
   'TEX' => 
   array (
@@ -33714,6 +44283,110 @@ abstract class AirportLibrary
     'lon' => -107.9079971,
     'tz' => 'America/Denver',
   ),
+  'THA' => 
+  array (
+    'icao' => 'KTHA',
+    'iata' => 'THA',
+    'name' => 'Tullahoma Regional Arpt/Wm Northern Field',
+    'city' => 'Tullahoma',
+    'state' => 'Tennessee',
+    'country' => 'US',
+    'elevation' => 1083,
+    'lat' => 35.38010025,
+    'lon' => -86.24639893,
+    'tz' => 'America/Chicago',
+  ),
+  'THM' => 
+  array (
+    'icao' => 'KTHM',
+    'iata' => 'THM',
+    'name' => 'Thompson Falls Airport',
+    'city' => 'Thompson Falls',
+    'state' => 'Montana',
+    'country' => 'US',
+    'elevation' => 2467,
+    'lat' => 47.5735015869,
+    'lon' => -115.28099823,
+    'tz' => 'America/Denver',
+  ),
+  'THP' => 
+  array (
+    'icao' => 'KTHP',
+    'iata' => 'THP',
+    'name' => 'Hot Springs Co Thermopolis Municipal Airport',
+    'city' => 'Thermopolis',
+    'state' => 'Wyoming',
+    'country' => 'US',
+    'elevation' => 4592,
+    'lat' => 43.6582984924,
+    'lon' => -108.2129974365,
+    'tz' => 'America/Denver',
+  ),
+  'THV' => 
+  array (
+    'icao' => 'KTHV',
+    'iata' => 'THV',
+    'name' => 'York Airport',
+    'city' => 'York',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 495,
+    'lat' => 39.91699982,
+    'lon' => -76.8730011,
+    'tz' => 'America/New_York',
+  ),
+  'TIK' => 
+  array (
+    'icao' => 'KTIK',
+    'iata' => 'TIK',
+    'name' => 'Tinker Air Force Base',
+    'city' => 'Oklahoma City',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 1291,
+    'lat' => 35.4146995544,
+    'lon' => -97.3865966797,
+    'tz' => 'America/Chicago',
+  ),
+  'TIW' => 
+  array (
+    'icao' => 'KTIW',
+    'iata' => 'TIW',
+    'name' => 'Tacoma Narrows Airport',
+    'city' => 'Tacoma',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 294,
+    'lat' => 47.26789856,
+    'lon' => -122.5780029,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'TIX' => 
+  array (
+    'icao' => 'KTIX',
+    'iata' => 'TIX',
+    'name' => 'Space Coast Regional Airport',
+    'city' => 'Titusville',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 34,
+    'lat' => 28.514799118,
+    'lon' => -80.7992019653,
+    'tz' => 'America/New_York',
+  ),
+  'KNT' => 
+  array (
+    'icao' => 'KTKX',
+    'iata' => 'KNT',
+    'name' => 'Kennett Memorial Airport',
+    'city' => 'Kennett',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 262,
+    'lat' => 36.2258987427,
+    'lon' => -90.0365982056,
+    'tz' => 'America/Chicago',
+  ),
   'TLH' => 
   array (
     'icao' => 'KTLH',
@@ -33725,6 +44398,32 @@ abstract class AirportLibrary
     'elevation' => 81,
     'lat' => 30.3964996338,
     'lon' => -84.3503036499,
+    'tz' => 'America/New_York',
+  ),
+  'TLR' => 
+  array (
+    'icao' => 'KTLR',
+    'iata' => 'TLR',
+    'name' => 'Mefford Field',
+    'city' => 'Tulare',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 265,
+    'lat' => 36.15629959,
+    'lon' => -119.3259964,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'TMA' => 
+  array (
+    'icao' => 'KTMA',
+    'iata' => 'TMA',
+    'name' => 'Henry Tift Myers Airport',
+    'city' => 'Tifton',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 355,
+    'lat' => 31.4290008545,
+    'lon' => -83.4885025024,
     'tz' => 'America/New_York',
   ),
   'TMB' => 
@@ -33766,6 +44465,97 @@ abstract class AirportLibrary
     'lon' => -117.194999695,
     'tz' => 'America/Los_Angeles',
   ),
+  'TNP' => 
+  array (
+    'icao' => 'KTNP',
+    'iata' => 'TNP',
+    'name' => 'Twentynine Palms Airport',
+    'city' => 'Twentynine Palms',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 1888,
+    'lat' => 34.13159943,
+    'lon' => -115.9459991,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'TNT' => 
+  array (
+    'icao' => 'KTNT',
+    'iata' => 'TNT',
+    'name' => 'Dade Collier Training and Transition Airport',
+    'city' => 'Miami',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 13,
+    'lat' => 25.8617992401,
+    'lon' => -80.8970031738,
+    'tz' => 'America/New_York',
+  ),
+  'TNU' => 
+  array (
+    'icao' => 'KTNU',
+    'iata' => 'TNU',
+    'name' => 'Newton Municipal Airport',
+    'city' => 'Newton',
+    'state' => 'Iowa',
+    'country' => 'US',
+    'elevation' => 953,
+    'lat' => 41.6744003296,
+    'lon' => -93.021697998,
+    'tz' => 'America/Chicago',
+  ),
+  'XSD' => 
+  array (
+    'icao' => 'KTNX',
+    'iata' => 'XSD',
+    'name' => 'Tonopah Test Range Airport',
+    'city' => 'Tonopah',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 5549,
+    'lat' => 37.7988014221,
+    'lon' => -116.78099823,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'TOA' => 
+  array (
+    'icao' => 'KTOA',
+    'iata' => 'TOA',
+    'name' => 'Zamperini Field',
+    'city' => 'Torrance',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 103,
+    'lat' => 33.8033981323,
+    'lon' => -118.3399963379,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'TOC' => 
+  array (
+    'icao' => 'KTOC',
+    'iata' => 'TOC',
+    'name' => 'Toccoa Rg Letourneau Field',
+    'city' => 'Toccoa',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 996,
+    'lat' => 34.59379959,
+    'lon' => -83.29579926,
+    'tz' => 'America/New_York',
+  ),
+  'TOI' => 
+  array (
+    'icao' => 'KTOI',
+    'iata' => 'TOI',
+    'name' => 'Troy Municipal Airport',
+    'city' => 'Troy',
+    'state' => 'Alabama',
+    'country' => 'US',
+    'elevation' => 398,
+    'lat' => 31.8603992462,
+    'lon' => -86.0121002197,
+    'tz' => 'America/Chicago',
+  ),
   'TOL' => 
   array (
     'icao' => 'KTOL',
@@ -33779,6 +44569,32 @@ abstract class AirportLibrary
     'lon' => -83.80780029,
     'tz' => 'America/New_York',
   ),
+  'TOP' => 
+  array (
+    'icao' => 'KTOP',
+    'iata' => 'TOP',
+    'name' => 'Philip Billard Municipal Airport',
+    'city' => 'Topeka',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 881,
+    'lat' => 39.0686988831,
+    'lon' => -95.6224975586,
+    'tz' => 'America/Chicago',
+  ),
+  'TOR' => 
+  array (
+    'icao' => 'KTOR',
+    'iata' => 'TOR',
+    'name' => 'Torrington Municipal Airport',
+    'city' => 'Torrington',
+    'state' => 'Wyoming',
+    'country' => 'US',
+    'elevation' => 4207,
+    'lat' => 42.0644989,
+    'lon' => -104.1529999,
+    'tz' => 'America/Denver',
+  ),
   'TPA' => 
   array (
     'icao' => 'KTPA',
@@ -33791,6 +44607,32 @@ abstract class AirportLibrary
     'lat' => 27.9755001068,
     'lon' => -82.533203125,
     'tz' => 'America/New_York',
+  ),
+  'TPF' => 
+  array (
+    'icao' => 'KTPF',
+    'iata' => 'TPF',
+    'name' => 'Peter O Knight Airport',
+    'city' => 'Tampa',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 8,
+    'lat' => 27.915599823,
+    'lon' => -82.4493026733,
+    'tz' => 'America/New_York',
+  ),
+  'TPH' => 
+  array (
+    'icao' => 'KTPH',
+    'iata' => 'TPH',
+    'name' => 'Tonopah Airport',
+    'city' => 'Tonopah',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 5430,
+    'lat' => 38.06019974,
+    'lon' => -117.086998,
+    'tz' => 'America/Los_Angeles',
   ),
   'TPL' => 
   array (
@@ -33817,6 +44659,84 @@ abstract class AirportLibrary
     'lat' => 36.4752006531,
     'lon' => -82.4074020386,
     'tz' => 'America/New_York',
+  ),
+  'TKF' => 
+  array (
+    'icao' => 'KTRK',
+    'iata' => 'TKF',
+    'name' => 'Truckee Tahoe Airport',
+    'city' => 'Truckee',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 5900,
+    'lat' => 39.3199996948,
+    'lon' => -120.1399993896,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'TRL' => 
+  array (
+    'icao' => 'KTRL',
+    'iata' => 'TRL',
+    'name' => 'Terrell Municipal Airport',
+    'city' => 'Terrell',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 474,
+    'lat' => 32.7092018127,
+    'lon' => -96.2674026489,
+    'tz' => 'America/Chicago',
+  ),
+  'TRM' => 
+  array (
+    'icao' => 'KTRM',
+    'iata' => 'TRM',
+    'name' => 'Jacqueline Cochran Regional Airport',
+    'city' => 'Palm Springs',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => -115,
+    'lat' => 33.626701355,
+    'lon' => -116.1600036621,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'TRX' => 
+  array (
+    'icao' => 'KTRX',
+    'iata' => 'TRX',
+    'name' => 'Trenton Municipal Airport',
+    'city' => 'Trenton',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 758,
+    'lat' => 40.08349991,
+    'lon' => -93.59059906,
+    'tz' => 'America/Chicago',
+  ),
+  'TSP' => 
+  array (
+    'icao' => 'KTSP',
+    'iata' => 'TSP',
+    'name' => 'Tehachapi Municipal Airport',
+    'city' => 'Tehachapi',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 4001,
+    'lat' => 35.1349983215,
+    'lon' => -118.4390029907,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'TTD' => 
+  array (
+    'icao' => 'KTTD',
+    'iata' => 'TTD',
+    'name' => 'Portland Troutdale Airport',
+    'city' => 'Portland',
+    'state' => 'Oregon',
+    'country' => 'US',
+    'elevation' => 39,
+    'lat' => 45.5494003296,
+    'lon' => -122.4010009766,
+    'tz' => 'America/Los_Angeles',
   ),
   'TTN' => 
   array (
@@ -33881,6 +44801,32 @@ abstract class AirportLibrary
     'elevation' => 624,
     'lat' => 44.7414016724,
     'lon' => -85.5821990967,
+    'tz' => 'America/Detroit',
+  ),
+  'TVF' => 
+  array (
+    'icao' => 'KTVF',
+    'iata' => 'TVF',
+    'name' => 'Thief River Falls Regional Airport',
+    'city' => 'Thief River Falls',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1119,
+    'lat' => 48.06570053,
+    'lon' => -96.18499756,
+    'tz' => 'America/Chicago',
+  ),
+  'TVI' => 
+  array (
+    'icao' => 'KTVI',
+    'iata' => 'TVI',
+    'name' => 'Thomasville Regional Airport',
+    'city' => 'Thomasville',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 264,
+    'lat' => 30.901599884,
+    'lon' => -83.8813018799,
     'tz' => 'America/New_York',
   ),
   'TVL' => 
@@ -33921,6 +44867,19 @@ abstract class AirportLibrary
     'lat' => 33.4537010193,
     'lon' => -93.9909973145,
     'tz' => 'America/Chicago',
+  ),
+  'TYZ' => 
+  array (
+    'icao' => 'KTYL',
+    'iata' => 'TYZ',
+    'name' => 'Taylor Airport',
+    'city' => 'Taylor',
+    'state' => 'Arizona',
+    'country' => 'US',
+    'elevation' => 5823,
+    'lat' => 34.45280075,
+    'lon' => -110.1149979,
+    'tz' => 'America/Phoenix',
   ),
   'TYR' => 
   array (
@@ -33987,6 +44946,84 @@ abstract class AirportLibrary
     'lon' => -116.01599884,
     'tz' => 'America/Boise',
   ),
+  'UBS' => 
+  array (
+    'icao' => 'KUBS',
+    'iata' => 'UBS',
+    'name' => 'Columbus Lowndes County Airport',
+    'city' => 'Columbus',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 188,
+    'lat' => 33.4654006958,
+    'lon' => -88.3803024292,
+    'tz' => 'America/Chicago',
+  ),
+  'UCY' => 
+  array (
+    'icao' => 'KUCY',
+    'iata' => 'UCY',
+    'name' => 'Everett-Stewart Regional Airport',
+    'city' => 'Union City',
+    'state' => 'Tennessee',
+    'country' => 'US',
+    'elevation' => 336,
+    'lat' => 36.38180161,
+    'lon' => -88.98539734,
+    'tz' => 'America/Chicago',
+  ),
+  'UDD' => 
+  array (
+    'icao' => 'KUDD',
+    'iata' => 'UDD',
+    'name' => 'Bermuda Dunes Airport',
+    'city' => 'Palm Springs',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 73,
+    'lat' => 33.7484016418,
+    'lon' => -116.2750015259,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'UES' => 
+  array (
+    'icao' => 'KUES',
+    'iata' => 'UES',
+    'name' => 'Waukesha County Airport',
+    'city' => 'Waukesha',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 911,
+    'lat' => 43.0410003662,
+    'lon' => -88.2370986938,
+    'tz' => 'America/Chicago',
+  ),
+  'UGN' => 
+  array (
+    'icao' => 'KUGN',
+    'iata' => 'UGN',
+    'name' => 'Waukegan Regional Airport',
+    'city' => 'Chicago/Waukegan',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 727,
+    'lat' => 42.4221992493,
+    'lon' => -87.8678970337,
+    'tz' => 'America/Chicago',
+  ),
+  'UIL' => 
+  array (
+    'icao' => 'KUIL',
+    'iata' => 'UIL',
+    'name' => 'Quillayute Airport',
+    'city' => 'Quillayute',
+    'state' => 'Washington',
+    'country' => 'US',
+    'elevation' => 194,
+    'lat' => 47.9365997314,
+    'lon' => -124.56300354,
+    'tz' => 'America/Los_Angeles',
+  ),
   'UIN' => 
   array (
     'icao' => 'KUIN',
@@ -33998,6 +45035,58 @@ abstract class AirportLibrary
     'elevation' => 768,
     'lat' => 39.94269943,
     'lon' => -91.19460297,
+    'tz' => 'America/Chicago',
+  ),
+  'IKB' => 
+  array (
+    'icao' => 'KUKF',
+    'iata' => 'IKB',
+    'name' => 'Wilkes County Airport',
+    'city' => 'North Wilkesboro',
+    'state' => 'North-Carolina',
+    'country' => 'US',
+    'elevation' => 1301,
+    'lat' => 36.2228012085,
+    'lon' => -81.0982971191,
+    'tz' => 'America/New_York',
+  ),
+  'UKI' => 
+  array (
+    'icao' => 'KUKI',
+    'iata' => 'UKI',
+    'name' => 'Ukiah Municipal Airport',
+    'city' => 'Ukiah',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 614,
+    'lat' => 39.1259994507,
+    'lon' => -123.2009963989,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'UKT' => 
+  array (
+    'icao' => 'KUKT',
+    'iata' => 'UKT',
+    'name' => 'Quakertown Airport',
+    'city' => 'Quakertown',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 526,
+    'lat' => 40.4351997375,
+    'lon' => -75.3818969727,
+    'tz' => 'America/New_York',
+  ),
+  'ULM' => 
+  array (
+    'icao' => 'KULM',
+    'iata' => 'ULM',
+    'name' => 'New Ulm Municipal Airport',
+    'city' => 'New Ulm',
+    'state' => 'Minnesota',
+    'country' => 'US',
+    'elevation' => 1011,
+    'lat' => 44.3195991516,
+    'lon' => -94.5022964478,
     'tz' => 'America/Chicago',
   ),
   'ATO' => 
@@ -34013,6 +45102,19 @@ abstract class AirportLibrary
     'lon' => -82.2313995361,
     'tz' => 'America/New_York',
   ),
+  'UNU' => 
+  array (
+    'icao' => 'KUNU',
+    'iata' => 'UNU',
+    'name' => 'Dodge County Airport',
+    'city' => 'Juneau',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 934,
+    'lat' => 43.42660141,
+    'lon' => -88.70320129,
+    'tz' => 'America/Chicago',
+  ),
   'SCE' => 
   array (
     'icao' => 'KUNV',
@@ -34024,6 +45126,97 @@ abstract class AirportLibrary
     'elevation' => 1239,
     'lat' => 40.8493003845,
     'lon' => -77.8487014771,
+    'tz' => 'America/New_York',
+  ),
+  'UOS' => 
+  array (
+    'icao' => 'KUOS',
+    'iata' => 'UOS',
+    'name' => 'Franklin County Airport',
+    'city' => 'Sewanee',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 1953,
+    'lat' => 35.2051010132,
+    'lon' => -85.8981018066,
+    'tz' => 'America/Chicago',
+  ),
+  'UOX' => 
+  array (
+    'icao' => 'KUOX',
+    'iata' => 'UOX',
+    'name' => 'University Oxford Airport',
+    'city' => 'Oxford',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 452,
+    'lat' => 34.3843002319,
+    'lon' => -89.5367965698,
+    'tz' => 'America/Chicago',
+  ),
+  'UTM' => 
+  array (
+    'icao' => 'KUTA',
+    'iata' => 'UTM',
+    'name' => 'Tunica Municipal Airport',
+    'city' => 'Tunica',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 194,
+    'lat' => 34.6809997559,
+    'lon' => -90.3467025757,
+    'tz' => 'America/Chicago',
+  ),
+  'HTV' => 
+  array (
+    'icao' => 'KUTS',
+    'iata' => 'HTV',
+    'name' => 'Huntsville Municipal Airport',
+    'city' => 'Huntsville',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 363,
+    'lat' => 30.7469005585,
+    'lon' => -95.5871963501,
+    'tz' => 'America/Chicago',
+  ),
+  'NPT' => 
+  array (
+    'icao' => 'KUUU',
+    'iata' => 'NPT',
+    'name' => 'Newport State Airport',
+    'city' => 'Newport',
+    'state' => 'Rhode-Island',
+    'country' => 'US',
+    'elevation' => 172,
+    'lat' => 41.5323982239,
+    'lon' => -71.28150177,
+    'tz' => 'America/New_York',
+  ),
+  'UVA' => 
+  array (
+    'icao' => 'KUVA',
+    'iata' => 'UVA',
+    'name' => 'Garner Field',
+    'city' => 'Uvalde',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 942,
+    'lat' => 29.2112998962,
+    'lon' => -99.743598938,
+    'tz' => 'America/Chicago',
+  ),
+  'RKH' => 
+  array (
+    'icao' => 'KUZA',
+    'iata' => 'RKH',
+    'name' => 'Rock Hill York Co Bryant field',
+    'city' => 'Rock Hill',
+    'state' => 'South-Carolina',
+    'country' => 'US',
+    'elevation' => 666,
+    'lat' => 34.9878006,
+    'lon' => -81.05719757,
     'tz' => 'America/New_York',
   ),
   'VAD' => 
@@ -34039,6 +45232,32 @@ abstract class AirportLibrary
     'lon' => -83.1930007935,
     'tz' => 'America/New_York',
   ),
+  'LLY' => 
+  array (
+    'icao' => 'KVAY',
+    'iata' => 'LLY',
+    'name' => 'South Jersey Regional Airport',
+    'city' => 'Mount Holly',
+    'state' => 'New-Jersey',
+    'country' => 'US',
+    'elevation' => 53,
+    'lat' => 39.9429016113,
+    'lon' => -74.845703125,
+    'tz' => 'America/New_York',
+  ),
+  'VBG' => 
+  array (
+    'icao' => 'KVBG',
+    'iata' => 'VBG',
+    'name' => 'Vandenberg Air Force Base',
+    'city' => 'Lompoc',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 369,
+    'lat' => 34.7373008728,
+    'lon' => -120.5839996338,
+    'tz' => 'America/Los_Angeles',
+  ),
   'VCT' => 
   array (
     'icao' => 'KVCT',
@@ -34050,6 +45269,123 @@ abstract class AirportLibrary
     'elevation' => 115,
     'lat' => 28.8526000977,
     'lon' => -96.9185028076,
+    'tz' => 'America/Chicago',
+  ),
+  'VCV' => 
+  array (
+    'icao' => 'KVCV',
+    'iata' => 'VCV',
+    'name' => 'Southern California Logistics Airport',
+    'city' => 'Victorville',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 2885,
+    'lat' => 34.5974998474,
+    'lon' => -117.3830032349,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'VDI' => 
+  array (
+    'icao' => 'KVDI',
+    'iata' => 'VDI',
+    'name' => 'Vidalia Regional Airport',
+    'city' => 'Vidalia',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 275,
+    'lat' => 32.1926994324,
+    'lon' => -82.3712005615,
+    'tz' => 'America/New_York',
+  ),
+  'VEL' => 
+  array (
+    'icao' => 'KVEL',
+    'iata' => 'VEL',
+    'name' => 'Vernal Regional Airport',
+    'city' => 'Vernal',
+    'state' => 'Utah',
+    'country' => 'US',
+    'elevation' => 5278,
+    'lat' => 40.4408989,
+    'lon' => -109.5100021,
+    'tz' => 'America/Denver',
+  ),
+  'VGT' => 
+  array (
+    'icao' => 'KVGT',
+    'iata' => 'VGT',
+    'name' => 'North Las Vegas Airport',
+    'city' => 'Las Vegas',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 2205,
+    'lat' => 36.2107009888,
+    'lon' => -115.1940002441,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'VHN' => 
+  array (
+    'icao' => 'KVHN',
+    'iata' => 'VHN',
+    'name' => 'Culberson County Airport',
+    'city' => 'Van Horn',
+    'state' => 'Texas',
+    'country' => 'US',
+    'elevation' => 3957,
+    'lat' => 31.057800293,
+    'lon' => -104.783996582,
+    'tz' => 'America/Chicago',
+  ),
+  'VIH' => 
+  array (
+    'icao' => 'KVIH',
+    'iata' => 'VIH',
+    'name' => 'Rolla National Airport',
+    'city' => 'Rolla/Vichy',
+    'state' => 'Missouri',
+    'country' => 'US',
+    'elevation' => 1148,
+    'lat' => 38.1273994446,
+    'lon' => -91.7695007324,
+    'tz' => 'America/Chicago',
+  ),
+  'VIS' => 
+  array (
+    'icao' => 'KVIS',
+    'iata' => 'VIS',
+    'name' => 'Visalia Municipal Airport',
+    'city' => 'Visalia',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 295,
+    'lat' => 36.3186988831,
+    'lon' => -119.3929977417,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'VJI' => 
+  array (
+    'icao' => 'KVJI',
+    'iata' => 'VJI',
+    'name' => 'Virginia Highlands Airport',
+    'city' => 'Abingdon',
+    'state' => 'Virginia',
+    'country' => 'US',
+    'elevation' => 2087,
+    'lat' => 36.6870994568,
+    'lon' => -82.0333023071,
+    'tz' => 'America/New_York',
+  ),
+  'VKS' => 
+  array (
+    'icao' => 'KVKS',
+    'iata' => 'VKS',
+    'name' => 'Vicksburg Municipal Airport',
+    'city' => 'Vicksburg',
+    'state' => 'Mississippi',
+    'country' => 'US',
+    'elevation' => 106,
+    'lat' => 32.2392997742,
+    'lon' => -90.9283981323,
     'tz' => 'America/Chicago',
   ),
   'VKX' => 
@@ -34065,6 +45401,19 @@ abstract class AirportLibrary
     'lon' => -76.9571991,
     'tz' => 'America/New_York',
   ),
+  'VLA' => 
+  array (
+    'icao' => 'KVLA',
+    'iata' => 'VLA',
+    'name' => 'Vandalia Municipal Airport',
+    'city' => 'Vandalia',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 537,
+    'lat' => 38.9915008545,
+    'lon' => -89.1661987305,
+    'tz' => 'America/Chicago',
+  ),
   'VLD' => 
   array (
     'icao' => 'KVLD',
@@ -34078,6 +45427,45 @@ abstract class AirportLibrary
     'lon' => -83.2767028809,
     'tz' => 'America/New_York',
   ),
+  'VNC' => 
+  array (
+    'icao' => 'KVNC',
+    'iata' => 'VNC',
+    'name' => 'Venice Municipal Airport',
+    'city' => 'Venice',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 18,
+    'lat' => 27.0715999603,
+    'lon' => -82.4402999878,
+    'tz' => 'America/New_York',
+  ),
+  'VNY' => 
+  array (
+    'icao' => 'KVNY',
+    'iata' => 'VNY',
+    'name' => 'Van Nuys Airport',
+    'city' => 'Van Nuys',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 802,
+    'lat' => 34.2098007202,
+    'lon' => -118.4899978638,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'VOK' => 
+  array (
+    'icao' => 'KVOK',
+    'iata' => 'VOK',
+    'name' => 'Volk Field',
+    'city' => 'Camp Douglas',
+    'state' => 'Wisconsin',
+    'country' => 'US',
+    'elevation' => 912,
+    'lat' => 43.938999176,
+    'lon' => -90.25340271,
+    'tz' => 'America/Chicago',
+  ),
   'VPS' => 
   array (
     'icao' => 'KVPS',
@@ -34090,6 +45478,32 @@ abstract class AirportLibrary
     'lat' => 30.4832000732,
     'lon' => -86.5253982544,
     'tz' => 'America/Chicago',
+  ),
+  'VPZ' => 
+  array (
+    'icao' => 'KVPZ',
+    'iata' => 'VPZ',
+    'name' => 'Porter County Municipal Airport',
+    'city' => 'Valparaiso',
+    'state' => 'Indiana',
+    'country' => 'US',
+    'elevation' => 770,
+    'lat' => 41.45399857,
+    'lon' => -87.00710297,
+    'tz' => 'America/Chicago',
+  ),
+  'VQQ' => 
+  array (
+    'icao' => 'KVQQ',
+    'iata' => 'VQQ',
+    'name' => 'Cecil Field',
+    'city' => 'Jacksonville',
+    'state' => 'Florida',
+    'country' => 'US',
+    'elevation' => 81,
+    'lat' => 30.2187004089,
+    'lon' => -81.876701355,
+    'tz' => 'America/New_York',
   ),
   'VRB' => 
   array (
@@ -34117,6 +45531,32 @@ abstract class AirportLibrary
     'lon' => -72.51730347,
     'tz' => 'America/New_York',
   ),
+  'VTN' => 
+  array (
+    'icao' => 'KVTN',
+    'iata' => 'VTN',
+    'name' => 'Miller Field',
+    'city' => 'Valentine',
+    'state' => 'Nebraska',
+    'country' => 'US',
+    'elevation' => 2596,
+    'lat' => 42.85779953,
+    'lon' => -100.5479965,
+    'tz' => 'America/Chicago',
+  ),
+  'VYS' => 
+  array (
+    'icao' => 'KVYS',
+    'iata' => 'VYS',
+    'name' => 'Illinois Valley Regional-Walter A Duncan field',
+    'city' => 'Peru',
+    'state' => 'Illinois',
+    'country' => 'US',
+    'elevation' => 654,
+    'lat' => 41.35189819,
+    'lon' => -89.15309906,
+    'tz' => 'America/Chicago',
+  ),
   'WAL' => 
   array (
     'icao' => 'KWAL',
@@ -34141,6 +45581,123 @@ abstract class AirportLibrary
     'elevation' => 1069,
     'lat' => 39.90010071,
     'lon' => -80.13310242,
+    'tz' => 'America/New_York',
+  ),
+  'WBW' => 
+  array (
+    'icao' => 'KWBW',
+    'iata' => 'WBW',
+    'name' => 'Wilkes Barre Wyoming Valley Airport',
+    'city' => 'Wilkes-Barre',
+    'state' => 'Pennsylvania',
+    'country' => 'US',
+    'elevation' => 545,
+    'lat' => 41.2971992493,
+    'lon' => -75.8511962891,
+    'tz' => 'America/New_York',
+  ),
+  'WDG' => 
+  array (
+    'icao' => 'KWDG',
+    'iata' => 'WDG',
+    'name' => 'Enid Woodring Regional Airport',
+    'city' => 'Enid',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 1167,
+    'lat' => 36.3791999817,
+    'lon' => -97.7910995483,
+    'tz' => 'America/Chicago',
+  ),
+  'WDR' => 
+  array (
+    'icao' => 'KWDR',
+    'iata' => 'WDR',
+    'name' => 'Barrow County Airport',
+    'city' => 'Winder',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 943,
+    'lat' => 33.98289871,
+    'lon' => -83.66739655,
+    'tz' => 'America/New_York',
+  ),
+  'WHP' => 
+  array (
+    'icao' => 'KWHP',
+    'iata' => 'WHP',
+    'name' => 'Whiteman Airport',
+    'city' => 'Los Angeles',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 1003,
+    'lat' => 34.2593002319,
+    'lon' => -118.4130020142,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'WJF' => 
+  array (
+    'icao' => 'KWJF',
+    'iata' => 'WJF',
+    'name' => 'General WM J Fox Airfield',
+    'city' => 'Lancaster',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 2351,
+    'lat' => 34.74110031,
+    'lon' => -118.2190018,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'WLD' => 
+  array (
+    'icao' => 'KWLD',
+    'iata' => 'WLD',
+    'name' => 'Strother Field',
+    'city' => 'Winfield/Arkansas City',
+    'state' => 'Kansas',
+    'country' => 'US',
+    'elevation' => 1160,
+    'lat' => 37.168598175,
+    'lon' => -97.0375976563,
+    'tz' => 'America/Chicago',
+  ),
+  'WLW' => 
+  array (
+    'icao' => 'KWLW',
+    'iata' => 'WLW',
+    'name' => 'Willows Glenn County Airport',
+    'city' => 'Willows',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 141,
+    'lat' => 39.51639938,
+    'lon' => -122.2180023,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'WMC' => 
+  array (
+    'icao' => 'KWMC',
+    'iata' => 'WMC',
+    'name' => 'Winnemucca Municipal Airport',
+    'city' => 'Winnemucca',
+    'state' => 'Nevada',
+    'country' => 'US',
+    'elevation' => 4308,
+    'lat' => 40.8965988159,
+    'lon' => -117.8059997559,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'WRB' => 
+  array (
+    'icao' => 'KWRB',
+    'iata' => 'WRB',
+    'name' => 'Robins Air Force Base',
+    'city' => 'Warner Robins',
+    'state' => 'Georgia',
+    'country' => 'US',
+    'elevation' => 294,
+    'lat' => 32.6400985718,
+    'lon' => -83.5919036865,
     'tz' => 'America/New_York',
   ),
   'WRI' => 
@@ -34169,6 +45726,97 @@ abstract class AirportLibrary
     'lon' => -107.9509963989,
     'tz' => 'America/Denver',
   ),
+  'WSD' => 
+  array (
+    'icao' => 'KWSD',
+    'iata' => 'WSD',
+    'name' => 'Condron Army Air Field',
+    'city' => 'White Sands',
+    'state' => 'New-Mexico',
+    'country' => 'US',
+    'elevation' => 3934,
+    'lat' => 32.34149933,
+    'lon' => -106.4029999,
+    'tz' => 'America/Denver',
+  ),
+  'WST' => 
+  array (
+    'icao' => 'KWST',
+    'iata' => 'WST',
+    'name' => 'Westerly State Airport',
+    'city' => 'Westerly',
+    'state' => 'Rhode-Island',
+    'country' => 'US',
+    'elevation' => 81,
+    'lat' => 41.3496017456,
+    'lon' => -71.8033981323,
+    'tz' => 'America/New_York',
+  ),
+  'WVI' => 
+  array (
+    'icao' => 'KWVI',
+    'iata' => 'WVI',
+    'name' => 'Watsonville Municipal Airport',
+    'city' => 'Watsonville',
+    'state' => 'California',
+    'country' => 'US',
+    'elevation' => 163,
+    'lat' => 36.9356994629,
+    'lon' => -121.7900009155,
+    'tz' => 'America/Los_Angeles',
+  ),
+  'WVL' => 
+  array (
+    'icao' => 'KWVL',
+    'iata' => 'WVL',
+    'name' => 'Waterville Robert Lafleur Airport',
+    'city' => 'Waterville',
+    'state' => 'Maine',
+    'country' => 'US',
+    'elevation' => 333,
+    'lat' => 44.5331993103,
+    'lon' => -69.6754989624,
+    'tz' => 'America/New_York',
+  ),
+  'WWD' => 
+  array (
+    'icao' => 'KWWD',
+    'iata' => 'WWD',
+    'name' => 'Cape May County Airport',
+    'city' => 'Wildwood',
+    'state' => 'New-Jersey',
+    'country' => 'US',
+    'elevation' => 23,
+    'lat' => 39.0084991455,
+    'lon' => -74.9083023071,
+    'tz' => 'America/New_York',
+  ),
+  'WWR' => 
+  array (
+    'icao' => 'KWWR',
+    'iata' => 'WWR',
+    'name' => 'West Woodward Airport',
+    'city' => 'Woodward',
+    'state' => 'Oklahoma',
+    'country' => 'US',
+    'elevation' => 2189,
+    'lat' => 36.438,
+    'lon' => -99.5226667,
+    'tz' => 'America/Chicago',
+  ),
+  'WYS' => 
+  array (
+    'icao' => 'KWYS',
+    'iata' => 'WYS',
+    'name' => 'Yellowstone Airport',
+    'city' => 'West Yellowstone',
+    'state' => 'Montana',
+    'country' => 'US',
+    'elevation' => 6649,
+    'lat' => 44.68840027,
+    'lon' => -111.1179962,
+    'tz' => 'America/Denver',
+  ),
   'XNA' => 
   array (
     'icao' => 'KXNA',
@@ -34193,7 +45841,7 @@ abstract class AirportLibrary
     'elevation' => 716,
     'lat' => 42.23789978,
     'lon' => -83.53040314,
-    'tz' => 'America/New_York',
+    'tz' => 'America/Detroit',
   ),
   'YKM' => 
   array (
@@ -34207,6 +45855,19 @@ abstract class AirportLibrary
     'lat' => 46.56819916,
     'lon' => -120.5439987,
     'tz' => 'America/Los_Angeles',
+  ),
+  'YKN' => 
+  array (
+    'icao' => 'KYKN',
+    'iata' => 'YKN',
+    'name' => 'Chan Gurney Municipal Airport',
+    'city' => 'Yankton',
+    'state' => 'South-Dakota',
+    'country' => 'US',
+    'elevation' => 1306,
+    'lat' => 42.9166984558,
+    'lon' => -97.3859024048,
+    'tz' => 'America/Chicago',
   ),
   'YNG' => 
   array (
@@ -34284,6 +45945,19 @@ abstract class AirportLibrary
     'elevation' => 285,
     'lat' => 43.1514015198,
     'lon' => 25.7129001617,
+    'tz' => 'Europe/Sofia',
+  ),
+  'HKV' => 
+  array (
+    'icao' => 'LBHS',
+    'iata' => 'HKV',
+    'name' => 'Uzundzhovo Air Base',
+    'city' => 'Haskovo',
+    'state' => 'Khaskovo',
+    'country' => 'BG',
+    'elevation' => 160,
+    'lat' => 41.976398468,
+    'lon' => 25.589799881,
     'tz' => 'Europe/Sofia',
   ),
   'JAM' => 
@@ -34364,6 +46038,19 @@ abstract class AirportLibrary
     'lon' => 25.6551990509,
     'tz' => 'Europe/Sofia',
   ),
+  'TGV' => 
+  array (
+    'icao' => 'LBTG',
+    'iata' => 'TGV',
+    'name' => 'Bukhovtsi Airfield',
+    'city' => 'Targovishte',
+    'state' => 'Razgrad',
+    'country' => 'BG',
+    'elevation' => 666,
+    'lat' => 43.3065986633,
+    'lon' => 26.7008991241,
+    'tz' => 'Europe/Sofia',
+  ),
   'VID' => 
   array (
     'icao' => 'LBVD',
@@ -34401,7 +46088,7 @@ abstract class AirportLibrary
     'elevation' => 404,
     'lat' => 35.1547012329,
     'lon' => 33.4961013794,
-    'tz' => 'Asia/Nicosia',
+    'tz' => 'Asia/Famagusta',
   ),
   'LCA' => 
   array (
@@ -34752,6 +46439,19 @@ abstract class AirportLibrary
     'elevation' => 1860,
     'lat' => 37.1887016296,
     'lon' => -3.7773599625,
+    'tz' => 'Europe/Madrid',
+  ),
+  'HSK' => 
+  array (
+    'icao' => 'LEHC',
+    'iata' => 'HSK',
+    'name' => 'Huesca/Pirineos Airport',
+    'city' => 'Monflorite/Alcala del Obispo',
+    'state' => 'Aragon',
+    'country' => 'ES',
+    'elevation' => 1768,
+    'lat' => 42.0760993958,
+    'lon' => -0.3166669905,
     'tz' => 'Europe/Madrid',
   ),
   'IBZ' => 
@@ -35194,7 +46894,7 @@ abstract class AirportLibrary
     'elevation' => -3,
     'lat' => 51.040599823,
     'lon' => 2.5502800941,
-    'tz' => 'Europe/Paris',
+    'tz' => 'Europe/Brussels',
   ),
   'BYF' => 
   array (
@@ -35432,15 +47132,15 @@ abstract class AirportLibrary
   ),
   'BVE' => 
   array (
-    'icao' => 'LFBV',
+    'icao' => 'LFSL',
     'iata' => 'BVE',
-    'name' => 'Brive-La Roche Airport',
-    'city' => 'Brive-la-Gaillarde',
-    'state' => 'Nouvelle-Aquitaine',
+    'name' => 'Toul Rosieres Air Base',
+    'city' => 'St Dizier',
+    'state' => 'Grand-Est',
     'country' => 'FR',
-    'elevation' => 379,
-    'lat' => 45.1507987976,
-    'lon' => 1.4691699743,
+    'elevation' => 936,
+    'lat' => 48.7799987793,
+    'lon' => 5.9800000191,
     'tz' => 'Europe/Paris',
   ),
   'PGX' => 
@@ -35755,6 +47455,19 @@ abstract class AirportLibrary
     'lon' => 3.7628901005,
     'tz' => 'Europe/Paris',
   ),
+  'XBK' => 
+  array (
+    'icao' => 'LFHS',
+    'iata' => 'XBK',
+    'name' => 'Bourg-Ceyzeriat Airport',
+    'city' => 'Bourg/Ceyzeriat',
+    'state' => 'Auvergne-Rhone-Alpes',
+    'country' => 'FR',
+    'elevation' => 857,
+    'lat' => 46.2009010315,
+    'lon' => 5.2920298576,
+    'tz' => 'Europe/Paris',
+  ),
   'AHZ' => 
   array (
     'icao' => 'LFHU',
@@ -35766,6 +47479,19 @@ abstract class AirportLibrary
     'elevation' => 6102,
     'lat' => 45.0882987976,
     'lon' => 6.0847201347,
+    'tz' => 'Europe/Paris',
+  ),
+  'XMU' => 
+  array (
+    'icao' => 'LFHY',
+    'iata' => 'XMU',
+    'name' => 'Moulins-Montbeugny Airport',
+    'city' => 'Moulins/Montbeugny',
+    'state' => 'Auvergne-Rhone-Alpes',
+    'country' => 'FR',
+    'elevation' => 915,
+    'lat' => 46.5345993042,
+    'lon' => 3.423719883,
     'tz' => 'Europe/Paris',
   ),
   'ETZ' => 
@@ -36132,6 +47858,19 @@ abstract class AirportLibrary
     'lon' => 4.944270134,
     'tz' => 'Europe/Paris',
   ),
+  'QXB' => 
+  array (
+    'icao' => 'LFMA',
+    'iata' => 'QXB',
+    'name' => 'Aix-en-Provence (BA 114) Airport',
+    'city' => 'Lyon',
+    'state' => 'Provence-Alpes-Cote-d\'Azur',
+    'country' => 'FR',
+    'elevation' => 367,
+    'lat' => 43.5055999756,
+    'lon' => 5.3677802086,
+    'tz' => 'Europe/Paris',
+  ),
   'CEQ' => 
   array (
     'icao' => 'LFMD',
@@ -36433,15 +48172,15 @@ abstract class AirportLibrary
   ),
   'ORE' => 
   array (
-    'icao' => 'LFOJ',
+    'icao' => 'LFOZ',
     'iata' => 'ORE',
-    'name' => 'Orleans-Bricy (BA 123) Air Base',
-    'city' => 'Orleans/Bricy',
+    'name' => 'Orleans-Saint-Denis-de-l\'Hotel Airport',
+    'city' => 'Orleans/Saint-Denis-de-l\'Hotel',
     'state' => 'Centre',
     'country' => 'FR',
-    'elevation' => 412,
-    'lat' => 47.9878005981,
-    'lon' => 1.7605600357,
+    'elevation' => 396,
+    'lat' => 47.896900177,
+    'lon' => 2.1633300781,
     'tz' => 'Europe/Paris',
   ),
   'XCR' => 
@@ -37133,10 +48872,10 @@ abstract class AirportLibrary
     'lon' => 5.9352798462,
     'tz' => 'Europe/Paris',
   ),
-  'XHE' => 
+  'TLN' => 
   array (
     'icao' => 'LFTH',
-    'iata' => 'XHE',
+    'iata' => 'TLN',
     'name' => 'Toulon-Hyeres Airport',
     'city' => 'Toulon/Hyeres/Le Palyvestre',
     'state' => 'Provence-Alpes-Cote-d\'Azur',
@@ -37471,6 +49210,19 @@ abstract class AirportLibrary
     'lon' => 24.6191997528,
     'tz' => 'Europe/Athens',
   ),
+  'JKL' => 
+  array (
+    'icao' => 'LGKY',
+    'iata' => 'JKL',
+    'name' => 'Kalymnos Airport',
+    'city' => 'Kalymnos Island',
+    'state' => 'South-Aegean',
+    'country' => 'GR',
+    'elevation' => 771,
+    'lat' => 36.9632987976,
+    'lon' => 26.9405994415,
+    'tz' => 'Europe/Athens',
+  ),
   'KZI' => 
   array (
     'icao' => 'LGKZ',
@@ -37774,7 +49526,7 @@ abstract class AirportLibrary
   array (
     'icao' => 'LHBP',
     'iata' => 'BUD',
-    'name' => 'Budapest Listz Ferenc international Airport',
+    'name' => 'Budapest Ferenc Liszt International Airport',
     'city' => 'Budapest',
     'state' => 'Budapest',
     'country' => 'HU',
@@ -37873,6 +49625,19 @@ abstract class AirportLibrary
     'lat' => 46.2468986511,
     'lon' => 20.0907993317,
     'tz' => 'Europe/Budapest',
+  ),
+  'QAQ' => 
+  array (
+    'icao' => 'LIAP',
+    'iata' => 'QAQ',
+    'name' => 'L\'Aquila / Preturo Airport',
+    'city' => 'L\'Aquila',
+    'state' => 'Abruzzo',
+    'country' => 'IT',
+    'elevation' => 2211,
+    'lat' => 42.379901886,
+    'lon' => 13.3092002869,
+    'tz' => 'Europe/Rome',
   ),
   'CRV' => 
   array (
@@ -38123,16 +49888,16 @@ abstract class AirportLibrary
   ),
   'ZIA' => 
   array (
-    'icao' => 'LIDT',
+    'icao' => 'UUBW',
     'iata' => 'ZIA',
-    'name' => 'Trento / Mattarello Airport',
-    'city' => 'Trento',
-    'state' => 'Trentino-Alto-Adige',
-    'country' => 'IT',
-    'elevation' => 610,
-    'lat' => 46.0214004517,
-    'lon' => 11.1241998672,
-    'tz' => 'Europe/Rome',
+    'name' => 'Ramenskoye Airport',
+    'city' => 'Zhukovsky',
+    'state' => 'Moscow-Oblast',
+    'country' => 'RU',
+    'elevation' => 377,
+    'lat' => 55.5532989502,
+    'lon' => 38.1500015259,
+    'tz' => 'Europe/Moscow',
   ),
   'AHO' => 
   array (
@@ -38849,6 +50614,19 @@ abstract class AirportLibrary
     'lon' => 18.1110992432,
     'tz' => 'Europe/Prague',
   ),
+  'OLO' => 
+  array (
+    'icao' => 'LKOL',
+    'iata' => 'OLO',
+    'name' => 'Olomouc Glider Airport',
+    'city' => 'Olomouc',
+    'state' => 'Olomoucky',
+    'country' => 'CZ',
+    'elevation' => 869,
+    'lat' => 49.5877990723,
+    'lon' => 17.2108001709,
+    'tz' => 'Europe/Prague',
+  ),
   'PED' => 
   array (
     'icao' => 'LKPD',
@@ -38879,7 +50657,7 @@ abstract class AirportLibrary
   array (
     'icao' => 'LKPR',
     'iata' => 'PRG',
-    'name' => 'Ruzyne International Airport',
+    'name' => 'Vaclav Havel Airport',
     'city' => 'Prague',
     'state' => 'Praha',
     'country' => 'CZ',
@@ -38899,6 +50677,19 @@ abstract class AirportLibrary
     'elevation' => 778,
     'lat' => 49.1512985229,
     'lon' => 16.6944007874,
+    'tz' => 'Europe/Prague',
+  ),
+  'VOD' => 
+  array (
+    'icao' => 'LKVO',
+    'iata' => 'VOD',
+    'name' => 'Vodochody Airport',
+    'city' => 'Vodochoky',
+    'state' => 'Central-Bohemia',
+    'country' => 'CZ',
+    'elevation' => 919,
+    'lat' => 50.2165985107,
+    'lon' => 14.3957996368,
     'tz' => 'Europe/Prague',
   ),
   'ZBE' => 
@@ -38953,6 +50744,19 @@ abstract class AirportLibrary
     'lon' => 34.9600982666,
     'tz' => 'Asia/Jerusalem',
   ),
+  'ETM' => 
+  array (
+    'icao' => 'LLER',
+    'iata' => 'ETM',
+    'name' => 'Ramon Airport',
+    'city' => 'Eilat',
+    'state' => 'Southern-District',
+    'country' => 'IL',
+    'elevation' => 288,
+    'lat' => 29.723694,
+    'lon' => 35.011417,
+    'tz' => 'Asia/Jerusalem',
+  ),
   'EIY' => 
   array (
     'icao' => 'LLEY',
@@ -39005,6 +50809,19 @@ abstract class AirportLibrary
     'lon' => 35.5999984741,
     'tz' => 'Asia/Jerusalem',
   ),
+  'MIP' => 
+  array (
+    'icao' => 'LLRM',
+    'iata' => 'MIP',
+    'name' => 'Ramon Air Base',
+    'city' => 'Beersheba',
+    'state' => 'Southern-District',
+    'country' => 'IL',
+    'elevation' => 2126,
+    'lat' => 30.7761001587,
+    'lon' => 34.6666984558,
+    'tz' => 'Asia/Jerusalem',
+  ),
   'MTZ' => 
   array (
     'icao' => 'LLMZ',
@@ -39016,7 +50833,7 @@ abstract class AirportLibrary
     'elevation' => -1266,
     'lat' => 31.3281993866,
     'lon' => 35.3885993958,
-    'tz' => 'Asia/Jerusalem',
+    'tz' => 'Asia/Amman',
   ),
   'VTM' => 
   array (
@@ -39042,19 +50859,6 @@ abstract class AirportLibrary
     'elevation' => 1492,
     'lat' => 29.9402999878,
     'lon' => 34.935798645,
-    'tz' => 'Asia/Jerusalem',
-  ),
-  'MIP' => 
-  array (
-    'icao' => 'LLRM',
-    'iata' => 'MIP',
-    'name' => 'Ramon Air Base',
-    'city' => 'Beersheba',
-    'state' => 'Southern-District',
-    'country' => 'IL',
-    'elevation' => 2126,
-    'lat' => 30.7761001587,
-    'lon' => 34.6666984558,
     'tz' => 'Asia/Jerusalem',
   ),
   'SDV' => 
@@ -39172,7 +50976,7 @@ abstract class AirportLibrary
     'elevation' => 1411,
     'lat' => 47.7933006287,
     'lon' => 13.0043001175,
-    'tz' => 'Europe/Vienna',
+    'tz' => 'Europe/Berlin',
   ),
   'VIE' => 
   array (
@@ -39278,6 +51082,19 @@ abstract class AirportLibrary
     'lon' => -31.1135997772,
     'tz' => 'Atlantic/Azores',
   ),
+  'CAT' => 
+  array (
+    'icao' => 'MYCB',
+    'iata' => 'CAT',
+    'name' => 'New Bight Airport',
+    'city' => 'Cat Island',
+    'state' => 'Cat-Island',
+    'country' => 'BS',
+    'elevation' => 5,
+    'lat' => 24.3152999878,
+    'lon' => -75.4523010254,
+    'tz' => 'America/Nassau',
+  ),
   'COV' => 
   array (
     'icao' => 'LPCV',
@@ -39367,7 +51184,7 @@ abstract class AirportLibrary
     'elevation' => 192,
     'lat' => 32.6978988647,
     'lon' => -16.7744998932,
-    'tz' => 'Europe/Lisbon',
+    'tz' => 'Atlantic/Madeira',
   ),
   'PDL' => 
   array (
@@ -39432,7 +51249,7 @@ abstract class AirportLibrary
     'elevation' => 341,
     'lat' => 33.0733985901,
     'lon' => -16.3500003815,
-    'tz' => 'Europe/Lisbon',
+    'tz' => 'Atlantic/Madeira',
   ),
   'LIS' => 
   array (
@@ -39783,7 +51600,7 @@ abstract class AirportLibrary
     'elevation' => 1411,
     'lat' => 46.2380981445,
     'lon' => 6.1089501381,
-    'tz' => 'Europe/Zurich',
+    'tz' => 'Europe/Paris',
   ),
   'QLS' => 
   array (
@@ -39822,6 +51639,19 @@ abstract class AirportLibrary
     'elevation' => 1585,
     'lat' => 46.2196006775,
     'lon' => 7.3267598152,
+    'tz' => 'Europe/Zurich',
+  ),
+  'EML' => 
+  array (
+    'icao' => 'LSME',
+    'iata' => 'EML',
+    'name' => 'Emmen Airport',
+    'city' => '',
+    'state' => 'Lucerne',
+    'country' => 'CH',
+    'elevation' => 1400,
+    'lat' => 47.0923995972,
+    'lon' => 8.3051204681,
     'tz' => 'Europe/Zurich',
   ),
   'ZIN' => 
@@ -39939,7 +51769,7 @@ abstract class AirportLibrary
     'elevation' => 1306,
     'lat' => 47.4850006104,
     'lon' => 9.5607700348,
-    'tz' => 'Europe/Zurich',
+    'tz' => 'Europe/Vienna',
   ),
   'SMV' => 
   array (
@@ -40206,12 +52036,12 @@ abstract class AirportLibrary
     'icao' => 'LTFM',
     'iata' => 'IST',
     'name' => 'Istanbul Airport',
-    'city' => 'Istanbul',
+    'city' => 'Arnavutkoy',
     'state' => 'Istanbul',
     'country' => 'TR',
     'elevation' => 325,
-    'lat' => 41.275333,
-    'lon' => 28.752,
+    'lat' => 41.262222,
+    'lon' => 28.727778,
     'tz' => 'Europe/Istanbul',
   ),
   'CII' => 
@@ -40669,6 +52499,19 @@ abstract class AirportLibrary
     'lon' => 43.8766479492,
     'tz' => 'Europe/Istanbul',
   ),
+  'YKO' => 
+  array (
+    'icao' => 'LTCW',
+    'iata' => 'YKO',
+    'name' => 'Hakkari Yuksekova Airport',
+    'city' => 'Yuksekova',
+    'state' => 'Hakkari',
+    'country' => 'TR',
+    'elevation' => 6400,
+    'lat' => 37.551667,
+    'lon' => 44.233611,
+    'tz' => 'Europe/Istanbul',
+  ),
   'HTY' => 
   array (
     'icao' => 'LTDA',
@@ -40836,7 +52679,7 @@ abstract class AirportLibrary
     'elevation' => 15,
     'lat' => 36.1511993408,
     'lon' => -5.3496599197,
-    'tz' => 'Europe/Madrid',
+    'tz' => 'Europe/Gibraltar',
   ),
   'BEG' => 
   array (
@@ -41163,6 +53006,19 @@ abstract class AirportLibrary
     'lon' => -71.1999969482,
     'tz' => 'America/Grand_Turk',
   ),
+  'EPS' => 
+  array (
+    'icao' => 'MDPO',
+    'iata' => 'EPS',
+    'name' => 'Samana El Portillo Airport',
+    'city' => 'Samana',
+    'state' => 'Samana',
+    'country' => 'DO',
+    'elevation' => 30,
+    'lat' => 19.3214150435,
+    'lon' => -69.4959121943,
+    'tz' => 'America/Santo_Domingo',
+  ),
   'BRX' => 
   array (
     'icao' => 'MDBH',
@@ -41254,19 +53110,6 @@ abstract class AirportLibrary
     'lon' => -68.3634033203,
     'tz' => 'America/Santo_Domingo',
   ),
-  'EPS' => 
-  array (
-    'icao' => 'MDPO',
-    'iata' => 'EPS',
-    'name' => 'Samana El Portillo Airport',
-    'city' => 'Samana',
-    'state' => 'Samana',
-    'country' => 'DO',
-    'elevation' => 30,
-    'lat' => 19.3214150435,
-    'lon' => -69.4959121943,
-    'tz' => 'America/Santo_Domingo',
-  ),
   'POP' => 
   array (
     'icao' => 'MDPP',
@@ -41282,16 +53125,16 @@ abstract class AirportLibrary
   ),
   'SNX' => 
   array (
-    'icao' => 'MDSB',
+    'icao' => 'OIIS',
     'iata' => 'SNX',
-    'name' => 'Sabana de Mar Airport',
-    'city' => 'Sabana de Mar',
-    'state' => 'Hato-Mayor',
-    'country' => 'DO',
-    'elevation' => 15,
-    'lat' => 19.0618991852,
-    'lon' => -69.3852005005,
-    'tz' => 'America/Santo_Domingo',
+    'name' => 'Semnan Airport',
+    'city' => 'Semnan',
+    'state' => 'Semnan',
+    'country' => 'IR',
+    'elevation' => 3665,
+    'lat' => 35.5910987854,
+    'lon' => 53.495098114,
+    'tz' => 'Asia/Tehran',
   ),
   'SDQ' => 
   array (
@@ -41421,7 +53264,7 @@ abstract class AirportLibrary
     'elevation' => 4670,
     'lat' => 17.0686092377,
     'lon' => -89.1522216797,
-    'tz' => 'America/Guatemala',
+    'tz' => 'America/Belize',
   ),
   'PBR' => 
   array (
@@ -41618,6 +53461,19 @@ abstract class AirportLibrary
     'lon' => -85.9000015259,
     'tz' => 'America/Tegucigalpa',
   ),
+  'CYL' => 
+  array (
+    'icao' => 'MHCS',
+    'iata' => 'CYL',
+    'name' => 'Coyoles Airport',
+    'city' => 'Coyoles',
+    'state' => 'Yoro',
+    'country' => 'HN',
+    'elevation' => 150,
+    'lat' => 15.445555687,
+    'lon' => -86.67527771,
+    'tz' => 'America/Tegucigalpa',
+  ),
   'CDD' => 
   array (
     'icao' => 'MHCU',
@@ -41629,6 +53485,45 @@ abstract class AirportLibrary
     'elevation' => 21,
     'lat' => 15.3166666031,
     'lon' => -83.5916671753,
+    'tz' => 'America/Tegucigalpa',
+  ),
+  'OAN' => 
+  array (
+    'icao' => 'MHEA',
+    'iata' => 'OAN',
+    'name' => 'El Arrayan Airport',
+    'city' => 'Olanchito',
+    'state' => 'Yoro',
+    'country' => 'HN',
+    'elevation' => 220,
+    'lat' => 15.5055561066,
+    'lon' => -86.57472229,
+    'tz' => 'America/Tegucigalpa',
+  ),
+  'GAC' => 
+  array (
+    'icao' => 'MHGS',
+    'iata' => 'GAC',
+    'name' => 'Gracias Airport',
+    'city' => 'El Molino',
+    'state' => 'Lempira',
+    'country' => 'HN',
+    'elevation' => 828,
+    'lat' => 14.5966672897,
+    'lon' => -88.5941696167,
+    'tz' => 'America/Tegucigalpa',
+  ),
+  'IRN' => 
+  array (
+    'icao' => 'MHIR',
+    'iata' => 'IRN',
+    'name' => 'Iriona Airport',
+    'city' => 'Iriona',
+    'state' => 'Colon',
+    'country' => 'HN',
+    'elevation' => 8,
+    'lat' => 15.9391670227,
+    'lon' => -85.13722229,
     'tz' => 'America/Tegucigalpa',
   ),
   'JUT' => 
@@ -41694,6 +53589,19 @@ abstract class AirportLibrary
     'elevation' => 49,
     'lat' => 16.445400238,
     'lon' => -85.9066009521,
+    'tz' => 'America/Tegucigalpa',
+  ),
+  'PCH' => 
+  array (
+    'icao' => 'MHPC',
+    'iata' => 'PCH',
+    'name' => 'Palacios Airport',
+    'city' => 'Palacios',
+    'state' => 'Gracias-a-Dios',
+    'country' => 'HN',
+    'elevation' => 30,
+    'lat' => 15.9549999237,
+    'lon' => -84.9413909912,
     'tz' => 'America/Tegucigalpa',
   ),
   'PEU' => 
@@ -41941,7 +53849,7 @@ abstract class AirportLibrary
     'elevation' => 1476,
     'lat' => 25.8656005859,
     'lon' => -100.2369995117,
-    'tz' => 'America/Mexico_City',
+    'tz' => 'America/Monterrey',
   ),
   'AGU' => 
   array (
@@ -42006,7 +53914,7 @@ abstract class AirportLibrary
     'elevation' => 1410,
     'lat' => 29.3328990936,
     'lon' => -101.0989990234,
-    'tz' => 'America/Mexico_City',
+    'tz' => 'America/Matamoros',
   ),
   'CME' => 
   array (
@@ -42019,7 +53927,7 @@ abstract class AirportLibrary
     'elevation' => 10,
     'lat' => 18.6536998749,
     'lon' => -91.7990036011,
-    'tz' => 'America/Mexico_City',
+    'tz' => 'America/Merida',
   ),
   'NCG' => 
   array (
@@ -42110,7 +54018,7 @@ abstract class AirportLibrary
     'elevation' => 3904,
     'lat' => 31.636100769,
     'lon' => -106.4290008545,
-    'tz' => 'America/Mazatlan',
+    'tz' => 'America/Ojinaga',
   ),
   'CZA' => 
   array (
@@ -42123,7 +54031,7 @@ abstract class AirportLibrary
     'elevation' => 102,
     'lat' => 20.6413002014,
     'lon' => -88.4461975098,
-    'tz' => 'America/Mexico_City',
+    'tz' => 'America/Merida',
   ),
   'CUU' => 
   array (
@@ -42136,7 +54044,7 @@ abstract class AirportLibrary
     'elevation' => 4462,
     'lat' => 28.7028999329,
     'lon' => -105.964996338,
-    'tz' => 'America/Mazatlan',
+    'tz' => 'America/Chihuahua',
   ),
   'CVM' => 
   array (
@@ -42279,7 +54187,7 @@ abstract class AirportLibrary
     'elevation' => 59,
     'lat' => 28.0261001587,
     'lon' => -114.0240020752,
-    'tz' => 'America/Tijuana',
+    'tz' => 'America/Mazatlan',
   ),
   'TCN' => 
   array (
@@ -42461,7 +54369,7 @@ abstract class AirportLibrary
     'elevation' => 25,
     'lat' => 25.7698993683,
     'lon' => -97.5252990723,
-    'tz' => 'America/Mexico_City',
+    'tz' => 'America/Matamoros',
   ),
   'MID' => 
   array (
@@ -42565,7 +54473,7 @@ abstract class AirportLibrary
     'elevation' => 1278,
     'lat' => 25.7784996033,
     'lon' => -100.107002258,
-    'tz' => 'America/Mexico_City',
+    'tz' => 'America/Monterrey',
   ),
   'MZT' => 
   array (
@@ -42604,7 +54512,7 @@ abstract class AirportLibrary
     'elevation' => 484,
     'lat' => 27.4438991547,
     'lon' => -99.5705032349,
-    'tz' => 'America/Mexico_City',
+    'tz' => 'America/Matamoros',
   ),
   'OAX' => 
   array (
@@ -42669,7 +54577,7 @@ abstract class AirportLibrary
     'elevation' => 901,
     'lat' => 28.6273994446,
     'lon' => -100.5350036621,
-    'tz' => 'America/Mexico_City',
+    'tz' => 'America/Matamoros',
   ),
   'PCO' => 
   array (
@@ -42721,7 +54629,7 @@ abstract class AirportLibrary
     'elevation' => 23,
     'lat' => 20.6800994873,
     'lon' => -105.2539978027,
-    'tz' => 'America/Mexico_City',
+    'tz' => 'America/Bahia_Banderas',
   ),
   'PXM' => 
   array (
@@ -42760,7 +54668,7 @@ abstract class AirportLibrary
     'elevation' => 139,
     'lat' => 26.0088996887,
     'lon' => -98.2285003662,
-    'tz' => 'America/Mexico_City',
+    'tz' => 'America/Matamoros',
   ),
   'SZT' => 
   array (
@@ -42801,6 +54709,19 @@ abstract class AirportLibrary
     'lon' => -114.8089981079,
     'tz' => 'America/Tijuana',
   ),
+  'NLU' => 
+  array (
+    'icao' => 'MMSM',
+    'iata' => 'NLU',
+    'name' => 'Felipe Angeles International Airport',
+    'city' => 'Santa Lucia',
+    'state' => 'Mexico',
+    'country' => 'MX',
+    'elevation' => 7369,
+    'lat' => 19.756667,
+    'lon' => -99.015278,
+    'tz' => 'America/Mexico_City',
+  ),
   'SLP' => 
   array (
     'icao' => 'MMSP',
@@ -42825,7 +54746,7 @@ abstract class AirportLibrary
     'elevation' => 3688,
     'lat' => 25.5683002472,
     'lon' => -103.411003113,
-    'tz' => 'America/Mexico_City',
+    'tz' => 'America/Monterrey',
   ),
   'TGZ' => 
   array (
@@ -42851,7 +54772,7 @@ abstract class AirportLibrary
     'elevation' => 489,
     'lat' => 32.5410995483,
     'lon' => -116.9700012207,
-    'tz' => 'America/Tijuana',
+    'tz' => 'America/Los_Angeles',
   ),
   'TAM' => 
   array (
@@ -42864,7 +54785,7 @@ abstract class AirportLibrary
     'elevation' => 80,
     'lat' => 22.2964000702,
     'lon' => -97.8658981323,
-    'tz' => 'America/Mexico_City',
+    'tz' => 'America/Monterrey',
   ),
   'TSL' => 
   array (
@@ -43204,6 +55125,19 @@ abstract class AirportLibrary
     'lon' => -79.867401123,
     'tz' => 'America/Panama',
   ),
+  'BLB' => 
+  array (
+    'icao' => 'MPPA',
+    'iata' => 'BLB',
+    'name' => 'Howard/Panama Pacifico International Airport',
+    'city' => 'Panama City',
+    'state' => 'Panama',
+    'country' => 'PA',
+    'elevation' => 52,
+    'lat' => 8.9147901535,
+    'lon' => -79.5996017456,
+    'tz' => 'America/Panama',
+  ),
   'JQE' => 
   array (
     'icao' => 'MPJE',
@@ -43243,17 +55177,30 @@ abstract class AirportLibrary
     'lon' => -79.5556030273,
     'tz' => 'America/Panama',
   ),
-  'BLB' => 
+  'PUE' => 
   array (
-    'icao' => 'MPPA',
-    'iata' => 'BLB',
-    'name' => 'Howard/Panama Pacifico International Airport',
-    'city' => 'Panama City',
-    'state' => 'Panama',
+    'icao' => 'MPOA',
+    'iata' => 'PUE',
+    'name' => 'Puerto Obaldia Airport',
+    'city' => 'Puerto Obaldia',
+    'state' => 'Guna-Yala',
     'country' => 'PA',
-    'elevation' => 52,
-    'lat' => 8.9147901535,
-    'lon' => -79.5996017456,
+    'elevation' => 223,
+    'lat' => 8.6862602234,
+    'lon' => -77.5243988037,
+    'tz' => 'America/Panama',
+  ),
+  'RIH' => 
+  array (
+    'icao' => 'MPSM',
+    'iata' => 'RIH',
+    'name' => 'Scarlett Martinez International Airport',
+    'city' => 'Rio Hato',
+    'state' => 'Cocle',
+    'country' => 'PA',
+    'elevation' => 121,
+    'lat' => 8.375833,
+    'lon' => -80.127778,
     'tz' => 'America/Panama',
   ),
   'SYP' => 
@@ -43280,6 +55227,19 @@ abstract class AirportLibrary
     'elevation' => 135,
     'lat' => 9.0713596344,
     'lon' => -79.3834991455,
+    'tz' => 'America/Panama',
+  ),
+  'PVE' => 
+  array (
+    'icao' => 'MPVR',
+    'iata' => 'PVE',
+    'name' => 'El Porvenir Airport',
+    'city' => 'El Porvenir',
+    'state' => 'Guna-Yala',
+    'country' => 'PA',
+    'elevation' => 17,
+    'lat' => 9.5634202957,
+    'lon' => -79.0040969849,
     'tz' => 'America/Panama',
   ),
   'NBL' => 
@@ -43349,15 +55309,15 @@ abstract class AirportLibrary
   ),
   'CSC' => 
   array (
-    'icao' => 'MRCA',
+    'icao' => 'MRMJ',
     'iata' => 'CSC',
-    'name' => 'Codela Airport',
-    'city' => 'Guapiles',
+    'name' => 'Mojica Airport',
+    'city' => 'Canas',
     'state' => 'Guanacaste',
     'country' => 'CR',
-    'elevation' => 328,
-    'lat' => 10.4139995575,
-    'lon' => -85.0916976929,
+    'elevation' => 230,
+    'lat' => 10.4307003021,
+    'lon' => -85.1745986938,
     'tz' => 'America/Costa_Rica',
   ),
   'OTR' => 
@@ -43371,6 +55331,19 @@ abstract class AirportLibrary
     'elevation' => 26,
     'lat' => 8.601559639,
     'lon' => -82.9685974121,
+    'tz' => 'America/Costa_Rica',
+  ),
+  'JAP' => 
+  array (
+    'icao' => 'MRCH',
+    'iata' => 'JAP',
+    'name' => 'Chacarita Airport',
+    'city' => 'Puntarenas',
+    'state' => 'Puntarenas',
+    'country' => 'CR',
+    'elevation' => 7,
+    'lat' => 9.9814100266,
+    'lon' => -84.7726974487,
     'tz' => 'America/Costa_Rica',
   ),
   'RIK' => 
@@ -43594,6 +55567,19 @@ abstract class AirportLibrary
     'lon' => -83.8876037598,
     'tz' => 'America/Costa_Rica',
   ),
+  'IPZ' => 
+  array (
+    'icao' => 'MRSI',
+    'iata' => 'IPZ',
+    'name' => 'San Isidro del General Airport',
+    'city' => 'Perez Zeledon',
+    'state' => 'San-Jose',
+    'country' => 'CR',
+    'elevation' => 2100,
+    'lat' => 9.3526201248,
+    'lon' => -83.7130966187,
+    'tz' => 'America/Costa_Rica',
+  ),
   'PLD' => 
   array (
     'icao' => 'MRSR',
@@ -43670,6 +55656,19 @@ abstract class AirportLibrary
     'elevation' => 101,
     'lat' => 13.4408998489,
     'lon' => -89.0557022095,
+    'tz' => 'America/El_Salvador',
+  ),
+  'ILS' => 
+  array (
+    'icao' => 'MSSS',
+    'iata' => 'ILS',
+    'name' => 'Ilopango International Airport',
+    'city' => 'San Salvador',
+    'state' => 'San-Salvador',
+    'country' => 'SV',
+    'elevation' => 2021,
+    'lat' => 13.6995000839,
+    'lon' => -89.1199035645,
     'tz' => 'America/El_Salvador',
   ),
   'CYA' => 
@@ -44361,19 +56360,6 @@ abstract class AirportLibrary
     'lon' => -75.6737976074,
     'tz' => 'America/Nassau',
   ),
-  'CAT' => 
-  array (
-    'icao' => 'MYCB',
-    'iata' => 'CAT',
-    'name' => 'New Bight Airport',
-    'city' => 'Cat Island',
-    'state' => 'Cat-Island',
-    'country' => 'BS',
-    'elevation' => 5,
-    'lat' => 24.3152999878,
-    'lon' => -75.4523010254,
-    'tz' => 'America/Nassau',
-  ),
   'CXY' => 
   array (
     'icao' => 'MYCC',
@@ -44502,6 +56488,19 @@ abstract class AirportLibrary
     'elevation' => 7,
     'lat' => 26.5587005615,
     'lon' => -78.695602417,
+    'tz' => 'America/Nassau',
+  ),
+  'GBI' => 
+  array (
+    'icao' => 'MYGM',
+    'iata' => 'GBI',
+    'name' => 'Auxiliary Airfield',
+    'city' => 'Grand Bahama',
+    'state' => 'East-Grand-Bahama',
+    'country' => 'BS',
+    'elevation' => 8,
+    'lat' => 26.6319007874,
+    'lon' => -78.3591995239,
     'tz' => 'America/Nassau',
   ),
   'WTD' => 
@@ -45869,6 +57868,19 @@ abstract class AirportLibrary
     'lon' => -145.470001221,
     'tz' => 'Pacific/Tahiti',
   ),
+  'TJN' => 
+  array (
+    'icao' => 'NTKM',
+    'iata' => 'TJN',
+    'name' => 'Takume Airport',
+    'city' => 'Takume',
+    'state' => '',
+    'country' => 'PF',
+    'elevation' => 7,
+    'lat' => -15.8547000885,
+    'lon' => -142.2680053711,
+    'tz' => 'Pacific/Tahiti',
+  ),
   'RRR' => 
   array (
     'icao' => 'NTKO',
@@ -45893,6 +57905,19 @@ abstract class AirportLibrary
     'elevation' => 13,
     'lat' => -14.4558000565,
     'lon' => -145.0249938965,
+    'tz' => 'Pacific/Tahiti',
+  ),
+  'KXU' => 
+  array (
+    'icao' => 'NTKT',
+    'iata' => 'KXU',
+    'name' => 'Katiu Airport',
+    'city' => 'Katiu',
+    'state' => 'Iles-Tuamotu-Gambier',
+    'country' => 'PF',
+    'elevation' => 7,
+    'lat' => -16.3393993378,
+    'lon' => -144.4029998779,
     'tz' => 'Pacific/Tahiti',
   ),
   'NHV' => 
@@ -46049,6 +58074,19 @@ abstract class AirportLibrary
     'elevation' => 3,
     'lat' => -16.7229003906,
     'lon' => -151.466003418,
+    'tz' => 'Pacific/Tahiti',
+  ),
+  'UOA' => 
+  array (
+    'icao' => 'NTTX',
+    'iata' => 'UOA',
+    'name' => 'Mururoa Atoll Airport',
+    'city' => 'Mururoa Atoll',
+    'state' => 'Iles-Tuamotu-Gambier',
+    'country' => 'PF',
+    'elevation' => 7,
+    'lat' => -21.8670005798,
+    'lon' => -138.9170074463,
     'tz' => 'Pacific/Tahiti',
   ),
   'VHZ' => 
@@ -47440,7 +59478,7 @@ abstract class AirportLibrary
     'elevation' => 5250,
     'lat' => 38.461101532,
     'lon' => 70.8824996948,
-    'tz' => 'Asia/Kabul',
+    'tz' => 'Asia/Dushanbe',
   ),
   'FAH' => 
   array (
@@ -47479,7 +59517,7 @@ abstract class AirportLibrary
     'elevation' => 3593,
     'lat' => 37.8829994202,
     'lon' => 70.2170028687,
-    'tz' => 'Asia/Kabul',
+    'tz' => 'Asia/Dushanbe',
   ),
   'HEA' => 
   array (
@@ -47635,7 +59673,7 @@ abstract class AirportLibrary
     'elevation' => 6700,
     'lat' => 37.5670013428,
     'lon' => 71.5,
-    'tz' => 'Asia/Kabul',
+    'tz' => 'Asia/Dushanbe',
   ),
   'TII' => 
   array (
@@ -47648,6 +59686,19 @@ abstract class AirportLibrary
     'elevation' => 4429,
     'lat' => 32.6041984558,
     'lon' => 65.8657989502,
+    'tz' => 'Asia/Kabul',
+  ),
+  'TQN' => 
+  array (
+    'icao' => 'OATQ',
+    'iata' => 'TQN',
+    'name' => 'Talolqan Airport',
+    'city' => 'Taloqan',
+    'state' => 'Takhar',
+    'country' => 'AF',
+    'elevation' => 2606,
+    'lat' => 36.7706985474,
+    'lon' => 69.5319976807,
     'tz' => 'Asia/Kabul',
   ),
   'UND' => 
@@ -47726,6 +59777,19 @@ abstract class AirportLibrary
     'elevation' => 588,
     'lat' => 25.2852993011,
     'lon' => 49.4851989746,
+    'tz' => 'Asia/Riyadh',
+  ),
+  'ULH' => 
+  array (
+    'icao' => 'OEAO',
+    'iata' => 'ULH',
+    'name' => 'Prince Abdul Majeed bin Abdulaziz International Airport',
+    'city' => 'Al-\'Ula',
+    'state' => 'Al Madinah',
+    'country' => 'SA',
+    'elevation' => 2047,
+    'lat' => 26.483333,
+    'lon' => 38.116944,
     'tz' => 'Asia/Riyadh',
   ),
   'ABT' => 
@@ -48157,6 +60221,32 @@ abstract class AirportLibrary
     'lon' => 48.3975982666,
     'tz' => 'Asia/Tehran',
   ),
+  'AKW' => 
+  array (
+    'icao' => 'PAKW',
+    'iata' => 'AKW',
+    'name' => 'Klawock Airport',
+    'city' => 'Klawock',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 80,
+    'lat' => 55.5792007446,
+    'lon' => -133.0760040283,
+    'tz' => 'America/Sitka',
+  ),
+  'GCH' => 
+  array (
+    'icao' => 'OIAH',
+    'iata' => 'GCH',
+    'name' => 'Gachsaran Airport',
+    'city' => '',
+    'state' => 'Kohgiluyeh-va-Buyer-Aḩmad',
+    'country' => 'IR',
+    'elevation' => 2414,
+    'lat' => 30.337600708,
+    'lon' => 50.827999115,
+    'tz' => 'Asia/Tehran',
+  ),
   'OMI' => 
   array (
     'icao' => 'OIAJ',
@@ -48220,6 +60310,19 @@ abstract class AirportLibrary
     'elevation' => 68,
     'lat' => 28.9447994232,
     'lon' => 50.8345985413,
+    'tz' => 'Asia/Tehran',
+  ),
+  'IAQ' => 
+  array (
+    'icao' => 'OIBH',
+    'iata' => 'IAQ',
+    'name' => 'Bastak Airport',
+    'city' => '',
+    'state' => 'Hormozgan',
+    'country' => 'IR',
+    'elevation' => 1350,
+    'lat' => 27.2126998901,
+    'lon' => 54.3185997009,
     'tz' => 'Asia/Tehran',
   ),
   'AOY' => 
@@ -48391,6 +60494,19 @@ abstract class AirportLibrary
     'lon' => 51.5611000061,
     'tz' => 'Asia/Tehran',
   ),
+  'KKS' => 
+  array (
+    'icao' => 'OIFK',
+    'iata' => 'KKS',
+    'name' => 'Kashan Airport',
+    'city' => '',
+    'state' => 'Isfahan',
+    'country' => 'IR',
+    'elevation' => 3465,
+    'lat' => 33.8953018188,
+    'lon' => 51.5769996643,
+    'tz' => 'Asia/Tehran',
+  ),
   'IFN' => 
   array (
     'icao' => 'OIFM',
@@ -48456,6 +60572,19 @@ abstract class AirportLibrary
     'lon' => 49.8473014832,
     'tz' => 'Asia/Tehran',
   ),
+  'NUJ' => 
+  array (
+    'icao' => 'OIHS',
+    'iata' => 'NUJ',
+    'name' => 'Hamadan Air Base',
+    'city' => 'Hamadan',
+    'state' => 'Hamadan',
+    'country' => 'IR',
+    'elevation' => 5609,
+    'lat' => 35.2116012573,
+    'lon' => 48.6534004211,
+    'tz' => 'Asia/Tehran',
+  ),
   'IKA' => 
   array (
     'icao' => 'OIIE',
@@ -48482,6 +60611,32 @@ abstract class AirportLibrary
     'lon' => 51.3134002686,
     'tz' => 'Asia/Tehran',
   ),
+  'GZW' => 
+  array (
+    'icao' => 'OIIK',
+    'iata' => 'GZW',
+    'name' => 'Qazvin Airport',
+    'city' => 'Qazvin',
+    'state' => 'Qazvin',
+    'country' => 'IR',
+    'elevation' => 4184,
+    'lat' => 36.2401008606,
+    'lon' => 50.0471000671,
+    'tz' => 'Asia/Tehran',
+  ),
+  'PYK' => 
+  array (
+    'icao' => 'OIIP',
+    'iata' => 'PYK',
+    'name' => 'Payam Airport',
+    'city' => '',
+    'state' => 'Alborz',
+    'country' => 'IR',
+    'elevation' => 4170,
+    'lat' => 35.7761001587,
+    'lon' => 50.8266983032,
+    'tz' => 'Asia/Tehran',
+  ),
   'BND' => 
   array (
     'icao' => 'OIKB',
@@ -48493,6 +60648,19 @@ abstract class AirportLibrary
     'elevation' => 22,
     'lat' => 27.2182998657,
     'lon' => 56.3777999878,
+    'tz' => 'Asia/Tehran',
+  ),
+  'JYR' => 
+  array (
+    'icao' => 'OIKJ',
+    'iata' => 'JYR',
+    'name' => 'Jiroft Airport',
+    'city' => '',
+    'state' => 'Kerman',
+    'country' => 'IR',
+    'elevation' => 2663,
+    'lat' => 28.7269001007,
+    'lon' => 57.67029953,
     'tz' => 'Asia/Tehran',
   ),
   'KER' => 
@@ -48532,6 +60700,19 @@ abstract class AirportLibrary
     'elevation' => 19,
     'lat' => 27.1583003998,
     'lon' => 56.1725006104,
+    'tz' => 'Asia/Tehran',
+  ),
+  'GSM' => 
+  array (
+    'icao' => 'OIKQ',
+    'iata' => 'GSM',
+    'name' => 'Dayrestan Airport',
+    'city' => '',
+    'state' => 'Hormozgan',
+    'country' => 'IR',
+    'elevation' => 45,
+    'lat' => 26.7546005249,
+    'lon' => 55.9024009705,
     'tz' => 'Asia/Tehran',
   ),
   'RJN' => 
@@ -48653,15 +60834,28 @@ abstract class AirportLibrary
   ),
   'BBL' => 
   array (
-    'icao' => 'OINB',
+    'icao' => 'YLLE',
     'iata' => 'BBL',
-    'name' => 'Babolsar Airport',
-    'city' => 'Babolsar',
+    'name' => 'Ballera Airport',
+    'city' => '',
+    'state' => 'Queensland',
+    'country' => 'AU',
+    'elevation' => 385,
+    'lat' => -27.4083003998,
+    'lon' => 141.8079986572,
+    'tz' => 'Australia/Brisbane',
+  ),
+  'KLM' => 
+  array (
+    'icao' => 'OINE',
+    'iata' => 'KLM',
+    'name' => 'Kalaleh Airport',
+    'city' => '',
     'state' => 'Mazandaran',
     'country' => 'IR',
-    'elevation' => -49,
-    'lat' => 36.7200012207,
-    'lon' => 52.6500015259,
+    'elevation' => 425,
+    'lat' => 37.3833007813,
+    'lon' => 55.4519996643,
     'tz' => 'Asia/Tehran',
   ),
   'GBT' => 
@@ -48742,6 +60936,19 @@ abstract class AirportLibrary
     'lon' => 53.7233009338,
     'tz' => 'Asia/Tehran',
   ),
+  'JAR' => 
+  array (
+    'icao' => 'OISJ',
+    'iata' => 'JAR',
+    'name' => 'Jahrom Airport',
+    'city' => '',
+    'state' => 'Fars',
+    'country' => 'IR',
+    'elevation' => 3358,
+    'lat' => 28.5867004395,
+    'lon' => 53.5791015625,
+    'tz' => 'Asia/Tehran',
+  ),
   'LRR' => 
   array (
     'icao' => 'OISL',
@@ -48755,6 +60962,19 @@ abstract class AirportLibrary
     'lon' => 54.3833007812,
     'tz' => 'Asia/Tehran',
   ),
+  'LFM' => 
+  array (
+    'icao' => 'OISR',
+    'iata' => 'LFM',
+    'name' => 'Lamerd Airport',
+    'city' => 'Lamerd',
+    'state' => 'Fars',
+    'country' => 'IR',
+    'elevation' => 1337,
+    'lat' => 27.3726997375,
+    'lon' => 53.1888008118,
+    'tz' => 'Asia/Tehran',
+  ),
   'SYZ' => 
   array (
     'icao' => 'OISS',
@@ -48766,6 +60986,19 @@ abstract class AirportLibrary
     'elevation' => 4920,
     'lat' => 29.5391998291,
     'lon' => 52.5898017883,
+    'tz' => 'Asia/Tehran',
+  ),
+  'YES' => 
+  array (
+    'icao' => 'OISY',
+    'iata' => 'YES',
+    'name' => 'Yasouj Airport',
+    'city' => '',
+    'state' => 'Kohgiluyeh-va-Buyer-Aḩmad',
+    'country' => 'IR',
+    'elevation' => 5939,
+    'lat' => 30.7005004883,
+    'lon' => 51.5451011658,
     'tz' => 'Asia/Tehran',
   ),
   'KHY' => 
@@ -48846,6 +61079,32 @@ abstract class AirportLibrary
     'lon' => 46.2350006104,
     'tz' => 'Asia/Tehran',
   ),
+  'IMQ' => 
+  array (
+    'icao' => 'OITU',
+    'iata' => 'IMQ',
+    'name' => 'Makou Airport',
+    'city' => 'Makou',
+    'state' => 'Az̄arbayjan-e-Gharbi',
+    'country' => 'IR',
+    'elevation' => 0,
+    'lat' => 39.3300018311,
+    'lon' => 44.4300003052,
+    'tz' => 'Asia/Tehran',
+  ),
+  'JWN' => 
+  array (
+    'icao' => 'OITZ',
+    'iata' => 'JWN',
+    'name' => 'Zanjan Airport',
+    'city' => '',
+    'state' => 'Zanjan',
+    'country' => 'IR',
+    'elevation' => 5382,
+    'lat' => 36.7737007141,
+    'lon' => 48.3594017029,
+    'tz' => 'Asia/Tehran',
+  ),
   'AZD' => 
   array (
     'icao' => 'OIYY',
@@ -48896,6 +61155,19 @@ abstract class AirportLibrary
     'elevation' => 4564,
     'lat' => 29.4757003784,
     'lon' => 60.9062004089,
+    'tz' => 'Asia/Tehran',
+  ),
+  'IHR' => 
+  array (
+    'icao' => 'OIZI',
+    'iata' => 'IHR',
+    'name' => 'Iran Shahr Airport',
+    'city' => '',
+    'state' => 'Sistan-and-Baluchestan',
+    'country' => 'IR',
+    'elevation' => 2040,
+    'lat' => 27.2360992432,
+    'lon' => 60.7200012207,
     'tz' => 'Asia/Tehran',
   ),
   'AMM' => 
@@ -48963,9 +61235,22 @@ abstract class AirportLibrary
     'lon' => -97.5330963135,
     'tz' => 'America/Chicago',
   ),
+  'XIJ' => 
+  array (
+    'icao' => 'OKAJ',
+    'iata' => 'XIJ',
+    'name' => 'Ahmed Al Jaber Air Base',
+    'city' => 'Ahmed Al Jaber AB',
+    'state' => '',
+    'country' => 'KW',
+    'elevation' => 409,
+    'lat' => 28.9347991943,
+    'lon' => 47.7919006348,
+    'tz' => 'Asia/Kuwait',
+  ),
   'KWI' => 
   array (
-    'icao' => 'OKBK',
+    'icao' => 'OKKK',
     'iata' => 'KWI',
     'name' => 'Kuwait International Airport',
     'city' => 'Kuwait City',
@@ -49019,7 +61304,7 @@ abstract class AirportLibrary
   array (
     'icao' => 'OMAD',
     'iata' => 'AZI',
-    'name' => 'Bateen Airport',
+    'name' => 'Al Bateen Executive Airport',
     'city' => '',
     'state' => 'Abu-Dhabi',
     'country' => 'AE',
@@ -49143,7 +61428,7 @@ abstract class AirportLibrary
     'elevation' => 970,
     'lat' => 24.2329998016,
     'lon' => 55.783000946,
-    'tz' => 'Asia/Muscat',
+    'tz' => 'Asia/Dubai',
   ),
   'DQM' => 
   array (
@@ -49248,6 +61533,19 @@ abstract class AirportLibrary
     'lat' => 18.1359996796,
     'lon' => 55.1820983887,
     'tz' => 'Asia/Muscat',
+  ),
+  'MNH' => 
+  array (
+    'icao' => 'VCCH',
+    'iata' => 'MNH',
+    'name' => 'Hingurakgoda Air Force Base',
+    'city' => 'Polonnaruwa Town',
+    'state' => 'North-Central',
+    'country' => 'LK',
+    'elevation' => 170,
+    'lat' => 8.0498104095,
+    'lon' => 80.9813995361,
+    'tz' => 'Asia/Colombo',
   ),
   'SLL' => 
   array (
@@ -49481,6 +61779,19 @@ abstract class AirportLibrary
     'elevation' => 4796,
     'lat' => 35.918800354,
     'lon' => 74.3336029053,
+    'tz' => 'Asia/Karachi',
+  ),
+  'ISB' => 
+  array (
+    'icao' => 'OPRN',
+    'iata' => 'ISB',
+    'name' => 'Benazir Bhutto International Airport',
+    'city' => 'Islamabad',
+    'state' => 'Punjab',
+    'country' => 'PK',
+    'elevation' => 1668,
+    'lat' => 33.6166992188,
+    'lon' => 73.0991973877,
     'tz' => 'Asia/Karachi',
   ),
   'JAG' => 
@@ -49795,19 +62106,6 @@ abstract class AirportLibrary
     'lon' => 70.2796020508,
     'tz' => 'Asia/Karachi',
   ),
-  'ISB' => 
-  array (
-    'icao' => 'OPRN',
-    'iata' => 'ISB',
-    'name' => 'Benazir Bhutto International Airport',
-    'city' => 'Islamabad',
-    'state' => 'Punjab',
-    'country' => 'PK',
-    'elevation' => 1668,
-    'lat' => 33.6166992188,
-    'lon' => 73.0991973877,
-    'tz' => 'Asia/Karachi',
-  ),
   'RAZ' => 
   array (
     'icao' => 'OPRT',
@@ -50027,6 +62325,19 @@ abstract class AirportLibrary
     'elevation' => 618,
     'lat' => 33.7855987549,
     'lon' => 42.4412002563,
+    'tz' => 'Asia/Baghdad',
+  ),
+  'TQD' => 
+  array (
+    'icao' => 'ORAT',
+    'iata' => 'TQD',
+    'name' => 'Al Taqaddum Air Base',
+    'city' => 'Al Habbaniyah',
+    'state' => 'Anbar',
+    'country' => 'IQ',
+    'elevation' => 275,
+    'lat' => 33.3381004333,
+    'lon' => 43.5970993042,
     'tz' => 'Asia/Baghdad',
   ),
   'BMN' => 
@@ -50287,6 +62598,19 @@ abstract class AirportLibrary
     'elevation' => 3735,
     'lat' => 14.5513000488,
     'lon' => 46.8261985779,
+    'tz' => 'Asia/Aden',
+  ),
+  'BYD' => 
+  array (
+    'icao' => 'OYBI',
+    'iata' => 'BYD',
+    'name' => 'Al-Bayda Airport',
+    'city' => 'Al-Bayda',
+    'state' => 'Al-Bayda-Governorate',
+    'country' => 'YE',
+    'elevation' => 6120,
+    'lat' => 13.9670000076,
+    'lon' => 45.5830001831,
     'tz' => 'Asia/Aden',
   ),
   'BHN' => 
@@ -50586,7 +62910,7 @@ abstract class AirportLibrary
     'elevation' => 96,
     'lat' => 55.2061004639,
     'lon' => -162.7250061035,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'CEM' => 
   array (
@@ -50627,6 +62951,19 @@ abstract class AirportLibrary
     'lon' => -143.740005493,
     'tz' => 'America/Anchorage',
   ),
+  'CYF' => 
+  array (
+    'icao' => 'PACK',
+    'iata' => 'CYF',
+    'name' => 'Chefornak Airport',
+    'city' => 'Chefornak',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 40,
+    'lat' => 60.1492004395,
+    'lon' => -164.2859954834,
+    'tz' => 'America/Nome',
+  ),
   'SCM' => 
   array (
     'icao' => 'PACM',
@@ -50638,7 +62975,7 @@ abstract class AirportLibrary
     'elevation' => 14,
     'lat' => 61.8452987671,
     'lon' => -165.570999146,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'IRC' => 
   array (
@@ -50653,6 +62990,19 @@ abstract class AirportLibrary
     'lon' => -144.076004,
     'tz' => 'America/Anchorage',
   ),
+  'WSF' => 
+  array (
+    'icao' => 'PACS',
+    'iata' => 'WSF',
+    'name' => 'Cape Sarichef Airport',
+    'city' => 'Cape Sarichef',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 291,
+    'lat' => 54.5824012756,
+    'lon' => -164.9140014648,
+    'tz' => 'America/Nome',
+  ),
   'CDV' => 
   array (
     'icao' => 'PACV',
@@ -50666,6 +63016,32 @@ abstract class AirportLibrary
     'lon' => -145.4779968,
     'tz' => 'America/Anchorage',
   ),
+  'CXF' => 
+  array (
+    'icao' => 'PACX',
+    'iata' => 'CXF',
+    'name' => 'Coldfoot Airport',
+    'city' => 'Coldfoot',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 1042,
+    'lat' => 67.2521972656,
+    'lon' => -150.203994751,
+    'tz' => 'America/Anchorage',
+  ),
+  'CYT' => 
+  array (
+    'icao' => 'PACY',
+    'iata' => 'CYT',
+    'name' => 'Yakataga Airport',
+    'city' => 'Yakataga',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 12,
+    'lat' => 60.0820007324,
+    'lon' => -142.4929962158,
+    'tz' => 'America/Anchorage',
+  ),
   'CZF' => 
   array (
     'icao' => 'PACZ',
@@ -50677,7 +63053,7 @@ abstract class AirportLibrary
     'elevation' => 464,
     'lat' => 61.78030014,
     'lon' => -166.0390015,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'DRG' => 
   array (
@@ -50690,7 +63066,7 @@ abstract class AirportLibrary
     'elevation' => 21,
     'lat' => 66.0696029663,
     'lon' => -162.76600647,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'RDB' => 
   array (
@@ -50731,6 +63107,19 @@ abstract class AirportLibrary
     'lon' => -158.5050049,
     'tz' => 'America/Anchorage',
   ),
+  'MLL' => 
+  array (
+    'icao' => 'PADM',
+    'iata' => 'MLL',
+    'name' => 'Marshall Don Hunter Sr Airport',
+    'city' => 'Marshall',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 103,
+    'lat' => 61.8642997742,
+    'lon' => -162.0260009766,
+    'tz' => 'America/Anchorage',
+  ),
   'ADQ' => 
   array (
     'icao' => 'PADQ',
@@ -50755,7 +63144,20 @@ abstract class AirportLibrary
     'elevation' => 22,
     'lat' => 53.900100708,
     'lon' => -166.5440063477,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
+  ),
+  'KKH' => 
+  array (
+    'icao' => 'PADY',
+    'iata' => 'KKH',
+    'name' => 'Kongiganak Airport',
+    'city' => 'Kongiganak',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 30,
+    'lat' => 59.9608001709,
+    'lon' => -162.8809967041,
+    'tz' => 'America/Nome',
   ),
   'EDF' => 
   array (
@@ -50781,6 +63183,19 @@ abstract class AirportLibrary
     'elevation' => 12,
     'lat' => 60.21367264,
     'lon' => -162.0438843,
+    'tz' => 'America/Nome',
+  ),
+  'EAA' => 
+  array (
+    'icao' => 'PAEG',
+    'iata' => 'EAA',
+    'name' => 'Eagle Airport',
+    'city' => 'Eagle',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 908,
+    'lat' => 64.77639771,
+    'lon' => -141.151001,
     'tz' => 'America/Anchorage',
   ),
   'EHM' => 
@@ -50794,7 +63209,7 @@ abstract class AirportLibrary
     'elevation' => 541,
     'lat' => 58.6464004517,
     'lon' => -162.06300354,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'EIL' => 
   array (
@@ -50820,7 +63235,7 @@ abstract class AirportLibrary
     'elevation' => 13,
     'lat' => 62.78609848,
     'lon' => -164.4909973,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'ENA' => 
   array (
@@ -50834,6 +63249,19 @@ abstract class AirportLibrary
     'lat' => 60.5731010437,
     'lon' => -151.2449951172,
     'tz' => 'America/Anchorage',
+  ),
+  'WWT' => 
+  array (
+    'icao' => 'PAEW',
+    'iata' => 'WWT',
+    'name' => 'Newtok Airport',
+    'city' => 'Newtok',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 25,
+    'lat' => 60.9390983582,
+    'lon' => -164.6410064697,
+    'tz' => 'America/Nome',
   ),
   'FAI' => 
   array (
@@ -50872,7 +63300,7 @@ abstract class AirportLibrary
     'elevation' => 172,
     'lat' => 56.9613990784,
     'lon' => -133.9100036621,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Sitka',
   ),
   'ABL' => 
   array (
@@ -50885,6 +63313,19 @@ abstract class AirportLibrary
     'elevation' => 334,
     'lat' => 67.106300354,
     'lon' => -157.856994629,
+    'tz' => 'America/Anchorage',
+  ),
+  'NIB' => 
+  array (
+    'icao' => 'PAFS',
+    'iata' => 'NIB',
+    'name' => 'Nikolai Airport',
+    'city' => 'Nikolai',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 441,
+    'lat' => 63.0186004639,
+    'lon' => -154.358001709,
     'tz' => 'America/Anchorage',
   ),
   'FMC' => 
@@ -50900,6 +63341,19 @@ abstract class AirportLibrary
     'lon' => -149.839996338,
     'tz' => 'America/Anchorage',
   ),
+  'FWL' => 
+  array (
+    'icao' => 'PAFW',
+    'iata' => 'FWL',
+    'name' => 'Farewell Airport',
+    'city' => 'Farewell',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 1535,
+    'lat' => 62.5065994263,
+    'lon' => -153.8939971924,
+    'tz' => 'America/Anchorage',
+  ),
   'GAL' => 
   array (
     'icao' => 'PAGA',
@@ -50912,6 +63366,32 @@ abstract class AirportLibrary
     'lat' => 64.73619843,
     'lon' => -156.9369965,
     'tz' => 'America/Anchorage',
+  ),
+  'GBH' => 
+  array (
+    'icao' => 'PAGB',
+    'iata' => 'GBH',
+    'name' => 'Galbraith Lake Airport',
+    'city' => 'Galbraith Lake',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 2663,
+    'lat' => 68.4796981812,
+    'lon' => -149.4900054932,
+    'tz' => 'America/Anchorage',
+  ),
+  'KWK' => 
+  array (
+    'icao' => 'PAGG',
+    'iata' => 'KWK',
+    'name' => 'Kwigillingok Airport',
+    'city' => 'Kwigillingok',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 18,
+    'lat' => 59.876499176,
+    'lon' => -163.1690063477,
+    'tz' => 'America/Nome',
   ),
   'GKN' => 
   array (
@@ -50937,7 +63417,7 @@ abstract class AirportLibrary
     'elevation' => 59,
     'lat' => 64.5504989624,
     'lon' => -163.007003784,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'GAM' => 
   array (
@@ -50950,7 +63430,7 @@ abstract class AirportLibrary
     'elevation' => 27,
     'lat' => 63.7667999268,
     'lon' => -171.733001709,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'GST' => 
   array (
@@ -50963,7 +63443,20 @@ abstract class AirportLibrary
     'elevation' => 35,
     'lat' => 58.4253006,
     'lon' => -135.7070007,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Juneau',
+  ),
+  'NME' => 
+  array (
+    'icao' => 'PAGT',
+    'iata' => 'NME',
+    'name' => 'Nightmute Airport',
+    'city' => 'Nightmute',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 4,
+    'lat' => 60.4710006714,
+    'lon' => -164.7010040283,
+    'tz' => 'America/Nome',
   ),
   'SGY' => 
   array (
@@ -50976,7 +63469,7 @@ abstract class AirportLibrary
     'elevation' => 44,
     'lat' => 59.4600982666,
     'lon' => -135.3159942627,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Juneau',
   ),
   'GMT' => 
   array (
@@ -51017,6 +63510,19 @@ abstract class AirportLibrary
     'lon' => -147.304000854,
     'tz' => 'America/Anchorage',
   ),
+  'HSL' => 
+  array (
+    'icao' => 'PAHL',
+    'iata' => 'HSL',
+    'name' => 'Huslia Airport',
+    'city' => 'Huslia',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 220,
+    'lat' => 65.69789886,
+    'lon' => -156.3509979,
+    'tz' => 'America/Anchorage',
+  ),
   'HNS' => 
   array (
     'icao' => 'PAHN',
@@ -51028,7 +63534,7 @@ abstract class AirportLibrary
     'elevation' => 15,
     'lat' => 59.2438011169,
     'lon' => -135.5240020752,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Juneau',
   ),
   'HOM' => 
   array (
@@ -51054,6 +63560,19 @@ abstract class AirportLibrary
     'elevation' => 13,
     'lat' => 61.52389908,
     'lon' => -166.1470032,
+    'tz' => 'America/Nome',
+  ),
+  'HUS' => 
+  array (
+    'icao' => 'PAHU',
+    'iata' => 'HUS',
+    'name' => 'Hughes Airport',
+    'city' => 'Hughes',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 299,
+    'lat' => 66.04109955,
+    'lon' => -154.2630005,
     'tz' => 'America/Anchorage',
   ),
   'SHX' => 
@@ -51134,6 +63653,19 @@ abstract class AirportLibrary
     'lon' => -153.7039948,
     'tz' => 'America/Anchorage',
   ),
+  'MCL' => 
+  array (
+    'icao' => 'PAIN',
+    'iata' => 'MCL',
+    'name' => 'Mc Kinley National Park Airport',
+    'city' => 'Mckinley Park',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 1720,
+    'lat' => 63.7326011658,
+    'lon' => -148.910995483,
+    'tz' => 'America/Anchorage',
+  ),
   'WAA' => 
   array (
     'icao' => 'PAIW',
@@ -51145,7 +63677,7 @@ abstract class AirportLibrary
     'elevation' => 22,
     'lat' => 65.6225967407,
     'lon' => -168.095001221,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'JNU' => 
   array (
@@ -51158,6 +63690,32 @@ abstract class AirportLibrary
     'elevation' => 21,
     'lat' => 58.3549995422,
     'lon' => -134.5760040283,
+    'tz' => 'America/Juneau',
+  ),
+  'KGK' => 
+  array (
+    'icao' => 'PAJZ',
+    'iata' => 'KGK',
+    'name' => 'Koliganek Airport',
+    'city' => 'Koliganek',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 269,
+    'lat' => 59.726600647,
+    'lon' => -157.2590026855,
+    'tz' => 'America/Anchorage',
+  ),
+  'KDK' => 
+  array (
+    'icao' => 'PAKD',
+    'iata' => 'KDK',
+    'name' => 'Kodiak Municipal Airport',
+    'city' => 'Kodiak',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 139,
+    'lat' => 57.8059005737,
+    'lon' => -152.3739929199,
     'tz' => 'America/Anchorage',
   ),
   'KFP' => 
@@ -51171,7 +63729,7 @@ abstract class AirportLibrary
     'elevation' => 20,
     'lat' => 54.8474006653,
     'lon' => -163.4100036621,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'AKK' => 
   array (
@@ -51186,6 +63744,19 @@ abstract class AirportLibrary
     'lon' => -154.182998657,
     'tz' => 'America/Anchorage',
   ),
+  'KPN' => 
+  array (
+    'icao' => 'PAKI',
+    'iata' => 'KPN',
+    'name' => 'Kipnuk Airport',
+    'city' => 'Kipnuk',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 11,
+    'lat' => 59.9329986572,
+    'lon' => -164.0310058594,
+    'tz' => 'America/Nome',
+  ),
   'KKA' => 
   array (
     'icao' => 'PAKK',
@@ -51197,6 +63768,19 @@ abstract class AirportLibrary
     'elevation' => 154,
     'lat' => 64.9394989014,
     'lon' => -161.154006958,
+    'tz' => 'America/Anchorage',
+  ),
+  'LKK' => 
+  array (
+    'icao' => 'PAKL',
+    'iata' => 'LKK',
+    'name' => 'Kulik Lake Airport',
+    'city' => 'Kulik Lake',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 717,
+    'lat' => 58.9821014404,
+    'lon' => -155.1210021973,
     'tz' => 'America/Anchorage',
   ),
   'AKN' => 
@@ -51223,7 +63807,7 @@ abstract class AirportLibrary
     'elevation' => 77,
     'lat' => 52.9416007996,
     'lon' => -168.8489990234,
-    'tz' => 'America/Adak',
+    'tz' => 'America/Nome',
   ),
   'AKP' => 
   array (
@@ -51249,7 +63833,7 @@ abstract class AirportLibrary
     'elevation' => 89,
     'lat' => 55.35559845,
     'lon' => -131.7140045,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Sitka',
   ),
   'UUK' => 
   array (
@@ -51277,19 +63861,6 @@ abstract class AirportLibrary
     'lon' => -158.7409973,
     'tz' => 'America/Anchorage',
   ),
-  'AKW' => 
-  array (
-    'icao' => 'PAKW',
-    'iata' => 'AKW',
-    'name' => 'Klawock Airport',
-    'city' => 'Klawock',
-    'state' => 'Alaska',
-    'country' => 'US',
-    'elevation' => 80,
-    'lat' => 55.5792007446,
-    'lon' => -133.0760040283,
-    'tz' => 'America/Anchorage',
-  ),
   'KYK' => 
   array (
     'icao' => 'PAKY',
@@ -51301,6 +63872,19 @@ abstract class AirportLibrary
     'elevation' => 137,
     'lat' => 57.5671005249,
     'lon' => -154.449996948,
+    'tz' => 'America/Anchorage',
+  ),
+  'KLN' => 
+  array (
+    'icao' => 'PALB',
+    'iata' => 'KLN',
+    'name' => 'Larsen Bay Airport',
+    'city' => 'Larsen Bay',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 87,
+    'lat' => 57.5350990295,
+    'lon' => -153.9779968262,
     'tz' => 'America/Anchorage',
   ),
   'KLG' => 
@@ -51355,6 +63939,19 @@ abstract class AirportLibrary
     'lon' => -150.945007324,
     'tz' => 'America/Anchorage',
   ),
+  'WCR' => 
+  array (
+    'icao' => 'PALR',
+    'iata' => 'WCR',
+    'name' => 'Chandalar Lake Airport',
+    'city' => 'Chandalar Lake',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 1920,
+    'lat' => 67.5045013428,
+    'lon' => -148.483001709,
+    'tz' => 'America/Anchorage',
+  ),
   'LUR' => 
   array (
     'icao' => 'PALU',
@@ -51366,7 +63963,7 @@ abstract class AirportLibrary
     'elevation' => 16,
     'lat' => 68.87509918,
     'lon' => -166.1100006,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'KMO' => 
   array (
@@ -51394,6 +63991,45 @@ abstract class AirportLibrary
     'lon' => -155.6060028,
     'tz' => 'America/Anchorage',
   ),
+  'MDO' => 
+  array (
+    'icao' => 'SUPE',
+    'iata' => 'MDO',
+    'name' => 'El Jaguel / Punta del Este Airport',
+    'city' => 'Maldonado',
+    'state' => 'Maldonado',
+    'country' => 'UY',
+    'elevation' => 66,
+    'lat' => -34.9169998169,
+    'lon' => -54.9169998169,
+    'tz' => 'America/Montevideo',
+  ),
+  'LMA' => 
+  array (
+    'icao' => 'PAMH',
+    'iata' => 'LMA',
+    'name' => 'Minchumina Airport',
+    'city' => 'Minchumina',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 678,
+    'lat' => 63.8860015869,
+    'lon' => -152.3020019531,
+    'tz' => 'America/Anchorage',
+  ),
+  'SMK' => 
+  array (
+    'icao' => 'PAMK',
+    'iata' => 'SMK',
+    'name' => 'St Michael Airport',
+    'city' => 'St Michael',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 98,
+    'lat' => 63.49010086,
+    'lon' => -162.1100006,
+    'tz' => 'America/Nome',
+  ),
   'MLY' => 
   array (
     'icao' => 'PAML',
@@ -51418,7 +64054,7 @@ abstract class AirportLibrary
     'elevation' => 337,
     'lat' => 62.0954017639,
     'lon' => -163.6820068359,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'MRI' => 
   array (
@@ -51433,6 +64069,19 @@ abstract class AirportLibrary
     'lon' => -149.8439941406,
     'tz' => 'America/Anchorage',
   ),
+  'MXY' => 
+  array (
+    'icao' => 'PAMX',
+    'iata' => 'MXY',
+    'name' => 'Mc Carthy Airport',
+    'city' => 'Mccarthy',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 1531,
+    'lat' => 61.4370994568,
+    'lon' => -142.904006958,
+    'tz' => 'America/Anchorage',
+  ),
   'MYU' => 
   array (
     'icao' => 'PAMY',
@@ -51444,7 +64093,7 @@ abstract class AirportLibrary
     'elevation' => 48,
     'lat' => 60.3713989258,
     'lon' => -166.2709960938,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'WNA' => 
   array (
@@ -51498,6 +64147,19 @@ abstract class AirportLibrary
     'lon' => -149.074005127,
     'tz' => 'America/Anchorage',
   ),
+  'NNL' => 
+  array (
+    'icao' => 'PANO',
+    'iata' => 'NNL',
+    'name' => 'Nondalton Airport',
+    'city' => 'Nondalton',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 314,
+    'lat' => 59.9802017212,
+    'lon' => -154.8390045166,
+    'tz' => 'America/Anchorage',
+  ),
   'ANN' => 
   array (
     'icao' => 'PANT',
@@ -51509,6 +64171,19 @@ abstract class AirportLibrary
     'elevation' => 119,
     'lat' => 55.0424003601,
     'lon' => -131.5720062256,
+    'tz' => 'America/Metlakatla',
+  ),
+  'NUL' => 
+  array (
+    'icao' => 'PANU',
+    'iata' => 'NUL',
+    'name' => 'Nulato Airport',
+    'city' => 'Nulato',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 399,
+    'lat' => 64.7293014526,
+    'lon' => -158.074005127,
     'tz' => 'America/Anchorage',
   ),
   'ANV' => 
@@ -51574,7 +64249,7 @@ abstract class AirportLibrary
     'elevation' => 19,
     'lat' => 58.0960998535,
     'lon' => -135.4100036621,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Juneau',
   ),
   'OME' => 
   array (
@@ -51587,7 +64262,7 @@ abstract class AirportLibrary
     'elevation' => 37,
     'lat' => 64.5121994019,
     'lon' => -165.4450073242,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'OOK' => 
   array (
@@ -51600,7 +64275,7 @@ abstract class AirportLibrary
     'elevation' => 59,
     'lat' => 60.54140091,
     'lon' => -165.0870056,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'ORT' => 
   array (
@@ -51626,20 +64301,33 @@ abstract class AirportLibrary
     'elevation' => 14,
     'lat' => 66.88469696,
     'lon' => -162.598999,
+    'tz' => 'America/Nome',
+  ),
+  'NLG' => 
+  array (
+    'icao' => 'PAOU',
+    'iata' => 'NLG',
+    'name' => 'Nelson Lagoon Airport',
+    'city' => 'Nelson Lagoon',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 14,
+    'lat' => 56.0074996948,
+    'lon' => -161.1600036621,
     'tz' => 'America/Anchorage',
   ),
   'PBV' => 
   array (
-    'icao' => 'PAPB',
+    'icao' => 'SWPG',
     'iata' => 'PBV',
-    'name' => 'St George Airport',
-    'city' => 'St George',
-    'state' => 'South-Carolina',
-    'country' => 'US',
-    'elevation' => 125,
-    'lat' => 56.5783004761,
-    'lon' => -169.6620025635,
-    'tz' => 'America/Anchorage',
+    'name' => 'Porto dos Gauchos Airport',
+    'city' => 'Porto Dos Gauchos',
+    'state' => 'Mato-Grosso',
+    'country' => 'BR',
+    'elevation' => 1312,
+    'lat' => -11.5169439316,
+    'lon' => -57.3338890076,
+    'tz' => 'America/Cuiaba',
   ),
   'KPC' => 
   array (
@@ -51654,6 +64342,19 @@ abstract class AirportLibrary
     'lon' => -166.85899353,
     'tz' => 'America/Nome',
   ),
+  'KPV' => 
+  array (
+    'icao' => 'PAPE',
+    'iata' => 'KPV',
+    'name' => 'Perryville Airport',
+    'city' => 'Perryville',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 29,
+    'lat' => 55.90599823,
+    'lon' => -159.1629944,
+    'tz' => 'America/Anchorage',
+  ),
   'PSG' => 
   array (
     'icao' => 'PAPG',
@@ -51665,7 +64366,7 @@ abstract class AirportLibrary
     'elevation' => 111,
     'lat' => 56.80170059,
     'lon' => -132.9450073,
-    'tz' => 'America/Juneau',
+    'tz' => 'America/Sitka',
   ),
   'PTH' => 
   array (
@@ -51732,6 +64433,32 @@ abstract class AirportLibrary
     'lon' => -166.7989959717,
     'tz' => 'America/Nome',
   ),
+  'PPC' => 
+  array (
+    'icao' => 'PAPR',
+    'iata' => 'PPC',
+    'name' => 'Prospect Creek Airport',
+    'city' => 'Prospect Creek',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 1095,
+    'lat' => 66.8141021729,
+    'lon' => -150.6439971924,
+    'tz' => 'America/Anchorage',
+  ),
+  'KWN' => 
+  array (
+    'icao' => 'PAQH',
+    'iata' => 'KWN',
+    'name' => 'Quinhagak Airport',
+    'city' => 'Quinhagak',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 42,
+    'lat' => 59.75510025,
+    'lon' => -161.8450012,
+    'tz' => 'America/Anchorage',
+  ),
   'NUI' => 
   array (
     'icao' => 'PAQT',
@@ -51758,6 +64485,19 @@ abstract class AirportLibrary
     'lon' => -145.578994751,
     'tz' => 'America/Anchorage',
   ),
+  'RSH' => 
+  array (
+    'icao' => 'PARS',
+    'iata' => 'RSH',
+    'name' => 'Russian Mission Airport',
+    'city' => 'Russian Mission',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 51,
+    'lat' => 61.7788848877,
+    'lon' => -161.3194580078,
+    'tz' => 'America/Anchorage',
+  ),
   'RBY' => 
   array (
     'icao' => 'PARY',
@@ -51782,7 +64522,7 @@ abstract class AirportLibrary
     'elevation' => 53,
     'lat' => 63.6864013672,
     'lon' => -170.4929962158,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'SCC' => 
   array (
@@ -51821,7 +64561,7 @@ abstract class AirportLibrary
     'elevation' => 12,
     'lat' => 66.2496032715,
     'lon' => -166.0890045166,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'SIT' => 
   array (
@@ -51834,19 +64574,19 @@ abstract class AirportLibrary
     'elevation' => 21,
     'lat' => 57.0471000671,
     'lon' => -135.3619995117,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Sitka',
   ),
-  'SQL' => 
+  'WLK' => 
   array (
-    'icao' => 'PASL',
-    'iata' => 'SQL',
-    'name' => 'Sleetmute Airport',
-    'city' => 'Sleetmute',
+    'icao' => 'PASK',
+    'iata' => 'WLK',
+    'name' => 'Selawik Airport',
+    'city' => 'Selawik',
     'state' => 'Alaska',
     'country' => 'US',
-    'elevation' => 190,
-    'lat' => 61.7005004883,
-    'lon' => -157.166000366,
+    'elevation' => 17,
+    'lat' => 66.60009766,
+    'lon' => -159.9859924,
     'tz' => 'America/Anchorage',
   ),
   'KSM' => 
@@ -51873,7 +64613,20 @@ abstract class AirportLibrary
     'elevation' => 63,
     'lat' => 57.167301178,
     'lon' => -170.2200012207,
-    'tz' => 'America/Adak',
+    'tz' => 'America/Nome',
+  ),
+  'SOV' => 
+  array (
+    'icao' => 'PASO',
+    'iata' => 'SOV',
+    'name' => 'Seldovia Airport',
+    'city' => 'Seldovia',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 29,
+    'lat' => 59.442401886,
+    'lon' => -151.703994751,
+    'tz' => 'America/Anchorage',
   ),
   'SMU' => 
   array (
@@ -51912,6 +64665,19 @@ abstract class AirportLibrary
     'elevation' => 1585,
     'lat' => 61.09740067,
     'lon' => -155.5740051,
+    'tz' => 'America/Anchorage',
+  ),
+  'SKW' => 
+  array (
+    'icao' => 'PASW',
+    'iata' => 'SKW',
+    'name' => 'Skwentna Airport',
+    'city' => 'Skwentna',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 148,
+    'lat' => 61.9653015137,
+    'lon' => -151.1909942627,
     'tz' => 'America/Anchorage',
   ),
   'SXQ' => 
@@ -51966,6 +64732,19 @@ abstract class AirportLibrary
     'lon' => -167.9219971,
     'tz' => 'America/Nome',
   ),
+  'TLA' => 
+  array (
+    'icao' => 'PATE',
+    'iata' => 'TLA',
+    'name' => 'Teller Airport',
+    'city' => 'Teller',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 294,
+    'lat' => 65.2404022217,
+    'lon' => -166.3390045166,
+    'tz' => 'America/Nome',
+  ),
   'TOG' => 
   array (
     'icao' => 'PATG',
@@ -51981,15 +64760,28 @@ abstract class AirportLibrary
   ),
   'TKJ' => 
   array (
-    'icao' => 'PATJ',
+    'icao' => 'PFTO',
     'iata' => 'TKJ',
-    'name' => 'Tok Airport',
+    'name' => 'Tok Junction Airport',
     'city' => 'Tok',
     'state' => 'Alaska',
     'country' => 'US',
-    'elevation' => 1670,
-    'lat' => 63.303333,
-    'lon' => -143.001111,
+    'elevation' => 1639,
+    'lat' => 63.32949829,
+    'lon' => -142.9539948,
+    'tz' => 'America/Anchorage',
+  ),
+  'TKA' => 
+  array (
+    'icao' => 'PATK',
+    'iata' => 'TKA',
+    'name' => 'Talkeetna Airport',
+    'city' => 'Talkeetna',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 358,
+    'lat' => 62.3204994202,
+    'lon' => -150.0939941406,
     'tz' => 'America/Anchorage',
   ),
   'TLJ' => 
@@ -52029,7 +64821,7 @@ abstract class AirportLibrary
     'elevation' => 10,
     'lat' => 62.6800422668,
     'lon' => -164.659927368,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'UMT' => 
   array (
@@ -52057,6 +64849,19 @@ abstract class AirportLibrary
     'lon' => -160.798996,
     'tz' => 'America/Anchorage',
   ),
+  'WOW' => 
+  array (
+    'icao' => 'PAUO',
+    'iata' => 'WOW',
+    'name' => 'Willow Airport',
+    'city' => 'Willow',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 221,
+    'lat' => 61.7541999817,
+    'lon' => -150.0520019531,
+    'tz' => 'America/Anchorage',
+  ),
   'VAK' => 
   array (
     'icao' => 'PAVA',
@@ -52068,7 +64873,7 @@ abstract class AirportLibrary
     'elevation' => 75,
     'lat' => 61.5409,
     'lon' => -165.6005,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'KVC' => 
   array (
@@ -52081,7 +64886,7 @@ abstract class AirportLibrary
     'elevation' => 155,
     'lat' => 55.1162986755,
     'lon' => -162.2660064697,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'VDZ' => 
   array (
@@ -52120,7 +64925,7 @@ abstract class AirportLibrary
     'elevation' => 13,
     'lat' => 67.7361984253,
     'lon' => -164.56300354,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'WBQ' => 
   array (
@@ -52159,7 +64964,7 @@ abstract class AirportLibrary
     'elevation' => 49,
     'lat' => 56.48429871,
     'lon' => -132.3699951,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Sitka',
   ),
   'AIN' => 
   array (
@@ -52174,6 +64979,19 @@ abstract class AirportLibrary
     'lon' => -159.994995117,
     'tz' => 'America/Anchorage',
   ),
+  'WMO' => 
+  array (
+    'icao' => 'PAWM',
+    'iata' => 'WMO',
+    'name' => 'White Mountain Airport',
+    'city' => 'White Mountain',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 267,
+    'lat' => 64.689201355,
+    'lon' => -163.4129943848,
+    'tz' => 'America/Nome',
+  ),
   'WTK' => 
   array (
     'icao' => 'PAWN',
@@ -52185,7 +65003,7 @@ abstract class AirportLibrary
     'elevation' => 88,
     'lat' => 67.5661010742,
     'lon' => -162.9750061035,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'IYS' => 
   array (
@@ -52211,7 +65029,7 @@ abstract class AirportLibrary
     'elevation' => 33,
     'lat' => 59.5032997131,
     'lon' => -139.660003662,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Yakutat',
   ),
   'CIS' => 
   array (
@@ -52289,7 +65107,20 @@ abstract class AirportLibrary
     'elevation' => 162,
     'lat' => 64.61470032,
     'lon' => -162.2720032,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
+  ),
+  'KUK' => 
+  array (
+    'icao' => 'PFKA',
+    'iata' => 'KUK',
+    'name' => 'Kasigluk Airport',
+    'city' => 'Kasigluk',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 48,
+    'lat' => 60.87440109,
+    'lon' => -162.5240021,
+    'tz' => 'America/Nome',
   ),
   'KNK' => 
   array (
@@ -52315,7 +65146,20 @@ abstract class AirportLibrary
     'elevation' => 15,
     'lat' => 63.0306015015,
     'lon' => -163.533004761,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
+  ),
+  'KTS' => 
+  array (
+    'icao' => 'PFKT',
+    'iata' => 'KTS',
+    'name' => 'Brevig Mission Airport',
+    'city' => 'Brevig Mission',
+    'state' => 'Alaska',
+    'country' => 'US',
+    'elevation' => 38,
+    'lat' => 65.3312988281,
+    'lon' => -166.466003418,
+    'tz' => 'America/Nome',
   ),
   'KYU' => 
   array (
@@ -52420,6 +65264,19 @@ abstract class AirportLibrary
     'lat' => 15.1190004349,
     'lon' => 145.7290039063,
     'tz' => 'Pacific/Saipan',
+  ),
+  'UAM' => 
+  array (
+    'icao' => 'PGUA',
+    'iata' => 'UAM',
+    'name' => 'Andersen Air Force Base',
+    'city' => 'Andersen',
+    'state' => 'Yigo',
+    'country' => 'GU',
+    'elevation' => 627,
+    'lat' => 13.5839996338,
+    'lon' => 144.9299926758,
+    'tz' => 'Pacific/Guam',
   ),
   'GUM' => 
   array (
@@ -52588,6 +65445,19 @@ abstract class AirportLibrary
     'elevation' => 2671,
     'lat' => 20.0013008118,
     'lon' => -155.6679992676,
+    'tz' => 'Pacific/Honolulu',
+  ),
+  'NGF' => 
+  array (
+    'icao' => 'PHNG',
+    'iata' => 'NGF',
+    'name' => 'Kaneohe Bay MCAS (Marion E. Carl Field) Airport',
+    'city' => 'Kaneohe',
+    'state' => 'Hawaii',
+    'country' => 'US',
+    'elevation' => 24,
+    'lat' => 21.4505004883,
+    'lon' => -157.768005371,
     'tz' => 'Pacific/Honolulu',
   ),
   'HNL' => 
@@ -52783,7 +65653,7 @@ abstract class AirportLibrary
     'elevation' => 22,
     'lat' => 69.73290253,
     'lon' => -163.0050049,
-    'tz' => 'America/Anchorage',
+    'tz' => 'America/Nome',
   ),
   'TKK' => 
   array (
@@ -52874,6 +65744,19 @@ abstract class AirportLibrary
     'elevation' => 93,
     'lat' => 24.4279003143,
     'lon' => 118.3590011597,
+    'tz' => 'Asia/Taipei',
+  ),
+  'PIF' => 
+  array (
+    'icao' => 'RCSQ',
+    'iata' => 'PIF',
+    'name' => 'Pingtung North Airport',
+    'city' => 'Pingtung',
+    'state' => 'Taiwan',
+    'country' => 'TW',
+    'elevation' => 97,
+    'lat' => 22.7001991272,
+    'lon' => 120.4820022583,
     'tz' => 'Asia/Taipei',
   ),
   'LZN' => 
@@ -53019,6 +65902,19 @@ abstract class AirportLibrary
     'lon' => 120.2060012817,
     'tz' => 'Asia/Taipei',
   ),
+  'HSZ' => 
+  array (
+    'icao' => 'RCPO',
+    'iata' => 'HSZ',
+    'name' => 'Hsinchu Air Base',
+    'city' => 'Hsinchu City',
+    'state' => 'Taiwan',
+    'country' => 'TW',
+    'elevation' => 26,
+    'lat' => 24.8180007935,
+    'lon' => 120.9390029907,
+    'tz' => 'Asia/Taipei',
+  ),
   'MZG' => 
   array (
     'icao' => 'RCQC',
@@ -53030,19 +65926,6 @@ abstract class AirportLibrary
     'elevation' => 103,
     'lat' => 23.5687007904,
     'lon' => 119.6279983521,
-    'tz' => 'Asia/Taipei',
-  ),
-  'PIF' => 
-  array (
-    'icao' => 'RCSQ',
-    'iata' => 'PIF',
-    'name' => 'Pingtung North Airport',
-    'city' => 'Pingtung',
-    'state' => 'Taiwan',
-    'country' => 'TW',
-    'elevation' => 97,
-    'lat' => 22.7001991272,
-    'lon' => 120.4820022583,
     'tz' => 'Asia/Taipei',
   ),
   'TSA' => 
@@ -53342,6 +66225,19 @@ abstract class AirportLibrary
     'elevation' => 30,
     'lat' => 45.4042015076,
     'lon' => 141.800994873,
+    'tz' => 'Asia/Tokyo',
+  ),
+  'AXJ' => 
+  array (
+    'icao' => 'RJDA',
+    'iata' => 'AXJ',
+    'name' => 'Amakusa Airport',
+    'city' => '',
+    'state' => 'Kumamoto',
+    'country' => 'JP',
+    'elevation' => 340,
+    'lat' => 32.4824981689,
+    'lon' => 130.158996582,
     'tz' => 'Asia/Tokyo',
   ),
   'IKI' => 
@@ -53706,6 +66602,19 @@ abstract class AirportLibrary
     'elevation' => 311,
     'lat' => 36.181098938,
     'lon' => 133.3249969482,
+    'tz' => 'Asia/Tokyo',
+  ),
+  'FSZ' => 
+  array (
+    'icao' => 'RJNS',
+    'iata' => 'FSZ',
+    'name' => 'Mt. Fuji Shizuoka Airport',
+    'city' => '',
+    'state' => 'Shizuoka',
+    'country' => 'JP',
+    'elevation' => 433,
+    'lat' => 34.7960434679,
+    'lon' => 138.18775177,
     'tz' => 'Asia/Tokyo',
   ),
   'TOY' => 
@@ -54280,6 +67189,19 @@ abstract class AirportLibrary
     'lon' => 126.4929962158,
     'tz' => 'Asia/Seoul',
   ),
+  'JDG' => 
+  array (
+    'icao' => 'RKPD',
+    'iata' => 'JDG',
+    'name' => 'Jeongseok Airport',
+    'city' => '',
+    'state' => 'Jeju-do',
+    'country' => 'KR',
+    'elevation' => 1171,
+    'lat' => 33.3996009827,
+    'lon' => 126.7119979858,
+    'tz' => 'Asia/Seoul',
+  ),
   'CHF' => 
   array (
     'icao' => 'RKPE',
@@ -54410,6 +67332,19 @@ abstract class AirportLibrary
     'lon' => 129.419998169,
     'tz' => 'Asia/Seoul',
   ),
+  'JWO' => 
+  array (
+    'icao' => 'RKTI',
+    'iata' => 'JWO',
+    'name' => 'Jungwon Air Base',
+    'city' => '',
+    'state' => 'North-Chungcheong',
+    'country' => 'KR',
+    'elevation' => 281,
+    'lat' => 37.0299987793,
+    'lon' => 127.8850021362,
+    'tz' => 'Asia/Seoul',
+  ),
   'TAE' => 
   array (
     'icao' => 'RKTN',
@@ -54421,6 +67356,19 @@ abstract class AirportLibrary
     'elevation' => 116,
     'lat' => 35.8941001892,
     'lon' => 128.658996582,
+    'tz' => 'Asia/Seoul',
+  ),
+  'HMY' => 
+  array (
+    'icao' => 'RKTP',
+    'iata' => 'HMY',
+    'name' => 'Seosan Air Base',
+    'city' => 'Seosan',
+    'state' => 'Chungcheongnam-do',
+    'country' => 'KR',
+    'elevation' => 39,
+    'lat' => 36.7039985657,
+    'lon' => 126.486000061,
     'tz' => 'Asia/Seoul',
   ),
   'CJJ' => 
@@ -54763,15 +67711,15 @@ abstract class AirportLibrary
   ),
   'GES' => 
   array (
-    'icao' => 'RPMB',
+    'icao' => 'RPMR',
     'iata' => 'GES',
-    'name' => 'General Santos International Airport',
-    'city' => 'General Santos City',
+    'name' => 'Tambler Airport',
+    'city' => '',
     'state' => 'Soccsksargen',
     'country' => 'PH',
-    'elevation' => 28,
-    'lat' => 6.1064400673,
-    'lon' => 125.2350006104,
+    'elevation' => 505,
+    'lat' => 6.0580000877,
+    'lon' => 125.0960006714,
     'tz' => 'Asia/Manila',
   ),
   'CBO' => 
@@ -54880,15 +67828,15 @@ abstract class AirportLibrary
   ),
   'CGY' => 
   array (
-    'icao' => 'RPML',
+    'icao' => 'RPMY',
     'iata' => 'CGY',
-    'name' => 'Cagayan De Oro Airport',
-    'city' => 'Cagayan De Oro City',
+    'name' => 'Malaybalay Airport',
+    'city' => 'Malaybalay City',
     'state' => 'Northern-Mindanao',
     'country' => 'PH',
-    'elevation' => 601,
-    'lat' => 8.4156198502,
-    'lon' => 124.611000061,
+    'elevation' => 2051,
+    'lat' => 8.1416597366,
+    'lon' => 125.1169967651,
     'tz' => 'Asia/Manila',
   ),
   'MLP' => 
@@ -55437,6 +68385,19 @@ abstract class AirportLibrary
     'lon' => 125.478996277,
     'tz' => 'Asia/Manila',
   ),
+  'ENI' => 
+  array (
+    'icao' => 'RPXX',
+    'iata' => 'ENI',
+    'name' => 'El Nido Airport',
+    'city' => 'El Nido',
+    'state' => 'Palawan',
+    'country' => 'PH',
+    'elevation' => 17,
+    'lat' => 11.2025,
+    'lon' => 119.416,
+    'tz' => 'Asia/Manila',
+  ),
   'CCT' => 
   array (
     'icao' => 'SA30',
@@ -55632,6 +68593,19 @@ abstract class AirportLibrary
     'lon' => -58.5358,
     'tz' => 'America/Argentina/Buenos_Aires',
   ),
+  'RAF' => 
+  array (
+    'icao' => 'SAFR',
+    'iata' => 'RAF',
+    'name' => 'Rafaela Airport',
+    'city' => 'Rafaela',
+    'state' => 'Santa-Fe',
+    'country' => 'AR',
+    'elevation' => 325,
+    'lat' => -31.2825,
+    'lon' => -61.5017,
+    'tz' => 'America/Argentina/Cordoba',
+  ),
   'NCJ' => 
   array (
     'icao' => 'SAFS',
@@ -55695,7 +68669,7 @@ abstract class AirportLibrary
     'elevation' => 1968,
     'lat' => -37.3905982971,
     'lon' => -68.9041976929,
-    'tz' => 'America/Argentina/Salta',
+    'tz' => 'America/Argentina/Mendoza',
   ),
   'APZ' => 
   array (
@@ -56230,6 +69204,19 @@ abstract class AirportLibrary
     'lon' => -69.5748977661,
     'tz' => 'America/Argentina/Salta',
   ),
+  'OLN' => 
+  array (
+    'icao' => 'SAVM',
+    'iata' => 'OLN',
+    'name' => 'Lago Musters Airport',
+    'city' => 'Sarmiento',
+    'state' => 'Chubut',
+    'country' => 'AR',
+    'elevation' => 883,
+    'lat' => -45.5777777778,
+    'lon' => -69.0727777778,
+    'tz' => 'America/Argentina/Catamarca',
+  ),
   'OES' => 
   array (
     'icao' => 'SAVN',
@@ -56709,7 +69696,20 @@ abstract class AirportLibrary
     'elevation' => 653,
     'lat' => -8.3483495712,
     'lon' => -49.3014984131,
-    'tz' => 'America/Belem',
+    'tz' => 'America/Araguaina',
+  ),
+  'JTC' => 
+  array (
+    'icao' => 'SBAE',
+    'iata' => 'JTC',
+    'name' => 'Bauru-Arealva Airport',
+    'city' => 'Bauru',
+    'state' => 'Sao-Paulo',
+    'country' => 'BR',
+    'elevation' => 1949,
+    'lat' => -22.15778,
+    'lon' => -49.06833,
+    'tz' => 'America/Sao_Paulo',
   ),
   'AQA' => 
   array (
@@ -56735,7 +69735,7 @@ abstract class AirportLibrary
     'elevation' => 23,
     'lat' => -10.984000206,
     'lon' => -37.0703010559,
-    'tz' => 'America/Fortaleza',
+    'tz' => 'America/Maceio',
   ),
   'AIF' => 
   array (
@@ -56930,7 +69930,7 @@ abstract class AirportLibrary
     'elevation' => 1147,
     'lat' => -15.8613004684,
     'lon' => -52.3889007568,
-    'tz' => 'America/Campo_Grande',
+    'tz' => 'America/Cuiaba',
   ),
   'BZC' => 
   array (
@@ -57021,7 +70021,7 @@ abstract class AirportLibrary
     'elevation' => 565,
     'lat' => -7.3204398155,
     'lon' => -47.4586982727,
-    'tz' => 'America/Araguaina',
+    'tz' => 'America/Fortaleza',
   ),
   'CKS' => 
   array (
@@ -57034,7 +70034,7 @@ abstract class AirportLibrary
     'elevation' => 2064,
     'lat' => -6.1152777672,
     'lon' => -50.0013885498,
-    'tz' => 'America/Araguaina',
+    'tz' => 'America/Belem',
   ),
   'CCM' => 
   array (
@@ -57164,7 +70164,20 @@ abstract class AirportLibrary
     'elevation' => 637,
     'lat' => -7.5999097824,
     'lon' => -72.7695007324,
-    'tz' => 'America/Eirunepe',
+    'tz' => 'America/Rio_Branco',
+  ),
+  'BYO' => 
+  array (
+    'icao' => 'SBDB',
+    'iata' => 'BYO',
+    'name' => 'Bonito Airport',
+    'city' => 'Bonito',
+    'state' => 'Mato-Grosso-do-Sul',
+    'country' => 'BR',
+    'elevation' => 1180,
+    'lat' => -21.2294445038,
+    'lon' => -56.456111908,
+    'tz' => 'America/Campo_Grande',
   ),
   'PPB' => 
   array (
@@ -57190,7 +70203,7 @@ abstract class AirportLibrary
     'elevation' => 264,
     'lat' => -3.0386099815,
     'lon' => -60.0497016907,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Manaus',
   ),
   'JCR' => 
   array (
@@ -57229,7 +70242,7 @@ abstract class AirportLibrary
     'elevation' => 786,
     'lat' => -25.6002788544,
     'lon' => -54.4850006104,
-    'tz' => 'America/Sao_Paulo',
+    'tz' => 'America/Argentina/Cordoba',
   ),
   'FLN' => 
   array (
@@ -57255,7 +70268,7 @@ abstract class AirportLibrary
     'elevation' => 193,
     'lat' => -3.854929924,
     'lon' => -32.4233016968,
-    'tz' => 'America/Fortaleza',
+    'tz' => 'America/Noronha',
   ),
   'FOR' => 
   array (
@@ -57294,7 +70307,7 @@ abstract class AirportLibrary
     'elevation' => 478,
     'lat' => -10.7863998413,
     'lon' => -65.2847976685,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Porto_Velho',
   ),
   'GYN' => 
   array (
@@ -57385,7 +70398,7 @@ abstract class AirportLibrary
     'elevation' => 142,
     'lat' => -3.1272599697,
     'lon' => -58.4812011719,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Manaus',
   ),
   'ITB' => 
   array (
@@ -57398,7 +70411,7 @@ abstract class AirportLibrary
     'elevation' => 110,
     'lat' => -4.2423400879,
     'lon' => -56.0007019043,
-    'tz' => 'America/Belem',
+    'tz' => 'America/Santarem',
   ),
   'IOS' => 
   array (
@@ -57437,6 +70450,19 @@ abstract class AirportLibrary
     'elevation' => 432,
     'lat' => -5.5312900543,
     'lon' => -47.4599990845,
+    'tz' => 'America/Fortaleza',
+  ),
+  'JJD' => 
+  array (
+    'icao' => 'SBJE',
+    'iata' => 'JJD',
+    'name' => 'Comte. Ariston Pessoa Regional Airport',
+    'city' => 'Jijoca de Jericoacoara',
+    'state' => 'Ceara',
+    'country' => 'BR',
+    'elevation' => 89,
+    'lat' => -2.906667,
+    'lon' => -40.358056,
     'tz' => 'America/Fortaleza',
   ),
   'JDF' => 
@@ -57593,7 +70619,7 @@ abstract class AirportLibrary
     'elevation' => 357,
     'lat' => -5.3685898781,
     'lon' => -49.1380004883,
-    'tz' => 'America/Araguaina',
+    'tz' => 'America/Belem',
   ),
   'MQH' => 
   array (
@@ -57619,7 +70645,7 @@ abstract class AirportLibrary
     'elevation' => 677,
     'lat' => -0.8898389935,
     'lon' => -52.6021995544,
-    'tz' => 'America/Belem',
+    'tz' => 'America/Santarem',
   ),
   'MEA' => 
   array (
@@ -57788,7 +70814,7 @@ abstract class AirportLibrary
     'elevation' => 169,
     'lat' => -5.9114198685,
     'lon' => -35.2476997375,
-    'tz' => 'America/Recife',
+    'tz' => 'America/Fortaleza',
   ),
   'OYK' => 
   array (
@@ -57801,7 +70827,7 @@ abstract class AirportLibrary
     'elevation' => 63,
     'lat' => 3.8554899693,
     'lon' => -51.7969017029,
-    'tz' => 'America/Cayenne',
+    'tz' => 'America/Belem',
   ),
   'POA' => 
   array (
@@ -57892,7 +70918,7 @@ abstract class AirportLibrary
     'elevation' => 1263,
     'lat' => -9.3624095917,
     'lon' => -40.5690994263,
-    'tz' => 'America/Bahia',
+    'tz' => 'America/Recife',
   ),
   'PNB' => 
   array (
@@ -57905,7 +70931,7 @@ abstract class AirportLibrary
     'elevation' => 870,
     'lat' => -10.7194004059,
     'lon' => -48.3997001648,
-    'tz' => 'America/Fortaleza',
+    'tz' => 'America/Araguaina',
   ),
   'PMG' => 
   array (
@@ -57918,7 +70944,7 @@ abstract class AirportLibrary
     'elevation' => 2156,
     'lat' => -22.5496006012,
     'lon' => -55.7025985718,
-    'tz' => 'America/Campo_Grande',
+    'tz' => 'America/Asuncion',
   ),
   'BPS' => 
   array (
@@ -58087,7 +71113,7 @@ abstract class AirportLibrary
     'elevation' => 198,
     'lat' => -2.4247219563,
     'lon' => -54.7858314514,
-    'tz' => 'America/Belem',
+    'tz' => 'America/Santarem',
   ),
   'CGH' => 
   array (
@@ -58165,7 +71191,7 @@ abstract class AirportLibrary
     'elevation' => 287,
     'lat' => -1.4895999432,
     'lon' => -56.3968009949,
-    'tz' => 'America/Belem',
+    'tz' => 'America/Santarem',
   ),
   'UNA' => 
   array (
@@ -58217,7 +71243,7 @@ abstract class AirportLibrary
     'elevation' => 188,
     'lat' => -3.3829400539,
     'lon' => -64.7240982056,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Manaus',
   ),
   'TJL' => 
   array (
@@ -58269,7 +71295,7 @@ abstract class AirportLibrary
     'elevation' => 279,
     'lat' => -4.2556700706,
     'lon' => -69.935798645,
-    'tz' => 'America/Porto_Velho',
+    'tz' => 'America/Bogota',
   ),
   'TUR' => 
   array (
@@ -58295,7 +71321,7 @@ abstract class AirportLibrary
     'elevation' => 251,
     'lat' => -0.14835,
     'lon' => -66.9855,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Manaus',
   ),
   'PAV' => 
   array (
@@ -58308,7 +71334,7 @@ abstract class AirportLibrary
     'elevation' => 883,
     'lat' => -9.4008798599,
     'lon' => -38.2505989075,
-    'tz' => 'America/Maceio',
+    'tz' => 'America/Bahia',
   ),
   'URG' => 
   array (
@@ -58373,7 +71399,7 @@ abstract class AirportLibrary
     'elevation' => 2018,
     'lat' => -12.6943998337,
     'lon' => -60.0983009338,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Cuiaba',
   ),
   'VIX' => 
   array (
@@ -58464,7 +71490,7 @@ abstract class AirportLibrary
     'elevation' => 167,
     'lat' => -18.3484992981,
     'lon' => -70.3386993408,
-    'tz' => 'America/Santiago',
+    'tz' => 'America/Lima',
   ),
   'WPA' => 
   array (
@@ -58637,15 +71663,15 @@ abstract class AirportLibrary
   ),
   'FRT' => 
   array (
-    'icao' => 'SCEV',
+    'icao' => 'SCFI',
     'iata' => 'FRT',
-    'name' => 'El Avellano Airport',
+    'name' => 'Fundo Tehuen Airport',
     'city' => 'Frutillar',
     'state' => 'Los-Lagos',
     'country' => 'CL',
-    'elevation' => 489,
-    'lat' => -41.1170005798,
-    'lon' => -73.0500030518,
+    'elevation' => 377,
+    'lat' => -41.0950012207,
+    'lon' => -73.126663208,
     'tz' => 'America/Santiago',
   ),
   'ANF' => 
@@ -58672,7 +71698,7 @@ abstract class AirportLibrary
     'elevation' => 104,
     'lat' => -53.2537002563,
     'lon' => -70.3191986084,
-    'tz' => 'America/Santiago',
+    'tz' => 'America/Punta_Arenas',
   ),
   'FFU' => 
   array (
@@ -58711,7 +71737,7 @@ abstract class AirportLibrary
     'elevation' => 88,
     'lat' => -54.931098938,
     'lon' => -67.6262969971,
-    'tz' => 'America/Santiago',
+    'tz' => 'America/Argentina/Ushuaia',
   ),
   'LGR' => 
   array (
@@ -58765,6 +71791,19 @@ abstract class AirportLibrary
     'lon' => -73.0609970093,
     'tz' => 'America/Santiago',
   ),
+  'CPP' => 
+  array (
+    'icao' => 'SCKP',
+    'iata' => 'CPP',
+    'name' => 'Coposa Airport',
+    'city' => 'Pica',
+    'state' => 'Tarapaca',
+    'country' => 'CL',
+    'elevation' => 12468,
+    'lat' => -20.7504997253,
+    'lon' => -68.6835021973,
+    'tz' => 'America/Santiago',
+  ),
   'VLR' => 
   array (
     'icao' => 'SCLL',
@@ -58802,7 +71841,7 @@ abstract class AirportLibrary
     'elevation' => 217,
     'lat' => -51.6715011597,
     'lon' => -72.5283966064,
-    'tz' => 'America/Santiago',
+    'tz' => 'America/Punta_Arenas',
   ),
   'OVL' => 
   array (
@@ -58906,7 +71945,7 @@ abstract class AirportLibrary
     'elevation' => 147,
     'lat' => -62.1907997131,
     'lon' => -58.9866981506,
-    'tz' => 'Antarctica/Palmer',
+    'tz' => 'America/Punta_Arenas',
   ),
   'SMB' => 
   array (
@@ -59194,6 +72233,19 @@ abstract class AirportLibrary
     'lon' => -49.9132995605,
     'tz' => 'America/Sao_Paulo',
   ),
+  'OIA' => 
+  array (
+    'icao' => 'SDOW',
+    'iata' => 'OIA',
+    'name' => 'Ourilandia do Norte Airport',
+    'city' => 'Ourilandia Do Norte',
+    'state' => 'Para',
+    'country' => 'BR',
+    'elevation' => 751,
+    'lat' => -6.7631001472,
+    'lon' => -51.0499000549,
+    'tz' => 'America/Belem',
+  ),
   'QHB' => 
   array (
     'icao' => 'SDPW',
@@ -59270,6 +72322,19 @@ abstract class AirportLibrary
     'elevation' => 13,
     'lat' => -23.4410991669,
     'lon' => -45.0755996704,
+    'tz' => 'America/Sao_Paulo',
+  ),
+  'ITP' => 
+  array (
+    'icao' => 'SDUN',
+    'iata' => 'ITP',
+    'name' => 'Itaperuna Airport',
+    'city' => 'Itaperuna',
+    'state' => 'Rio-de-Janeiro',
+    'country' => 'BR',
+    'elevation' => 410,
+    'lat' => -21.2192993164,
+    'lon' => -41.8759002686,
     'tz' => 'America/Sao_Paulo',
   ),
   'QGS' => 
@@ -59816,7 +72881,7 @@ abstract class AirportLibrary
     'elevation' => 249,
     'lat' => -26.8799991608,
     'lon' => -58.3199996948,
-    'tz' => 'America/Asuncion',
+    'tz' => 'America/Argentina/Cordoba',
   ),
   'PJC' => 
   array (
@@ -59857,6 +72922,19 @@ abstract class AirportLibrary
     'lon' => -47.382900238,
     'tz' => 'America/Sao_Paulo',
   ),
+  'JUA' => 
+  array (
+    'icao' => 'SIZX',
+    'iata' => 'JUA',
+    'name' => 'Juara Sul Airport',
+    'city' => 'Juara',
+    'state' => 'Mato-Grosso',
+    'country' => 'BR',
+    'elevation' => 991,
+    'lat' => -11.2866668701,
+    'lon' => -57.5388908386,
+    'tz' => 'America/Cuiaba',
+  ),
   'CFO' => 
   array (
     'icao' => 'SJHG',
@@ -59868,7 +72946,20 @@ abstract class AirportLibrary
     'elevation' => 781,
     'lat' => -10.6344003677,
     'lon' => -51.5635986328,
-    'tz' => 'America/Campo_Grande',
+    'tz' => 'America/Cuiaba',
+  ),
+  'NPR' => 
+  array (
+    'icao' => 'SJNP',
+    'iata' => 'NPR',
+    'name' => 'Novo Progresso Airport',
+    'city' => 'Novo Progresso',
+    'state' => 'Para',
+    'country' => 'BR',
+    'elevation' => 794,
+    'lat' => -7.1258330345,
+    'lon' => -55.4008331299,
+    'tz' => 'America/Santarem',
   ),
   'RIG' => 
   array (
@@ -59907,6 +72998,19 @@ abstract class AirportLibrary
     'elevation' => 50,
     'lat' => 8.51667,
     'lon' => -77.3,
+    'tz' => 'America/Bogota',
+  ),
+  'HAY' => 
+  array (
+    'icao' => 'SKAG',
+    'iata' => 'HAY',
+    'name' => 'Aguachica Airport',
+    'city' => 'Aguachica',
+    'state' => 'Cesar',
+    'country' => 'CO',
+    'elevation' => 700,
+    'lat' => 8.3,
+    'lon' => -73.6306,
     'tz' => 'America/Bogota',
   ),
   'AFI' => 
@@ -60169,6 +73273,19 @@ abstract class AirportLibrary
     'lon' => -78.7492,
     'tz' => 'America/Bogota',
   ),
+  'BHF' => 
+  array (
+    'icao' => 'SKCP',
+    'iata' => 'BHF',
+    'name' => 'Cupica Airport',
+    'city' => 'Bahia Solano',
+    'state' => 'Choco',
+    'country' => 'CO',
+    'elevation' => 0,
+    'lat' => 6.691944,
+    'lon' => -77.477222,
+    'tz' => 'America/Bogota',
+  ),
   'CUO' => 
   array (
     'icao' => 'SKCR',
@@ -60271,6 +73388,19 @@ abstract class AirportLibrary
     'elevation' => 150,
     'lat' => 10.5333,
     'lon' => -74.2,
+    'tz' => 'America/Bogota',
+  ),
+  'LGT' => 
+  array (
+    'icao' => 'SKGA',
+    'iata' => 'LGT',
+    'name' => 'La Gaviota Airport',
+    'city' => '',
+    'state' => 'Vichada',
+    'country' => 'CO',
+    'elevation' => 0,
+    'lat' => 4.549722,
+    'lon' => -70.925,
     'tz' => 'America/Bogota',
   ),
   'GIR' => 
@@ -60379,15 +73509,15 @@ abstract class AirportLibrary
   ),
   'MMP' => 
   array (
-    'icao' => 'SKIO',
+    'icao' => 'SKMP',
     'iata' => 'MMP',
-    'name' => 'Cicuco Airport',
-    'city' => 'Limon',
-    'state' => 'Bolivar',
+    'name' => 'San Bernardo Airport',
+    'city' => 'Mompos',
+    'state' => 'Magdalena',
     'country' => 'CO',
-    'elevation' => 65,
-    'lat' => 9.26878,
-    'lon' => -74.6523,
+    'elevation' => 60,
+    'lat' => 9.25872,
+    'lon' => -74.438,
     'tz' => 'America/Bogota',
   ),
   'IPI' => 
@@ -60401,6 +73531,19 @@ abstract class AirportLibrary
     'elevation' => 9765,
     'lat' => 0.861925,
     'lon' => -77.6718,
+    'tz' => 'America/Bogota',
+  ),
+  'APO' => 
+  array (
+    'icao' => 'SKLC',
+    'iata' => 'APO',
+    'name' => 'Antonio Roldan Betancourt Airport',
+    'city' => 'Carepa',
+    'state' => 'Antioquia',
+    'country' => 'CO',
+    'elevation' => 46,
+    'lat' => 7.81196,
+    'lon' => -76.7164,
     'tz' => 'America/Bogota',
   ),
   'LQM' => 
@@ -60611,6 +73754,32 @@ abstract class AirportLibrary
     'lon' => -71.3564,
     'tz' => 'America/Bogota',
   ),
+  'OTU' => 
+  array (
+    'icao' => 'SKOT',
+    'iata' => 'OTU',
+    'name' => 'Otu Airport',
+    'city' => 'El Rhin',
+    'state' => 'Antioquia',
+    'country' => 'CO',
+    'elevation' => 2060,
+    'lat' => 7.01037,
+    'lon' => -74.7155,
+    'tz' => 'America/Bogota',
+  ),
+  'RON' => 
+  array (
+    'icao' => 'SKPA',
+    'iata' => 'RON',
+    'name' => 'Juan Jose Rondon Airport',
+    'city' => 'Paipa',
+    'state' => 'Boyaca',
+    'country' => 'CO',
+    'elevation' => 8205,
+    'lat' => 5.76454,
+    'lon' => -73.1054,
+    'tz' => 'America/Bogota',
+  ),
   'PCR' => 
   array (
     'icao' => 'SKPC',
@@ -60804,6 +73973,19 @@ abstract class AirportLibrary
     'elevation' => 43,
     'lat' => 11.5262,
     'lon' => -72.926,
+    'tz' => 'America/Bogota',
+  ),
+  'RVE' => 
+  array (
+    'icao' => 'SKSA',
+    'iata' => 'RVE',
+    'name' => 'Los Colonizadores Airport',
+    'city' => 'Saravena',
+    'state' => 'Arauca',
+    'country' => 'CO',
+    'elevation' => 672,
+    'lat' => 6.951389,
+    'lon' => -71.856944,
     'tz' => 'America/Bogota',
   ),
   'SJE' => 
@@ -61014,6 +74196,32 @@ abstract class AirportLibrary
     'lon' => -76.1425,
     'tz' => 'America/Bogota',
   ),
+  'VGZ' => 
+  array (
+    'icao' => 'SKVG',
+    'iata' => 'VGZ',
+    'name' => 'Villa Garzon Airport',
+    'city' => 'Villa Garzon',
+    'state' => 'Putumayo',
+    'country' => 'CO',
+    'elevation' => 1248,
+    'lat' => 0.981944,
+    'lon' => -76.604167,
+    'tz' => 'America/Bogota',
+  ),
+  'PYA' => 
+  array (
+    'icao' => 'SKVL',
+    'iata' => 'PYA',
+    'name' => 'Velasquez Airport',
+    'city' => 'Velasquez',
+    'state' => 'Boyaca',
+    'country' => 'CO',
+    'elevation' => 566,
+    'lat' => 5.93904,
+    'lon' => -74.457,
+    'tz' => 'America/Bogota',
+  ),
   'VUP' => 
   array (
     'icao' => 'SKVP',
@@ -61079,6 +74287,19 @@ abstract class AirportLibrary
     'lon' => -63.9609985352,
     'tz' => 'America/La_Paz',
   ),
+  'SRE' => 
+  array (
+    'icao' => 'SLSU',
+    'iata' => 'SRE',
+    'name' => 'Juana Azurduy De Padilla Airport',
+    'city' => 'Sucre',
+    'state' => 'Chuquisaca',
+    'country' => 'BO',
+    'elevation' => 9540,
+    'lat' => -19.0070991516,
+    'lon' => -65.2886962891,
+    'tz' => 'America/La_Paz',
+  ),
   'APB' => 
   array (
     'icao' => 'SLAP',
@@ -61129,7 +74350,7 @@ abstract class AirportLibrary
     'elevation' => 1249,
     'lat' => -22.7733001709,
     'lon' => -64.3128967285,
-    'tz' => 'America/La_Paz',
+    'tz' => 'America/Argentina/Salta',
   ),
   'CAM' => 
   array (
@@ -61469,19 +74690,6 @@ abstract class AirportLibrary
     'lon' => -66.7867965698,
     'tz' => 'America/La_Paz',
   ),
-  'SRE' => 
-  array (
-    'icao' => 'SLSU',
-    'iata' => 'SRE',
-    'name' => 'Juana Azurduy De Padilla Airport',
-    'city' => 'Sucre',
-    'state' => 'Chuquisaca',
-    'country' => 'BO',
-    'elevation' => 9540,
-    'lat' => -19.0070991516,
-    'lon' => -65.2886962891,
-    'tz' => 'America/La_Paz',
-  ),
   'MQK' => 
   array (
     'icao' => 'SLTI',
@@ -61493,7 +74701,7 @@ abstract class AirportLibrary
     'elevation' => 403,
     'lat' => -16.3391990662,
     'lon' => -58.4019012451,
-    'tz' => 'America/La_Paz',
+    'tz' => 'America/Cuiaba',
   ),
   'TJA' => 
   array (
@@ -61597,7 +74805,7 @@ abstract class AirportLibrary
     'elevation' => 19,
     'lat' => 5.512720108,
     'lon' => -54.0500984192,
-    'tz' => 'America/Paramaribo',
+    'tz' => 'America/Cayenne',
   ),
   'BTO' => 
   array (
@@ -61779,7 +74987,7 @@ abstract class AirportLibrary
     'elevation' => 68,
     'lat' => 5.2501502037,
     'lon' => -57.1738014221,
-    'tz' => 'America/Paramaribo',
+    'tz' => 'America/Guyana',
   ),
   'ORG' => 
   array (
@@ -61870,7 +75078,7 @@ abstract class AirportLibrary
     'elevation' => 2447,
     'lat' => -12.0789003372,
     'lon' => -45.0089988708,
-    'tz' => 'America/Fortaleza',
+    'tz' => 'America/Bahia',
   ),
   'BSS' => 
   array (
@@ -62065,7 +75273,7 @@ abstract class AirportLibrary
     'elevation' => 1815,
     'lat' => -14.2082004547,
     'lon' => -42.7461013794,
-    'tz' => 'America/Fortaleza',
+    'tz' => 'America/Bahia',
   ),
   'GMS' => 
   array (
@@ -62260,20 +75468,20 @@ abstract class AirportLibrary
     'elevation' => 1148,
     'lat' => -6.2808327675,
     'lon' => -36.5402793884,
-    'tz' => 'America/Recife',
+    'tz' => 'America/Fortaleza',
   ),
   'LVB' => 
   array (
-    'icao' => 'SNLB',
+    'icao' => 'SSLI',
     'iata' => 'LVB',
-    'name' => 'Livramento do Brumado Airport',
-    'city' => 'Livramento Do Brumado',
-    'state' => 'Bahia',
+    'name' => 'Estancia Portal do Sol Airport',
+    'city' => 'Itirapina',
+    'state' => 'Sao-Paulo',
     'country' => 'BR',
-    'elevation' => 1559,
-    'lat' => -13.6506004333,
-    'lon' => -41.8339004517,
-    'tz' => 'America/Bahia',
+    'elevation' => 2425,
+    'lat' => -22.165278,
+    'lon' => -47.892778,
+    'tz' => 'America/Sao_Paulo',
   ),
   'SSO' => 
   array (
@@ -62312,7 +75520,7 @@ abstract class AirportLibrary
     'elevation' => 276,
     'lat' => -18.0489006042,
     'lon' => -39.864200592,
-    'tz' => 'America/Fortaleza',
+    'tz' => 'America/Bahia',
   ),
   'SBJ' => 
   array (
@@ -62338,7 +75546,7 @@ abstract class AirportLibrary
     'elevation' => 53,
     'lat' => -1.7414499521,
     'lon' => -52.2360992432,
-    'tz' => 'America/Santarem',
+    'tz' => 'America/Belem',
   ),
   'NNU' => 
   array (
@@ -62379,6 +75587,19 @@ abstract class AirportLibrary
     'lon' => -46.6618003845,
     'tz' => 'America/Sao_Paulo',
   ),
+  'FEJ' => 
+  array (
+    'icao' => 'SWFJ',
+    'iata' => 'FEJ',
+    'name' => 'Feijo Airport',
+    'city' => 'Feijo',
+    'state' => '',
+    'country' => 'BR',
+    'elevation' => 394,
+    'lat' => -8.1655797958,
+    'lon' => -70.3529968262,
+    'tz' => 'America/Rio_Branco',
+  ),
   'ORX' => 
   array (
     'icao' => 'SNOX',
@@ -62390,7 +75611,7 @@ abstract class AirportLibrary
     'elevation' => 262,
     'lat' => -1.7140799761,
     'lon' => -55.8362007141,
-    'tz' => 'America/Belem',
+    'tz' => 'America/Santarem',
   ),
   'PCS' => 
   array (
@@ -62468,7 +75689,7 @@ abstract class AirportLibrary
     'elevation' => 1891,
     'lat' => -8.2823896408,
     'lon' => -36.0135002136,
-    'tz' => 'America/Fortaleza',
+    'tz' => 'America/Recife',
   ),
   'SFK' => 
   array (
@@ -62482,6 +75703,19 @@ abstract class AirportLibrary
     'lat' => -0.6994310021,
     'lon' => -48.5209999084,
     'tz' => 'America/Belem',
+  ),
+  'TXF' => 
+  array (
+    'icao' => 'SNTF',
+    'iata' => 'TXF',
+    'name' => 'Teixeira de Freitas Airport',
+    'city' => 'Teixeira De Freitas',
+    'state' => 'Bahia',
+    'country' => 'BR',
+    'elevation' => 344,
+    'lat' => -17.5244998932,
+    'lon' => -39.6684989929,
+    'tz' => 'America/Bahia',
   ),
   'OBI' => 
   array (
@@ -62520,7 +75754,7 @@ abstract class AirportLibrary
     'elevation' => 21,
     'lat' => -13.296500206,
     'lon' => -38.992401123,
-    'tz' => 'America/Fortaleza',
+    'tz' => 'America/Bahia',
   ),
   'QID' => 
   array (
@@ -62574,6 +75808,19 @@ abstract class AirportLibrary
     'lon' => -35.5416679382,
     'tz' => 'America/Maceio',
   ),
+  'GGF' => 
+  array (
+    'icao' => 'SNYA',
+    'iata' => 'GGF',
+    'name' => 'Almeirim Airport',
+    'city' => 'Almeirim',
+    'state' => 'Para',
+    'country' => 'BR',
+    'elevation' => 584,
+    'lat' => -1.4919439554,
+    'lon' => -52.5783348083,
+    'tz' => 'America/Santarem',
+  ),
   'PHI' => 
   array (
     'icao' => 'SNYE',
@@ -62598,7 +75845,7 @@ abstract class AirportLibrary
     'elevation' => 1096,
     'lat' => -8.6999998093,
     'lon' => -51.1741676331,
-    'tz' => 'America/Santarem',
+    'tz' => 'America/Belem',
   ),
   'PPY' => 
   array (
@@ -62613,6 +75860,19 @@ abstract class AirportLibrary
     'lon' => -45.9191017151,
     'tz' => 'America/Sao_Paulo',
   ),
+  'ITE' => 
+  array (
+    'icao' => 'SNZW',
+    'iata' => 'ITE',
+    'name' => 'Itubera Airport',
+    'city' => 'Itubera',
+    'state' => 'Bahia',
+    'country' => 'BR',
+    'elevation' => 13,
+    'lat' => -13.7322216034,
+    'lon' => -39.1416664124,
+    'tz' => 'America/Bahia',
+  ),
   'CAY' => 
   array (
     'icao' => 'SOCA',
@@ -62624,6 +75884,19 @@ abstract class AirportLibrary
     'elevation' => 26,
     'lat' => 4.8198099136,
     'lon' => -52.3604011536,
+    'tz' => 'America/Cayenne',
+  ),
+  'GSI' => 
+  array (
+    'icao' => 'SOGS',
+    'iata' => 'GSI',
+    'name' => 'Grand-Santi Airport',
+    'city' => 'Grand-Santi',
+    'state' => 'Guyane',
+    'country' => 'GF',
+    'elevation' => 207,
+    'lat' => 4.2858333333,
+    'lon' => -54.3730555556,
     'tz' => 'America/Cayenne',
   ),
   'MPY' => 
@@ -62650,7 +75923,7 @@ abstract class AirportLibrary
     'elevation' => 46,
     'lat' => 3.8975999355,
     'lon' => -51.8041000366,
-    'tz' => 'America/Cayenne',
+    'tz' => 'America/Belem',
   ),
   'LDX' => 
   array (
@@ -62795,6 +76068,19 @@ abstract class AirportLibrary
     'lon' => -74.5743026733,
     'tz' => 'America/Lima',
   ),
+  'TDP' => 
+  array (
+    'icao' => 'SPDR',
+    'iata' => 'TDP',
+    'name' => 'Trompeteros Airport',
+    'city' => 'Corrientes',
+    'state' => 'Loreto',
+    'country' => 'PE',
+    'elevation' => 427,
+    'lat' => -3.8060100079,
+    'lon' => -75.0392990112,
+    'tz' => 'America/Lima',
+  ),
   'CHM' => 
   array (
     'icao' => 'SPEO',
@@ -62925,6 +76211,19 @@ abstract class AirportLibrary
     'lon' => -77.1143035889,
     'tz' => 'America/Lima',
   ),
+  'JAE' => 
+  array (
+    'icao' => 'SPJE',
+    'iata' => 'JAE',
+    'name' => 'Shumba Airport',
+    'city' => 'Jaen',
+    'state' => 'Cajamarca',
+    'country' => 'PE',
+    'elevation' => 2477,
+    'lat' => -5.5924801826,
+    'lon' => -78.7740020752,
+    'tz' => 'America/Lima',
+  ),
   'JJI' => 
   array (
     'icao' => 'SPJI',
@@ -63027,6 +76326,19 @@ abstract class AirportLibrary
     'elevation' => 115,
     'lat' => -3.5525300503,
     'lon' => -80.381401062,
+    'tz' => 'America/Lima',
+  ),
+  'MZA' => 
+  array (
+    'icao' => 'SPMF',
+    'iata' => 'MZA',
+    'name' => 'Manuel Prado Ugarteche Airport',
+    'city' => 'Mazamari',
+    'state' => 'Junin',
+    'country' => 'PE',
+    'elevation' => 2247,
+    'lat' => -11.3254003525,
+    'lon' => -74.5355987549,
     'tz' => 'America/Lima',
   ),
   'SMG' => 
@@ -63250,19 +76562,6 @@ abstract class AirportLibrary
     'lon' => -81.2540969849,
     'tz' => 'America/Lima',
   ),
-  'NZA' => 
-  array (
-    'icao' => 'SPZA',
-    'iata' => 'NZA',
-    'name' => 'Maria Reiche Neuman Airport',
-    'city' => '',
-    'state' => 'Ica',
-    'country' => 'PE',
-    'elevation' => 1860,
-    'lat' => -14.8540000916,
-    'lon' => -74.9615020752,
-    'tz' => 'America/Lima',
-  ),
   'CUZ' => 
   array (
     'icao' => 'SPZO',
@@ -63328,6 +76627,19 @@ abstract class AirportLibrary
     'lon' => -52.0527000427,
     'tz' => 'America/Sao_Paulo',
   ),
+  'CSS' => 
+  array (
+    'icao' => 'SSCL',
+    'iata' => 'CSS',
+    'name' => 'Cassilandia Airport',
+    'city' => 'Cassilandia',
+    'state' => 'Mato-Grosso-do-Sul',
+    'country' => 'BR',
+    'elevation' => 1568,
+    'lat' => -19.1463890076,
+    'lon' => -51.6852798462,
+    'tz' => 'America/Campo_Grande',
+  ),
   'QCN' => 
   array (
     'icao' => 'SSCN',
@@ -63352,6 +76664,19 @@ abstract class AirportLibrary
     'elevation' => 1854,
     'lat' => -23.1525001526,
     'lon' => -50.6025009155,
+    'tz' => 'America/Sao_Paulo',
+  ),
+  'GGH' => 
+  array (
+    'icao' => 'SSCT',
+    'iata' => 'GGH',
+    'name' => 'Cianorte Airport',
+    'city' => 'Cianorte',
+    'state' => 'Parana',
+    'country' => 'BR',
+    'elevation' => 1837,
+    'lat' => -23.6914997101,
+    'lon' => -52.6418991089,
     'tz' => 'America/Sao_Paulo',
   ),
   'DOU' => 
@@ -63404,6 +76729,19 @@ abstract class AirportLibrary
     'elevation' => 889,
     'lat' => -24.0811004639,
     'lon' => -54.1916999817,
+    'tz' => 'America/Campo_Grande',
+  ),
+  'HRZ' => 
+  array (
+    'icao' => 'SSHZ',
+    'iata' => 'HRZ',
+    'name' => 'Horizontina Airport',
+    'city' => 'Horizontina',
+    'state' => 'Rio-Grande-do-Sul',
+    'country' => 'BR',
+    'elevation' => 1063,
+    'lat' => -27.638299942,
+    'lon' => -54.339099884,
     'tz' => 'America/Sao_Paulo',
   ),
   'IJU' => 
@@ -63484,6 +76822,32 @@ abstract class AirportLibrary
     'lon' => -50.6114006042,
     'tz' => 'America/Sao_Paulo',
   ),
+  'OAL' => 
+  array (
+    'icao' => 'SSKW',
+    'iata' => 'OAL',
+    'name' => 'Cacoal Airport',
+    'city' => 'Cacoal',
+    'state' => 'Rondonia',
+    'country' => 'BR',
+    'elevation' => 817,
+    'lat' => -11.493611,
+    'lon' => -61.175556,
+    'tz' => 'America/Porto_Velho',
+  ),
+  'LOI' => 
+  array (
+    'icao' => 'SSLN',
+    'iata' => 'LOI',
+    'name' => 'Helmuth Baungarten Airport',
+    'city' => 'Lontras',
+    'state' => 'Santa-Catarina',
+    'country' => 'BR',
+    'elevation' => 1095,
+    'lat' => -27.1599998474,
+    'lon' => -49.5424995422,
+    'tz' => 'America/Sao_Paulo',
+  ),
   'ALQ' => 
   array (
     'icao' => 'SSLT',
@@ -63561,6 +76925,19 @@ abstract class AirportLibrary
     'lat' => -23.3528995514,
     'lon' => -51.4916992188,
     'tz' => 'America/Sao_Paulo',
+  ),
+  'AIR' => 
+  array (
+    'icao' => 'SWRP',
+    'iata' => 'AIR',
+    'name' => 'Aripuana Airport',
+    'city' => 'Aripuana',
+    'state' => 'Mato-Grosso',
+    'country' => 'BR',
+    'elevation' => 623,
+    'lat' => -10.2502775192,
+    'lon' => -59.3838882446,
+    'tz' => 'America/Cuiaba',
   ),
   'PTO' => 
   array (
@@ -63796,19 +77173,6 @@ abstract class AirportLibrary
     'lon' => -57.7705993652,
     'tz' => 'America/Montevideo',
   ),
-  'CAR' => 
-  array (
-    'icao' => 'SUCM',
-    'iata' => 'CAR',
-    'name' => 'Carmelo International Airport',
-    'city' => 'Carmelo',
-    'state' => 'Colonia',
-    'country' => 'UY',
-    'elevation' => 42,
-    'lat' => -33.9661102295,
-    'lon' => -58.3252792358,
-    'tz' => 'America/Montevideo',
-  ),
   'DZO' => 
   array (
     'icao' => 'SUDU',
@@ -63835,19 +77199,6 @@ abstract class AirportLibrary
     'lon' => -55.0942993164,
     'tz' => 'America/Montevideo',
   ),
-  'MER' => 
-  array (
-    'icao' => 'SUME',
-    'iata' => 'MER',
-    'name' => 'Ricardo de Tomasi International Airport',
-    'city' => 'Mercedes',
-    'state' => 'Soriano',
-    'country' => 'UY',
-    'elevation' => 68,
-    'lat' => -33.25,
-    'lon' => -58.0670013428,
-    'tz' => 'America/Montevideo',
-  ),
   'MLZ' => 
   array (
     'icao' => 'SUMO',
@@ -63872,19 +77223,6 @@ abstract class AirportLibrary
     'elevation' => 105,
     'lat' => -34.8384017944,
     'lon' => -56.0307998657,
-    'tz' => 'America/Montevideo',
-  ),
-  'MDO' => 
-  array (
-    'icao' => 'SUPE',
-    'iata' => 'MDO',
-    'name' => 'El Jaguel / Punta del Este Airport',
-    'city' => 'Maldonado',
-    'state' => 'Maldonado',
-    'country' => 'UY',
-    'elevation' => 66,
-    'lat' => -34.9169998169,
-    'lon' => -54.9169998169,
     'tz' => 'America/Montevideo',
   ),
   'PDU' => 
@@ -64251,6 +77589,19 @@ abstract class AirportLibrary
     'lon' => -69.7551498413,
     'tz' => 'America/Caracas',
   ),
+  'HGE' => 
+  array (
+    'icao' => 'SVHG',
+    'iata' => 'HGE',
+    'name' => 'Higuerote Airport',
+    'city' => '',
+    'state' => 'Miranda',
+    'country' => 'VE',
+    'elevation' => 10,
+    'lat' => 10.4624528885,
+    'lon' => -66.0927581787,
+    'tz' => 'America/Caracas',
+  ),
   'ICA' => 
   array (
     'icao' => 'SVIC',
@@ -64262,6 +77613,19 @@ abstract class AirportLibrary
     'elevation' => 1574,
     'lat' => 4.3363199234,
     'lon' => -61.7396011353,
+    'tz' => 'America/Caracas',
+  ),
+  'ICC' => 
+  array (
+    'icao' => 'SVIE',
+    'iata' => 'ICC',
+    'name' => 'Andres Miguel Salazar Marcano Airport',
+    'city' => 'Isla de Coche',
+    'state' => 'Nueva-Esparta',
+    'country' => 'VE',
+    'elevation' => 10,
+    'lat' => 10.7944059372,
+    'lon' => -63.981590271,
     'tz' => 'America/Caracas',
   ),
   'LSP' => 
@@ -64392,7 +77756,7 @@ abstract class AirportLibrary
     'elevation' => 245,
     'lat' => 5.619989872,
     'lon' => -67.6061019897,
-    'tz' => 'America/Caracas',
+    'tz' => 'America/Bogota',
   ),
   'PBL' => 
   array (
@@ -64496,7 +77860,7 @@ abstract class AirportLibrary
     'elevation' => 1312,
     'lat' => 7.8408298492,
     'lon' => -72.4396972656,
-    'tz' => 'America/Caracas',
+    'tz' => 'America/Bogota',
   ),
   'SBB' => 
   array (
@@ -64691,7 +78055,7 @@ abstract class AirportLibrary
     'elevation' => 112,
     'lat' => -0.9812920094,
     'lon' => -62.9196014404,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Manaus',
   ),
   'RBB' => 
   array (
@@ -64704,7 +78068,7 @@ abstract class AirportLibrary
     'elevation' => 293,
     'lat' => -4.4063401222,
     'lon' => -59.6024017334,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Manaus',
   ),
   'CAF' => 
   array (
@@ -64717,7 +78081,7 @@ abstract class AirportLibrary
     'elevation' => 355,
     'lat' => -4.8715200424,
     'lon' => -66.8974990845,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Manaus',
   ),
   'CQS' => 
   array (
@@ -64743,7 +78107,7 @@ abstract class AirportLibrary
     'elevation' => 1476,
     'lat' => -14.3768997192,
     'lon' => -56.4003982544,
-    'tz' => 'America/Campo_Grande',
+    'tz' => 'America/Cuiaba',
   ),
   'DNO' => 
   array (
@@ -64758,6 +78122,19 @@ abstract class AirportLibrary
     'lon' => -46.846698761,
     'tz' => 'America/Araguaina',
   ),
+  'ARS' => 
+  array (
+    'icao' => 'SWEC',
+    'iata' => 'ARS',
+    'name' => 'Estancia das Cascatas Airport',
+    'city' => 'Aragarcas',
+    'state' => 'Goias',
+    'country' => 'BR',
+    'elevation' => 1017,
+    'lat' => -15.8966999054,
+    'lon' => -52.0956001282,
+    'tz' => 'America/Cuiaba',
+  ),
   'ERN' => 
   array (
     'icao' => 'SWEI',
@@ -64769,7 +78146,7 @@ abstract class AirportLibrary
     'elevation' => 412,
     'lat' => -6.6395301819,
     'lon' => -69.8797988892,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Eirunepe',
   ),
   'CQA' => 
   array (
@@ -64784,19 +78161,6 @@ abstract class AirportLibrary
     'lon' => -52.2705574036,
     'tz' => 'America/Cuiaba',
   ),
-  'FEJ' => 
-  array (
-    'icao' => 'SWFJ',
-    'iata' => 'FEJ',
-    'name' => 'Feijo Airport',
-    'city' => 'Feijo',
-    'state' => '',
-    'country' => 'BR',
-    'elevation' => 394,
-    'lat' => -8.1655797958,
-    'lon' => -70.3529968262,
-    'tz' => 'America/Rio_Branco',
-  ),
   'SXO' => 
   array (
     'icao' => 'SWFX',
@@ -64808,7 +78172,7 @@ abstract class AirportLibrary
     'elevation' => 650,
     'lat' => -11.632399559,
     'lon' => -50.6896018982,
-    'tz' => 'America/Campo_Grande',
+    'tz' => 'America/Cuiaba',
   ),
   'GRP' => 
   array (
@@ -64821,7 +78185,7 @@ abstract class AirportLibrary
     'elevation' => 1148,
     'lat' => -11.7396001816,
     'lon' => -49.1321983337,
-    'tz' => 'America/Fortaleza',
+    'tz' => 'America/Araguaina',
   ),
   'AUX' => 
   array (
@@ -64834,7 +78198,33 @@ abstract class AirportLibrary
     'elevation' => 771,
     'lat' => -7.2278699875,
     'lon' => -48.2405014038,
-    'tz' => 'America/Fortaleza',
+    'tz' => 'America/Araguaina',
+  ),
+  'GGB' => 
+  array (
+    'icao' => 'SWHP',
+    'iata' => 'GGB',
+    'name' => 'Fazenda Olhos D`agua Airport',
+    'city' => 'Agua Boa',
+    'state' => 'Mato-Grosso',
+    'country' => 'BR',
+    'elevation' => 1407,
+    'lat' => -14.0194444656,
+    'lon' => -52.1522216797,
+    'tz' => 'America/Cuiaba',
+  ),
+  'HUW' => 
+  array (
+    'icao' => 'SWHT',
+    'iata' => 'HUW',
+    'name' => 'Humaita Airport',
+    'city' => 'Humaita',
+    'state' => 'Amazonas',
+    'country' => 'BR',
+    'elevation' => 230,
+    'lat' => -7.5321202278,
+    'lon' => -63.072101593,
+    'tz' => 'America/Manaus',
   ),
   'IPG' => 
   array (
@@ -64847,7 +78237,7 @@ abstract class AirportLibrary
     'elevation' => 131,
     'lat' => -2.9390699863,
     'lon' => -69.6940002441,
-    'tz' => 'America/Manaus',
+    'tz' => 'America/Bogota',
   ),
   'IDO' => 
   array (
@@ -64873,7 +78263,7 @@ abstract class AirportLibrary
     'elevation' => 598,
     'lat' => -10.8708000183,
     'lon' => -61.8465003967,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Porto_Velho',
   ),
   'JIA' => 
   array (
@@ -64901,6 +78291,19 @@ abstract class AirportLibrary
     'lon' => -58.4894447327,
     'tz' => 'America/Cuiaba',
   ),
+  'JTI' => 
+  array (
+    'icao' => 'SWJW',
+    'iata' => 'JTI',
+    'name' => 'Jatai Airport',
+    'city' => 'Jatai',
+    'state' => 'Goias',
+    'country' => 'BR',
+    'elevation' => 2529,
+    'lat' => -17.8299007416,
+    'lon' => -51.7729988098,
+    'tz' => 'America/Sao_Paulo',
+  ),
   'CCX' => 
   array (
     'icao' => 'SWKC',
@@ -64925,7 +78328,7 @@ abstract class AirportLibrary
     'elevation' => 131,
     'lat' => -4.134059906,
     'lon' => -63.132598877,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Manaus',
   ),
   'TLZ' => 
   array (
@@ -64951,7 +78354,7 @@ abstract class AirportLibrary
     'elevation' => 190,
     'lat' => -7.2789697647,
     'lon' => -64.7695007324,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Manaus',
   ),
   'RVD' => 
   array (
@@ -64977,7 +78380,7 @@ abstract class AirportLibrary
     'elevation' => 69,
     'lat' => -3.3721699715,
     'lon' => -57.7248001099,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Manaus',
   ),
   'NVP' => 
   array (
@@ -64990,7 +78393,7 @@ abstract class AirportLibrary
     'elevation' => 118,
     'lat' => -5.1180300713,
     'lon' => -60.3648986816,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Manaus',
   ),
   'AQM' => 
   array (
@@ -65055,7 +78458,7 @@ abstract class AirportLibrary
     'elevation' => 207,
     'lat' => -2.5326099396,
     'lon' => -66.0831985474,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Manaus',
   ),
   'PIN' => 
   array (
@@ -65068,7 +78471,7 @@ abstract class AirportLibrary
     'elevation' => 87,
     'lat' => -2.673019886,
     'lon' => -56.7771987915,
-    'tz' => 'America/Boa_Vista',
+    'tz' => 'America/Manaus',
   ),
   'PBQ' => 
   array (
@@ -65082,6 +78485,19 @@ abstract class AirportLibrary
     'lat' => -11.6415996552,
     'lon' => -61.1791000366,
     'tz' => 'America/Porto_Velho',
+  ),
+  'PBX' => 
+  array (
+    'icao' => 'SWPQ',
+    'iata' => 'PBX',
+    'name' => 'Fazenda Piraguassu Airport',
+    'city' => 'Porto Alegre Do Norte',
+    'state' => 'Mato-Grosso',
+    'country' => 'BR',
+    'elevation' => 705,
+    'lat' => -10.8611106873,
+    'lon' => -51.6850013733,
+    'tz' => 'America/Cuiaba',
   ),
   'AAI' => 
   array (
@@ -65109,19 +78525,6 @@ abstract class AirportLibrary
     'lon' => -54.7248001099,
     'tz' => 'America/Cuiaba',
   ),
-  'AIR' => 
-  array (
-    'icao' => 'SWRP',
-    'iata' => 'AIR',
-    'name' => 'Aripuana Airport',
-    'city' => 'Aripuana',
-    'state' => 'Mato-Grosso',
-    'country' => 'BR',
-    'elevation' => 623,
-    'lat' => -10.2502775192,
-    'lon' => -59.3838882446,
-    'tz' => 'America/Cuiaba',
-  ),
   'OPS' => 
   array (
     'icao' => 'SWSI',
@@ -65133,7 +78536,7 @@ abstract class AirportLibrary
     'elevation' => 1227,
     'lat' => -11.8850002289,
     'lon' => -55.5861091614,
-    'tz' => 'America/Campo_Grande',
+    'tz' => 'America/Cuiaba',
   ),
   'STZ' => 
   array (
@@ -65212,6 +78615,19 @@ abstract class AirportLibrary
     'lat' => -13.3312997818,
     'lon' => -50.1976013184,
     'tz' => 'America/Sao_Paulo',
+  ),
+  'MTG' => 
+  array (
+    'icao' => 'SWVB',
+    'iata' => 'MTG',
+    'name' => 'Vila Bela da Santissima Trindade Airport',
+    'city' => 'Vila Bela Da Santissima Trindade',
+    'state' => 'Mato-Grosso',
+    'country' => 'BR',
+    'elevation' => 886,
+    'lat' => -15.0152778625,
+    'lon' => -59.9672203064,
+    'tz' => 'America/Cuiaba',
   ),
   'VLP' => 
   array (
@@ -65432,7 +78848,7 @@ abstract class AirportLibrary
     'elevation' => 351,
     'lat' => 3.3727600574,
     'lon' => -59.7893981934,
-    'tz' => 'America/Guyana',
+    'tz' => 'America/Boa_Vista',
   ),
   'USI' => 
   array (
@@ -65510,7 +78926,7 @@ abstract class AirportLibrary
     'elevation' => 1797,
     'lat' => 4.7252697945,
     'lon' => -60.0349998474,
-    'tz' => 'America/Guyana',
+    'tz' => 'America/Boa_Vista',
   ),
   'PRR' => 
   array (
@@ -65653,7 +79069,7 @@ abstract class AirportLibrary
     'elevation' => 7,
     'lat' => 18.099899292,
     'lon' => -63.0471992493,
-    'tz' => 'America/Marigot',
+    'tz' => 'America/Lower_Princes',
   ),
   'SBH' => 
   array (
@@ -65848,6 +79264,19 @@ abstract class AirportLibrary
     'elevation' => 29,
     'lat' => 18.0083007813,
     'lon' => -66.56300354,
+    'tz' => 'America/Puerto_Rico',
+  ),
+  'NRR' => 
+  array (
+    'icao' => 'TJRV',
+    'iata' => 'NRR',
+    'name' => 'Jose Aponte de la Torre Airport',
+    'city' => 'Ceiba',
+    'state' => 'Ceiba',
+    'country' => 'PR',
+    'elevation' => 38,
+    'lat' => 18.245300293,
+    'lon' => -65.6434020996,
     'tz' => 'America/Puerto_Rico',
   ),
   'SJU' => 
@@ -66199,7 +79628,20 @@ abstract class AirportLibrary
     'elevation' => 1446,
     'lat' => 46.8932991028,
     'lon' => 75.0049972534,
-    'tz' => 'Asia/Qyzylorda',
+    'tz' => 'Asia/Almaty',
+  ),
+  'USJ' => 
+  array (
+    'icao' => 'UAAL',
+    'iata' => 'USJ',
+    'name' => 'Usharal Airport',
+    'city' => 'Usharal',
+    'state' => 'Almaty-Oblysy',
+    'country' => 'KZ',
+    'elevation' => 1288,
+    'lat' => 46.190278043,
+    'lon' => 80.831389126,
+    'tz' => 'Asia/Almaty',
   ),
   'BXJ' => 
   array (
@@ -66227,10 +79669,10 @@ abstract class AirportLibrary
     'lon' => 78.4469985962,
     'tz' => 'Asia/Almaty',
   ),
-  'TSE' => 
+  'NQZ' => 
   array (
     'icao' => 'UACC',
-    'iata' => 'TSE',
+    'iata' => 'NQZ',
     'name' => 'Astana International Airport',
     'city' => 'Astana',
     'state' => 'Aqmola',
@@ -66264,7 +79706,7 @@ abstract class AirportLibrary
     'elevation' => 453,
     'lat' => 54.7747001648,
     'lon' => 69.1838989258,
-    'tz' => 'Asia/Qyzylorda',
+    'tz' => 'Asia/Almaty',
   ),
   'DMB' => 
   array (
@@ -66277,33 +79719,7 @@ abstract class AirportLibrary
     'elevation' => 2184,
     'lat' => 42.8535995483,
     'lon' => 71.3035964966,
-    'tz' => 'Asia/Qyzylorda',
-  ),
-  'FRU' => 
-  array (
-    'icao' => 'UAFM',
-    'iata' => 'FRU',
-    'name' => 'Manas International Airport',
-    'city' => 'Bishkek',
-    'state' => 'Chuey',
-    'country' => 'KG',
-    'elevation' => 2058,
-    'lat' => 43.0612983704,
-    'lon' => 74.4776000977,
-    'tz' => 'Asia/Bishkek',
-  ),
-  'OSS' => 
-  array (
-    'icao' => 'UAFO',
-    'iata' => 'OSS',
-    'name' => 'Osh Airport',
-    'city' => 'Osh',
-    'state' => 'Osh',
-    'country' => 'KG',
-    'elevation' => 2927,
-    'lat' => 40.6090011597,
-    'lon' => 72.793296814,
-    'tz' => 'Asia/Bishkek',
+    'tz' => 'Asia/Almaty',
   ),
   'CIT' => 
   array (
@@ -66316,6 +79732,19 @@ abstract class AirportLibrary
     'elevation' => 1385,
     'lat' => 42.364200592,
     'lon' => 69.4788970947,
+    'tz' => 'Asia/Almaty',
+  ),
+  'HSA' => 
+  array (
+    'icao' => 'UAIT',
+    'iata' => 'HSA',
+    'name' => 'Hazrat Sultan International Airport',
+    'city' => 'Turkistan',
+    'state' => 'Ongtuestik-Qazaqstan',
+    'country' => 'KZ',
+    'elevation' => 989,
+    'lat' => 43.2769012451,
+    'lon' => 68.1903991699,
     'tz' => 'Asia/Almaty',
   ),
   'DZN' => 
@@ -66343,6 +79772,19 @@ abstract class AirportLibrary
     'lat' => 49.6707992554,
     'lon' => 73.3343963623,
     'tz' => 'Asia/Almaty',
+  ),
+  'BXY' => 
+  array (
+    'icao' => 'UAOL',
+    'iata' => 'BXY',
+    'name' => 'Krainiy Airport',
+    'city' => 'Baikonur',
+    'state' => 'Baikonur',
+    'country' => 'KZ',
+    'elevation' => 299,
+    'lat' => 45.6220016,
+    'lon' => 63.2150002,
+    'tz' => 'Asia/Qyzylorda',
   ),
   'KZO' => 
   array (
@@ -66381,7 +79823,7 @@ abstract class AirportLibrary
     'elevation' => 621,
     'lat' => 51.5909996033,
     'lon' => 75.2149963379,
-    'tz' => 'Asia/Qyzylorda',
+    'tz' => 'Asia/Almaty',
   ),
   'UKK' => 
   array (
@@ -66407,19 +79849,19 @@ abstract class AirportLibrary
     'elevation' => 410,
     'lat' => 52.1949996948,
     'lon' => 77.0738983154,
-    'tz' => 'Asia/Qyzylorda',
+    'tz' => 'Asia/Almaty',
   ),
-  'DLX' => 
+  'PLX' => 
   array (
     'icao' => 'UASS',
-    'iata' => 'DLX',
-    'name' => 'Semipalatinsk Airport',
+    'iata' => 'PLX',
+    'name' => 'Semey Airport',
     'city' => 'Semey',
     'state' => 'East-Kazakhstan',
     'country' => 'KZ',
     'elevation' => 761,
-    'lat' => 50.3512992859,
-    'lon' => 80.2343978882,
+    'lat' => 50.351389,
+    'lon' => 80.234444,
     'tz' => 'Asia/Almaty',
   ),
   'SCO' => 
@@ -66433,7 +79875,7 @@ abstract class AirportLibrary
     'elevation' => 73,
     'lat' => 43.8600997925,
     'lon' => 51.091999054,
-    'tz' => 'Asia/Oral',
+    'tz' => 'Asia/Aqtau',
   ),
   'GUW' => 
   array (
@@ -66446,14 +79888,14 @@ abstract class AirportLibrary
     'elevation' => -72,
     'lat' => 47.1218986511,
     'lon' => 51.8213996887,
-    'tz' => 'Asia/Oral',
+    'tz' => 'Asia/Atyrau',
   ),
   'AKX' => 
   array (
     'icao' => 'UATT',
     'iata' => 'AKX',
     'name' => 'Aktobe Airport',
-    'city' => 'Aktyuinsk',
+    'city' => 'Aktyubinsk',
     'state' => 'Aqtobe',
     'country' => 'KZ',
     'elevation' => 738,
@@ -66472,7 +79914,7 @@ abstract class AirportLibrary
     'elevation' => 1266,
     'lat' => 50.3185997009,
     'lon' => 66.952796936,
-    'tz' => 'Asia/Almaty',
+    'tz' => 'Asia/Qostanay',
   ),
   'KSN' => 
   array (
@@ -66485,7 +79927,7 @@ abstract class AirportLibrary
     'elevation' => 595,
     'lat' => 53.2069015503,
     'lon' => 63.5503005981,
-    'tz' => 'Asia/Qyzylorda',
+    'tz' => 'Asia/Qostanay',
   ),
   'GYD' => 
   array (
@@ -66500,10 +79942,10 @@ abstract class AirportLibrary
     'lon' => 50.0466995239,
     'tz' => 'Asia/Baku',
   ),
-  'KVD' => 
+  'GNJ' => 
   array (
     'icao' => 'UBBG',
-    'iata' => 'KVD',
+    'iata' => 'GNJ',
     'name' => 'Ganja Airport',
     'city' => 'Ganja',
     'state' => 'Goygol-Rayon',
@@ -66565,6 +80007,58 @@ abstract class AirportLibrary
     'lon' => 46.6672210693,
     'tz' => 'Asia/Baku',
   ),
+  'YLV' => 
+  array (
+    'icao' => 'UBEE',
+    'iata' => 'YLV',
+    'name' => 'Yevlakh Airport',
+    'city' => 'Yevlakh',
+    'state' => 'Yevlax-City',
+    'country' => 'AZ',
+    'elevation' => 49,
+    'lat' => 40.6319007874,
+    'lon' => 47.1418991089,
+    'tz' => 'Asia/Baku',
+  ),
+  'IKU' => 
+  array (
+    'icao' => 'UCFL',
+    'iata' => 'IKU',
+    'name' => 'Issyk-Kul International Airport',
+    'city' => 'Tamchy',
+    'state' => 'Issyk-Kul',
+    'country' => 'KG',
+    'elevation' => 5426,
+    'lat' => 42.585714,
+    'lon' => 76.701811,
+    'tz' => 'Asia/Bishkek',
+  ),
+  'FRU' => 
+  array (
+    'icao' => 'UCFM',
+    'iata' => 'FRU',
+    'name' => 'Manas International Airport',
+    'city' => 'Bishkek',
+    'state' => 'Chuey',
+    'country' => 'KG',
+    'elevation' => 2090,
+    'lat' => 43.061272,
+    'lon' => 74.477508,
+    'tz' => 'Asia/Bishkek',
+  ),
+  'OSS' => 
+  array (
+    'icao' => 'UAFO',
+    'iata' => 'OSS',
+    'name' => 'Osh Airport',
+    'city' => 'Osh',
+    'state' => 'Osh',
+    'country' => 'KG',
+    'elevation' => 2938,
+    'lat' => 40.608997,
+    'lon' => 72.793214,
+    'tz' => 'Asia/Bishkek',
+  ),
   'LWN' => 
   array (
     'icao' => 'UDSG',
@@ -66590,6 +80084,32 @@ abstract class AirportLibrary
     'lat' => 40.1473007202,
     'lon' => 44.3959007263,
     'tz' => 'Asia/Yerevan',
+  ),
+  'UKG' => 
+  array (
+    'icao' => 'UEBT',
+    'iata' => 'UKG',
+    'name' => 'Ust-Kuyga Airport',
+    'city' => 'Ust-Kuyga',
+    'state' => 'Chukot',
+    'country' => 'RU',
+    'elevation' => 0,
+    'lat' => 70.0110015869,
+    'lon' => 135.6450042725,
+    'tz' => 'Asia/Vladivostok',
+  ),
+  'TLK' => 
+  array (
+    'icao' => 'UECT',
+    'iata' => 'TLK',
+    'name' => 'Talakan Airport',
+    'city' => '',
+    'state' => 'Chukot',
+    'country' => 'RU',
+    'elevation' => 1329,
+    'lat' => 59.876389,
+    'lon' => 111.044444,
+    'tz' => 'Asia/Yakutsk',
   ),
   'ADH' => 
   array (
@@ -66619,15 +80139,145 @@ abstract class AirportLibrary
   ),
   'CNN' => 
   array (
-    'icao' => 'UELL',
+    'icao' => 'VOKN',
     'iata' => 'CNN',
-    'name' => 'Chulman Airport',
-    'city' => 'Chulman',
+    'name' => 'Kannur International Airport',
+    'city' => 'Mattanur',
+    'state' => 'Kerala',
+    'country' => 'IN',
+    'elevation' => 249,
+    'lat' => 11.92,
+    'lon' => 75.55,
+    'tz' => 'Asia/Kolkata',
+  ),
+  'MQJ' => 
+  array (
+    'icao' => 'UEMA',
+    'iata' => 'MQJ',
+    'name' => 'Moma Airport',
+    'city' => 'Honuu',
     'state' => 'Chukot',
     'country' => 'RU',
-    'elevation' => 2812,
-    'lat' => 56.913898468,
-    'lon' => 124.9140014648,
+    'elevation' => 656,
+    'lat' => 66.4508590698,
+    'lon' => 143.2615509033,
+    'tz' => 'Asia/Srednekolymsk',
+  ),
+  'KDY' => 
+  array (
+    'icao' => 'UEMH',
+    'iata' => 'KDY',
+    'name' => 'Tyopliy Klyuch Airport',
+    'city' => 'Tyopliy Klyuch',
+    'state' => 'Chukot',
+    'country' => 'RU',
+    'elevation' => 0,
+    'lat' => 62.7890014648,
+    'lon' => 136.8549957275,
+    'tz' => 'Asia/Khandyga',
+  ),
+  'GYG' => 
+  array (
+    'icao' => 'UEMM',
+    'iata' => 'GYG',
+    'name' => 'Magan Airport',
+    'city' => 'Magan',
+    'state' => 'Chukot',
+    'country' => 'RU',
+    'elevation' => 577,
+    'lat' => 62.1034812927,
+    'lon' => 129.5452880859,
+    'tz' => 'Asia/Yakutsk',
+  ),
+  'OLZ' => 
+  array (
+    'icao' => 'UEMO',
+    'iata' => 'OLZ',
+    'name' => 'Olyokminsk Airport',
+    'city' => 'Olyokminsk',
+    'state' => 'Chukot',
+    'country' => 'RU',
+    'elevation' => 656,
+    'lat' => 60.3974990845,
+    'lon' => 120.471000671,
+    'tz' => 'Asia/Yakutsk',
+  ),
+  'USR' => 
+  array (
+    'icao' => 'UEMT',
+    'iata' => 'USR',
+    'name' => 'Ust-Nera Airport',
+    'city' => 'Ust-Nera',
+    'state' => 'Chukot',
+    'country' => 'RU',
+    'elevation' => 0,
+    'lat' => 64.5500030518,
+    'lon' => 143.1150054932,
+    'tz' => 'Asia/Ust-Nera',
+  ),
+  'UMS' => 
+  array (
+    'icao' => 'UEMU',
+    'iata' => 'UMS',
+    'name' => 'Ust-Maya Airport',
+    'city' => 'Ust-Maya',
+    'state' => 'Chukot',
+    'country' => 'RU',
+    'elevation' => 561,
+    'lat' => 60.3569984436,
+    'lon' => 134.4349975586,
+    'tz' => 'Asia/Khandyga',
+  ),
+  'VHV' => 
+  array (
+    'icao' => 'UENI',
+    'iata' => 'VHV',
+    'name' => 'Verkhnevilyuisk Airport',
+    'city' => 'Verkhnevilyuisk',
+    'state' => 'Chukot',
+    'country' => 'RU',
+    'elevation' => 0,
+    'lat' => 63.4580574036,
+    'lon' => 120.2691650391,
+    'tz' => 'Asia/Yakutsk',
+  ),
+  'NYR' => 
+  array (
+    'icao' => 'UENN',
+    'iata' => 'NYR',
+    'name' => 'Nyurba Airport',
+    'city' => 'Nyurba',
+    'state' => 'Chukot',
+    'country' => 'RU',
+    'elevation' => 394,
+    'lat' => 63.2949981689,
+    'lon' => 118.3369979858,
+    'tz' => 'Asia/Yakutsk',
+  ),
+  'SUY' => 
+  array (
+    'icao' => 'UENS',
+    'iata' => 'SUY',
+    'name' => 'Suntar Airport',
+    'city' => 'Suntar',
+    'state' => 'Chukot',
+    'country' => 'RU',
+    'elevation' => 0,
+    'lat' => 62.1850013733,
+    'lon' => 117.6350021362,
+    'tz' => 'Asia/Yakutsk',
+  ),
+  'VYI' => 
+  array (
+    'icao' => 'UENW',
+    'iata' => 'VYI',
+    'name' => 'Vilyuisk Airport',
+    'city' => 'Vilyuisk',
+    'state' => 'Chukot',
+    'country' => 'RU',
+    'elevation' => 361,
+    'lat' => 63.7566680908,
+    'lon' => 121.6933364868,
     'tz' => 'Asia/Yakutsk',
   ),
   'ULK' => 
@@ -66641,6 +80291,19 @@ abstract class AirportLibrary
     'elevation' => 801,
     'lat' => 60.7206001282,
     'lon' => 114.825996399,
+    'tz' => 'Asia/Yakutsk',
+  ),
+  'ONK' => 
+  array (
+    'icao' => 'UERO',
+    'iata' => 'ONK',
+    'name' => 'Olenyok Airport',
+    'city' => 'Olenyok',
+    'state' => 'Chukot',
+    'country' => 'RU',
+    'elevation' => 847,
+    'lat' => 68.5149993896,
+    'lon' => 112.4800033569,
     'tz' => 'Asia/Yakutsk',
   ),
   'PYJ' => 
@@ -66668,6 +80331,32 @@ abstract class AirportLibrary
     'lat' => 62.5346984863,
     'lon' => 114.0390014648,
     'tz' => 'Asia/Yakutsk',
+  ),
+  'SYS' => 
+  array (
+    'icao' => 'UERS',
+    'iata' => 'SYS',
+    'name' => 'Saskylakh Airport',
+    'city' => 'Saskylakh',
+    'state' => 'Chukot',
+    'country' => 'RU',
+    'elevation' => 0,
+    'lat' => 71.9279022217,
+    'lon' => 114.0800018311,
+    'tz' => 'Asia/Yakutsk',
+  ),
+  'BGN' => 
+  array (
+    'icao' => 'UESG',
+    'iata' => 'BGN',
+    'name' => 'Belaya Gora Airport',
+    'city' => 'Belaya Gora',
+    'state' => 'Sakha Republic',
+    'country' => 'RU',
+    'elevation' => 82,
+    'lat' => 68.556944,
+    'lon' => 146.234722,
+    'tz' => 'Asia/Magadan',
   ),
   'CKH' => 
   array (
@@ -66706,6 +80395,19 @@ abstract class AirportLibrary
     'elevation' => 26,
     'lat' => 71.6977005005,
     'lon' => 128.9029998779,
+    'tz' => 'Asia/Yakutsk',
+  ),
+  'ZIX' => 
+  array (
+    'icao' => 'UEVV',
+    'iata' => 'ZIX',
+    'name' => 'Zhigansk Airport',
+    'city' => 'Zhigansk',
+    'state' => 'Chukot',
+    'country' => 'RU',
+    'elevation' => 292,
+    'lat' => 66.7965011597,
+    'lon' => 123.361000061,
     'tz' => 'Asia/Yakutsk',
   ),
   'KUT' => 
@@ -66864,6 +80566,19 @@ abstract class AirportLibrary
     'lon' => -173.2429962158,
     'tz' => 'Asia/Anadyr',
   ),
+  'KPW' => 
+  array (
+    'icao' => 'UHMK',
+    'iata' => 'KPW',
+    'name' => 'Keperveem Airport',
+    'city' => 'Keperveem',
+    'state' => 'Chukotka',
+    'country' => 'RU',
+    'elevation' => 623,
+    'lat' => 67.8450012207,
+    'lon' => 166.13999939,
+    'tz' => 'Asia/Anadyr',
+  ),
   'GDX' => 
   array (
     'icao' => 'UHMM',
@@ -66876,6 +80591,19 @@ abstract class AirportLibrary
     'lat' => 59.9109992981,
     'lon' => 150.7200012207,
     'tz' => 'Asia/Magadan',
+  ),
+  'KVM' => 
+  array (
+    'icao' => 'UHMO',
+    'iata' => 'KVM',
+    'name' => 'Markovo Airport',
+    'city' => 'Markovo',
+    'state' => 'Chukotka',
+    'country' => 'RU',
+    'elevation' => 0,
+    'lat' => 64.6669998169,
+    'lon' => 170.4170074463,
+    'tz' => 'Asia/Anadyr',
   ),
   'PWE' => 
   array (
@@ -66890,6 +80618,19 @@ abstract class AirportLibrary
     'lon' => 170.5970001221,
     'tz' => 'Asia/Anadyr',
   ),
+  'SWV' => 
+  array (
+    'icao' => 'UHMW',
+    'iata' => 'SWV',
+    'name' => 'Severo-Evensk Airport',
+    'city' => 'Evensk',
+    'state' => 'Magadan',
+    'country' => 'RU',
+    'elevation' => 0,
+    'lat' => 61.9216651917,
+    'lon' => 159.2299957275,
+    'tz' => 'Asia/Magadan',
+  ),
   'BQG' => 
   array (
     'icao' => 'UHNB',
@@ -66901,6 +80642,19 @@ abstract class AirportLibrary
     'elevation' => 0,
     'lat' => 52.38,
     'lon' => 140.448,
+    'tz' => 'Asia/Vladivostok',
+  ),
+  'NLI' => 
+  array (
+    'icao' => 'UHNN',
+    'iata' => 'NLI',
+    'name' => 'Nikolayevsk-na-Amure Airport',
+    'city' => 'Nikolayevsk-na-Amure Airport',
+    'state' => 'Khabarovsk',
+    'country' => 'RU',
+    'elevation' => 0,
+    'lat' => 53.1549987793,
+    'lon' => 140.6499938965,
     'tz' => 'Asia/Vladivostok',
   ),
   'OHO' => 
@@ -66927,7 +80681,20 @@ abstract class AirportLibrary
     'elevation' => 131,
     'lat' => 53.1679000854,
     'lon' => 158.453994751,
-    'tz' => 'Asia/Anadyr',
+    'tz' => 'Asia/Kamchatka',
+  ),
+  'BVV' => 
+  array (
+    'icao' => 'UHSB',
+    'iata' => 'BVV',
+    'name' => 'Burevestnik Airport',
+    'city' => 'Iturup Island',
+    'state' => 'Sakhalin',
+    'country' => 'RU',
+    'elevation' => 79,
+    'lat' => 44.9199981689,
+    'lon' => 147.6219940186,
+    'tz' => 'Asia/Ust-Nera',
   ),
   'OHH' => 
   array (
@@ -66940,7 +80707,7 @@ abstract class AirportLibrary
     'elevation' => 115,
     'lat' => 53.5200004578,
     'lon' => 142.88999939,
-    'tz' => 'Asia/Vladivostok',
+    'tz' => 'Asia/Sakhalin',
   ),
   'EKS' => 
   array (
@@ -66953,7 +80720,7 @@ abstract class AirportLibrary
     'elevation' => 50,
     'lat' => 49.1902999878,
     'lon' => 142.082992554,
-    'tz' => 'Asia/Vladivostok',
+    'tz' => 'Asia/Sakhalin',
   ),
   'DEE' => 
   array (
@@ -66966,7 +80733,7 @@ abstract class AirportLibrary
     'elevation' => 584,
     'lat' => 43.9584007263,
     'lon' => 145.682998657,
-    'tz' => 'Asia/Vladivostok',
+    'tz' => 'Asia/Ust-Nera',
   ),
   'ZZO' => 
   array (
@@ -66979,7 +80746,7 @@ abstract class AirportLibrary
     'elevation' => 479,
     'lat' => 50.6692008972,
     'lon' => 142.761001587,
-    'tz' => 'Asia/Vladivostok',
+    'tz' => 'Asia/Sakhalin',
   ),
   'UUS' => 
   array (
@@ -66992,6 +80759,19 @@ abstract class AirportLibrary
     'elevation' => 59,
     'lat' => 46.8886985779,
     'lon' => 142.7180023193,
+    'tz' => 'Asia/Sakhalin',
+  ),
+  'TLY' => 
+  array (
+    'icao' => 'UHWP',
+    'iata' => 'TLY',
+    'name' => 'Plastun Airport',
+    'city' => 'Plastun',
+    'state' => 'Primorskiy',
+    'country' => 'RU',
+    'elevation' => 0,
+    'lat' => 44.8149986267,
+    'lon' => 136.2920074463,
     'tz' => 'Asia/Vladivostok',
   ),
   'VVO' => 
@@ -67085,6 +80865,19 @@ abstract class AirportLibrary
     'lon' => 108.029998779,
     'tz' => 'Asia/Irkutsk',
   ),
+  'KCK' => 
+  array (
+    'icao' => 'UIKK',
+    'iata' => 'KCK',
+    'name' => 'Kirensk Airport',
+    'city' => 'Kirensk',
+    'state' => 'Irkutsk',
+    'country' => 'RU',
+    'elevation' => 0,
+    'lat' => 57.7729988098,
+    'lon' => 108.0640029907,
+    'tz' => 'Asia/Irkutsk',
+  ),
   'UKX' => 
   array (
     'icao' => 'UITT',
@@ -67122,7 +80915,7 @@ abstract class AirportLibrary
     'elevation' => 0,
     'lat' => 8.9280595779,
     'lon' => 165.7619934082,
-    'tz' => 'Pacific/Kwajalein',
+    'tz' => 'Pacific/Majuro',
   ),
   'KBP' => 
   array (
@@ -67161,7 +80954,7 @@ abstract class AirportLibrary
     'elevation' => 646,
     'lat' => 48.7056007385,
     'lon' => 37.6288986206,
-    'tz' => 'Europe/Zaporozhye',
+    'tz' => 'Europe/Kiev',
   ),
   'MPW' => 
   array (
@@ -67187,7 +80980,7 @@ abstract class AirportLibrary
     'elevation' => 236,
     'lat' => 48.9003301015,
     'lon' => 38.5416698456,
-    'tz' => 'Europe/Zaporozhye',
+    'tz' => 'Europe/Kiev',
   ),
   'VSG' => 
   array (
@@ -67252,7 +81045,20 @@ abstract class AirportLibrary
     'elevation' => 408,
     'lat' => 48.0433006287,
     'lon' => 33.2099990845,
-    'tz' => 'Europe/Zaporozhye',
+    'tz' => 'Europe/Kiev',
+  ),
+  'SIP' => 
+  array (
+    'icao' => 'URFF',
+    'iata' => 'SIP',
+    'name' => 'Simferopol International Airport',
+    'city' => 'Simferopol',
+    'state' => 'Republic-of-Crimea',
+    'country' => 'RU',
+    'elevation' => 639,
+    'lat' => 45.0522003174,
+    'lon' => 33.9751014709,
+    'tz' => 'Europe/Simferopol',
   ),
   'KHC' => 
   array (
@@ -67291,7 +81097,7 @@ abstract class AirportLibrary
     'elevation' => 505,
     'lat' => 49.5685997009,
     'lon' => 34.3972015381,
-    'tz' => 'Europe/Zaporozhye',
+    'tz' => 'Europe/Kiev',
   ),
   'UMY' => 
   array (
@@ -67434,7 +81240,7 @@ abstract class AirportLibrary
     'elevation' => 826,
     'lat' => 48.2593002319,
     'lon' => 25.9808006287,
-    'tz' => 'Europe/Uzhgorod',
+    'tz' => 'Europe/Kiev',
   ),
   'RWN' => 
   array (
@@ -67473,7 +81279,7 @@ abstract class AirportLibrary
     'elevation' => 383,
     'lat' => 48.6343002319,
     'lon' => 22.2633991241,
-    'tz' => 'Europe/Uzhgorod',
+    'tz' => 'Europe/Bratislava',
   ),
   'KHE' => 
   array (
@@ -67486,7 +81292,7 @@ abstract class AirportLibrary
     'elevation' => 148,
     'lat' => 46.6758003235,
     'lon' => 32.506401062,
-    'tz' => 'Europe/Zaporozhye',
+    'tz' => 'Europe/Kiev',
   ),
   'NLV' => 
   array (
@@ -67540,6 +81346,32 @@ abstract class AirportLibrary
     'lon' => 40.7167015076,
     'tz' => 'Europe/Moscow',
   ),
+  'VKV' => 
+  array (
+    'icao' => 'ULAH',
+    'iata' => 'VKV',
+    'name' => 'Vaskovo Airport',
+    'city' => 'Arkhangelsk',
+    'state' => 'Arkhangelskaya',
+    'country' => 'RU',
+    'elevation' => 82,
+    'lat' => 64.4417037964,
+    'lon' => 40.4216995239,
+    'tz' => 'Europe/Moscow',
+  ),
+  'LDG' => 
+  array (
+    'icao' => 'ULAL',
+    'iata' => 'LDG',
+    'name' => 'Leshukonskoye Airport',
+    'city' => 'Leshukonskoye',
+    'state' => 'Arkhangelskaya',
+    'country' => 'RU',
+    'elevation' => 220,
+    'lat' => 64.8960037231,
+    'lon' => 45.7229995728,
+    'tz' => 'Europe/Moscow',
+  ),
   'NNM' => 
   array (
     'icao' => 'ULAM',
@@ -67577,6 +81409,19 @@ abstract class AirportLibrary
     'elevation' => 13,
     'lat' => 69.7632980347,
     'lon' => 61.5564002991,
+    'tz' => 'Europe/Moscow',
+  ),
+  'VRI' => 
+  array (
+    'icao' => 'ULDW',
+    'iata' => 'VRI',
+    'name' => 'Varandey Airport',
+    'city' => '',
+    'state' => 'Nenets',
+    'country' => 'RU',
+    'elevation' => 39,
+    'lat' => 68.8485031128,
+    'lon' => 58.2014007568,
     'tz' => 'Europe/Moscow',
   ),
   'KSZ' => 
@@ -67850,7 +81695,7 @@ abstract class AirportLibrary
     'elevation' => 965,
     'lat' => 51.9667015076,
     'lon' => 85.8332977295,
-    'tz' => 'Asia/Krasnoyarsk',
+    'tz' => 'Asia/Barnaul',
   ),
   'KEJ' => 
   array (
@@ -67876,6 +81721,19 @@ abstract class AirportLibrary
     'elevation' => 253,
     'lat' => 58.4742012024,
     'lon' => 92.1125030518,
+    'tz' => 'Asia/Krasnoyarsk',
+  ),
+  'TGP' => 
+  array (
+    'icao' => 'UNIP',
+    'iata' => 'TGP',
+    'name' => 'Podkamennaya Tunguska Airport',
+    'city' => 'Bor',
+    'state' => 'Krasnoyarskiy',
+    'country' => 'RU',
+    'elevation' => 213,
+    'lat' => 61.5896987915,
+    'lon' => 89.9940032959,
     'tz' => 'Asia/Krasnoyarsk',
   ),
   'KJA' => 
@@ -67928,7 +81786,7 @@ abstract class AirportLibrary
     'elevation' => 365,
     'lat' => 55.0125999451,
     'lon' => 82.6507034302,
-    'tz' => 'Asia/Krasnoyarsk',
+    'tz' => 'Asia/Novosibirsk',
   ),
   'OMS' => 
   array (
@@ -67942,6 +81800,19 @@ abstract class AirportLibrary
     'lat' => 54.966999054,
     'lon' => 73.3105010986,
     'tz' => 'Asia/Omsk',
+  ),
+  'SWT' => 
+  array (
+    'icao' => 'UNSS',
+    'iata' => 'SWT',
+    'name' => 'Strezhevoy Airport',
+    'city' => 'Strezhevoy',
+    'state' => 'Tomsk',
+    'country' => 'RU',
+    'elevation' => 164,
+    'lat' => 60.709400177,
+    'lon' => 77.6600036621,
+    'tz' => 'Asia/Tomsk',
   ),
   'TOF' => 
   array (
@@ -67967,7 +81838,7 @@ abstract class AirportLibrary
     'elevation' => 1024,
     'lat' => 53.8114013672,
     'lon' => 86.8771972656,
-    'tz' => 'Asia/Krasnoyarsk',
+    'tz' => 'Asia/Novokuznetsk',
   ),
   'DKS' => 
   array (
@@ -68021,6 +81892,19 @@ abstract class AirportLibrary
     'lon' => 87.3321990967,
     'tz' => 'Asia/Krasnoyarsk',
   ),
+  'THX' => 
+  array (
+    'icao' => 'UOTT',
+    'iata' => 'THX',
+    'name' => 'Turukhansk Airport',
+    'city' => 'Turukhansk',
+    'state' => 'Krasnoyarskiy',
+    'country' => 'RU',
+    'elevation' => 128,
+    'lat' => 65.797203064,
+    'lon' => 87.9353027344,
+    'tz' => 'Asia/Krasnoyarsk',
+  ),
   'UKS' => 
   array (
     'icao' => 'URFB',
@@ -68032,19 +81916,6 @@ abstract class AirportLibrary
     'elevation' => 344,
     'lat' => 44.688999176,
     'lon' => 33.5709991455,
-    'tz' => 'Europe/Simferopol',
-  ),
-  'SIP' => 
-  array (
-    'icao' => 'URFF',
-    'iata' => 'SIP',
-    'name' => 'Simferopol International Airport',
-    'city' => 'Simferopol',
-    'state' => 'Republic-of-Crimea',
-    'country' => 'RU',
-    'elevation' => 639,
-    'lat' => 45.0522003174,
-    'lon' => 33.9751014709,
     'tz' => 'Europe/Simferopol',
   ),
   'AAQ' => 
@@ -68216,6 +82087,32 @@ abstract class AirportLibrary
     'lon' => 39.8180999756,
     'tz' => 'Europe/Moscow',
   ),
+  'TGK' => 
+  array (
+    'icao' => 'URRT',
+    'iata' => 'TGK',
+    'name' => 'Taganrog Yuzhny Airport',
+    'city' => 'Taganrog',
+    'state' => 'Rostov',
+    'country' => 'RU',
+    'elevation' => 118,
+    'lat' => 47.2000007629,
+    'lon' => 38.8499984741,
+    'tz' => 'Europe/Moscow',
+  ),
+  'VLK' => 
+  array (
+    'icao' => 'URRY',
+    'iata' => 'VLK',
+    'name' => 'Zavetnoe Airport',
+    'city' => '',
+    'state' => 'Rostov',
+    'country' => 'RU',
+    'elevation' => 431,
+    'lat' => 46.5443000793,
+    'lon' => 43.6456985474,
+    'tz' => 'Europe/Moscow',
+  ),
   'AER' => 
   array (
     'icao' => 'URSS',
@@ -68294,6 +82191,32 @@ abstract class AirportLibrary
     'lon' => 58.7556991577,
     'tz' => 'Asia/Yekaterinburg',
   ),
+  'SBT' => 
+  array (
+    'icao' => 'USDA',
+    'iata' => 'SBT',
+    'name' => 'Sabetta Airport',
+    'city' => 'Sabetta',
+    'state' => 'Yamalo-Nenets',
+    'country' => 'RU',
+    'elevation' => 46,
+    'lat' => 71.215,
+    'lon' => 72.038,
+    'tz' => 'Asia/Yekaterinburg',
+  ),
+  'BVJ' => 
+  array (
+    'icao' => 'USDB',
+    'iata' => 'BVJ',
+    'name' => 'Bovanenkovo',
+    'city' => 'Bovanenkovo',
+    'state' => 'Yamalo-Nenets',
+    'country' => 'RU',
+    'elevation' => 23,
+    'lat' => 70.315277778,
+    'lon' => 68.333611111,
+    'tz' => 'Asia/Yekaterinburg',
+  ),
   'SLY' => 
   array (
     'icao' => 'USDD',
@@ -68318,6 +82241,19 @@ abstract class AirportLibrary
     'elevation' => 98,
     'lat' => 68.483001709,
     'lon' => 73.5670013428,
+    'tz' => 'Asia/Yekaterinburg',
+  ),
+  'KKQ' => 
+  array (
+    'icao' => 'USDP',
+    'iata' => 'KKQ',
+    'name' => 'Krasnoselkup Airport',
+    'city' => 'Krasnoselkup',
+    'state' => 'Yamalo-Nenets',
+    'country' => 'RU',
+    'elevation' => 0,
+    'lat' => 65.717,
+    'lon' => 82.455,
     'tz' => 'Asia/Yekaterinburg',
   ),
   'TQL' => 
@@ -68385,6 +82321,19 @@ abstract class AirportLibrary
     'lon' => 64.4393005371,
     'tz' => 'Asia/Yekaterinburg',
   ),
+  'KXD' => 
+  array (
+    'icao' => 'USHK',
+    'iata' => 'KXD',
+    'name' => 'Kondinskoye Airport',
+    'city' => 'Kondinskoye',
+    'state' => 'Khanty-Mansia',
+    'country' => 'RU',
+    'elevation' => 131,
+    'lat' => 59.6550827026,
+    'lon' => 67.4300460815,
+    'tz' => 'Asia/Yekaterinburg',
+  ),
   'NYA' => 
   array (
     'icao' => 'USHN',
@@ -68448,7 +82397,7 @@ abstract class AirportLibrary
     'elevation' => 479,
     'lat' => 58.5032997131,
     'lon' => 49.3483009338,
-    'tz' => 'Europe/Moscow',
+    'tz' => 'Europe/Kirov',
   ),
   'NYM' => 
   array (
@@ -68760,7 +82709,7 @@ abstract class AirportLibrary
     'elevation' => 1555,
     'lat' => 40.9846000671,
     'lon' => 71.5567016602,
-    'tz' => 'Asia/Samarkand',
+    'tz' => 'Asia/Tashkent',
   ),
   'NCU' => 
   array (
@@ -68816,15 +82765,15 @@ abstract class AirportLibrary
   ),
   'KSQ' => 
   array (
-    'icao' => 'UTSK',
+    'icao' => 'UTSL',
     'iata' => 'KSQ',
-    'name' => 'Karshi Airport',
-    'city' => 'Karshi',
+    'name' => 'Karshi Khanabad Airport',
+    'city' => 'Khanabad',
     'state' => 'Qashqadaryo',
     'country' => 'UZ',
     'elevation' => 1365,
-    'lat' => 38.8025,
-    'lon' => 65.773056,
+    'lat' => 38.8335990906,
+    'lon' => 65.9215011597,
     'tz' => 'Asia/Samarkand',
   ),
   'AFS' => 
@@ -68877,7 +82826,7 @@ abstract class AirportLibrary
     'elevation' => 1417,
     'lat' => 41.257900238,
     'lon' => 69.2811965942,
-    'tz' => 'Asia/Samarkand',
+    'tz' => 'Asia/Tashkent',
   ),
   'KMW' => 
   array (
@@ -68903,6 +82852,19 @@ abstract class AirportLibrary
     'elevation' => 427,
     'lat' => 55.6171989441,
     'lon' => 38.0600013733,
+    'tz' => 'Europe/Moscow',
+  ),
+  'KLF' => 
+  array (
+    'icao' => 'UUBC',
+    'iata' => 'KLF',
+    'name' => 'Grabtsevo Airport',
+    'city' => 'Kaluga',
+    'state' => 'Kaluga',
+    'country' => 'RU',
+    'elevation' => 656,
+    'lat' => 54.5499992371,
+    'lon' => 36.3666687012,
     'tz' => 'Europe/Moscow',
   ),
   'IWA' => 
@@ -69007,6 +82969,32 @@ abstract class AirportLibrary
     'elevation' => 469,
     'lat' => 56.8246994019,
     'lon' => 35.7577018738,
+    'tz' => 'Europe/Moscow',
+  ),
+  'OSF' => 
+  array (
+    'icao' => 'UUMO',
+    'iata' => 'OSF',
+    'name' => 'Ostafyevo International Airport',
+    'city' => 'Moscow',
+    'state' => 'Moscow-Oblast',
+    'country' => 'RU',
+    'elevation' => 568,
+    'lat' => 55.5116996765,
+    'lon' => 37.5071983337,
+    'tz' => 'Europe/Moscow',
+  ),
+  'CKL' => 
+  array (
+    'icao' => 'UUMU',
+    'iata' => 'CKL',
+    'name' => 'Chkalovskiy Airport',
+    'city' => 'Moscow',
+    'state' => 'Moscow-Oblast',
+    'country' => 'RU',
+    'elevation' => 499,
+    'lat' => 55.8782997131,
+    'lon' => 38.0616989136,
     'tz' => 'Europe/Moscow',
   ),
   'EGO' => 
@@ -69293,7 +83281,7 @@ abstract class AirportLibrary
     'elevation' => 463,
     'lat' => 54.2682991028,
     'lon' => 48.2266998291,
-    'tz' => 'Europe/Samara',
+    'tz' => 'Europe/Ulyanovsk',
   ),
   'ULY' => 
   array (
@@ -69371,6 +83359,19 @@ abstract class AirportLibrary
     'elevation' => 95,
     'lat' => 51.8582992554,
     'lon' => 47.7456016541,
+    'tz' => 'Europe/Saratov',
+  ),
+  'GSV' => 
+  array (
+    'icao' => 'UWSG',
+    'iata' => 'GSV',
+    'name' => 'Saratov Gagarin Airport',
+    'city' => 'Saratov',
+    'state' => 'Saratov',
+    'country' => 'RU',
+    'elevation' => 103,
+    'lat' => 51.712778,
+    'lon' => 46.171111,
     'tz' => 'Europe/Saratov',
   ),
   'RTW' => 
@@ -69620,19 +83621,6 @@ abstract class AirportLibrary
     'lon' => 77.3472976685,
     'tz' => 'Asia/Kolkata',
   ),
-  'GOI' => 
-  array (
-    'icao' => 'VOGO',
-    'iata' => 'GOI',
-    'name' => 'Dabolim Airport',
-    'city' => 'Dabolim',
-    'state' => 'Dabolim',
-    'country' => 'IN',
-    'elevation' => 186,
-    'lat' => 15.380833,
-    'lon' => 73.827,
-    'tz' => 'Asia/Kolkata',
-  ),
   'HBX' => 
   array (
     'icao' => 'VAHB',
@@ -69778,15 +83766,15 @@ abstract class AirportLibrary
   ),
   'ISK' => 
   array (
-    'icao' => 'VANR',
+    'icao' => 'VAOZ',
     'iata' => 'ISK',
-    'name' => 'Gandhinagar Airport',
-    'city' => 'Nashik',
+    'name' => 'Ozar Air Force Station',
+    'city' => 'Nasik',
     'state' => 'Maharashtra',
     'country' => 'IN',
-    'elevation' => 1959,
-    'lat' => 19.9636993408,
-    'lon' => 73.8076019287,
+    'elevation' => 1900,
+    'lat' => 20.1191005707,
+    'lon' => 73.912902832,
     'tz' => 'Asia/Kolkata',
   ),
   'PNQ' => 
@@ -69852,6 +83840,19 @@ abstract class AirportLibrary
     'elevation' => 1041,
     'lat' => 21.1804008484,
     'lon' => 81.7388000488,
+    'tz' => 'Asia/Kolkata',
+  ),
+  'SAG' => 
+  array (
+    'icao' => 'VASD',
+    'iata' => 'SAG',
+    'name' => 'Shirdi Airport',
+    'city' => 'Kakadi',
+    'state' => 'Maharashtra',
+    'country' => 'IN',
+    'elevation' => 1909,
+    'lat' => 19.688611,
+    'lon' => 74.378889,
     'tz' => 'Asia/Kolkata',
   ),
   'SSE' => 
@@ -69958,19 +83959,6 @@ abstract class AirportLibrary
     'lon' => 81.6259002686,
     'tz' => 'Asia/Colombo',
   ),
-  'MNH' => 
-  array (
-    'icao' => 'VCCH',
-    'iata' => 'MNH',
-    'name' => 'Hingurakgoda Air Force Base',
-    'city' => 'Polonnaruwa Town',
-    'state' => 'North-Central',
-    'country' => 'LK',
-    'elevation' => 170,
-    'lat' => 8.0498104095,
-    'lon' => 80.9813995361,
-    'tz' => 'Asia/Colombo',
-  ),
   'JAF' => 
   array (
     'icao' => 'VCCJ',
@@ -69995,6 +83983,19 @@ abstract class AirportLibrary
     'elevation' => 10,
     'lat' => 5.9936800003,
     'lon' => 80.3202972412,
+    'tz' => 'Asia/Colombo',
+  ),
+  'KTY' => 
+  array (
+    'icao' => 'VCCN',
+    'iata' => 'KTY',
+    'name' => 'Katukurunda Air Force Base',
+    'city' => 'Kalutara',
+    'state' => 'Western',
+    'country' => 'LK',
+    'elevation' => 10,
+    'lat' => 6.5521202087,
+    'lon' => 79.9775009155,
     'tz' => 'Asia/Colombo',
   ),
   'GIU' => 
@@ -70034,6 +84035,19 @@ abstract class AirportLibrary
     'elevation' => 50,
     'lat' => 6.2544898987,
     'lon' => 81.2351989746,
+    'tz' => 'Asia/Colombo',
+  ),
+  'HRI' => 
+  array (
+    'icao' => 'VCRI',
+    'iata' => 'HRI',
+    'name' => 'Mattala Rajapaksa International Airport',
+    'city' => 'Mattala',
+    'state' => 'Hambantota',
+    'country' => 'LK',
+    'elevation' => 157,
+    'lat' => 6.288889,
+    'lon' => 81.123611,
     'tz' => 'Asia/Colombo',
   ),
   'BBM' => 
@@ -70086,6 +84100,19 @@ abstract class AirportLibrary
     'elevation' => 0,
     'lat' => 12.4879999161,
     'lon' => 106.0550003052,
+    'tz' => 'Asia/Phnom_Penh',
+  ),
+  'MWV' => 
+  array (
+    'icao' => 'VDMK',
+    'iata' => 'MWV',
+    'name' => 'Mondulkiri Airport',
+    'city' => 'Sen Monorom',
+    'state' => 'Mondolkiri',
+    'country' => 'KH',
+    'elevation' => 0,
+    'lat' => 12.4636479116,
+    'lon' => 107.187252045,
     'tz' => 'Asia/Phnom_Penh',
   ),
   'PNH' => 
@@ -70153,6 +84180,19 @@ abstract class AirportLibrary
     'lon' => 103.637001038,
     'tz' => 'Asia/Phnom_Penh',
   ),
+  'DBR' => 
+  array (
+    'icao' => 'VEDH',
+    'iata' => 'DBR',
+    'name' => 'Darbhanga Airport',
+    'city' => 'Darbhanga',
+    'state' => 'Bihar',
+    'country' => 'IN',
+    'elevation' => 171,
+    'lat' => 26.194722,
+    'lon' => 85.9175,
+    'tz' => 'Asia/Kolkata',
+  ),
   'IXV' => 
   array (
     'icao' => 'VEAN',
@@ -70177,7 +84217,7 @@ abstract class AirportLibrary
     'elevation' => 46,
     'lat' => 23.8869991302,
     'lon' => 91.2404022217,
-    'tz' => 'Asia/Kolkata',
+    'tz' => 'Asia/Dhaka',
   ),
   'IXB' => 
   array (
@@ -70283,6 +84323,19 @@ abstract class AirportLibrary
     'lon' => 86.4253005981,
     'tz' => 'Asia/Kolkata',
   ),
+  'DGH' => 
+  array (
+    'icao' => 'VEDO',
+    'iata' => 'DGH',
+    'name' => 'Deoghar Airport',
+    'city' => 'Deoghar',
+    'state' => 'Jharkhand',
+    'country' => 'IN',
+    'elevation' => 833,
+    'lat' => 24.444722,
+    'lon' => 86.7025,
+    'tz' => 'Asia/Kolkata',
+  ),
   'DAE' => 
   array (
     'icao' => 'VEDZ',
@@ -70348,6 +84401,19 @@ abstract class AirportLibrary
     'lon' => 93.896697998,
     'tz' => 'Asia/Kolkata',
   ),
+  'JRG' => 
+  array (
+    'icao' => 'VEJH',
+    'iata' => 'JRG',
+    'name' => 'Jharsuguda Airport',
+    'city' => 'Jharsuguda',
+    'state' => 'Odisha',
+    'country' => 'IN',
+    'elevation' => 757,
+    'lat' => 21.9134998322,
+    'lon' => 84.0503997803,
+    'tz' => 'Asia/Kolkata',
+  ),
   'PYB' => 
   array (
     'icao' => 'VEJP',
@@ -70411,7 +84477,7 @@ abstract class AirportLibrary
     'elevation' => 79,
     'lat' => 24.3082008362,
     'lon' => 92.0072021484,
-    'tz' => 'Asia/Kolkata',
+    'tz' => 'Asia/Dhaka',
   ),
   'IXS' => 
   array (
@@ -70437,7 +84503,7 @@ abstract class AirportLibrary
     'elevation' => 95,
     'lat' => 24.0618991852,
     'lon' => 91.6038970947,
-    'tz' => 'Asia/Kolkata',
+    'tz' => 'Asia/Dhaka',
   ),
   'AJL' => 
   array (
@@ -70855,6 +84921,19 @@ abstract class AirportLibrary
     'lon' => 74.7973022461,
     'tz' => 'Asia/Kolkata',
   ),
+  'AIP' => 
+  array (
+    'icao' => 'VIAX',
+    'iata' => 'AIP',
+    'name' => 'Adampur Air Force Station',
+    'city' => '',
+    'state' => 'Punjab',
+    'country' => 'IN',
+    'elevation' => 775,
+    'lat' => 31.4337997437,
+    'lon' => 75.7587966919,
+    'tz' => 'Asia/Kolkata',
+  ),
   'BKB' => 
   array (
     'icao' => 'VIBK',
@@ -70892,6 +84971,19 @@ abstract class AirportLibrary
     'elevation' => 662,
     'lat' => 30.2700996399,
     'lon' => 74.7557983398,
+    'tz' => 'Asia/Kolkata',
+  ),
+  'BEK' => 
+  array (
+    'icao' => 'VIBY',
+    'iata' => 'BEK',
+    'name' => 'Bareilly Air Force Station',
+    'city' => '',
+    'state' => 'Uttar-Pradesh',
+    'country' => 'IN',
+    'elevation' => 580,
+    'lat' => 28.4221000671,
+    'lon' => 79.4507980347,
     'tz' => 'Asia/Kolkata',
   ),
   'IXC' => 
@@ -71191,7 +85283,7 @@ abstract class AirportLibrary
     'elevation' => 1380,
     'lat' => 20.2572994232,
     'lon' => 100.43699646,
-    'tz' => 'Asia/Vientiane',
+    'tz' => 'Asia/Bangkok',
   ),
   'LPQ' => 
   array (
@@ -71269,7 +85361,7 @@ abstract class AirportLibrary
     'elevation' => 509,
     'lat' => 16.5566005707,
     'lon' => 104.7600021362,
-    'tz' => 'Asia/Vientiane',
+    'tz' => 'Asia/Bangkok',
   ),
   'NEU' => 
   array (
@@ -71843,6 +85935,19 @@ abstract class AirportLibrary
     'lon' => 87.69525,
     'tz' => 'Asia/Kathmandu',
   ),
+  'TPU' => 
+  array (
+    'icao' => 'VNTP',
+    'iata' => 'TPU',
+    'name' => 'Tikapur Airport',
+    'city' => 'Tikapur',
+    'state' => 'Far-Western',
+    'country' => 'NP',
+    'elevation' => 797,
+    'lat' => 28.5170001984,
+    'lon' => 81.1500015259,
+    'tz' => 'Asia/Kathmandu',
+  ),
   'TMI' => 
   array (
     'icao' => 'VNTR',
@@ -71868,6 +85973,19 @@ abstract class AirportLibrary
     'lat' => 26.4815006256,
     'lon' => 87.263999939,
     'tz' => 'Asia/Kathmandu',
+  ),
+  'TCR' => 
+  array (
+    'icao' => 'VOTK',
+    'iata' => 'TCR',
+    'name' => 'Tuticorin Airport',
+    'city' => 'Thoothukkudi',
+    'state' => 'Tamil-Nadu',
+    'country' => 'IN',
+    'elevation' => 129,
+    'lat' => 8.724167,
+    'lon' => 78.025833,
+    'tz' => 'Asia/Kolkata',
   ),
   'AGX' => 
   array (
@@ -71984,6 +86102,19 @@ abstract class AirportLibrary
     'elevation' => 5,
     'lat' => 9.1525096893,
     'lon' => 92.8196029663,
+    'tz' => 'Asia/Kolkata',
+  ),
+  'GOI' => 
+  array (
+    'icao' => 'VOGO',
+    'iata' => 'GOI',
+    'name' => 'Dabolim Airport',
+    'city' => 'Dabolim',
+    'state' => 'Dabolim',
+    'country' => 'IN',
+    'elevation' => 186,
+    'lat' => 15.380833,
+    'lon' => 73.827,
     'tz' => 'Asia/Kolkata',
   ),
   'HYD' => 
@@ -72207,6 +86338,19 @@ abstract class AirportLibrary
     'lon' => 89.4245986938,
     'tz' => 'Asia/Thimphu',
   ),
+  'HDK' => 
+  array (
+    'icao' => 'VRBK',
+    'iata' => 'HDK',
+    'name' => 'Kulhudhuffushi Airport',
+    'city' => 'Kulhudhuffushi',
+    'state' => 'Haa Dhaalu Atoll',
+    'country' => 'MV',
+    'elevation' => 3,
+    'lat' => 6.631111,
+    'lon' => 73.066667,
+    'tz' => 'Indian/Maldives',
+  ),
   'IFU' => 
   array (
     'icao' => 'VREI',
@@ -72218,7 +86362,7 @@ abstract class AirportLibrary
     'elevation' => 6,
     'lat' => 5.7083,
     'lon' => 73.025,
-    'tz' => 'Maldives',
+    'tz' => 'Indian/Maldives',
   ),
   'FVM' => 
   array (
@@ -72326,15 +86470,15 @@ abstract class AirportLibrary
   ),
   'KKM' => 
   array (
-    'icao' => 'VTBH',
+    'icao' => 'VTBL',
     'iata' => 'KKM',
-    'name' => 'Sa Pran Nak Airport',
+    'name' => 'Khok Kathiam Airport',
     'city' => '',
     'state' => 'Lop-Buri',
     'country' => 'TH',
-    'elevation' => 95,
-    'lat' => 14.9493999481,
-    'lon' => 100.642997742,
+    'elevation' => 123,
+    'lat' => 14.8746004105,
+    'lon' => 100.663002014,
     'tz' => 'Asia/Bangkok',
   ),
   'KDT' => 
@@ -72779,6 +86923,19 @@ abstract class AirportLibrary
     'lon' => 104.1190032959,
     'tz' => 'Asia/Bangkok',
   ),
+  'PXR' => 
+  array (
+    'icao' => 'VTUJ',
+    'iata' => 'PXR',
+    'name' => 'Surin Airport',
+    'city' => '',
+    'state' => 'Surin',
+    'country' => 'TH',
+    'elevation' => 478,
+    'lat' => 14.8683004379,
+    'lon' => 103.4980010986,
+    'tz' => 'Asia/Bangkok',
+  ),
   'KKC' => 
   array (
     'icao' => 'VTUK',
@@ -72907,7 +87064,7 @@ abstract class AirportLibrary
     'elevation' => 6,
     'lat' => 20.8194007874,
     'lon' => 106.7249984741,
-    'tz' => 'Asia/Ho_Chi_Minh',
+    'tz' => 'Asia/Bangkok',
   ),
   'CAH' => 
   array (
@@ -72972,7 +87129,7 @@ abstract class AirportLibrary
     'elevation' => 1611,
     'lat' => 21.3974990845,
     'lon' => 103.008003235,
-    'tz' => 'Asia/Ho_Chi_Minh',
+    'tz' => 'Asia/Bangkok',
   ),
   'VDH' => 
   array (
@@ -72985,7 +87142,7 @@ abstract class AirportLibrary
     'elevation' => 59,
     'lat' => 17.515,
     'lon' => 106.590556,
-    'tz' => 'Asia/Ho_Chi_Minh',
+    'tz' => 'Asia/Bangkok',
   ),
   'DLI' => 
   array (
@@ -73024,7 +87181,7 @@ abstract class AirportLibrary
     'elevation' => 39,
     'lat' => 21.221200943,
     'lon' => 105.8069992065,
-    'tz' => 'Asia/Ho_Chi_Minh',
+    'tz' => 'Asia/Bangkok',
   ),
   'SQH' => 
   array (
@@ -73037,7 +87194,7 @@ abstract class AirportLibrary
     'elevation' => 2133,
     'lat' => 21.216999054,
     'lon' => 104.0329971313,
-    'tz' => 'Asia/Ho_Chi_Minh',
+    'tz' => 'Asia/Bangkok',
   ),
   'NHA' => 
   array (
@@ -73180,7 +87337,7 @@ abstract class AirportLibrary
     'elevation' => 59,
     'lat' => 19.901667,
     'lon' => 105.467778,
-    'tz' => 'Asia/Ho_Chi_Minh',
+    'tz' => 'Asia/Bangkok',
   ),
   'VII' => 
   array (
@@ -73193,7 +87350,7 @@ abstract class AirportLibrary
     'elevation' => 23,
     'lat' => 18.7376003265,
     'lon' => 105.67099762,
-    'tz' => 'Asia/Ho_Chi_Minh',
+    'tz' => 'Asia/Bangkok',
   ),
   'VTG' => 
   array (
@@ -73207,6 +87364,19 @@ abstract class AirportLibrary
     'lat' => 10.3725004196,
     'lon' => 107.0950012207,
     'tz' => 'Asia/Ho_Chi_Minh',
+  ),
+  'VBA' => 
+  array (
+    'icao' => 'VYAN',
+    'iata' => 'VBA',
+    'name' => 'Ann Airport',
+    'city' => 'Aeng',
+    'state' => 'Rakhine',
+    'country' => 'MM',
+    'elevation' => 74,
+    'lat' => 19.7691993713,
+    'lon' => 94.0261001587,
+    'tz' => 'Asia/Yangon',
   ),
   'NYU' => 
   array (
@@ -73232,6 +87402,32 @@ abstract class AirportLibrary
     'elevation' => 370,
     'lat' => 24.2689990997,
     'lon' => 97.2462005615,
+    'tz' => 'Asia/Yangon',
+  ),
+  'VBP' => 
+  array (
+    'icao' => 'VYBP',
+    'iata' => 'VBP',
+    'name' => 'Bokpyinn Airport',
+    'city' => 'Bokpyinn',
+    'state' => 'Tanintharyi',
+    'country' => 'MM',
+    'elevation' => 100,
+    'lat' => 11.2670001984,
+    'lon' => 98.766998291,
+    'tz' => 'Asia/Yangon',
+  ),
+  'VBC' => 
+  array (
+    'icao' => 'VYCZ',
+    'iata' => 'VBC',
+    'name' => 'Chanmyathazi Airport',
+    'city' => 'Mandalay',
+    'state' => 'Mandalay',
+    'country' => 'MM',
+    'elevation' => 252,
+    'lat' => 21.9405002594,
+    'lon' => 96.0895996094,
     'tz' => 'Asia/Yangon',
   ),
   'TVY' => 
@@ -73546,6 +87742,19 @@ abstract class AirportLibrary
     'lon' => 94.9413986206,
     'tz' => 'Asia/Yangon',
   ),
+  'NYW' => 
+  array (
+    'icao' => 'VYMY',
+    'iata' => 'NYW',
+    'name' => 'Monywar Airport',
+    'city' => 'Monywar',
+    'state' => 'Sagain',
+    'country' => 'MM',
+    'elevation' => 298,
+    'lat' => 22.2329998016,
+    'lon' => 95.1169967651,
+    'tz' => 'Asia/Yangon',
+  ),
   'NMS' => 
   array (
     'icao' => 'VYNS',
@@ -73727,6 +87936,19 @@ abstract class AirportLibrary
     'lat' => 16.9073009491,
     'lon' => 96.1332015991,
     'tz' => 'Asia/Yangon',
+  ),
+  'TQQ' => 
+  array (
+    'icao' => 'WA44',
+    'iata' => 'TQQ',
+    'name' => 'Maranggo Airport',
+    'city' => 'Waha-Tomea Island',
+    'state' => 'Southeast-Sulawesi',
+    'country' => 'ID',
+    'elevation' => 169,
+    'lat' => -5.7645702362,
+    'lon' => 123.9169998169,
+    'tz' => 'Asia/Makassar',
   ),
   'UPG' => 
   array (
@@ -73961,6 +88183,19 @@ abstract class AirportLibrary
     'lat' => -9.6692199707,
     'lon' => 120.302001953,
     'tz' => 'Asia/Makassar',
+  ),
+  'YIA' => 
+  array (
+    'icao' => 'WAHI',
+    'iata' => 'YIA',
+    'name' => 'Yogyakarta International Airport',
+    'city' => 'Yogyakarta',
+    'state' => '  Kulon Progo Regency',
+    'country' => 'ID',
+    'elevation' => 7,
+    'lat' => -7.907459,
+    'lon' => 110.05448,
+    'tz' => 'Asia/Jakarta',
   ),
   'ARJ' => 
   array (
@@ -74248,17 +88483,17 @@ abstract class AirportLibrary
     'lon' => 117.5660018921,
     'tz' => 'Asia/Makassar',
   ),
-  'SRI' => 
+  'AAP' => 
   array (
     'icao' => 'WALS',
-    'iata' => 'SRI',
-    'name' => 'Temindung Airport',
-    'city' => 'Samarinda-Borneo Island',
+    'iata' => 'AAP',
+    'name' => 'Aji Pangeran Tumenggung Pranoto International Airport',
+    'city' => 'Samarinda',
     'state' => 'East-Kalimantan',
     'country' => 'ID',
-    'elevation' => 33,
-    'lat' => -0.4845309854,
-    'lon' => 117.1569976807,
+    'elevation' => 82,
+    'lat' => -0.373611,
+    'lon' => 117.255556,
     'tz' => 'Asia/Makassar',
   ),
   'TSX' => 
@@ -74493,7 +88728,7 @@ abstract class AirportLibrary
     'elevation' => 75,
     'lat' => -2.7051999569,
     'lon' => 111.672996521,
-    'tz' => 'Asia/Jakarta',
+    'tz' => 'Asia/Pontianak',
   ),
   'KBU' => 
   array (
@@ -74507,19 +88742,6 @@ abstract class AirportLibrary
     'lat' => -3.2947199345,
     'lon' => 116.1650009155,
     'tz' => 'Asia/Makassar',
-  ),
-  'MTW' => 
-  array (
-    'icao' => 'WAOM',
-    'iata' => 'MTW',
-    'name' => 'Beringin Airport',
-    'city' => 'Murateweh-Borneo Island',
-    'state' => 'Central-Kalimantan',
-    'country' => 'ID',
-    'elevation' => 126,
-    'lat' => -0.9403250217,
-    'lon' => 114.8938751221,
-    'tz' => 'Asia/Jakarta',
   ),
   'TJG' => 
   array (
@@ -74558,7 +88780,7 @@ abstract class AirportLibrary
     'elevation' => 82,
     'lat' => -2.2251300812,
     'lon' => 113.9430007935,
-    'tz' => 'Asia/Jakarta',
+    'tz' => 'Asia/Pontianak',
   ),
   'SMQ' => 
   array (
@@ -74585,6 +88807,19 @@ abstract class AirportLibrary
     'lat' => -3.3480000496,
     'lon' => 128.925994873,
     'tz' => 'Asia/Jayapura',
+  ),
+  'NDA' => 
+  array (
+    'icao' => 'WAPC',
+    'iata' => 'NDA',
+    'name' => 'Banda Airport Kepulauan',
+    'city' => 'Banda Island',
+    'state' => 'Aceh',
+    'country' => 'ID',
+    'elevation' => 49,
+    'lat' => 5.1166701317,
+    'lon' => 97.1166992188,
+    'tz' => 'Asia/Jakarta',
   ),
   'DOB' => 
   array (
@@ -74727,6 +88962,19 @@ abstract class AirportLibrary
     'elevation' => 9,
     'lat' => -1.642629981,
     'lon' => 124.5589981079,
+    'tz' => 'Asia/Jayapura',
+  ),
+  'WBA' => 
+  array (
+    'icao' => 'WAPV',
+    'iata' => 'WBA',
+    'name' => 'WahaiSeram Island',
+    'city' => 'Seram Island',
+    'state' => 'Maluku',
+    'country' => 'ID',
+    'elevation' => 551,
+    'lat' => -2.8141698837,
+    'lon' => 129.4819946289,
     'tz' => 'Asia/Jayapura',
   ),
   'MLG' => 
@@ -74978,15 +89226,15 @@ abstract class AirportLibrary
   ),
   'BJW' => 
   array (
-    'icao' => 'WATB',
+    'icao' => 'WRKB',
     'iata' => 'BJW',
-    'name' => 'Bajawa Soa Airport',
-    'city' => 'Bajawa',
+    'name' => 'Padhameleda Airport',
+    'city' => 'Bajawa-Flores Island',
     'state' => 'East-Nusa-Tenggara',
     'country' => 'ID',
-    'elevation' => 4326,
-    'lat' => -8.7074349801,
-    'lon' => 121.057426929,
+    'elevation' => 4317,
+    'lat' => -8.808139801,
+    'lon' => 120.9960021973,
     'tz' => 'Asia/Makassar',
   ),
   'MOF' => 
@@ -75106,6 +89354,19 @@ abstract class AirportLibrary
     'lon' => 120.3239974976,
     'tz' => 'Asia/Makassar',
   ),
+  'KXB' => 
+  array (
+    'icao' => 'WAWP',
+    'iata' => 'KXB',
+    'name' => 'Sangia Nibandera Airport',
+    'city' => 'Kolaka',
+    'state' => 'South-Sulawesi',
+    'country' => 'ID',
+    'elevation' => 40,
+    'lat' => -4.341217,
+    'lon' => 121.523983,
+    'tz' => 'Asia/Makassar',
+  ),
   'SQR' => 
   array (
     'icao' => 'WAWS',
@@ -75169,7 +89430,7 @@ abstract class AirportLibrary
     'elevation' => 200,
     'lat' => 2.6500000954,
     'lon' => 113.766998291,
-    'tz' => 'Asia/Kuala_Lumpur',
+    'tz' => 'Asia/Kuching',
   ),
   'LSM' => 
   array (
@@ -75195,7 +89456,7 @@ abstract class AirportLibrary
     'elevation' => 1400,
     'lat' => 3.4210000038,
     'lon' => 115.1539993286,
-    'tz' => 'Asia/Kuala_Lumpur',
+    'tz' => 'Asia/Kuching',
   ),
   'KCH' => 
   array (
@@ -75208,7 +89469,7 @@ abstract class AirportLibrary
     'elevation' => 89,
     'lat' => 1.4846999645,
     'lon' => 110.3470001221,
-    'tz' => 'Asia/Kuala_Lumpur',
+    'tz' => 'Asia/Kuching',
   ),
   'ODN' => 
   array (
@@ -75221,7 +89482,7 @@ abstract class AirportLibrary
     'elevation' => 607,
     'lat' => 3.9670000076,
     'lon' => 115.0500030518,
-    'tz' => 'Asia/Kuala_Lumpur',
+    'tz' => 'Asia/Kuching',
   ),
   'LMN' => 
   array (
@@ -75234,7 +89495,7 @@ abstract class AirportLibrary
     'elevation' => 14,
     'lat' => 4.8083000183,
     'lon' => 115.0100021362,
-    'tz' => 'Asia/Kuala_Lumpur',
+    'tz' => 'Asia/Brunei',
   ),
   'MKM' => 
   array (
@@ -75260,7 +89521,7 @@ abstract class AirportLibrary
     'elevation' => 289,
     'lat' => 3.2999999523,
     'lon' => 114.7829971313,
-    'tz' => 'Asia/Kuala_Lumpur',
+    'tz' => 'Asia/Kuching',
   ),
   'MUR' => 
   array (
@@ -75312,7 +89573,7 @@ abstract class AirportLibrary
     'elevation' => 2900,
     'lat' => 3.9739999771,
     'lon' => 115.6179962158,
-    'tz' => 'Asia/Kuala_Lumpur',
+    'tz' => 'Asia/Kuching',
   ),
   'MYY' => 
   array (
@@ -75377,7 +89638,7 @@ abstract class AirportLibrary
     'elevation' => 5,
     'lat' => 4.849170208,
     'lon' => 115.4079971313,
-    'tz' => 'Asia/Kuala_Lumpur',
+    'tz' => 'Asia/Kuching',
   ),
   'SGG' => 
   array (
@@ -75403,7 +89664,7 @@ abstract class AirportLibrary
     'elevation' => 3350,
     'lat' => 3.7338900566,
     'lon' => 115.4789962769,
-    'tz' => 'Asia/Kuala_Lumpur',
+    'tz' => 'Asia/Kuching',
   ),
   'SMM' => 
   array (
@@ -75429,7 +89690,7 @@ abstract class AirportLibrary
     'elevation' => 45,
     'lat' => 5.0322499275,
     'lon' => 118.3239974976,
-    'tz' => 'Asia/Kuala_Lumpur',
+    'tz' => 'Asia/Kuching',
   ),
   'TEL' => 
   array (
@@ -75507,7 +89768,7 @@ abstract class AirportLibrary
     'elevation' => 26,
     'lat' => 5.4000000954,
     'lon' => 118.6500015259,
-    'tz' => 'Asia/Kuala_Lumpur',
+    'tz' => 'Asia/Kuching',
   ),
   'GSA' => 
   array (
@@ -75598,7 +89859,7 @@ abstract class AirportLibrary
     'elevation' => 57,
     'lat' => 4.3201599121,
     'lon' => 118.1279983521,
-    'tz' => 'Asia/Kuala_Lumpur',
+    'tz' => 'Asia/Kuching',
   ),
   'MZV' => 
   array (
@@ -75611,7 +89872,7 @@ abstract class AirportLibrary
     'elevation' => 80,
     'lat' => 4.0483298302,
     'lon' => 114.8050003052,
-    'tz' => 'Asia/Kuala_Lumpur',
+    'tz' => 'Asia/Kuching',
   ),
   'BWN' => 
   array (
@@ -75625,6 +89886,19 @@ abstract class AirportLibrary
     'lat' => 4.9442000389,
     'lon' => 114.9280014038,
     'tz' => 'Asia/Brunei',
+  ),
+  'AKQ' => 
+  array (
+    'icao' => 'WIAG',
+    'iata' => 'AKQ',
+    'name' => 'Menggala Airport',
+    'city' => 'Menggala-Sumatra Island',
+    'state' => '',
+    'country' => 'ID',
+    'elevation' => 98,
+    'lat' => -4.4894399643,
+    'lon' => 105.2170028687,
+    'tz' => 'Asia/Jakarta',
   ),
   'PKU' => 
   array (
@@ -75925,6 +90199,32 @@ abstract class AirportLibrary
     'lon' => 98.6716995239,
     'tz' => 'Asia/Jakarta',
   ),
+  'DTB' => 
+  array (
+    'icao' => 'WIMN',
+    'iata' => 'DTB',
+    'name' => 'Sisingamangaraja XII International Airport',
+    'city' => 'Siborong-Borong',
+    'state' => 'North-Sumatra',
+    'country' => 'ID',
+    'elevation' => 4660,
+    'lat' => 2.259722,
+    'lon' => 98.995278,
+    'tz' => 'Asia/Jakarta',
+  ),
+  'SIW' => 
+  array (
+    'icao' => 'WIMP',
+    'iata' => 'SIW',
+    'name' => 'Parapat Airport',
+    'city' => 'Parapat-Sumatra Island',
+    'state' => '',
+    'country' => 'ID',
+    'elevation' => 3081,
+    'lat' => 2.6666669846,
+    'lon' => 98.9333343506,
+    'tz' => 'Asia/Jakarta',
+  ),
   'FLZ' => 
   array (
     'icao' => 'WIMS',
@@ -75962,7 +90262,7 @@ abstract class AirportLibrary
     'elevation' => 123,
     'lat' => -0.3488689959,
     'lon' => 111.7480010986,
-    'tz' => 'Asia/Jakarta',
+    'tz' => 'Asia/Pontianak',
   ),
   'KTG' => 
   array (
@@ -76027,7 +90327,7 @@ abstract class AirportLibrary
     'elevation' => 297,
     'lat' => 0.8355780244,
     'lon' => 112.93699646,
-    'tz' => 'Asia/Jakarta',
+    'tz' => 'Asia/Pontianak',
   ),
   'SQG' => 
   array (
@@ -76677,7 +90977,7 @@ abstract class AirportLibrary
     'elevation' => 52,
     'lat' => 4.1365299225,
     'lon' => 117.6669998169,
-    'tz' => 'Asia/Makassar',
+    'tz' => 'Asia/Kuching',
   ),
   'TNB' => 
   array (
@@ -76742,7 +91042,7 @@ abstract class AirportLibrary
     'elevation' => 36,
     'lat' => 1.4169499874,
     'lon' => 103.8679962158,
-    'tz' => 'Asia/Singapore',
+    'tz' => 'Asia/Kuala_Lumpur',
   ),
   'SIN' => 
   array (
@@ -76899,6 +91199,19 @@ abstract class AirportLibrary
     'lat' => -26.1082992554,
     'lon' => 131.2070007324,
     'tz' => 'Australia/Adelaide',
+  ),
+  'WLP' => 
+  array (
+    'icao' => 'YANG',
+    'iata' => 'WLP',
+    'name' => 'West Angelas Airport',
+    'city' => '',
+    'state' => '',
+    'country' => 'AU',
+    'elevation' => 2340,
+    'lat' => -23.1355555556,
+    'lon' => 118.706975,
+    'tz' => 'Australia/Perth',
   ),
   'AYL' => 
   array (
@@ -77223,7 +91536,7 @@ abstract class AirportLibrary
     'elevation' => 705,
     'lat' => -36.7393989563,
     'lon' => 144.330001831,
-    'tz' => 'Australia/Hobart',
+    'tz' => 'Australia/Melbourne',
   ),
   'BVI' => 
   array (
@@ -77238,6 +91551,19 @@ abstract class AirportLibrary
     'lon' => 139.3480072021,
     'tz' => 'Australia/Brisbane',
   ),
+  'BXF' => 
+  array (
+    'icao' => 'YBEB',
+    'iata' => 'BXF',
+    'name' => 'Pumululu National Park',
+    'city' => 'Bellburn',
+    'state' => 'Western-Australia',
+    'country' => 'AU',
+    'elevation' => 810,
+    'lat' => -17.545,
+    'lon' => 128.305,
+    'tz' => 'Australia/Perth',
+  ),
   'BTX' => 
   array (
     'icao' => 'YBEO',
@@ -77250,6 +91576,19 @@ abstract class AirportLibrary
     'lat' => -25.6417007446,
     'lon' => 140.7830047607,
     'tz' => 'Australia/Brisbane',
+  ),
+  'OCM' => 
+  array (
+    'icao' => 'YBGD',
+    'iata' => 'OCM',
+    'name' => 'Boolgeeda Airport',
+    'city' => '',
+    'state' => 'Western-Australia',
+    'country' => 'AU',
+    'elevation' => 1871,
+    'lat' => -22.54,
+    'lon' => 117.275,
+    'tz' => 'Australia/Perth',
   ),
   'BQW' => 
   array (
@@ -77275,7 +91614,7 @@ abstract class AirportLibrary
     'elevation' => 958,
     'lat' => -32.0013999939,
     'lon' => 141.472000122,
-    'tz' => 'Australia/Adelaide',
+    'tz' => 'Australia/Broken_Hill',
   ),
   'HTI' => 
   array (
@@ -77399,7 +91738,7 @@ abstract class AirportLibrary
     'icao' => 'YBLN',
     'iata' => 'BQB',
     'name' => 'Busselton Regional Airport',
-    'city' => '',
+    'city' => 'Busselton',
     'state' => 'Western-Australia',
     'country' => 'AU',
     'elevation' => 55,
@@ -77470,7 +91809,7 @@ abstract class AirportLibrary
     'elevation' => 165,
     'lat' => -37.8875007629,
     'lon' => 147.5679931641,
-    'tz' => 'Australia/Hobart',
+    'tz' => 'Australia/Melbourne',
   ),
   'GIC' => 
   array (
@@ -77614,6 +91953,19 @@ abstract class AirportLibrary
     'lat' => -29.9738998413,
     'lon' => 146.8170013428,
     'tz' => 'Australia/Sydney',
+  ),
+  'BYP' => 
+  array (
+    'icao' => 'YBRY',
+    'iata' => 'BYP',
+    'name' => 'Barimunya Airport',
+    'city' => '',
+    'state' => 'Western-Australia',
+    'country' => 'AU',
+    'elevation' => 2082,
+    'lat' => -22.6739006042,
+    'lon' => 119.1660003662,
+    'tz' => 'Australia/Perth',
   ),
   'BHS' => 
   array (
@@ -77782,7 +92134,7 @@ abstract class AirportLibrary
     'elevation' => 87,
     'lat' => -32.2649993896,
     'lon' => 125.4929962158,
-    'tz' => 'Australia/Perth',
+    'tz' => 'Australia/Eucla',
   ),
   'CLH' => 
   array (
@@ -78187,6 +92539,19 @@ abstract class AirportLibrary
     'lon' => 143.1139984131,
     'tz' => 'Australia/Brisbane',
   ),
+  'CIE' => 
+  array (
+    'icao' => 'YCOI',
+    'iata' => 'CIE',
+    'name' => 'Collie Airport',
+    'city' => '',
+    'state' => 'Western-Australia',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -33.3666992188,
+    'lon' => 116.2170028687,
+    'tz' => 'Australia/Perth',
+  ),
   'OOM' => 
   array (
     'icao' => 'YCOM',
@@ -78224,7 +92589,7 @@ abstract class AirportLibrary
     'elevation' => 469,
     'lat' => -35.9947013855,
     'lon' => 146.3569946289,
-    'tz' => 'Australia/Sydney',
+    'tz' => 'Australia/Melbourne',
   ),
   'CYG' => 
   array (
@@ -78238,6 +92603,19 @@ abstract class AirportLibrary
     'lat' => -36.182800293,
     'lon' => 147.8880004883,
     'tz' => 'Australia/Melbourne',
+  ),
+  'CXQ' => 
+  array (
+    'icao' => 'YCRK',
+    'iata' => 'CXQ',
+    'name' => 'Christmas Creek Station Airport',
+    'city' => '',
+    'state' => 'Western-Australia',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -18.8833007813,
+    'lon' => 125.9169998169,
+    'tz' => 'Australia/Perth',
   ),
   'CDQ' => 
   array (
@@ -78304,6 +92682,19 @@ abstract class AirportLibrary
     'lon' => 117.9179992676,
     'tz' => 'Australia/Perth',
   ),
+  'CJF' => 
+  array (
+    'icao' => 'YCWA',
+    'iata' => 'CJF',
+    'name' => 'Coondewanna Wa Airport',
+    'city' => '',
+    'state' => 'Western-Australia',
+    'country' => 'AU',
+    'elevation' => 2327,
+    'lat' => -22.966667,
+    'lon' => 118.802222,
+    'tz' => 'Australia/Perth',
+  ),
   'CWR' => 
   array (
     'icao' => 'YCWI',
@@ -78342,6 +92733,19 @@ abstract class AirportLibrary
     'lat' => -33.8446998596,
     'lon' => 148.6490020752,
     'tz' => 'Australia/Sydney',
+  ),
+  'COY' => 
+  array (
+    'icao' => 'YCWY',
+    'iata' => 'COY',
+    'name' => 'Coolawanyah Airport',
+    'city' => '',
+    'state' => 'Western-Australia',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -21.7833003998,
+    'lon' => 117.8000030518,
+    'tz' => 'Australia/Perth',
   ),
   'DJR' => 
   array (
@@ -78447,6 +92851,19 @@ abstract class AirportLibrary
     'lon' => 143.316049576,
     'tz' => 'Australia/Brisbane',
   ),
+  'DKI' => 
+  array (
+    'icao' => 'YDKI',
+    'iata' => 'DKI',
+    'name' => 'Dunk Island Airport',
+    'city' => '',
+    'state' => 'Queensland',
+    'country' => 'AU',
+    'elevation' => 6,
+    'lat' => -17.9416999817,
+    'lon' => 146.1399993896,
+    'tz' => 'Australia/Brisbane',
+  ),
   'DLK' => 
   array (
     'icao' => 'YDLK',
@@ -78459,6 +92876,19 @@ abstract class AirportLibrary
     'lat' => -29.013299942,
     'lon' => 138.4810028076,
     'tz' => 'Australia/Adelaide',
+  ),
+  'DNQ' => 
+  array (
+    'icao' => 'YDLQ',
+    'iata' => 'DNQ',
+    'name' => 'Deniliquin Airport',
+    'city' => '',
+    'state' => 'New-South-Wales',
+    'country' => 'AU',
+    'elevation' => 316,
+    'lat' => -35.5593986511,
+    'lon' => 144.945999146,
+    'tz' => 'Australia/Sydney',
   ),
   'DDN' => 
   array (
@@ -78575,7 +93005,7 @@ abstract class AirportLibrary
     'elevation' => 33,
     'lat' => -41.1697006226,
     'lon' => 146.429992676,
-    'tz' => 'Australia/Melbourne',
+    'tz' => 'Australia/Hobart',
   ),
   'DOX' => 
   array (
@@ -78811,6 +93241,19 @@ abstract class AirportLibrary
     'lon' => 114.0999984741,
     'tz' => 'Australia/Perth',
   ),
+  'FRB' => 
+  array (
+    'icao' => 'YFBS',
+    'iata' => 'FRB',
+    'name' => 'Forbes Airport',
+    'city' => 'Forbes',
+    'state' => 'New-South-Wales',
+    'country' => 'AU',
+    'elevation' => 760,
+    'lat' => -33.3636016846,
+    'lon' => 147.934997559,
+    'tz' => 'Australia/Sydney',
+  ),
   'KFE' => 
   array (
     'icao' => 'YFDF',
@@ -78822,7 +93265,7 @@ abstract class AirportLibrary
     'elevation' => 1555,
     'lat' => 0,
     'lon' => 119.429161111,
-    'tz' => 'Australia/Perth',
+    'tz' => 'Asia/Makassar',
   ),
   'FLY' => 
   array (
@@ -78848,7 +93291,7 @@ abstract class AirportLibrary
     'elevation' => 10,
     'lat' => -40.0917015076,
     'lon' => 147.9929962158,
-    'tz' => 'Australia/Melbourne',
+    'tz' => 'Australia/Hobart',
   ),
   'FVL' => 
   array (
@@ -78914,6 +93357,19 @@ abstract class AirportLibrary
     'lat' => -18.1819000244,
     'lon' => 125.5589981079,
     'tz' => 'Australia/Perth',
+  ),
+  'GBP' => 
+  array (
+    'icao' => 'YGAM',
+    'iata' => 'GBP',
+    'name' => 'Gamboola Airport',
+    'city' => '',
+    'state' => 'Queensland',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -16.5499992371,
+    'lon' => 143.6670074463,
+    'tz' => 'Australia/Brisbane',
   ),
   'GAH' => 
   array (
@@ -78995,16 +93451,16 @@ abstract class AirportLibrary
   ),
   'GTS' => 
   array (
-    'icao' => 'YGDW',
+    'icao' => 'YTGT',
     'iata' => 'GTS',
-    'name' => 'Granite Downs Airport',
+    'name' => 'The Granites Airport',
     'city' => '',
-    'state' => 'South-Australia',
+    'state' => 'Northern-Territory',
     'country' => 'AU',
-    'elevation' => 337,
-    'lat' => -26.948299408,
-    'lon' => 133.6069946289,
-    'tz' => 'Australia/Adelaide',
+    'elevation' => 0,
+    'lat' => -20.5482997894,
+    'lon' => 130.3470001221,
+    'tz' => 'Australia/Darwin',
   ),
   'GET' => 
   array (
@@ -79058,6 +93514,19 @@ abstract class AirportLibrary
     'lon' => 126.4449996948,
     'tz' => 'Australia/Perth',
   ),
+  'GKL' => 
+  array (
+    'icao' => 'YGKL',
+    'iata' => 'GKL',
+    'name' => 'Great Keppel Is Airport',
+    'city' => '',
+    'state' => 'Queensland',
+    'country' => 'AU',
+    'elevation' => 21,
+    'lat' => -23.1833000183,
+    'lon' => 150.9420013428,
+    'tz' => 'Australia/Brisbane',
+  ),
   'GLT' => 
   array (
     'icao' => 'YGLA',
@@ -79108,7 +93577,7 @@ abstract class AirportLibrary
     'elevation' => 43,
     'lat' => -38.2249984741,
     'lon' => 144.3329925537,
-    'tz' => 'Australia/Hobart',
+    'tz' => 'Australia/Melbourne',
   ),
   'GLI' => 
   array (
@@ -79161,6 +93630,19 @@ abstract class AirportLibrary
     'lat' => -11.4025001526,
     'lon' => 130.4219970703,
     'tz' => 'Australia/Darwin',
+  ),
+  'GSC' => 
+  array (
+    'icao' => 'YGSC',
+    'iata' => 'GSC',
+    'name' => 'Gascoyne Junction Airport',
+    'city' => '',
+    'state' => 'Western-Australia',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -25.0499992371,
+    'lon' => 115.1999969482,
+    'tz' => 'Australia/Perth',
   ),
   'GTE' => 
   array (
@@ -79279,6 +93761,19 @@ abstract class AirportLibrary
     'lon' => 130.630279541,
     'tz' => 'Australia/Darwin',
   ),
+  'HRY' => 
+  array (
+    'icao' => 'YHBY',
+    'iata' => 'HRY',
+    'name' => 'Henbury Airport',
+    'city' => '',
+    'state' => 'Northern-Territory',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -24.5499992371,
+    'lon' => 133.2169952393,
+    'tz' => 'Australia/Darwin',
+  ),
   'HIP' => 
   array (
     'icao' => 'YHDY',
@@ -79290,6 +93785,19 @@ abstract class AirportLibrary
     'elevation' => 0,
     'lat' => -21.3332996368,
     'lon' => 138.2830047607,
+    'tz' => 'Australia/Brisbane',
+  ),
+  'HIG' => 
+  array (
+    'icao' => 'YHHY',
+    'iata' => 'HIG',
+    'name' => 'Highbury Airport',
+    'city' => '',
+    'state' => 'Queensland',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -16.4333000183,
+    'lon' => 143.1499938965,
     'tz' => 'Australia/Brisbane',
   ),
   'HID' => 
@@ -79304,6 +93812,19 @@ abstract class AirportLibrary
     'lat' => -10.586400032,
     'lon' => 142.289993286,
     'tz' => 'Australia/Brisbane',
+  ),
+  'HLL' => 
+  array (
+    'icao' => 'YHIL',
+    'iata' => 'HLL',
+    'name' => 'Hillside Airport',
+    'city' => '',
+    'state' => 'Western-Australia',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -21.75,
+    'lon' => 119.4169998169,
+    'tz' => 'Australia/Perth',
   ),
   'HCQ' => 
   array (
@@ -79342,7 +93863,7 @@ abstract class AirportLibrary
     'elevation' => 803,
     'lat' => -37.6488990784,
     'lon' => 142.0650024414,
-    'tz' => 'Australia/Hobart',
+    'tz' => 'Australia/Melbourne',
   ),
   'HOK' => 
   array (
@@ -79368,7 +93889,7 @@ abstract class AirportLibrary
     'elevation' => 4260,
     'lat' => -37.0475006104,
     'lon' => 147.333999634,
-    'tz' => 'Australia/Hobart',
+    'tz' => 'Australia/Melbourne',
   ),
   'HTU' => 
   array (
@@ -79395,6 +93916,19 @@ abstract class AirportLibrary
     'lat' => -36.6697006226,
     'lon' => 142.1730041504,
     'tz' => 'Australia/Melbourne',
+  ),
+  'HAT' => 
+  array (
+    'icao' => 'YHTL',
+    'iata' => 'HAT',
+    'name' => 'Heathlands Airport',
+    'city' => '',
+    'state' => 'Queensland',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -11.75,
+    'lon' => 142.5829925537,
+    'tz' => 'Australia/Brisbane',
   ),
   'HGD' => 
   array (
@@ -79617,6 +94151,19 @@ abstract class AirportLibrary
     'lon' => 126.6320037842,
     'tz' => 'Australia/Perth',
   ),
+  'KDB' => 
+  array (
+    'icao' => 'YKBL',
+    'iata' => 'KDB',
+    'name' => 'Kambalda Airport',
+    'city' => '',
+    'state' => 'Western-Australia',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -31.1833000183,
+    'lon' => 121.5999984741,
+    'tz' => 'Australia/Perth',
+  ),
   'KAX' => 
   array (
     'icao' => 'YKBR',
@@ -79642,6 +94189,19 @@ abstract class AirportLibrary
     'lat' => -32.8358001709,
     'lon' => 134.2929992676,
     'tz' => 'Australia/Adelaide',
+  ),
+  'KBJ' => 
+  array (
+    'icao' => 'YKCA',
+    'iata' => 'KBJ',
+    'name' => 'Kings Canyon Airport',
+    'city' => '',
+    'state' => 'Northern-Territory',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -24.2600002289,
+    'lon' => 131.4900054932,
+    'tz' => 'Australia/Darwin',
   ),
   'KCS' => 
   array (
@@ -79680,7 +94240,7 @@ abstract class AirportLibrary
     'elevation' => 132,
     'lat' => -39.8774986267,
     'lon' => 143.8780059814,
-    'tz' => 'Australia/Melbourne',
+    'tz' => 'Australia/Currie',
   ),
   'KBB' => 
   array (
@@ -79707,6 +94267,19 @@ abstract class AirportLibrary
     'lat' => -17.4319000244,
     'lon' => 130.8079986572,
     'tz' => 'Australia/Darwin',
+  ),
+  'KOH' => 
+  array (
+    'icao' => 'YKLA',
+    'iata' => 'KOH',
+    'name' => 'Koolatah Airport',
+    'city' => '',
+    'state' => 'Queensland',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -15.9167003632,
+    'lon' => 142.4499969482,
+    'tz' => 'Australia/Brisbane',
   ),
   'KKP' => 
   array (
@@ -79784,6 +94357,19 @@ abstract class AirportLibrary
     'elevation' => 35,
     'lat' => -15.4856004715,
     'lon' => 141.7510070801,
+    'tz' => 'Australia/Brisbane',
+  ),
+  'KPP' => 
+  array (
+    'icao' => 'YKPR',
+    'iata' => 'KPP',
+    'name' => 'Kalpowar Airport',
+    'city' => '',
+    'state' => 'Queensland',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -14.8999996185,
+    'lon' => 144.1999969482,
     'tz' => 'Australia/Brisbane',
   ),
   'KGY' => 
@@ -79877,6 +94463,19 @@ abstract class AirportLibrary
     'lon' => 135.8059997559,
     'tz' => 'Australia/Darwin',
   ),
+  'LFP' => 
+  array (
+    'icao' => 'YLFD',
+    'iata' => 'LFP',
+    'name' => 'Lakefield Airport',
+    'city' => '',
+    'state' => 'Queensland',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -14.9333000183,
+    'lon' => 144.1999969482,
+    'tz' => 'Australia/Brisbane',
+  ),
   'LDH' => 
   array (
     'icao' => 'YLHI',
@@ -79941,6 +94540,32 @@ abstract class AirportLibrary
     'lat' => -28.8302993774,
     'lon' => 153.259994507,
     'tz' => 'Australia/Sydney',
+  ),
+  'LNH' => 
+  array (
+    'icao' => 'YLKN',
+    'iata' => 'LNH',
+    'name' => 'Lake Nash Airport',
+    'city' => '',
+    'state' => 'Northern-Territory',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -20.9666996002,
+    'lon' => 137.9170074463,
+    'tz' => 'Australia/Darwin',
+  ),
+  'LKD' => 
+  array (
+    'icao' => 'YLND',
+    'iata' => 'LKD',
+    'name' => 'Lakeland Airport',
+    'city' => '',
+    'state' => 'Queensland',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -15.8332996368,
+    'lon' => 144.8500061035,
+    'tz' => 'Australia/Brisbane',
   ),
   'LOC' => 
   array (
@@ -80122,7 +94747,7 @@ abstract class AirportLibrary
     'elevation' => 539,
     'lat' => -36.0677986145,
     'lon' => 146.9579925537,
-    'tz' => 'Australia/Sydney',
+    'tz' => 'Australia/Melbourne',
   ),
   'MRG' => 
   array (
@@ -80161,7 +94786,7 @@ abstract class AirportLibrary
     'elevation' => 31,
     'lat' => -37.5983009338,
     'lon' => 149.7200012207,
-    'tz' => 'Australia/Hobart',
+    'tz' => 'Australia/Melbourne',
   ),
   'MFP' => 
   array (
@@ -80215,6 +94840,19 @@ abstract class AirportLibrary
     'lon' => 120.837997437,
     'tz' => 'Australia/Perth',
   ),
+  'MNW' => 
+  array (
+    'icao' => 'YMDS',
+    'iata' => 'MNW',
+    'name' => 'Macdonald Downs Airport',
+    'city' => '',
+    'state' => 'Northern-Territory',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -22.4666996002,
+    'lon' => 135.233001709,
+    'tz' => 'Australia/Darwin',
+  ),
   'MKR' => 
   array (
     'icao' => 'YMEK',
@@ -80256,16 +94894,29 @@ abstract class AirportLibrary
   ),
   'SXE' => 
   array (
-    'icao' => 'YMES',
+    'icao' => 'YWSL',
     'iata' => 'SXE',
-    'name' => 'RAAF Base East Sale',
+    'name' => 'West Sale Airport',
     'city' => '',
     'state' => 'Victoria',
     'country' => 'AU',
-    'elevation' => 23,
-    'lat' => -38.0988998413,
-    'lon' => 147.1490020752,
-    'tz' => 'Australia/Hobart',
+    'elevation' => 93,
+    'lat' => -38.0917015076,
+    'lon' => 146.964996338,
+    'tz' => 'Australia/Melbourne',
+  ),
+  'MLV' => 
+  array (
+    'icao' => 'YMEU',
+    'iata' => 'MLV',
+    'name' => 'Merluna Airport',
+    'city' => '',
+    'state' => 'Queensland',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -13.0500001907,
+    'lon' => 142.483001709,
+    'tz' => 'Australia/Brisbane',
   ),
   'MGT' => 
   array (
@@ -80332,6 +94983,19 @@ abstract class AirportLibrary
     'lon' => 115.099998474,
     'tz' => 'Australia/Perth',
   ),
+  'MVU' => 
+  array (
+    'icao' => 'YMGV',
+    'iata' => 'MVU',
+    'name' => 'Musgrave Airport',
+    'city' => '',
+    'state' => 'Queensland',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -14.7833003998,
+    'lon' => 143.5,
+    'tz' => 'Australia/Brisbane',
+  ),
   'HBA' => 
   array (
     'icao' => 'YMHB',
@@ -80382,7 +95046,7 @@ abstract class AirportLibrary
     'elevation' => 167,
     'lat' => -34.2291984558,
     'lon' => 142.085998535,
-    'tz' => 'Australia/Hobart',
+    'tz' => 'Australia/Melbourne',
   ),
   'XML' => 
   array (
@@ -80410,6 +95074,19 @@ abstract class AirportLibrary
     'lon' => 125.8239974976,
     'tz' => 'Australia/Perth',
   ),
+  'MWY' => 
+  array (
+    'icao' => 'YMIR',
+    'iata' => 'MWY',
+    'name' => 'Miralwyn Airport',
+    'city' => '',
+    'state' => 'New-South-Wales',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -30.1499996185,
+    'lon' => 147.3350067139,
+    'tz' => 'Australia/Sydney',
+  ),
   'MTQ' => 
   array (
     'icao' => 'YMIT',
@@ -80436,6 +95113,19 @@ abstract class AirportLibrary
     'lon' => 116.1399993896,
     'tz' => 'Australia/Perth',
   ),
+  'WLE' => 
+  array (
+    'icao' => 'YMLS',
+    'iata' => 'WLE',
+    'name' => 'Miles Airport',
+    'city' => '',
+    'state' => 'Queensland',
+    'country' => 'AU',
+    'elevation' => 304,
+    'lat' => -26.8083000183,
+    'lon' => 150.1750030518,
+    'tz' => 'Australia/Brisbane',
+  ),
   'LST' => 
   array (
     'icao' => 'YMLT',
@@ -80447,7 +95137,7 @@ abstract class AirportLibrary
     'elevation' => 562,
     'lat' => -41.54529953,
     'lon' => 147.214004517,
-    'tz' => 'Australia/Melbourne',
+    'tz' => 'Australia/Hobart',
   ),
   'MBW' => 
   array (
@@ -80461,6 +95151,19 @@ abstract class AirportLibrary
     'lat' => -37.9757995605,
     'lon' => 145.1020050049,
     'tz' => 'Australia/Melbourne',
+  ),
+  'WUI' => 
+  array (
+    'icao' => 'YMMI',
+    'iata' => 'WUI',
+    'name' => 'Murrin Murrin Airport',
+    'city' => '',
+    'state' => 'Western-Australia',
+    'country' => 'AU',
+    'elevation' => 1535,
+    'lat' => -28.7052993774,
+    'lon' => 121.8909988403,
+    'tz' => 'Australia/Perth',
   ),
   'MEL' => 
   array (
@@ -80526,6 +95229,19 @@ abstract class AirportLibrary
     'lat' => -24.8166999817,
     'lon' => 140.5330047607,
     'tz' => 'Australia/Brisbane',
+  ),
+  'MSF' => 
+  array (
+    'icao' => 'YMNS',
+    'iata' => 'MSF',
+    'name' => 'Mount Swan Airport',
+    'city' => '',
+    'state' => 'Northern-Territory',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -22.6000003815,
+    'lon' => 135.016998291,
+    'tz' => 'Australia/Darwin',
   ),
   'OXY' => 
   array (
@@ -80787,6 +95503,32 @@ abstract class AirportLibrary
     'lon' => 138.6499938965,
     'tz' => 'Australia/Adelaide',
   ),
+  'MUP' => 
+  array (
+    'icao' => 'YMUP',
+    'iata' => 'MUP',
+    'name' => 'Mulga Park Airport',
+    'city' => '',
+    'state' => 'Northern-Territory',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -25.8999996185,
+    'lon' => 131.6670074463,
+    'tz' => 'Australia/Darwin',
+  ),
+  'MKV' => 
+  array (
+    'icao' => 'YMVG',
+    'iata' => 'MKV',
+    'name' => 'Mount Cavenagh Airport',
+    'city' => '',
+    'state' => 'Northern-Territory',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -25.9666996002,
+    'lon' => 133.1999969482,
+    'tz' => 'Australia/Darwin',
+  ),
   'MXU' => 
   array (
     'icao' => 'YMWA',
@@ -80799,6 +95541,19 @@ abstract class AirportLibrary
     'lat' => -28.4750003815,
     'lon' => 115.516998291,
     'tz' => 'Australia/Perth',
+  ),
+  'MWT' => 
+  array (
+    'icao' => 'YMWT',
+    'iata' => 'MWT',
+    'name' => 'Moolawatana Airport',
+    'city' => '',
+    'state' => 'South-Australia',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -29.9167003632,
+    'lon' => 139.75,
+    'tz' => 'Australia/Adelaide',
   ),
   'MXD' => 
   array (
@@ -80825,6 +95580,19 @@ abstract class AirportLibrary
     'lat' => -25.513299942,
     'lon' => 152.7149963379,
     'tz' => 'Australia/Brisbane',
+  ),
+  'MYO' => 
+  array (
+    'icao' => 'YMYR',
+    'iata' => 'MYO',
+    'name' => 'Myroodan Station Airport',
+    'city' => '',
+    'state' => 'Western-Australia',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -18.1166992188,
+    'lon' => 124.266998291,
+    'tz' => 'Australia/Perth',
   ),
   'RTY' => 
   array (
@@ -80929,6 +95697,19 @@ abstract class AirportLibrary
     'lat' => -36.9852981567,
     'lon' => 140.7250061035,
     'tz' => 'Australia/Adelaide',
+  ),
+  'NRG' => 
+  array (
+    'icao' => 'YNRG',
+    'iata' => 'NRG',
+    'name' => 'Narrogin Airport',
+    'city' => '',
+    'state' => 'Western-Australia',
+    'country' => 'AU',
+    'elevation' => 329,
+    'lat' => -32.9300003052,
+    'lon' => 117.0800018311,
+    'tz' => 'Australia/Perth',
   ),
   'QRM' => 
   array (
@@ -81487,7 +96268,20 @@ abstract class AirportLibrary
     'elevation' => 265,
     'lat' => -38.3180999756,
     'lon' => 141.470993042,
-    'tz' => 'Australia/Hobart',
+    'tz' => 'Australia/Melbourne',
+  ),
+  'MBF' => 
+  array (
+    'icao' => 'YPOK',
+    'iata' => 'MBF',
+    'name' => 'Porepunkah Airport',
+    'city' => '',
+    'state' => 'Victoria',
+    'country' => 'AU',
+    'elevation' => 935,
+    'lat' => -36.7177307062,
+    'lon' => 146.890039444,
+    'tz' => 'Australia/Melbourne',
   ),
   'PHE' => 
   array (
@@ -81696,6 +96490,19 @@ abstract class AirportLibrary
     'lat' => -26.5450000763,
     'lon' => 148.774993896,
     'tz' => 'Australia/Brisbane',
+  ),
+  'RPB' => 
+  array (
+    'icao' => 'YRRB',
+    'iata' => 'RPB',
+    'name' => 'Roper Bar Airport',
+    'city' => '',
+    'state' => 'Northern-Territory',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -14.7383003235,
+    'lon' => 134.5180053711,
+    'tz' => 'Australia/Darwin',
   ),
   'RSB' => 
   array (
@@ -81942,7 +96749,7 @@ abstract class AirportLibrary
     'elevation' => 374,
     'lat' => -36.4289016724,
     'lon' => 145.3930053711,
-    'tz' => 'Australia/Hobart',
+    'tz' => 'Australia/Melbourne',
   ),
   'SBR' => 
   array (
@@ -82100,6 +96907,19 @@ abstract class AirportLibrary
     'lon' => 140.6999969482,
     'tz' => 'Australia/Brisbane',
   ),
+  'XRH' => 
+  array (
+    'icao' => 'YSRI',
+    'iata' => 'XRH',
+    'name' => 'RAAF Base Richmond',
+    'city' => 'Richmond',
+    'state' => 'New-South-Wales',
+    'country' => 'AU',
+    'elevation' => 67,
+    'lat' => -33.6006011963,
+    'lon' => 150.7810058594,
+    'tz' => 'Australia/Sydney',
+  ),
   'SRN' => 
   array (
     'icao' => 'YSRN',
@@ -82111,7 +96931,7 @@ abstract class AirportLibrary
     'elevation' => 20,
     'lat' => -42.1549987793,
     'lon' => 145.2920074463,
-    'tz' => 'Australia/Melbourne',
+    'tz' => 'Australia/Hobart',
   ),
   'SYD' => 
   array (
@@ -82269,6 +97089,19 @@ abstract class AirportLibrary
     'lon' => 150.0930023193,
     'tz' => 'Australia/Brisbane',
   ),
+  'TQP' => 
+  array (
+    'icao' => 'YTEE',
+    'iata' => 'TQP',
+    'name' => 'Trepell Airport',
+    'city' => '',
+    'state' => 'Queensland',
+    'country' => 'AU',
+    'elevation' => 891,
+    'lat' => -21.8349990845,
+    'lon' => 140.8880004883,
+    'tz' => 'Australia/Brisbane',
+  ),
   'TEF' => 
   array (
     'icao' => 'YTEF',
@@ -82321,6 +97154,19 @@ abstract class AirportLibrary
     'lon' => 143.8110046387,
     'tz' => 'Australia/Brisbane',
   ),
+  'TDN' => 
+  array (
+    'icao' => 'YTHD',
+    'iata' => 'TDN',
+    'name' => 'Theda Station Airport',
+    'city' => '',
+    'state' => 'Western-Australia',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -14.7881002426,
+    'lon' => 126.4960021973,
+    'tz' => 'Australia/Perth',
+  ),
   'TYG' => 
   array (
     'icao' => 'YTHY',
@@ -82359,6 +97205,19 @@ abstract class AirportLibrary
     'lat' => -17.0408000946,
     'lon' => 128.205993652,
     'tz' => 'Australia/Perth',
+  ),
+  'PHQ' => 
+  array (
+    'icao' => 'YTMO',
+    'iata' => 'PHQ',
+    'name' => 'The Monument Airport',
+    'city' => '',
+    'state' => 'Queensland',
+    'country' => 'AU',
+    'elevation' => 949,
+    'lat' => -21.8111000061,
+    'lon' => 139.9239959717,
+    'tz' => 'Australia/Brisbane',
   ),
   'TPR' => 
   array (
@@ -82450,6 +97309,19 @@ abstract class AirportLibrary
     'lat' => -31.8885993958,
     'lon' => 152.514007568,
     'tz' => 'Australia/Sydney',
+  ),
+  'TTX' => 
+  array (
+    'icao' => 'YTST',
+    'iata' => 'TTX',
+    'name' => 'Truscott Mungalalu Airport',
+    'city' => '',
+    'state' => 'Western-Australia',
+    'country' => 'AU',
+    'elevation' => 181,
+    'lat' => -14.0896997452,
+    'lon' => 126.3809967041,
+    'tz' => 'Australia/Perth',
   ),
   'TWB' => 
   array (
@@ -82646,6 +97518,19 @@ abstract class AirportLibrary
     'lon' => 142.6670074463,
     'tz' => 'Australia/Brisbane',
   ),
+  'WON' => 
+  array (
+    'icao' => 'YWDL',
+    'iata' => 'WON',
+    'name' => 'Wondoola Airport',
+    'city' => '',
+    'state' => 'Queensland',
+    'country' => 'AU',
+    'elevation' => 58,
+    'lat' => -18.5750007629,
+    'lon' => 140.891998291,
+    'tz' => 'Australia/Brisbane',
+  ),
   'WGT' => 
   array (
     'icao' => 'YWGT',
@@ -82776,6 +97661,19 @@ abstract class AirportLibrary
     'lon' => 150.7890014648,
     'tz' => 'Australia/Sydney',
   ),
+  'WLL' => 
+  array (
+    'icao' => 'YWOR',
+    'iata' => 'WLL',
+    'name' => 'Wollogorang Airport',
+    'city' => '',
+    'state' => 'Northern-Territory',
+    'country' => 'AU',
+    'elevation' => 0,
+    'lat' => -17.2199993134,
+    'lon' => 137.9230041504,
+    'tz' => 'Australia/Darwin',
+  ),
   'QRR' => 
   array (
     'icao' => 'YWRN',
@@ -82867,6 +97765,19 @@ abstract class AirportLibrary
     'lon' => 121.2340011597,
     'tz' => 'Australia/Perth',
   ),
+  'WWY' => 
+  array (
+    'icao' => 'YWWL',
+    'iata' => 'WWY',
+    'name' => 'West Wyalong Airport',
+    'city' => 'West Wyalong',
+    'state' => 'New-South-Wales',
+    'country' => 'AU',
+    'elevation' => 859,
+    'lat' => -33.9371986389,
+    'lon' => 147.190994263,
+    'tz' => 'Australia/Sydney',
+  ),
   'WYN' => 
   array (
     'icao' => 'YWYM',
@@ -82891,7 +97802,7 @@ abstract class AirportLibrary
     'elevation' => 62,
     'lat' => -40.9989013672,
     'lon' => 145.7310028076,
-    'tz' => 'Australia/Melbourne',
+    'tz' => 'Australia/Hobart',
   ),
   'YLG' => 
   array (
@@ -83010,6 +97921,19 @@ abstract class AirportLibrary
     'lon' => 116.5849990845,
     'tz' => 'Asia/Shanghai',
   ),
+  'PKX' => 
+  array (
+    'icao' => 'ZBAD',
+    'iata' => 'PKX',
+    'name' => 'Beijing Daxing International Airport',
+    'city' => 'Beijing',
+    'state' => 'Beijing',
+    'country' => 'CN',
+    'elevation' => 98,
+    'lat' => 39.509167,
+    'lon' => 116.410556,
+    'tz' => 'Asia/Shanghai',
+  ),
   'CIF' => 
   array (
     'icao' => 'ZBCF',
@@ -83060,6 +97984,19 @@ abstract class AirportLibrary
     'elevation' => 3442,
     'lat' => 40.0602989197,
     'lon' => 113.4820022583,
+    'tz' => 'Asia/Shanghai',
+  ),
+  'ERL' => 
+  array (
+    'icao' => 'ZBER',
+    'iata' => 'ERL',
+    'name' => 'Erenhot Saiwusu International Airport',
+    'city' => 'Erenhot',
+    'state' => 'Inner-Mongolia',
+    'country' => 'CN',
+    'elevation' => 3301,
+    'lat' => 43.4225,
+    'lon' => 112.096666667,
     'tz' => 'Asia/Shanghai',
   ),
   'AEB' => 
@@ -83970,7 +98907,7 @@ abstract class AirportLibrary
     'elevation' => 7260,
     'lat' => 46.3763999939,
     'lon' => 96.2210998535,
-    'tz' => 'Asia/Ulaanbaatar',
+    'tz' => 'Asia/Hovd',
   ),
   'BYN' => 
   array (
@@ -84048,6 +98985,19 @@ abstract class AirportLibrary
     'elevation' => 2457,
     'lat' => 48.1357002258,
     'lon' => 114.6460037231,
+    'tz' => 'Asia/Choibalsan',
+  ),
+  'UBN' => 
+  array (
+    'icao' => 'ZMCK',
+    'iata' => 'UBN',
+    'name' => 'Chinggis Khaan International Airport',
+    'city' => 'Ulaanbaatar',
+    'state' => 'Ulaanbaatar',
+    'country' => 'MN',
+    'elevation' => 4482,
+    'lat' => 47.651581,
+    'lon' => 106.821772,
     'tz' => 'Asia/Ulaanbaatar',
   ),
   'DLZ' => 
@@ -84074,6 +99024,19 @@ abstract class AirportLibrary
     'elevation' => 4759,
     'lat' => 47.246667,
     'lon' => 102.826111,
+    'tz' => 'Asia/Ulaanbaatar',
+  ),
+  'HJT' => 
+  array (
+    'icao' => 'ZMHU',
+    'iata' => 'HJT',
+    'name' => 'Khujirt Airport',
+    'city' => '',
+    'state' => 'Oevorhangay',
+    'country' => 'MN',
+    'elevation' => 5522,
+    'lat' => 46.9258003235,
+    'lon' => 102.7730026245,
     'tz' => 'Asia/Ulaanbaatar',
   ),
   'HVD' => 
@@ -84561,13 +99524,13 @@ abstract class AirportLibrary
   array (
     'icao' => 'ZSOF',
     'iata' => 'HFE',
-    'name' => 'Hefei Luogang International Airport',
+    'name' => 'Hefei Xinqiao International Airport',
     'city' => 'Hefei',
     'state' => 'Anhui',
     'country' => 'CN',
-    'elevation' => 108,
-    'lat' => 31.7800006866,
-    'lon' => 117.297996521,
+    'elevation' => 207,
+    'lat' => 31.98898,
+    'lon' => 116.9638,
     'tz' => 'Asia/Shanghai',
   ),
   'PVG' => 
@@ -84633,6 +99596,19 @@ abstract class AirportLibrary
     'elevation' => 28,
     'lat' => 33.7908333333,
     'lon' => 119.125,
+    'tz' => 'Asia/Shanghai',
+  ),
+  'SQJ' => 
+  array (
+    'icao' => 'ZSSM',
+    'iata' => 'SQJ',
+    'name' => 'Sanming Shaxian Airport',
+    'city' => 'Sanming',
+    'state' => 'Fujian',
+    'country' => 'CN',
+    'elevation' => 889,
+    'lat' => 26.428056,
+    'lon' => 117.845,
     'tz' => 'Asia/Shanghai',
   ),
   'SHA' => 
@@ -85023,6 +99999,19 @@ abstract class AirportLibrary
     'elevation' => 6250,
     'lat' => 24.9380555556,
     'lon' => 98.4858333333,
+    'tz' => 'Asia/Shanghai',
+  ),
+  'TFU' => 
+  array (
+    'icao' => 'ZUTF',
+    'iata' => 'TFU',
+    'name' => 'Chengdu Tianfu International Airport',
+    'city' => 'Chengdu',
+    'state' => 'Sichuan',
+    'country' => 'CN',
+    'elevation' => 1444,
+    'lat' => 30.319,
+    'lon' => 104.445,
     'tz' => 'Asia/Shanghai',
   ),
   'TEN' => 
