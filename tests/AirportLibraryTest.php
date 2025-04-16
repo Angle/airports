@@ -55,4 +55,15 @@ class AirportLibraryTest extends TestCase
 
         $a = AirportLibrary::findByCountry('MEXICO');
     }
+
+    /** @test */
+    public function canFindNearestAirport()
+    {
+        // Coordinates near Mexico City
+        $lat = 19.4326;
+        $lon = -99.1332;
+
+        $airport = AirportLibrary::findNearest($lat, $lon);
+        $this->assertInstanceOf('\Angle\Airports\Airport', $airport);
+    }
 }

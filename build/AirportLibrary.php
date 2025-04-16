@@ -5,7 +5,7 @@ namespace Angle\Airports;
 use InvalidArgumentException;
 
 /**
- * Auto-generated PHP abstract class that contains the global IATA Aiport database in pure PHP code.
+ * Auto-generated PHP abstract class that contains the global IATA Airport database in pure PHP code.
  *
  * The database is pulled from the ICAO Airport database published by [mwgg](https://github.com/mwgg) at [github.com/mwgg/Airports](https://github.com/mwgg/Airports)
  *
@@ -40,7 +40,7 @@ abstract class AirportLibrary
     }
 
     /**
-     * Lookup all the available aiports for the given country
+     * Lookup all the available airports for the given country
      *
      * @param string $country Country 2-letter code (ISO 3166 ALPHA-2)
      * @throws InvalidArgumentException if the country code is not in the proper 2-letter ISO format
@@ -85,6 +85,58 @@ abstract class AirportLibrary
     public static function getFullList()
     {
         return self::$library;
+    }
+
+    /**
+     * Finds the nearest airport to a given set of coordinates.
+     *
+     * @param float $lat Latitude of the reference point
+     * @param float $lon Longitude of the reference point
+     * @return Airport|null
+     */
+    public static function findNearest($lat, $lon)
+    {
+        $minDistance = 99999999; // Fallback for PHP 5.3 (no PHP_FLOAT_MAX)
+        $nearest = null;
+
+        foreach (self::$library as $data) {
+            if (!isset($data['lat'], $data['lon'])) {
+                continue;
+            }
+
+            $distance = self::haversine($lat, $lon, $data['lat'], $data['lon']);
+
+            if ($distance < $minDistance) {
+                $minDistance = $distance;
+                $nearest = Airport::createFromArray($data);
+            }
+        }
+
+        return $nearest;
+    }
+
+    /**
+     * Haversine formula to calculate distance between two lat/lon points in kilometers.
+     *
+     * @param float $lat1
+     * @param float $lon1
+     * @param float $lat2
+     * @param float $lon2
+     * @return float Distance in kilometers
+     */
+    private static function haversine($lat1, $lon1, $lat2, $lon2)
+    {
+        $earthRadius = 6371; // Earth radius in km
+
+        $dLat = deg2rad($lat2 - $lat1);
+        $dLon = deg2rad($lon2 - $lon1);
+
+        $a = sin($dLat / 2) * sin($dLat / 2) +
+            cos(deg2rad($lat1)) * cos(deg2rad($lat2)) *
+            sin($dLon / 2) * sin($dLon / 2);
+
+        $c = 2 * atan2(sqrt($a), sqrt(1 - $a));
+        return $earthRadius * $c;
     }
 
     /**
