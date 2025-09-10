@@ -88,18 +88,27 @@ abstract class AirportLibrary
     }
 
     /**
-     * Finds the nearest airport to a given set of coordinates.
+     * Finds the nearest airport to a given set of coordinates, optionally filtered by type(s).
      *
      * @param float $lat Latitude of the reference point
      * @param float $lon Longitude of the reference point
+     * @param string[]|null $types Array of airport types to restrict the search (e.g. ["large_airport", "heliport"]).
+     *                             If null or empty, searches all airports.
      * @return Airport|null
      */
-    public static function findNearest($lat, $lon)
+    public static function findNearest($lat, $lon, array $types = null)
     {
         $minDistance = 99999999; // Fallback for PHP 5.3 (no PHP_FLOAT_MAX)
         $nearest = null;
 
-        foreach (self::$library as $data) {
+        // Decide the dataset: filter by type or use all
+        if ($types && count($types) > 0) {
+            $dataset = self::findByTypes($types);
+        } else {
+            $dataset = self::$library;
+        }
+
+        foreach ($dataset as $data) {
             if (!isset($data['lat'], $data['lon'])) {
                 continue;
             }
@@ -137,6 +146,37 @@ abstract class AirportLibrary
 
         $c = 2 * atan2(sqrt($a), sqrt(1 - $a));
         return $earthRadius * $c;
+    }
+
+    /**
+     * Lookup all the available airports that match any of the given types.
+     *
+     * @param string[] $types Array of airport types (e.g. ["large_airport", "heliport"])
+     * @throws InvalidArgumentException if $types is empty or not an array
+     * @return Airport[] with the IATA code as the key of each entry
+     */
+    public static function findByTypes(array $types)
+    {
+        if (empty($types)) {
+            throw new InvalidArgumentException('You must provide at least one type to filter.');
+        }
+
+        // Normalize all types to lowercase for matching
+        $normalizedTypes = array_map('strtolower', $types);
+
+        $result = array();
+
+        foreach (self::$library as $iata => $data) {
+            if (!isset($data['type'])) {
+                continue;
+            }
+
+            if (in_array(strtolower($data['type']), $normalizedTypes, true)) {
+                $result[$iata] = $data;
+            }
+        }
+
+        return $result;
     }
 
     /**

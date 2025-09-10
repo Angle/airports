@@ -1,0 +1,1 @@
+{"version":1,"defects":{"AirportLibraryTest::canFindNearestAirportOnlyLargeAirports":4},"times":{"AirportLibraryTest::canFindNearestAirport":0.031,"AirportLibraryTest::canFindNearestAirportOnlyLargeAirports":0.032}}
